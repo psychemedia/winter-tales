@@ -1399,11 +1399,12 @@ Now the king came down from the dais and clasped both Sir Cleges's hands in his 
 
 ```
 
-Narrative versions that followed the verses rather more closely also appeared:
+Narrative versions that followed the verses rather more closely also appeared, some with illustrations, as in the following case:
 
 ```{admonition} In *A Wonder Book of Romance*, ??, 1907
 :class: dropdown
 
+https://archive.org/details/wonderbookofoldr00dart/page/66/mode/2up
 A wonder book of old romance
 by Darton, F. J. Harvey (Frederick Joseph Harvey), 1878-1936; Walker, Arthur G., ill
 
@@ -1440,6 +1441,8 @@ As he knelt thus and prayed under a tree, he felt a bough upon his head. He rose
 He thought to taste the fruit, and put it in his mouth, and eat plenteously. It tasted like a cherry, the best that ever he had eaten. Thereat he cut off a little bough to show to his wife, and took it into the house.
 
 " Lo, dame ! " said he, " here is a new thing. On a cherry tree in our garden I found this fruit. I trow this is a great marvel ; I fear it is a token of more harm that is to come to us. Yet whether we have less or more, let us always thank God : that is best, in truth."
+
+![](images/wonderbook_clege_1.jpg)
 
 Then said Dame Clarys with gladness, " Let us fill a basket-ful of the gift that God hath sent. To- morrow at dayspring you shall to Kardyf to the King, and give the cherries to him for a present. You may have from him such a gift that we may fare well all this year. I tell you truth."
 
@@ -1502,6 +1505,8 @@ Then answered Uther the King, " I repent my boon that I have granted you. It wer
 " Sire, what I ask is in your gift. I am fain to have it."
 
 The King was sad and sorry at this reward, but nevertheless he granted it. Sir Cleges took his staff and went into the hall among the great lords and knights, without more words. He sought the proud steward, and found him speedily ; and he gave him such a stroke that he fell down like a log before them all ; and then Sir Cleges dealt him other three strokes, so that he cried out, " Sir, for your courtesy, smite me no more."
+
+![](images/wonderbook_clege_2.jpg)
 
 Out of the hall Sir Cleges "went to pay his other debts, and no man hindered him. He went to the usher, and, "Take your strokes," he said when he met him ; and he dealt him that which would make him forbid no man the way to the King for many a day afterwards, so grimly did Sir Cleges greet him. "You have there the third part of my reward," quoth Sir Cleges.
 
