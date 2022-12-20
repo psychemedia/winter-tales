@@ -1399,7 +1399,145 @@ Now the king came down from the dais and clasped both Sir Cleges's hands in his 
 
 ```
 
-Versions of the tale also appeared in some collections of Arthurian tales:
+Narrative versions that followed the verses rather more closely also appeared:
+
+```{admonition} In *A Wonder Book of Romance*, ??, 1907
+:class: dropdown
+
+A wonder book of old romance
+by Darton, F. J. Harvey (Frederick Joseph Harvey), 1878-1936; Walker, Arthur G., ill
+
+Publication date [1907?]
+With illustrations p71, p77
+p67-80
+
+LISTEN, and you shall hear of the men of the old time before us, hardy and gallant. In the time of King Uther, father of the great King Arthur, there lived a knight by name Sir Cleges ; no doughtier man was there at the Round Table than he, and none of greater might or fairer looks.
+
+He was so gentle and open of hand that he gave freely to all wandering men who had fallen on evil days. The poor he succoured, and he did no man harm. Any man might come to eat at his board, where always plenteous meat and drink stood ready.
+
+This knight had a gentle wife, the best of her day. Dame Clarys was her name. She was ever of good cheer and merry, bountiful to the poor, true in all her dealings.
+
+Every year at Christmas Sir Cleges would hold a great feast, in honour of the season, providing as royally in all things as if he had been a king. Rich and poor in the country round came to his feast ; and there were minstrelsy and mirth, and rich gifts of robes and jewels, horses, gold and silver, for the guests when they departed.
+
+For ten years did Sir Cleges hold his feast for charity's sake. But at the last his goods began to fail, so that he had little wealth left. But he would not give up the feast for many years more, until at length all his store was spent, and he had no more, save barely enough for himself and Dame Clarys and their two children to live upon. His proud friends and servants began to fall away from him on every side ; none would dwell with him in his poverty.
+
+It befell that one Christmas, when Sir Cleges was in his sorry case, the King, dwelling at Kardyf, made a feast. As it drew towards noon of the appointed day, Sir Cleges, who formerly had sat at the King's table, but now was forgotten as if he had been dead, chanced to fall a-thinking on his lost fortunes ; he remembered how, with a free hand, he had wasted his rents and sold his manors, and great sorrow came upon him. He wrung his hands and wept, and all his pride was humbled. As he paced to and fro he heard the noise of the King's feast ; the sound of singing and carolling, and dancing, of pipes, trumpets, harps, psalteries, and lutes ; and at that his heart was utterly cast down.
+
+" Lord Jesus, King of Heaven," he prayed in his humility, " Thou hast made all things of nought : I thank Thee for the sound of this mirth. Even as now the King does, so did I formerly feast slave and free- man alike at this Thy season. All who came to me in Thy name wanted for nothing, were it rich meats or goodly drinks, and never did I lend for usury."
+
+As he stood mourning, his good wife came to him and caught him in her arms. " My lord and true lover," she said, "I heard your words. It avails nought to make this lament ; I pray you cease, and thank God for all that He has sent. On this Christ's day put aside your sorrow. Go we to our meal now, and make blithe and merry as best we may."
+
+"Yes," said Sir Cleges, and went in with her, and somewhat abated his grief. Yet his heart was still sore till Dame Clarys comforted him once again Then he began to wax blithe, and wiped away his tears. They washed, and went in to eat of such victuals as they had, and made merry together. They drove the day away as best they might, and played with their children, and after supper went to bed in due time.
+
+On the morrow they went to church, and there Sir Cleges kneeled down and prayed that no harm or strife might come upon them ; and his wife prayed the like, and for Sir Cleges also, that God would keep him safely. Then they went home comforted, and put away sad thoughts from them.
+
+But when Sir Cleges had come home, with his sorrow lessened, he sent his wife and children apart, and himself w T ent into his garden, and there knelt down, and thanked God for the content that had come into his heart instead of sadness, and for the poverty that had been sent to him.
+
+As he knelt thus and prayed under a tree, he felt a bough upon his head. He rose up, and laid his hand upon the bough, and behold, a marvel was before him. Green leaves he found upon the bough, and round cherries (for it was a cherry tree) in plenty.
+
+"Dear God," quoth he, "what manner of berry may this be that grows at this time of the year ? At this season I know not that any tree should bear fruit."
+
+He thought to taste the fruit, and put it in his mouth, and eat plenteously. It tasted like a cherry, the best that ever he had eaten. Thereat he cut off a little bough to show to his wife, and took it into the house.
+
+" Lo, dame ! " said he, " here is a new thing. On a cherry tree in our garden I found this fruit. I trow this is a great marvel ; I fear it is a token of more harm that is to come to us. Yet whether we have less or more, let us always thank God : that is best, in truth."
+
+Then said Dame Clarys with gladness, " Let us fill a basket-ful of the gift that God hath sent. To- morrow at dayspring you shall to Kardyf to the King, and give the cherries to him for a present. You may have from him such a gift that we may fare well all this year. I tell you truth."
+
+Sir Cleges agreed. "To-morrow to Kardyf will I go, according to your counsel."
+
+On the morrow, when it was light, Dame Clarys made a basket ready. She called her eldest son. "Take up this fair basket," said she, "and bear it to Kardyf with your father."
+
+Sir Cleges took a staff: he had no horse (so says the story) to ride, neither steed nor palfrey ; only a staff was his horse, as is the lot of a man in poverty. Together he and his son set out on foot on the road to Kardyf.
+
+In time they came to the Castle, where the King lay, about the hour when men sat down to feast ; and Sir Cleges thought to enter at the great gate. But he was clad in poor and simple raiment, and the porter barred the way.
+
+"Churl," said the man, "withdraw, I bid you, right speedily, or I will break your head. Go stand with the beggars. If you come further in, I will smite you a buffet that you will rue."
+
+"Good sir," said Sir Cleges, "I pray you let me go in. I have a gift for the King from Him who made all things of nought. Behold what I bring."
+
+The porter went to the basket, and lifted the lid, and beheld the cherries. Well he knew that for such a gift he who brought it would have a great reward.
+
+"You come not into this place," he said, "unless you promise me the third part of whatsoever the King grants you, whether it be silver or gold."
+
+Sir Cleges said, "I agree." The porter gave him leave to enter, and in he went without more ado.
+
+But at the hall door stood an usher with a staff, ready to smite him if he entered unbidden.
+
+" Go back, churl," he cried. " Haste and tarry not. I will beat every bone in your body, without stint, if you press further."
+
+" Good sir, for the love of Him who made man," said Sir Cleges, "cease your angry mood. I have here a present from Him who made all things out of nought and died on the Cross. Last night in my garden it grew: behold whether it be true or false."
+
+The usher lifted the lid of the basket, and saw the cherries in very truth, and marvelled thereat.
+
+" You come not in yet, churl," he answered, " until you grant me the third part of whatsoever you are given for these cherries."
+
+Sir Cleges saw no other way, and granted what the usher asked. Then with sadder heart he led his son with the basket into the King's hall.
+
+The King's steward walked to and fro in the hall among the lords and knights. To Sir Cleges he came straightway and said, "Who made you so bold as to come here ? Get hence, with your rags, and that speedily."
+
+" I have here brought a present for the King from our Lord who bought us on the Cross," answered Sir Cleges.
+
+The steward took the basket, and opened it. " Never saw I such fruit at this season of the year," he cried, "no, not since I was born. You shall not come nigh the King unless you grant me this the third part of whatsoever the King gives you. This I will have, or no further do you go."
+
+" My reward is all swallowed up by these three men," thought Sir Cleges, " and I shall have nothing. I shall get nought for all my labour in coming hither unless it be but a meal."
+
+"Have you no tongue, rogue?" cried the steward, since Sir Cleges did not answer. " Speak to me, and delay no longer : grant what I ask, or I will rouse you with a staff, so that your ribs rattle, and you are cast out headlong."
+
+Sir Cleges saw nothing for it but to agree, and he answered with a sigh, " Whatsoever the King grants me, you shall have a third part, be it less or more."
+
+Up to the dais Sir Cleges went, and full soberly and with good intent knelt before the King. He un- covered the basket and showed the cherries, and said, "Our Saviour hath sent these to the King."
+
+The King saw the fresh cherries. "This is a fair gift," said he, and bade Sir Cleges sit down to feast, meaning to speak with him thereafter. The cherries he sent in part to a fair lady in Cornwall, and in part divided them among his guests there in the hall.
+
+When the feast was done, the King bade a squire, "Call now before me the poor man that brought these cherries."
+
+Sir Cleges came, and tarried not, and fell on his knees before the King and his nobles. " Lord King, what is your will ? " he asked. " I am your man free-born."
+
+" I thank you heartily," said the King, " for this your gift. You have honoured my feast and my guests, young and old, and you have honoured me also. Whatsoever you will have, I will grant you."
+
+"Gramercy, liege King," said Sir Cleges; "this is good tidings to me. I tell you truly, to have land or other riches would be too much for me. But since I may choose for myself, I pray you grant me twelve strokes, to deal out as I please, and to give to my adversary with my staff even in this hall."
+
+Then answered Uther the King, " I repent my boon that I have granted you. It were better that you had gold or reward : you have more need of it."
+
+" Sire, what I ask is in your gift. I am fain to have it."
+
+The King was sad and sorry at this reward, but nevertheless he granted it. Sir Cleges took his staff and went into the hall among the great lords and knights, without more words. He sought the proud steward, and found him speedily ; and he gave him such a stroke that he fell down like a log before them all ; and then Sir Cleges dealt him other three strokes, so that he cried out, " Sir, for your courtesy, smite me no more."
+
+Out of the hall Sir Cleges "went to pay his other debts, and no man hindered him. He went to the usher, and, "Take your strokes," he said when he met him ; and he dealt him that which would make him forbid no man the way to the King for many a day afterwards, so grimly did Sir Cleges greet him. "You have there the third part of my reward," quoth Sir Cleges.
+
+Sir Cleges went to the porter and gave him four strokes also. The first broke his shoulder blade and his arm, and he gave him three more for his full share, so that he would stop no more entering for many a day. "You have the third part of my re- ward," quoth Sir Cleges, "according to our covenant."
+
+The King was in his chamber with mirth and steward fell Down lihe a log," honour. Thither came Sir Cleges to thank King Other again ; and it chanced that a harper sang to the King the former deeds of a certain knight, even of Sir Cleges himself.
+
+"Where is Sir Cleges?" asked the King. "You have wandered wide, harper tell me truth, if you can. Know you of the man ? "
+
+"Yes," answered the harper. "Aforetime I knew him. He was a true knight, and a comely. We minstrels miss him, in sooth, since he went out of this land."
+
+" I trow Sir Cleges is dead," said the King. " I loved him well. Would that he were alive ! I would rather that he were alive than any other five, for he was strong and valiant."
+
+Sir Cleges knelt before the King and thanked him for his boon. But the King asked him why he had paid the twelve strokes to the three servants, the steward, the usher, and the porter.
+
+" Sire, I might not enter into your presence until I had granted each one of these three the third part of whatsoever you granted me. With that I should have nought myself, wherefore I asked and gave them twelve strokes ; I thought that best."
+
+The lords both old and young, and all that were with the King, made merry thereat, and the King could scarce withhold his laughter.
+
+"This is a noble wight," quoth he, and sent for his steward. "Have you your reward?" he asked.
+
+But the steward only reviled Sir Cleges, with a surly look.
+
+Then said the King to Sir Cleges, " What is your name, good man ? Tell me truly."
+
+" I am Sir Cleges," he answered. " I was your own knight, King Uther."
+
+" Are you Sir Cleges who served me, and were so generous and free, and so stout in the fight ? "
+
+" Even so, lord King ; so was I, until God visited me and clad me thus in poverty."
+
+Thereupon the King bestowed upon Sir Cleges all that belonged of right to a knight, to befit his rank ; he gave him also the Castle of Kardyf, with many other gifts, that he might live with mirth and joy. And Sir Cleges rode home to Dame Clarys, his wife, and told her all that had been given him ; and they lived thereafter in happiness to the end of their days.
+
+```
+
+Concise versions of the tale also appeared in some collections of Arthurian tales:
 
 ```{admonition} In *The court of King Arthur*, ??, 1896
 :class: dropdown
@@ -1440,7 +1578,7 @@ p128-132
 
 ```
 
-As ever, the Reverend Sabine Baring Gould waxed rather more lyrical in his retelling of the tale im *The Crock of Gold*, published in 1899. As with many of his retellings, rather than provide a purely narrated versio, or a purely metrical version, his text combines narrative elements interspersed with verses:
+And finally, and as ever, the Reverend Sabine Baring Gould waxed rather more lyrical in his retelling of the tale im *The Crock of Gold*, published in 1899. As with many of his retellings, rather than provide a purely narrated versio, or a purely metrical version, his text combines narrative elements interspersed with verses:
 
 ```{admonition} In *The Corck of Gold*, Sabine Baring-Gould, 1899
 :class: dropdown
@@ -1660,144 +1798,5 @@ Now before that Sir Cleges left his ruinous home, he went up on one of the crumb
 The queen's lips moved ; she was about to smile, when she observed a frown on the brow of her royal consort.
 
 "This will not do," said he. "Again have you transgressed. There is distinctly a moral to this tale, and morals are what I particularly detest. No, Noyalen, he shall receive nothing for this. I shall insist on his telling us a more amusing story, or the crock of gold will most assuredly not be his."
-
-Thereupon Mr. Toope began the eleventh tale.
-```
-
-TO DO
-
-```{addmonition} In *A Wonder Book of Romance*, ??, 1907
-:class: dropdown
-
-A wonder book of old romance
-by Darton, F. J. Harvey (Frederick Joseph Harvey), 1878-1936; Walker, Arthur G., ill
-
-Publication date [1907?]
-With illustrations p71, p77
-p67-80
-
-LISTEN, and you shall hear of the men of the old time before us, hardy and gallant. In the time of King Uther, father of the great King Arthur, there lived a knight by name Sir Cleges ; no doughtier man was there at the Round Table than he, and none of greater might or fairer looks.
-
-He was so gentle and open of hand that he gave freely to all wandering men who had fallen on evil days. The poor he succoured, and he did no man harm. Any man might come to eat at his board, where always plenteous meat and drink stood ready.
-
-This knight had a gentle wife, the best of her day. Dame Clarys was her name. She was ever of good cheer and merry, bountiful to the poor, true in all her dealings.
-
-Every year at Christmas Sir Cleges would hold a great feast, in honour of the season, providing as royally in all things as if he had been a king. Rich and poor in the country round came to his feast ; and there were minstrelsy and mirth, and rich gifts of robes and jewels, horses, gold and silver, for the guests when they departed.
-
-For ten years did Sir Cleges hold his feast for charity's sake. But at the last his goods began to fail, so that he had little wealth left. But he would not give up the feast for many years more, until at length all his store was spent, and he had no more, save barely enough for himself and Dame Clarys and their two children to live upon. His proud friends and servants began to fall away from him on every side ; none would dwell with him in his poverty.
-
-It befell that one Christmas, when Sir Cleges was in his sorry case, the King, dwelling at Kardyf, made a feast. As it drew towards noon of the appointed day, Sir Cleges, who formerly had sat at the King's table, but now was forgotten as if he had been dead, chanced to fall a-thinking on his lost fortunes ; he remembered how, with a free hand, he had wasted his rents and sold his manors, and great sorrow came upon him. He wrung his hands and wept, and all his pride was humbled. As he paced to and fro he heard the noise of the King's feast ; the sound of singing and carolling, and dancing, of pipes, trumpets, harps, psalteries, and lutes ; and at that his heart was utterly cast down.
-
-" Lord Jesus, King of Heaven," he prayed in his humility, " Thou hast made all things of nought : I thank Thee for the sound of this mirth. Even as now the King does, so did I formerly feast slave and free- man alike at this Thy season. All who came to me in Thy name wanted for nothing, were it rich meats or goodly drinks, and never did I lend for usury."
-
-As he stood mourning, his good wife came to him and caught him in her arms. " My lord and true lover," she said, "I heard your words. It avails nought to make this lament ; I pray you cease, and thank God for all that He has sent. On this Christ's day put aside your sorrow. Go we to our meal now, and make blithe and merry as best we may."
-
-"Yes," said Sir Cleges, and went in with her, and somewhat abated his grief. Yet his heart was still sore till Dame Clarys comforted him once again Then he began to wax blithe, and wiped away his tears. They washed, and went in to eat of such victuals as they had, and made merry together. They drove the day away as best they might, and played with their children, and after supper went to bed in due time.
-
-On the morrow they went to church, and there Sir Cleges kneeled down and prayed that no harm or strife might come upon them ; and his wife prayed the like, and for Sir Cleges also, that God would keep him safely. Then they went home comforted, and put away sad thoughts from them.
-
-But when Sir Cleges had come home, with his sorrow lessened, he sent his wife and children apart, and himself w T ent into his garden, and there knelt down, and thanked God for the content that had come into his heart instead of sadness, and for the poverty that had been sent to him.
-
-As he knelt thus and prayed under a tree, he felt a bough upon his head. He rose up, and laid his hand upon the bough, and behold, a marvel was before him. Green leaves he found upon the bough, and round cherries (for it was a cherry tree) in plenty.
-
-"Dear God," quoth he, "what manner of berry may this be that grows at this time of the year ? At this season I know not that any tree should bear fruit."
-
-He thought to taste the fruit, and put it in his mouth, and eat plenteously. It tasted like a cherry, the best that ever he had eaten. Thereat he cut off a little bough to show to his wife, and took it into the house.
-
-" Lo, dame ! " said he, " here is a new thing. On a cherry tree in our garden I found this fruit. I trow this is a great marvel ; I fear it is a token of more harm that is to come to us. Yet whether we have less or more, let us always thank God : that is best, in truth."
-
-Then said Dame Clarys with gladness, " Let us fill a basket-ful of the gift that God hath sent. To- morrow at dayspring you shall to Kardyf to the King, and give the cherries to him for a present. You may have from him such a gift that we may fare well all this year. I tell you truth."
-
-Sir Cleges agreed. "To-morrow to Kardyf will I go, according to your counsel."
-
-On the morrow, when it was light, Dame Clarys made a basket ready. She called her eldest son. "Take up this fair basket," said she, "and bear it to Kardyf with your father."
-
-Sir Cleges took a staff: he had no horse (so says the story) to ride, neither steed nor palfrey ; only a staff was his horse, as is the lot of a man in poverty. Together he and his son set out on foot on the road to Kardyf.
-
-In time they came to the Castle, where the King lay, about the hour when men sat down to feast ; and Sir Cleges thought to enter at the great gate. But he was clad in poor and simple raiment, and the porter barred the way.
-
-"Churl," said the man, "withdraw, I bid you, right speedily, or I will break your head. Go stand with the beggars. If you come further in, I will smite you a buffet that you will rue."
-
-"Good sir," said Sir Cleges, "I pray you let me go in. I have a gift for the King from Him who made all things of nought. Behold what I bring."
-
-The porter went to the basket, and lifted the lid, and beheld the cherries. Well he knew that for such a gift he who brought it would have a great reward.
-
-"You come not into this place," he said, "unless you promise me the third part of whatsoever the King grants you, whether it be silver or gold."
-
-Sir Cleges said, "I agree." The porter gave him leave to enter, and in he went without more ado.
-
-But at the hall door stood an usher with a staff, ready to smite him if he entered unbidden.
-
-" Go back, churl," he cried. " Haste and tarry not. I will beat every bone in your body, without stint, if you press further."
-
-" Good sir, for the love of Him who made man," said Sir Cleges, "cease your angry mood. I have here a present from Him who made all things out of nought and died on the Cross. Last night in my garden it grew: behold whether it be true or false."
-
-The usher lifted the lid of the basket, and saw the cherries in very truth, and marvelled thereat.
-
-" You come not in yet, churl," he answered, " until you grant me the third part of whatsoever you are given for these cherries."
-
-Sir Cleges saw no other way, and granted what the usher asked. Then with sadder heart he led his son with the basket into the King's hall.
-
-The King's steward walked to and fro in the hall among the lords and knights. To Sir Cleges he came straightway and said, "Who made you so bold as to come here ? Get hence, with your rags, and that speedily."
-
-" I have here brought a present for the King from our Lord who bought us on the Cross," answered Sir Cleges.
-
-The steward took the basket, and opened it. " Never saw I such fruit at this season of the year," he cried, "no, not since I was born. You shall not come nigh the King unless you grant me this the third part of whatsoever the King gives you. This I will have, or no further do you go."
-
-" My reward is all swallowed up by these three men," thought Sir Cleges, " and I shall have nothing. I shall get nought for all my labour in coming hither unless it be but a meal."
-
-"Have you no tongue, rogue?" cried the steward, since Sir Cleges did not answer. " Speak to me, and delay no longer : grant what I ask, or I will rouse you with a staff, so that your ribs rattle, and you are cast out headlong."
-
-Sir Cleges saw nothing for it but to agree, and he answered with a sigh, " Whatsoever the King grants me, you shall have a third part, be it less or more."
-
-Up to the dais Sir Cleges went, and full soberly and with good intent knelt before the King. He un- covered the basket and showed the cherries, and said, "Our Saviour hath sent these to the King."
-
-The King saw the fresh cherries. "This is a fair gift," said he, and bade Sir Cleges sit down to feast, meaning to speak with him thereafter. The cherries he sent in part to a fair lady in Cornwall, and in part divided them among his guests there in the hall.
-
-When the feast was done, the King bade a squire, "Call now before me the poor man that brought these cherries."
-
-Sir Cleges came, and tarried not, and fell on his knees before the King and his nobles. " Lord King, what is your will ? " he asked. " I am your man free-born."
-
-" I thank you heartily," said the King, " for this your gift. You have honoured my feast and my guests, young and old, and you have honoured me also. Whatsoever you will have, I will grant you."
-
-"Gramercy, liege King," said Sir Cleges; "this is good tidings to me. I tell you truly, to have land or other riches would be too much for me. But since I may choose for myself, I pray you grant me twelve strokes, to deal out as I please, and to give to my adversary with my staff even in this hall."
-
-Then answered Uther the King, " I repent my boon that I have granted you. It were better that you had gold or reward : you have more need of it."
-
-" Sire, what I ask is in your gift. I am fain to have it."
-
-The King was sad and sorry at this reward, but nevertheless he granted it. Sir Cleges took his staff and went into the hall among the great lords and knights, without more words. He sought the proud steward, and found him speedily ; and he gave him such a stroke that he fell down like a log before them all ; and then Sir Cleges dealt him other three strokes, so that he cried out, " Sir, for your courtesy, smite me no more."
-
-Out of the hall Sir Cleges "went to pay his other debts, and no man hindered him. He went to the usher, and, "Take your strokes," he said when he met him ; and he dealt him that which would make him forbid no man the way to the King for many a day afterwards, so grimly did Sir Cleges greet him. "You have there the third part of my reward," quoth Sir Cleges.
-
-Sir Cleges went to the porter and gave him four strokes also. The first broke his shoulder blade and his arm, and he gave him three more for his full share, so that he would stop no more entering for many a day. "You have the third part of my re- ward," quoth Sir Cleges, "according to our covenant."
-
-The King was in his chamber with mirth and steward fell Down lihe a log," honour. Thither came Sir Cleges to thank King Other again ; and it chanced that a harper sang to the King the former deeds of a certain knight, even of Sir Cleges himself.
-
-"Where is Sir Cleges?" asked the King. "You have wandered wide, harper tell me truth, if you can. Know you of the man ? "
-
-"Yes," answered the harper. "Aforetime I knew him. He was a true knight, and a comely. We minstrels miss him, in sooth, since he went out of this land."
-
-" I trow Sir Cleges is dead," said the King. " I loved him well. Would that he were alive ! I would rather that he were alive than any other five, for he was strong and valiant."
-
-Sir Cleges knelt before the King and thanked him for his boon. But the King asked him why he had paid the twelve strokes to the three servants, the steward, the usher, and the porter.
-
-" Sire, I might not enter into your presence until I had granted each one of these three the third part of whatsoever you granted me. With that I should have nought myself, wherefore I asked and gave them twelve strokes ; I thought that best."
-
-The lords both old and young, and all that were with the King, made merry thereat, and the King could scarce withhold his laughter.
-
-"This is a noble wight," quoth he, and sent for his steward. "Have you your reward?" he asked.
-
-But the steward only reviled Sir Cleges, with a surly look.
-
-Then said the King to Sir Cleges, " What is your name, good man ? Tell me truly."
-
-" I am Sir Cleges," he answered. " I was your own knight, King Uther."
-
-" Are you Sir Cleges who served me, and were so generous and free, and so stout in the fight ? "
-
-" Even so, lord King ; so was I, until God visited me and clad me thus in poverty."
-
-Thereupon the King bestowed upon Sir Cleges all that belonged of right to a knight, to befit his rank ; he gave him also the Castle of Kardyf, with many other gifts, that he might live with mirth and joy. And Sir Cleges rode home to Dame Clarys, his wife, and told her all that had been given him ; and they lived thereafter in happiness to the end of their days.
 
 ```
