@@ -1,0 +1,6 @@
+format: jb-book
+root: intro
+parts:
+- caption: Tales from Elsewhere
+  chapters:
+  - file: sir-cleges-winter-cherries
