@@ -10,7 +10,7 @@ However, in the tellings I have found, the tale is set solely in court of Uther 
 
 It seems the original tale can be found in a couple of 15th century manuscripts, although many of the 19th and early 20th century versions I found on an initial search seem to be included in American published collections of old English Tales.
 
-For example, a really concise and efficient telling of the tale appears in
+For example, a really concise and efficient telling of the tale appears in *Stories of Early England* by E. M. Wilmot-Buxton, published in 1906/7.
 
 ```{admonition} In *Stories of Early England*, E. M. Wilmot-Buxton, 1906/1907
 :class: dropdown
