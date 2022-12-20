@@ -1600,18 +1600,18 @@ Now Cleges did his duty by the king, and then, instead of remaining at the court
 
 Moreover, they kept open house, and whosoever passed that way received there good entertainment. Every year at Christmas they made a great feast in honour of the festival of Christ's birth of a pure maiden.
 
-" As royal in everything,
-As if that he had been a king.
-To none would he say Nay.
-Minstrels were not behind,
-For there they mirth did find,
+" As royal in everything,  
+As if that he had been a king.  
+To none would he say Nay.  
+Minstrels were not behind,  
+For there they mirth did find,  
 There gladly would tarry they.
 
-"And when the feast was done,
-Without good gifts went away none,
-Beside their ale and food.
-Horses, and robes, and costly rings.
-Gold, silver too, and other things.
+"And when the feast was done,  
+Without good gifts went away none,  
+Beside their ale and food.  
+Horses, and robes, and costly rings.  
+Gold, silver too, and other things.  
 That suited to their mood."
 
 Now it may well be supposed that a man of so free a hand and large a heart would in time come to penury. No fortune would endure such extreme generosity — we may say prodigality. And so it was that the estate of the good knight Cleges was lessened; moreover losses came on him for which he was not accountable. But this he ought to have weighed, that evil days come on most men, and that a lesson may and ought to be taken from the ant that lays by against the winter.
@@ -1628,34 +1628,34 @@ Now it came to pass that same day, that Cleges, looking forth from a broken wind
 
 Moreover, he knew that he had no palfrey and no knightly accoutrements befitting his rank, so that he could not go to Cardiff.
 
-And as he walked upon the ground.
-Sore sighing, then he heard a sound
-Of pleasant minstrelsy.
-Trumpets, and pipes, and twitf ring flutes,
-Of chiming harps, and pleasant lutes.
+And as he walked upon the ground.  
+Sore sighing, then he heard a sound  
+Of pleasant minstrelsy.  
+Trumpets, and pipes, and twitf ring flutes,  
+Of chiming harps, and pleasant lutes.  
 And of the psaltery.
 
-On every side he heard men sing.
-And silver bells on bridles ring,
-As on their way they went.
-Sir Cleges wrung his hands to think
-That he should stand on ruin's brink.
+On every side he heard men sing.  
+And silver bells on bridles ring,  
+As on their way they went.  
+Sir Cleges wrung his hands to think  
+That he should stand on ruin's brink.  
 These all on pleasure bent.
 
-And as he stood in mourning so,
-His good wife unto him did go
-With smiles, as she were glad.
-She kissed him, and said, " My dear
-Sweet lord, I pray be of good cheer,
+And as he stood in mourning so,  
+His good wife unto him did go  
+With smiles, as she were glad.  
+She kissed him, and said, " My dear  
+Sweet lord, I pray be of good cheer,  
 And be not all so sad."
 
 She bade him come within and eat what meat they had in the house, and make merry with the children, who, with their pretty ways, were good sport.
 
-With their children play they did,
-And after supper went to bed
-When it was time of night ;
-And on the morrow went to church —
-God's service not left in the lurch —
+With their children play they did,  
+And after supper went to bed  
+When it was time of night ;  
+And on the morrow went to church —  
+God's service not left in the lurch —  
 As it was reason and right.
 
 Now when divine service was done, then Sir Cleges walked in his garden, and sad thoughts came over him once more.
@@ -1669,11 +1669,11 @@ Now when he had done this, then he brake a branch of the cherry tree on which we
 
 So when his wife saw this, then was she glad, and she said : —
 
-" To-morrow, when the day doth spring,
-You shall to Cardiff to the king.
-And give him this," she said.
-" Then such a gift you may have there
-That we shall better fare this year
+" To-morrow, when the day doth spring,  
+You shall to Cardiff to the king.  
+And give him this," she said.  
+" Then such a gift you may have there  
+That we shall better fare this year  
 Than in the past that's sped."
 
 To this Cleges agreed.
@@ -1688,11 +1688,11 @@ Then the good knight said, " I pray you, let me in, for I am taking to the king 
 
 The porter now looked at the branch with the ripe cherries. They made his mouth water. And he took two of the seven, and ate them himself. As to the falcon, he knew that it belonged to the king; so he said to Sir Cleges, "Very well, I will let you pass, but only on one condition — that you give me one third of the reward which the king grants you. Consent to this, or you do not pass at all."
 
-Sir Cleges said, " I assent."
-He let him through. In he went
-Without more delay.
-In he went at a great pace.
-The usher within the door was.
+Sir Cleges said, " I assent."  
+He let him through. In he went  
+Without more delay.  
+In he went at a great pace.  
+The usher within the door was.  
 And him with staff did stay.
 
 The usher threatened to strike the knight for entering without his leave, and he said, "Go back, churl, or I will thrash you black and blue, and send you away crying."
@@ -1703,22 +1703,22 @@ Now when the usher saw the ripe cherries, he lusted after them, and took two him
 
 Then said Sir Cleges, " I agree," and so passed on into the hall.
 
-The steward walked there withal
-Among the lords within the hall,
-Robed in rich weed.
-" Churl," he said, " thou art too bold !
-Withdraw thee in thy clothes old
+The steward walked there withal  
+Among the lords within the hall,  
+Robed in rich weed.  
+" Churl," he said, " thou art too bold !  
+Withdraw thee in thy clothes old  
 Smartly, I thee rede (advise)."
 
 Then answered the knight, " Good sir, I have here a present for your master and mine, even red cherries at Christmas, and what is more, a rare falcon."
 
 Then the steward plucked two of the cherries, and put them into his mouth ; and he knew the bird to be that of the king, which had been lost for some while, so he spoke less roughly, and said, " Fellow, you may go on and offer the present, but only on condition that I receive one third of what the king orders shall be given you in reward."
 
-Sir Cleges bethought him then,
-" My part is small between these men,
-I shall in sooth have naught ;
-For my labour shall I not get
-More than a mouthful of good meat " ;
+Sir Cleges bethought him then,  
+" My part is small between these men,  
+I shall in sooth have naught ;  
+For my labour shall I not get  
+More than a mouthful of good meat " ;  
 Thus, sighing sore, he thought.
 
 But as he could get no further without he assented, he agreed it should be as the steward had required, so was allowed to go forward.
@@ -1731,40 +1731,40 @@ Right glad was he to receive the falcon, which had been lost for many days, and 
 
 Then Cleges said : —
 
-" Grammercy, liege king,
-This is to me right comforting,
-I tell you in verity.
-But to have houses and land.
-Or golden pieces in hand.
+" Grammercy, liege king,  
+This is to me right comforting,  
+I tell you in verity.  
+But to have houses and land.  
+Or golden pieces in hand.  
 That is too much for me.
 
-But in that I may choose.
-Give me twelve lusty blows
-To deal as it liketh me.
-With my staff to pay them all,
-Whom I will in this hall.
+But in that I may choose.  
+Give me twelve lusty blows  
+To deal as it liketh me.  
+With my staff to pay them all,  
+Whom I will in this hall.  
 Grant it in charity."
 
 King Uthyr Pendragon was much surprised. He laughed and said, " I repent me of my grant. Take instead houses and land and a gold fee in hand."
 
 But Sir Cleges held to what he had demanded, and as the king had passed his word, he could not withdraw it.
 
-Sir Cleges went into the hall,
-Among the lords great and small,
-Without any words more.
-He sought after the proud steward.
-For to give to him his reward,
+Sir Cleges went into the hall,  
+Among the lords great and small,  
+Without any words more.  
+He sought after the proud steward.  
+For to give to him his reward,  
 Because he had grieved him sore.
 
-He gave the steward such a stroke
-That he fell down like a block.
-All the company before.
-And after, he gave him other three,
-Who cried, " Sir, of your courtesy,
+He gave the steward such a stroke  
+That he fell down like a block.  
+All the company before.  
+And after, he gave him other three,  
+Who cried, " Sir, of your courtesy,  
 Smite me no more ! "
 
-He went to the usher in haste.
-Saying, " You also strokes shall taste.
+He went to the usher in haste.  
+Saying, " You also strokes shall taste.  
 As is both fit and meet."
 
 He caught the usher by his neck, and he dealt him such heavy blows that he could not fulfil his duties for two days after that.
