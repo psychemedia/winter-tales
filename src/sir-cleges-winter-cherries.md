@@ -1,10 +1,10 @@
 # Sir Cleges and the Winter Cherries
 
-*First heard: David Heathfield (Exeter Storytellers), Winter Solstice Tales online, Dartmoor Storytellers, December 19th, 2022.*
+*First heard: David Heathfield (Exeter Storytellers), Yuletide Tales online, Dartmoor Storytellers, December 19th, 2022.*
 
 As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but went to King Arthur's court. Here's the gist of the tale as I remember it:
 
-*Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent he and his wife Calrys had nothing. It was midwinter, bitterly cold, and the sound of the King's court could be heard, but they had no gifft to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, dressed as a pauper. The first guard let him through but demanded a third of what the King would give in return. The usher(?) let him through, for a third. The steward let him through, for a third. The gift was given, Sir Cleges joined the feast, and was offered a reward. Twelve hits of the stick to be given justly. The steward, the doorman and guard wer beaten by Sir Cleges. Sir Cleges was recognised as an old loyal knight and rewarded.*
+*Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent he and his wife Calrys had nothing. It was midwinter, bitterly cold, and the sound of the King's court could be heard, but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, dressed as a pauper. The first guard let him through but demanded a third of what the King would give in return. The usher(?) let him through, for a third. The steward let him through, for a third. The gift was given, Sir Cleges joined the feast, and was offered a reward. Twelve hits of the stick to be given justly. The steward, the doorman and guard wer beaten by Sir Cleges. Sir Cleges was recognised as an old loyal knight and rewarded.*
 
 However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff. The commonly thrown insult at Sir Cleges by the corrupt officers of the castle was *churl* or "peasant":.
 
