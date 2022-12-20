@@ -1578,7 +1578,7 @@ p128-132
 
 ```
 
-And finally, and as ever, the Reverend Sabine Baring Gould waxed rather more lyrical in his retelling of the tale im *The Crock of Gold*, published in 1899. As with many of his retellings, rather than provide a purely narrated versio, or a purely metrical version, his text combines narrative elements interspersed with verses:
+And finally, and as ever, the Reverend Sabine Baring Gould waxed rather more lyrical in his retelling of the tale in *The Crock of Gold*, published in 1899. As with many of his retellings, rather than provide a purely narrated versio, or a purely metrical version, his text combines narrative elements interspersed with verses:
 
 ```{admonition} In *The Crock of Gold*, Sabine Baring-Gould, 1899
 :class: dropdown
