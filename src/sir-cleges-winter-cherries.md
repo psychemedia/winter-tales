@@ -6,7 +6,7 @@ As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but 
 
 *Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent he and his wife Calrys had nothing. It was midwinter, bitterly cold, and the sound of the King's court could be heard, but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, dressed as a pauper. The first guard let him through but demanded a third of what the King would give in return. The usher(?) let him through, for a third. The steward let him through, for a third. The gift was given, Sir Cleges joined the feast, and was offered a reward. Twelve hits of the stick to be given justly. The steward, the doorman and guard wer beaten by Sir Cleges. Sir Cleges was recognised as an old loyal knight and rewarded.*
 
-However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff. The commonly thrown insult at Sir Cleges by the corrupt officers of the castle was *churl* or "peasant":.
+However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff. The commonly thrown insult at Sir Cleges by the corrupt officers of the castle was *churl* or "peasant".
 
 It seems the original tale can be found in a couple of 15th century manuscripts, although many of the 19th and early 20th century versions I found on an initial search seem to be included in American published collections of old English Tales.
 
