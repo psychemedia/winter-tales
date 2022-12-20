@@ -1,6 +1,6 @@
 # Sir Cleges and the Winter Cherries
 
-*First heard: David Heathfield (Exeter Storytellers), Winter Solstice Tales online, Devon Storytellers, December 19th, 2022.*
+*First heard: David Heathfield (Exeter Storytellers), Winter Solstice Tales online, Dartmoor Storytellers, December 19th, 2022.*
 
 As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but went to King Arthur's court. Here's the gist of the tale as I remember it:
 
