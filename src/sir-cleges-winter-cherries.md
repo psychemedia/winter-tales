@@ -28,8 +28,7 @@ THERE lived in the days of King Arthur's father a good knight named Sir Cleges. 
 
 When they reached the gate of the castle, however, they found there a very surly porter, who threatened to break the poor man's head if he at- tempted to go in. So Sir Cleges called his son, and opened the basket, and showed the marvellous cherries to the man. When he saw them, and foresaw what great gifts they would draw from the King, he allowed Sir Cleges to enter, on condition that he promised him a third of what King Uther gave him.
 
-The knight agreed, and, passing in at the gate, soon came to the door of the hall ; and there The Tale of Sir Cleges 241
-stood the usher, grim and tall, with staff in his hand. He too spoke very roughly to the beggar, as he seemed to be, and only allowed him to pass the door on condition that he too received a third of the King's gift. Inside the hall the steward met him, and would have turned him out at once had not he seen the cherries and made the same bargain as the others.
+The knight agreed, and, passing in at the gate, soon came to the door of the hall ; and there stood the usher, grim and tall, with staff in his hand. He too spoke very roughly to the beggar, as he seemed to be, and only allowed him to pass the door on condition that he too received a third of the King's gift. Inside the hall the steward met him, and would have turned him out at once had not he seen the cherries and made the same bargain as the others.
 
 Then Sir Cleges made his way to the King's room, opening out of the hall, and, kneeling down, presented his gift. King Uther was much astonished and delighted, and at once bade the beggar ask whatever he would, saying it should be granted him. And this was the request of Sir Cleges, who was inwardly raging at the way he had been treated by the King's underlings.
 
