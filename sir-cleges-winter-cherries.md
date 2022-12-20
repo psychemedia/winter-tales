@@ -3,16 +3,22 @@
 
 First heard: David Winfield, Winter Solstice Tales online, Devon Stroytellers
 
+As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but whent to King Arthur's court.
+
+However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff.
+
+Original tale - 15th century manuscripts
+
 Many of the 19th and early 20th century versions I found are in American collections of old Engligh Tales.
 
 
-For example, quite a concise telling of the tale appears in
+For example, a really concise and efficient telling of the tale appears in
 
 https://archive.org/details/storiesofearlyen00wilm/page/238/mode/2up?q=cleges+cherries
 Stories of early England
 by Wilmot-Buxton, E. M. (Ethel Mary)
 
-Publication date [c1906-7]
+Publication date 1906, 1907
 p239-243
 
 THE TALE OF SIR CLEGES
@@ -43,6 +49,1282 @@ From the Old English Metrical Poems. Thirteenth century.
 
 ---
 
+
+https://archive.org/details/metricalromances01webeiala/page/328/mode/2up
+Metrical romances of the thirteenth, fourteenth, and fifteenth centuries:
+by Weber, Henry, 1783-1816
+
+Publication date 1810
+Vol 1
+
+Introduction
+p. xxxix-xli
+
+
+SIR CLEGES.
+
+We have here a complete specimen of the real fabliau, few of which occur in the English language. The style is certainly very mean, but the latter part of the story merits preservation, particularly as it coincides so nearly 
+with the following abstract of one of Sacchetti's Novelle `[I know not if it has been before remarked, that the fourth novel of the author is very similar to the popular ballad of King John and the Abbot. The original of the tale viras probably some French fabliau.]`, (Nov. cxcv, Firenze, 1724, Vol. II, p. 134.) Sacchetti was born about 1335, and died in 1400. His Novelliero was written about the year 1376, according to the opinion of Manni.
+
+King Philip de Valois had a favourite hawk of great beauty and value. One day, after having taken several birds, the bird was pursuing another, but soared so high, that the king lost sight of it; and though eight of his squires were sent in search of the bird, they were unable to accomplish their design. The king now caused proclamation to be made, offering two hundred francs to any one who would bring the hawk, and threatening any person who detained him with the gallows. One day, the bird perched upon a tree, and a peasant, who happened to pass by, was so fortunate as to take him. By the fleurs de lis engraved on the bells, he discovered that he had caught a royal hawk, and, hearing the proclamation, set out for Paris in hopes of the reward. By the way, he met an usher of the king's palace, who demanded 
+the hawk of him. The clown was wary and refused : but by the threats of the usher, he was induced to promise one half of the profits to him. Having reached Paris, the king was so delighted, that be ordered the peasant to choose his own reward. The latter immediately demanded either fifty lashes, or else an equal number of bastinadoes. The king very naturally asked the reason of such a whimsical choice. When the peasant had related the avaricious bargain which had been forced upon him, the poor usher received his share of the reward with great punctuality ; but the half which the clown had retained was converted into two hundred livres, with which he returned contented to his home.
+
+It is probable, that the novel of Sacchetti, as well as Sir Cleges, owed its origin to some French fabliau. The ingenuity of the trouveurs, in telling several stories upon the same original foundation, is well known to the readers of Barbazan and Le Grand. There is also a distant similarity between these stories and the fabliau, entitled " Le Dit du Buffet," printed by Barbazan, (Edit. 1808, Vol. III. p. 264.)
+
+The only copy of Sir Cleges extant, to my knowledge, is in a folio MS., lately added to the Advocates' Library, on paper, apparently of the beginning of the fifteenth century, and containing besides Mandeville's Travels, and Occleve's Speculum Regis. The end of Sir Cleges is imper-fect in the MS. ; but as only part of one stanza 
+seems to be wanting, the editor has attempted to supply the defect in the rough style of the original. His supplement will be found inclosed in brackets.
+
+p329-353
+
+
+SIR CLEGES.
+
+Will ye lystyn, and ye schyll here 
+Of eldyrs that before vs were, 
+
+Bothe hardy and wyght : 
+In the tyme of kynge Vter/'V ' ^ ' T" O ^ * 
+That was fadyr of kynge A[r]thyr 
+
+A semely man in sight. 
+He hade a knyght, that hight Sir Cleges, 
+A dowtyar was non of dedes 
+
+Of the rovnd tabull ryght : 
+He was a man of hight stature, 10 
+
+And therto full fayr of feture. 
+
+And also of gret myght. 
+
+A corteysear knyght than he was on, 
+In all the lond was there non ; 
+He was so gentyll and fre ; 
+
+
+
+332 SIR CLEGES. 
+
+To men, that traveld in londe of ware 
+And weren fallyn in pouerte bare, 
+
+He yaue both gold and fee : 
+The pore pepull he wold releve 
+And no man wold he greve ; 20 
+
+Meke of maners was hee ; 
+His mete was fre to euery man, 
+That wold com and vesite hym than : 
+
+He was full of plent^. 
+
+The knyght hade a gentyll wyffe. 
+There might neuer better here life, 
+
+And mery sche was on sighte : 
+Dame Clarys hight that fayre lady j 
+Sche was full good sekyrly, 
+
+And gladsum both day and nyghte : SO 
+
+Almes gret sche wold geve. 
+The pore pepull to releue ; 
+
+Sche cherissched many a wight : 
+For them had no man dere, 
+Reche ar pore, wethyr thej were. 
+
+They ded euer ryght. 
+
+Euery yer Sir Cleges wold 
+At Cristemas a gret fest hold, 
+In worschepe of that daye. 
+
+
+
+sm CLEGES. 333 
+
+As ryall in all thynge 40 
+
+As he hade ben a kynge 
+
+Forsoth as I you saye. 
+Rech and pore in the cuntr^ abought 
+Schulde be there wythoutton dought ; 
+
+There wold no man say nay. 
+Mynstrellis wold not be behynde ; 
+For there they myght most myrthis fynd, 
+
+There wold they be aye. 
+
+Mynstrellys, whan the fest was don, 
+Wythoutton yeftes schuld not gon, 50 
+
+And that bothe reche and good : 
+Hors, robis and reche ryng. 
+Gold, siluer and othyr thyng, 
+
+To mend wyth her modde. 
+Ten yere sech fest he helde. 
+In the worschepe of Mari myld. 
+
+And for hym that dyed on the rode. 
+Be that his good began to slake 
+For the gret festes that he dede make, 
+
+The knyght gentyll of blode. 60 
+
+To hold the feste he wold not lett ; 
+His maners he ded to wede sett, 
+He thowght hem out to quyghtt. 
+
+
+
+3^ SIB C LEGES. 
+
+Thus he festyd many a yere, 
+Many a knyght and squire, 
+
+In the name of God allmyghtt. 
+So at the last, the soth to say, 
+All his good was spent awaye : 
+
+Than hade he but lyght. 
+Thowe his good were ner and leste, 70 
+
+Yet he thowght to make a feste : 
+
+Yn God he hopyd ryght. 
+
+This ri^te he made than aye, 
+Tyll his maneres were all awaye, 
+
+Hym was lefte but on ; 
+And that was of so lytyll a value 
+That he and his wyflFe trewe 
+
+Might not leve thereon. 
+His men that weren mekyll of pride 
+Gan slake awaye on euery syde ; 80 
+
+With hym there wold dwell non. 
+But he and hLs childym too : 
+Than was his hart in mech woo 
+
+And he made mech mone. 
+
+And yt befell on Crestemas evyn 
+The kyng bethowght hym full evyn ; 
+
+
+
+He dwellyd be Kardyfe syde. 
+
+
+
+SIR CLEGBS. S35 
+
+Whan yt drewe toward the novn * 
+
+Sir Cleges fell in svounyng sone, 90 
+
+Whan he thowght on that tyde, 
+And on his myrthys that he schuld hold, 
+And howe he hade his maners sold 
+
+And his renttes wyde. 
+Meche sorowe made he there, 
+He wrong his hdnd, and weped sore. 
+
+And fellyd was his pride. 
+
+And as he walkyd vpp and dovn 
+Sore syghthyng, he hard a sovne 
+
+Of dyvers mynstrelsee ; 
+Of trompes, pypes, and claraneris, 100 
+
+Of harpis, luttis, and getarnys, 
+
+A sotile, and sawtr^ ; 
+Many carellys, and gret davnsyng ; 
+On euery syde he hard syngyng, 
+
+In euery place trewly. 
+He wrong his hondes, and wepyd sore j 
+Meche mone made he there, 
+
+Syghynge petusly. 
+
+" Lord Jesu ! he seyd, hevyn kynge^ 
+" Of nowght thou madyst all thynge : 1 10 
+
+" I thanke th^ of thy sond. 
+
+
+
+536 SIR CLEGES. 
+
+" The myrth that I was wonte to make, 
+" At thys tyme, for thy sake, 
+
+" I fede both fire and bond ; 
+" All that euer cam in thy name 
+" Wantyd neythyr wyld nof tame, 
+
+** That was in my lond, 
+" Of reche metis, and drynkkys good, 
+" That myght be gott, be the rode, 
+
+" For coste J wold not lend." 120 
+
+As he stod jn mornyng soo. 
+His good wyfFe cam hym vnto, 
+
+And jn hyr armys hym hent ; 
+Sche kyssyd hym wyth glad chere : 
+'* My lord, sche seyd, my trewe fere, 
+
+" J hard what ye ment : 
+" Ye se will yt helpyth nowght 
+** To make sorowe in your hart, 
+
+" Therefore J pray you stynte. 
+" Let your sorowe awaye gon ISO 
+
+" And thanke God of hys lone 
+
+" Of all that he hath sent. 
+
+** For Crystis sake J pray you blyne 
+** Of all the sorowe that ye ben jn, 
+" In ono of thys daye. 
+
+
+
+SIB CLEGES. 337 
+
+*" Nowe euery man schuld be glade, 
+" Therefore J pray you be not sade ; 
+
+" Thynke what J you saye. 
+" Go we to oure mete swyth, 
+" And let vs make vs glade and blyth, 140 
+
+" As wele as we may. 
+" J held yt for the best trewly 
+" For youre mete is all redy, 
+
+" I hope to youre paye." 
+
+*' J asent," seyd he tho, 
+And jn with hyr he gan goo. 
+
+And sumwatt mendyd hys chere ; 
+But neuertheles hys hart was sore. 
+And sche hym comforttyd more and mord, 
+
+Hys sorowe away to stere ; 150 
+
+So he began to waxe blyth, 
+And whypyd away hys teris swyth. 
+
+That ran dovn be his lyre. 
+Than they wasschyd, and w ent to mete, 
+Wyth sech vitell as they myght gett. 
+
+And made mery in fere. 
+
+Whan they had ete, the soth to saye, 
+Wyth myrth they drofFe the day away 
+As will as they myght : 
+
+VOL. 1. Y 
+
+
+
+359. SIR CLEGBS. 
+
+Wyth her chyldyrn play they ded, I60 
+
+And after soper went to bede, 
+
+Whan yt was tyme of nyght : 
+And on the morowe they went to chirch, 
+Godes service for to werch, 
+
+As yt was reson end ryght. 
+
+Sir Cleges knelyd on his kne 
+To Jesu Crist prayed he, 
+
+Becavse of his wlffe : 
+" Gracius Lord, he seyd thoo, 
+" My wyffe and my chyldyrn too 170 
+
+*' Kepe hem out of stryfFe !" , 
+The lady prayed for hym ayen, 
+_ That God schuld kepe hym fro payne 
+
+In everlastyng lyf. 
+Whan service was don hom they went. 
+And thanked God with god entent. 
+
+And put away penci. 
+
+Whan he to hys place cam 
+His care was will abatyd than, 
+
+Thereof he gan stynt : 1 80 
+
+He made his wife afore hym goo, 
+And his chyldyrn both to ; 
+
+Hymselfe alone went 
+
+
+
+SIR CLEGES; 599 
+
+Jnto a gardeyne there besyde. 
+And knelyd dovn in that tyde. 
+
+And prayed God veramend ; 
+And thanked God with all his hartt 
+Of his disese, and hys pouertt, 
+
+That to hym was sent. 
+
+As he knelyd on hys knee, 190 
+
+Vndemeth a chery-tre, 
+
+Makyng his preyere. 
+He rawght a bowe on hys hede, 
+And rosse vpe in that stede ; 
+
+No lenger knelyd he there. 
+Whan the bowe was in hys hand 
+Grene leves thereon he fonde. 
+
+And rovnd beryse in fere. 
+He seyd : " Dere God in Trenyt^, 
+" What manere of beryse may this be 20Q 
+
+" That grovyn this tyme of yere ? 
+
+*' Abowght this tyme J sey neuer ere 
+" That any tre schuld frewght here, 
+
+"As far as J have sowght." 
+He thowght to taste, yf he cowthe, 
+Arid on he put in his mowth, 
+
+And spare wold he nat. 
+
+
+
+340 SIR CLEGES. 
+
+After a chery the reles was 
+
+The best that euer he ete in place 
+
+Syn he was man wrowght. 210 
+
+A lytyll bowe he gan of slyve, 
+And thowght to schewe yt to his wife, 
+
+And in he yt browght. 
+
+** Loo dame ! here ys newelt^ ! 
+, *' In oure gardeyne of a chery-tre 
+
+" I fond yt sekerly. 
+" J am aferd yt ys tokynnyng 
+" Of more harme that ys comynge, 
+
+" Forsoth thus thynkkyth me : 
+" But wethyr wee have les or more, 220 
+
+" AUwaye thanke we God therefore ; 
+
+" Yt ys best trewely." 
+
+Than seyd the lady with good chere 
+*' Latt vs fyll a panyer 
+
+" Of this that God hath sent : 
+" Tomorovn whan the day dothe spryng 
+" Ye schill to CardyfFe to the kynge, 
+
+" And yeve hym to present ; 
+" And seche a yefte ye may haue there, 
+'* That the better wee may fare all this yere ; 230 
+
+** J tell you werament." 
+
+
+
+SIR CliEGES. 341 
+
+Sir Cleges gravnted sone thereto : 
+*' To morovn to CardiiFe will J goo, 
+" After your entent." 
+
+On the moroun, whan yt was lyght, 
+The lady had a panere dyght ; 
+
+Hyr eldest son callyd sche ; 
+" Take vp thys panyer goodly 
+" And here yt forthe esyly 
+
+" Wyth thy fadyr fre." ^40 
+
+Than Sir Cleges a staffe toke ; 
+He had non hors, so seyth the boke, 
+
+To ryde on hys jomy ; 
+Neythyr stede, ner palfray, 
+But a staife was hys hakenay 
+
+As a man in pouert^. 
+
+Sir Cleges, and his son gent. 
+The right waye to CardifFe went 
+
+Oppoji Cristemas daye. 
+To the castell he cam full right, 250 
+
+As they were to mete dyght, 
+
+Anon the sothe to say. 
+In Sir Cleges thowglit to goo ; 
+But in pore clothyng was he tho. 
+
+And in sympull araye. 
+
+
+
+342 SIB CLEGS> 
+
+The porter seyd full hastyly, 
+** Thou chorle, withdrawe th^ smertly, 
+" J rede th^, without delaye ! 
+
+" EUys, be God and Seint Mari, 
+
+" J schall breke thyne hede on high ; 260 
+
+" Go stond in beggers rowght ! 
+" Yf thou com more inward 
+" Jt schall th^ rewe aftei-ward, 
+
+" So J schall th^ clowght." 
+" God sir, seyd Sir Cleges tho, 
+" J pray thou lat me in goo, 
+
+" Now without dowght : 
+" The kyng J haue a present browghtt 
+" From hym that made all thynge of nowght : 
+
+" Behold all abowght." 270 
+
+The porter to the panere went, 
+And the led vppe he hentt ; 
+
+The cheryse he gan behold. 
+Will he wyst for his corayng 
+Wyth that present to the kyng, 
+
+Gret yeftes haue he schuld. 
+" Be hym, he seyd, that me bowght, 
+*' Into thys place comste thou nott, 
+
+" As J am man of mold, 
+
+
+
+SIR CL6S. ^48 
+
+" The thyrde part but thou graunte me 280 
+
+** Of that the kyng will yeve th^, 
+" Wethyr yt be syluer or gold !" 
+
+Sir Cleges seyd, " J asent." 
+
+He yaue hym leve, and in he went, 
+
+Without more lettyng. 
+Jn he went a gret pace : 
+The vsscher at the hall dore was 
+
+Wytli a staflfe stondynge, 
+In poynte Cleges for to smyght. 
+'* Goo bake, thou chorle, he seyd, 290 
+
+" Full tyghte without teryyng ! 
+" J schall th^ bette euery leth, 
+" Hede and body, wythout greth, 
+
+" Yf thou make more pressynge." 
+
+" Good sir, seyd Sir Cleges than, 
+" For hys loue that made man, 
+
+" Sese your angrye mode ! 
+" J have herr a present browght 
+" From hym that made all thynge of nowght, 
+
+" And dyed on rode tre : 300 
+
+" Thys nyght jn my gardeyne it grewe ; 
+" Behold wethyr it be false or trewe 
+
+" They be fayre and good." 
+
+
+
+344 SIR CLEGEg. 
+
+The vsscher lyfte vp the lede smartly, 
+And sawe the cheryse verily ; 
+He marveld in his mode. 
+
+The vsscher seyd, " Be Mari swet, 
+" Chorle thou comste not jn yett, 
+
+" J tell th^ sekyrly, 
+" But thou me graunte, without lesyng, SIO 
+
+" The thyrd part of thi wynnyng, 
+
+" Wan thou comste ayen to me." 
+Sir Cleges sey non other von ; 
+Thereto he grauntyd sone anon ; 
+
+Jt woU non othyr be. 
+Than Sir Cleges with hevi chere 
+Toke hys son and hys panere ; 
+
+Into the hall went he. 
+
+The styward w^lkyd there withall, 
+
+Amonge the lordes in the hall, 320 
+
+TTiat were rech in wede. 
+To Sir Cleges he went boldly, 
+And seyd, " Ho made th^ soo hardi 
+
+" To com into ihys stede ? 
+" Chorle, he seyd, thou art to bold ! 
+" Wythdrawe th^ with thy clothys olde 
+
+Smartly, J th^ rede !" 
+
+
+
+SIB CLEGES. 345 
+
+" J haue, he seyd, a present browght 
+" From our Lord that vs dere bowght, 
+
+" And on the rode gan blede." 330 
+
+The panyer he toke the styward sone, 
+And he pullyd out the pyne 
+
+As smartly as he myght. 
+The styward seyd, " Be Mari dere, 
+** Thys sawe J neuer ihys tyme of yere, 
+
+" Syn J was man wrowght ! 
+" Thou schalt com no nere the kyng, 
+" But yf thowe graunt me myne askyng, 
+
+" Be hym that me bowght : 
+" The thyrd part of the kynges yefte, 340 
+
+" That will J haue, be my threfte, 
+
+" Ar forthere gost thou nott !" 
+
+Sir Cleges bethowght hym than, 
+" My part ys lest betwyxt thes men, 
+
+" And J schall haue nothynge ; 
+^* For my labor schall J nott get 
+" But yt be a raelys mete." 
+
+Thus he thought syynge. 
+He seyd, " Harlot, hast noo tonge ? 
+" Speke to me, and terye nat longe, 350 
+
+" And graunte me myn askynge ; 
+
+
+
+346 SIB CLEGEg^ 
+
+" At wyth a staSe J sc^iall th^ wake, 
+" That thy rebys schall all to-qu^ke, 
+" And put th^ out hedlynge." 
+
+Sir Cleges sey non othyr bote, 
+But his askyng graunte he most, 
+
+And seyd with syynge sore : 
+" Whatsoeuer the kypg reward, 
+" Ye schall haue the thyrd part, 
+
+" Be yt lesse or more." 360 
+
+Vpe to the desse Sir Cleges went. 
+Full soborly and with good entent, 
+
+Knelynge the kynge before. 
+
+Sir Cleges oncowyrd the panyere, 
+
+And schewed the kynge the cheryse clere. 
+
+On the grovnd knelynge. 
+He seyd, " Jesu our savyor 
+*' Sent th^ thys frewght with honor 
+
+" On thys erth growynge." 
+The kynge sye thes cheryse newe : 370 
+
+He seyd, " J thanke Cryst Jesu ; 
+
+" Thys is a fayre neweynge." 
+He commaundyd Sir Cleges to mete, 
+And aftyrward he thowght with hym to speke, 
+
+Wythout any faylyuge. 
+
+
+
+9Ift GLBG^S. 347 
+
+The kynge therof made a present. 
+And sent yt to a lady gent 
+
+Was bom in Cornewayle : 
+She was a lady bryght and schene 
+And also ryght will besene, 380 
+
+Wythout any fayle. 
+The cheryse were servyd thorowe the hall ; 
+Than seyd the kynge, that lord ryall, 
+
+" Be mery, be my cunsell ; 
+" And he that browght me this present 
+'^ Full will J schall hym content ; 
+
+" Yt schall hym wyll avayle." 
+
+Whan all men were mery and glade, 
+Anon the kynge a squire bade, 
+
+" Brynge nowe me beforn, 390 
+
+" The pore man that the cheryse browght." 
+He cam anon, and teryde natt, 
+
+Wythout any skorn. 
+Whan he cam before the kyng, 
+On knese he fell knelynge. 
+
+The lordes all beforn. 
+To the kyng he spake full styll : 
+" Lord, he seyd, watte ys your will f 
+
+" J am your man fre born." 
+
+
+
+348 SIR cLeges^. 
+
+" J thanke th^ hartyly, seyd the kyiige, 400 
+
+*' Of thy yeft and presentynge, 
+
+" That thou hast nowe i-doo. 
+" Thowe haste onowryd all my fest, 
+** Old and yonge, most and lest, 
+
+" And worschepyd me also : 
+*' Wattsooeuer thou wolt haue, 
+** J will th^ graunte, so God me saue, 
+
+" That thyne hart standyth to." 
+
+He seyd, " Gramarcy, lech kynge, 
+
+" Thys ys to me a comfortynge : 410 
+
+" J tell you sekyrly, 
+" For to haue lond or lede, 
+" Or othyr reches, so God me spede ! 
+
+" Yt ys to meche for me : 
+** But seth J schall chese my selfe, 
+" J pray you graunt me strokys twelve, 
+
+" To dele were lykyth me : 
+" Wyth my staffe to pay hem all 
+*' To myn adverseryse in the hall, 
+
+" For send Charyt^ !" 420 
+
+Than aunsswerd Hewtar the kynge : 
+*' J repent my grauntetynge, 
+" That J to th^ made. 
+
+
+
+sin CLEGEs. 349 
+
+** Good, he seyd, so mott J thee 
+
+** Thowe haddyst be belter haue gold or fee ; 
+
+*< More nede therto thou hade." 
+Sur Cleges seyd, with a waunt, ' 
+
+" Lord yt ys your owyn graunte, 
+
+" Therfore J am full glade." 
+The kynge was sory therfore, 430 
+
+But neuerthelesse he grauntyd hym there ; 
+
+Therefore he was full sade. 
+
+Sir Cleges went into the hall, 
+Among the gret lordes all. 
+
+Without any more. 
+He sowght after the prowghd styward. 
+For to yeve hym hys reward, 
+
+Becavse he grevyd hym sore. 
+He yaffe the styward sech a stroke, 
+That he fell dovn as a bloke, 440 
+
+Before all that therin were : 
+And after he yafe hym othyr thre ; 
+He seyd, " Sore, for thy corteci, 
+
+*' Smyghte me no more !" 
+
+Out of the hall Sir Cleges went, 
+Moo to paye was hys entent, 
+Wythout any lett. 
+
+
+
+SdO SIR CtEGES. 
+
+He went to the vsscher in a breyde : 
+" Haue here sum strokys he seyde," 
+
+Whan he wyth hyrti mete ; 450 
+
+So that after and many a daye 
+He wold warn no man the waye, 
+
+So grymly he hym grett. 
+Sir Cleges seyd, " Be my threft, 
+** Thou hastte the thyrd part of my yeftle 
+
+As J th^ behyght." 
+
+Than he went to the portere, 
+
+And four strokys he yaue hyiti there ; 
+
+His part hade he there [too] : 
+So that after and many a daye, 466 
+
+He wold warn no man the waye, 
+
+Neythyr to ryde nether goo. 
+The fyrste stroke he leyde hym on 
+He brake in to bys schuldyrbone. 
+
+And his on arme thereto. 
+Sir Cleges seyd, " Be my threfte, 
+*' Thowe has the thyrd parte of my yefte ; 
+
+" The couenaunte we made soo." 
+
+The kynge was sett in his paflor, ' 
+
+Wyth myrth solas and onor ; 4^0 
+
+Sir Cleges thedyr went. 
+
+
+
+\ 
+
+
+
+srR CLEGES* S51 
+
+An harpor sange a gest be mowth 
+Of a knyght there be-sowth ; 
+
+Hymselffe werament. 
+Than seyd the kynge to the harpor ; 
+" Were ys knyght Cleges, tell me herr, 
+
+" For thou hast wyde i-went. 
+*' Tell mie trewth yf thou can, 
+*' Knowyste thou of that man ?" 
+
+The harper seyd, " Yee, J wysse : 480 
+
+*' Sum tyme forsoth J hym knewe ; 
+*' He was a knyght of yours full trewe, 
+
+" And comly of gesture. 
+" We mynstrellys mysse hym sekyrly, 
+" Seth he went out of cuntr^ ; 
+
+" He was fayr of stature." 
+The kynge seyd, " Be myne hede ! 
+" J trowe that Sir Cleges be dede, 
+
+" That J lovyd peramore : 
+Wold God he were alyfe ! 490 
+
+** J had hym lever than othyr fyve, 
+
+" For he was stronge in stowre." 
+
+Sir Cleges knelyd before the kynge, 
+For he grauntyd hym hys askynge. 
+He thanked hym cortesly. 
+
+
+
+35Sr SIR CLEGES. 
+
+Specyally the kynge hym prayed 
+
+To tell hym whye tho strokes he payed 
+
+To hys men thre. 
+He seyd, " That he myght nat com inward, 
+** Tyll euerych J graunttyd the thyrd partt 500 
+
+" Of that ye wold yeve me : 
+" With that J schuld have nowght myselfe ; 
+" Werefore J yaue hem strokes twelve : 
+
+" Methowt yt best trewly." 
+
+The lordes lowe both old a[nd] yenge, 
+And all that weren with the kynge, 
+
+They made solas inowe. 
+The kynge lowe so he nott myght : 
+He seyd, " This ys a noble wyght, 
+
+" To God J make a wowe !'* 510 
+
+He sent after his styward, 
+" Hast thou, he seyd, thy reward ? 
+
+" Be Cryst, he ys to lowe !" 
+The styward seyd, with lok grym, 
+" - - - - the dewle hym 
+
+" Born on a lowe !" 
+
+The kynge seyd to hym than, 
+" What is thy name tell me, good man, 
+" Now anon rygh[t] ?" 
+
+
+
+StU CLEGES. ^53 
+
+" J hight Sii' Cleges, soo haue J blysse ! 520 
+*' My ryght name yt ys, i-wysse ; 
+
+" J was your owyn knyght" 
+'* Art thou Sir Cleges, that servyd me, 
+*' That was soo jentyll and soo fre, 
+
+" And so stronge on iyght ?" 
+" Ye, sir, lord, he seyd, so mott J thee, 
+** Tyll God in hevyn had vesyte me : 
+
+" Thus pouerte haue me dyght." 
+
+The kynge yaue hym anon ryght 
+
+All that 'loriged to a knyght, 5S0 
+
+To rech his body wyth. 
+The castell of CardyfFe he yaue hym thoo, 
+[With many other yeftes moo, 
+
+Miri to lyue and blyth. 
+The knyght rode to dame Clarys his wyue, 
+Fairer ladie was non olyue ; 
+
+He schewyd his yeftes swyth : 
+Now to Mari that hende may, 
+For all yowr sowlys Y her pray 
+
+That to my talys lythe.] 540 
+
+
+---
+https://archive.org/details/dli.ministry.06321/page/23/mode/2up?q=cleges
+
+Shorter English Poems
+by Morley, Henry
+
+p23
+
+Translation of metrical romances from the French was a marked feature of our verse literature in the latter part of the thirteenth century, and throughout the fourteenth. Let us be, therefore, among. the listeners to an old minstrel who has romance to chant for our amusement, and he shall give us the Fabliau of Sir Cleges.`[This was first printed in 1810 by Mr. Henry. Weber, in his "Metrical Romances of the Thirteenth, Fourteenth, and Fifteenth Centuries," from a fifteenth century MS. in the Advocate’s library.]` A Fabliau was a ‘short metrical tale, busy with action, and told with a lively freedom. It would be recited not without dramatic animation. to its audiences, had its origin in Northern France, and was related to the ballad of North Europe. I pre- serve old spelling only where the verse requires it.
+
+p24-
+
+24
+The reader of Early English should remember that words from the Norman-French, retaining much of their original pronunciation, have the accent on the last. syllable in such words as “hardy,” “stature,” and often on the last syllable of a participle, as “ parting ;”
+also that syllables in such words were often distinctly pronounced, where in modern English they are run together, thus making three syllables of such a word as “cre-a-ture.” In course of time the tendency of English accents upon syllables is to be transferred to an earlier one than that to which it first gave stress. In reading old verse we should place the accent where the measure tells us that it fell. The final e that represented old case-endings, d&c., was usually sounded before a consonant, and dropped before a vowel. Except where errors of a copyist have marred the music, the most unpractised reader of an Early English poom who makes proper allow- ance for these differences will soon learn to preserve its rhythm. The pronunciation generally should be Jess slurred than it now is, and tend slightly to bring the vowel-sounds into accord with those of our neigh.
+bours over sea.
+SiR CLEGES.
+Will ye listen, and ye shall hear Of elders that before us were, Both hardy and wight,! In the time of King Uthér -Chat was father of King Arthar, A seemly man in sight. He had a knight that hight Sir Cleges, A doughtier was none of deeds Of the Round Table right : He was a man of high statére, 10 And thereto full fair of featdre, And also of great might.
+A courteouser knight than he was one In all the landé there was none; He was so gentle and free; To men that travelled in land of ware? And weren fallen in poverte bare He gave both gold and fee: The pooré people he would relieve And no man would he aggrieve ; Meek of manners was he; His meat was free to every man That would come and visit him than ;3 He was full of plenty.
+20
+_ The knight had a gentillé wife, There might never better bear life, And merry‘ she was in sight. Dame Clarice hight that. fair lad ; She was full good sickerly,. And gladsome both day and night;
+
+Almés great she woldé give
+- The pooré people to relieve,
+She cherished many a wight; For them haddé no man dere ;5 Rich or poor whether they were,
+They did ever right.
+_ Every year Sir Cleges would _ At Christmas a great feast hold
+In worship of that day, , As royal in allé thing 40 As he haddé been a king For sooth as I you say. Rich and poor in the country about Should be there withouten doubt; There would no man say nay. Minstrels would not be behind, For there they might most mirthés find There would they be aye.
+
+Minstrels when the feast was done
+Withouten giftés should not gon, And that both rich and good: Horsé, robes and riché ring,
+‘Gold, silver, and other thing, -
+To mend with their mood. Ten yearé such feast he held, In the worship of Mary mild . And for Him that died on the rood. By that his good began to slake For the great feasts that he did make, The knight gentil of blood. 64
+To hold the feast he would not let,® His manors he did to wed? set
+
+
+om ‘‘ derian,” to injure. ; pe ha ae 6 Let, hinder or stop. 7 Wed, pledge; the sense in the word wedding,
+
+“igo ac. 1850.)
+He thought them out to quite;} Thus he feasted many a year Many a knight and many & squier In the name of God Almight. - So at the last, the sooth to say, All his good was spent away, Then had he but lite.? Though his good were near hand leste? 70 Yet he thought to make a fest : In God he hopéd right.
+This royalty he made then aye,
+Till his manors were all away, Him was left but one:
+And that was of so little valde
+That he and his wifé true Might not live thereon.
+His men that weré mickle of pride
+Gan slake away on every side; 80 With him there would dwellé none, But she and his children two.
+Then his heart was in much woe, | And he made much moan.
+And it befel on Christmas even The king bethought of him full even; He dwelt by Cardiff side. When it drew towards the noon, Sir Cleges fell in swooning soon When he thought on that tide, 90 And on his mirths that he should hold, And how he had his manors sold, And his rentés wide. Muché sorrow made he there ; He wrung his hand and wepéd sore, And felléd was his pride.
+And as he walkéd up and down Soré sighing, he heard a soune ‘* Of divers minstrelsie ; Of trumpés, pipés, and claranis,® aan 100 Of harpés, lutés, and getarnis,® A citole and psaltrie ; Many carols and great dancing ; On every side he heard singing, In every place trulie. He wrung his hands and wepéd sore, Muché moané made he there, Sighing piteouslie.
+“Lord Jesu,’”’ he said, “heaven's king, Of nought Thou madest allé thing, 110
+1 Quite, obtain quittance, redeem.
+‘9 Lite, little. _. © Leste, lost; from First English “ leosan.” _. & Sowne, sound. French “son.” _ \§ Claranis, clarions ; a line for wind instrument is followed by two : Hines for stringed. instruments, and two for voices. . -§ Getarnis, citterns or guitars. The German “ zither,”’ a citole, was ad sort of dulcimer, an arrangement of some fifty wires stretched on a ~sounding-board, and played with sticks, one having its end padded for use in ‘the softer passages. An old Cornish drama of the fourteenth _ Sentary » Ordinale de Origine Mundi,” groups in one line ‘*cythol, aod, ‘trth, ha sautry”—citole, fiddle, viol, and psaltery. The
+: riis ite form was changed, and more strings were added.
+apaaltery is said to have been triangular and ten-string
+
+I thank Thee of thy sonde ;7 The mirth that I was wont to make. At this timé for Thy sake I fed both free and bond; All that ever came in Thy name Wanted neither wild nor tame | That-was in my lond ; Of rich metés and drinkés good That might be got, by the rood, For cost I would not lend.”’§ 120
+As he stood in mourning so
+His good wife came him unto, And in her arms him hent :?
+She kisséd him with gladsome cheer:
+‘“‘ My lord,” she said, “my trué fere,!° I heard what ye ment; !!
+Ye see well it helpeth naught
+To make sorrow in your heart, Therefore I pray you stint.
+Let your sorrow away gon, 130
+And thanké God of His loan
+Of all that He hath sent.
+
+“ For Christis sake I pray you blin!? Of all the sorrow that ye be in In honour of this day, Now every man should be glad, Therefore I pray you be not sad ; Think what I you say. | Go we to our meaté swithe,” : And let us make us glad and blithe 140 As well as we may. I hold it for the best trulj, . For your meat is all reads, I hopé to your pay.” !4"
+“T assenté,” said he tho,!® And in with her he gan go,
+And somewhat mended his cheer ; But nevertheless his heart was sore, And she him comforted more and more,
+His sorrow away to stere ; !6 160 So he began to waxé blithe, | And whipped 7 away his terés swithe,
+That ran down by his lere.'8 Then they washed and went to meat,
+With such victual as they might get, .
+And made merrie in fere,!%
+ Sonde, that which is sent, a gift. ‘I thank Thee for thy gift.” So the author of “‘ Piers Plowman” makes Conscience say to Meed, who had quoted half a text to get Scripture warrant for ascribing victory and honour to those who gave money, that the soul which receives the gift is by so much in bondage: “ The soule that the sonde taketh bi so moche is bounde.”
+
+8 Lend, abate. French “ lentir,” retard the pace.
+9 Hent, took, seized. First English ‘‘ hentan.”. —
+10 Fere, companion. . First English ‘‘fera’’ and aia sf
+11 Ment, bemoaned. First English “‘ mee’‘nan.”
+12 Blin, cease. First English ‘‘ blinnan.”
+13 Suwithe, quickly ; unchanged from First English.
+14 Pay, content, French. Old French “ paie,’’ from Lati to pacify.
+4 Tho (First English “ tha’), then.
+16 Stere, turn away ; from “‘styran,’ to steer, guide, remove.
+17 Whipped away, whip and quip, First English “ hweop” (still in vulgar use as “‘ whop’’), Cymric “ chwip,” are mimetic words, repre- senting the sound of a quick movement through the air. It is still used, as here, in its first sense, to represent quick movement simply.
+18 Lere, face. First English ‘“‘ hleor,” the jaw, cheek, face. .
+9 fn fere, together. First English “ fera,” a companion. —
+
+"26 CASSELL’S LIBRARY “OF When they had eat, the sooth to say, With mirth they drove the day away As well as they might; Vith their children play they ded, And after supper went to bed, . When it was time of night 7 And on the morrow they went to churea Godés service for to werch,} As it was reason and right. «
+160
+Sir Cleges kneeléd on his knee, __—. To Jesis Christ prayéd he, _ Because of his wife: “Gracious Lord,” he saidé thoo,* “ My wife and children two, Keep them out of strife!” The lady prayed for him again,.. . .- That God should keep him from pain Tn everlasting life. When service was done home they went, And thankéd God with good intent, And put away pensi.®
+170
+When he to his placé came, — His care was well abated then, Thereof he gan stint: He made his wife afore him go, And his children‘ both two, ‘Himself aloné went Into a garden there beside, And kneeléd down in that tide And prayed God verament,® And thankéd God, with all his heart, Of his disease® and his poyert That to him was sent,
+2) eect eters er
+189 |
+As he kneeléd on his knee, 190
+Underneath a cherrv tree, Making his prayére, He raught’ a bough on his head And rose up in that stead,’ » No longer kneeled he there. When the bough was in his hond, Greené leaves thereon he fond, And round berries in fere. He said, “Dear God in Trinity, What manner of berries may these be,
+200 | ~ "That grow this time of year ? nige
+“‘ About this time I saw never ere That any tree should fruit® bear, ,
+“2 Werch, work, do; First English “ wyrcan,” in which the c might be hardened or softened, like the ¢ in circe, which has become kirk and church.
+_ * Thoo (First English “tha” ), then. “3 Pensi, thought. French “ pensée.”’ . * Hese the r in children gives the word a third syllable. So Shake- é, in “ Comedy of Errors,” Act i., sc. 2—* These are the parents } children.” In “Timon of Athens,” Act iii., ac. 5—But ) is man that is not angry?” are ae uae, -
+: 6 Ferameni, truly. French “ vraiment.’ ; - | © Disease, want of ease. <% Reught, reached. First, English “recan,” to reneh, had ie: its Seg say Bong a Rtead (First English “ stede’’), place.
+7 ‘4 te. igitt4-each vowel sounded, asin French
+
+As far as I have sought.
+He thought to taste 1t uf he couth,!
+And one"! he put m his mouth, And spare would he not.
+After a cherry the relish was
+The best that ever he ate m place Since he was man wrought
+A little bough he gan off shve,’’
+And thought to shew it to his wife, And 1n he it brought.
+210
+“To, dame' Here 1s novelty' In our garden ot a cherry-tree T found it sichaly I am afeard it 1s tohening Of more harm that 1s coming, Forsooth thus thmkheth me But whether we have less or more, Alway thank we God theretore, It 1s best truly ”
+
+Then said the ladv, with good cheer, “ Let us fill a panmer Of this that God hath sent, To-morrow when the day doth spring Ye shall to Cardiff to the ng, And give him this present, And such a gift ye may have there That the better we may fare this year, I tell you verament ” Sir Cleges granted soon thereto “ To-morrow to Cardiff will I go, After your intent ’
+230
+On the morrow when it was light, The lady had a panme: dight,!4 Her eldest son called she, “Take up this pannier goodly,'* And bear it forth eisily With thy father free ” Then Sir Cleges a staff tooh He had no horse so saith the bock, To nde on his journey Neither steede nor palfrev, But a staff was ns hachnev, As man 1n povertie
+
+Sir Cleges and his sone gent
+The nghte way to Cardiff went Upon Christmas-dav
+To the castle he came full nght
+As they were to meatc dight, Anon, the sooth to sav
+250
+1 Couth, could. First English “cunnan,” to ken, know, be able, had for its present “can,” and for its past “ cuthe ;”’. this -was. written “‘couthe,” “ couth,” “coud,” then “cou’d,” becanse. (froma supposed relation to would and should) | seemed:to perme en the 1 was inserted, and we came to “ could. ~ .
+Ui Pronounce “d-ne,” not “ wun.
+13. Of slive, to slive off. First Es English “* glifan,” to cleave, eit. 2
+3-Thinketh me, methinks, it seems to me. From the Pinst ngiish impersons] verb “thincan,” to seem; peat thébte.". sida think ia. from “ thencan,” past “thohte.” | oS
+4 Dight, prepared. First English “dihtan.” Zee
+Gast tes nb sed Ves panel a gs os short vowel sound between them. So Shakespeare in“ Heary J¥:,.: Part IL; “(A rotten case abides no. handling,” stint wring of:
+
+An Sir Cleges thought to gO; i But i in poor clothing was he tho,! And in simple array. | The Porter said full hastily, “Thou ehurl, withdraw thee smartlv,? I rede® thee, without delay.
+“ Ellés, by Heaven and Saint Mary, I shall break thine head on high! Go stand in beggar’s rout ! If thou comé more inward It shall thee rue afterw4rd, So I shall thee clout?” ‘¢Good sir,” said Sir Cleges tho, “T pray thou let me in go Now withouté doubt: The King I have a present brought From Him that made all mee: of nought: Behold all. about !”’
+260
+270
+The Porter to the pannier went, And the lid up he hent; |
+The cherries he gan behold. Well he wist for his coming With that present to the King
+Great gifts have he should.
+‘“‘ By Him,” he said, “‘ that me bought, Into this place com’st thou not,
+As I am man of mould, . The third part but* thou graunt me Of that the King will givé thee,
+Whether? it be silver-or gold!”
+289
+Sir Cleges said, “I assent.” oe
+He gave him leave, and in he went.- Withouten more letting.
+In he went a greaté pace:
+The Usher at the hall door was With a staff standing,
+In point Cleges for to smite:
+“Go back, thou churl,” he said, “ Full tite® without tarrving!
+I shall thee beat every leth,’
+Head and body, without greth.®
+49
+If thou make more pressing !
+290
+“ Good sir,” said Sir Cleges than, “For His love that madé man, Cease your angry mood! I have here a present brought From Him that made all things of nought
+And diéd on the rood : 300
+a Tho, (Firet English ‘‘ tha ”), then.
+-® Smartly: see note 15, page 26. So in “As You Like It,” “The ‘ parts and graces of the wrestler. fs
+- 3 Rede (First Engtish “re‘dan,” past “réd”), advise. to read, discern, rule, made its past ‘‘ rm'dde.” _-.4But, except, unless.—The r in third adds a syllable, “the thir-rid eit “So dlso in lines.474,476. See Note 4, page 26...
+. | 8 Whether was often pronounced 8 a monosyllable, by elision of th.
+; Revden, ‘
+3. in Bhakeapeare, * Julius Cesar,’ Act.v., 80. 4—t But- see whether
+“Bratus be alive or no.”
+6 Tite, quickly. Icelandic ‘‘tithr” and = titt. ie
+eh hind.” “Finet English “lth.”
+riviles sof protection to. you. First English t* geith,” the : 3 —— oe to off
+
+This night in my garden it grew. Behold whether® it be false or true; ; They be fair and good.” The Usher lift the lid smartly, And saw the cherries verily ; He marvelled in his mood.
+The Usher said, ‘“‘ By Mary sweet, Churl, thou comest not in yet I tell thee sickerly, But thou me grant, without leasing, The third!” part of thy winning When thou com’st again to me.” Sir Cleges saw none other won,"! Thereto he granted soon anon, It: will none other be. — Then Sir Cleges with heavy cheer Took his son and his pannier ; Into the hall went he.
+
+The Steward walkéd therewithal
+Among the lordés in the hall That were rich in weed.}2
+To Sir Cleges he went boldly,
+And said, ‘‘ Who made thee so hardy ‘To come into this stead ?
+Churl,” he said, ‘thou art too bold!
+Withdraw thee with thy clo.his old ~ Smartly, I thee rede!”
+“‘T have,” he said, “a present brought
+From our Lord that us dear bought And on the rood gan bleed.”’
+320
+330
+The pannier took the Steward soon, © ~ And he pulled out the pin As smartly as he might. The Steward said, ‘‘ By Mary dear, This saw I never this time of year - Syne I was man wrought! Thou shalt come no nearer the King But if!5 thou grant me mine asking, By Him that me bought: The third part of the King’s gift That will I havé, by my thrift, Or further go’st thou not!”
+
+Sir Clegés bethought him then,
+“ My part is least betwixt these men, And I shall have nothing:
+For my labour shall I not get
+But it be a mealé’s meat,” Thus he thought sighing.
+9 Whether is here again contracted into a monosyllable, 10 The r here adds a syllable. See Note 4, page 26. 1 Won, way. First English ‘‘ wune,” practice, custom.
+18 Weed, dress. First English ‘‘ weed,” a garment, clothing. The word remains in ‘“ widow's weeds.”
+_ 13 Rede, advise. First English ‘“‘ re’dan,” to counsel, made its past tense “‘réd,” and participle ‘“‘re’den.” ‘‘ Redan,” to read, it Ere, decree, rule, made its past “‘rm’dde,” and its participle “ re‘ded.”
+4 Gan often served, a8 here, only to give more emphasis to the verb that followed ; and the inceptive sense was.seldom so strongly marked as to bear translation by the word “‘ began.” In First Engli “ gin,” meaning opeh, spacious, vast, from the root of the word “ yawn,” was used in. composition as. simply.intepsive: ‘‘feest,” firm ;. ‘ Al gareagn very firm. Although “ ginan,” to yawn, become spacious, past ‘ gaa,” is not related to the verb “‘ onginnan,”’ to begin, past “‘ ongan,”. I dm. not sure whether the use of one root as intensive may not, in some : degrees, have affected the use of the other. i But if, unless.
+98 CASSELL’S LIBRARY OF. ENGLISH LITERATURE.
+He said, “ Harlot, hast no tongue ?
+Speak to me and tarry not long, 350 And grant me mine asking;
+Or with a staff I shall thee wake
+That thy ribs shall all to quake, And put thee out headling.”’}
+Sir Cleges saw none other bot? But his asking grant he mot, And said with sighing sore: “‘ Whatsoever the King reward Ye shall have the third part Be it less or more.” 360 Up to the dais Sir Cleges went, Full soberly + and with good intent Kneeling the King before.
+Sir Cleges uncovered the pannier
+And shewed the King the cherries clear On the ground kneeling.
+He said, “‘ Jesu our Saviour
+Sent thee this fruit with honour On this earth growing.”
+The King saw these cherries new ; 370
+He said, ‘‘I thanké Christ Jesu, This is a fair newing.’’5
+He commanded Sir Cleges to meat,
+And after thought with him to speak, Without any failing.
+The King thereof® made a present And sent it to a lady gent ‘Was born in Cornewaile: She was a lady bright and shene,’ And also right well beseen, 380 Without any fail. The cherries were served through the hall, | Then said the King, that lord royal, “ Be merry, by my counséil ; And he that brought me this presént Fudl well I shall him content, It shall him well avail.”
+ee ee Oe ee ee ee me meee
+When all men were merry and glad Anon the king a squiér bade
+‘“‘ Bring now me beforn 390 The poor man that the cherries brought !” He came anon and tarried not,
+‘Without any scorn. When he came before the King On his knees he fell kneeling
+The lords all beforn. To the King he spake full still: “Lord,” he said, ‘‘ what is your will f
+I am your man free born.”
+2 Headting, headlong.
+* Bot (First English, ‘“‘b6t”), help, remedy, amends; as in “It boote not,” and such later phrases.
+_ % Bee Note 4, page 26.
+‘* The y in “soberly” runs into one syllable with the following vowel. So in Milton—‘ Though all our glory extinct and happy state” (Paradise Lost, i. 141).
+. 5 Newing, New-Year's gift.
+. $.Zhereof, out of them.
+7 BShene (Faw eet
+
+“T thank thee heartily,” said the King,
+“Of thy gift and presenting That thou hast now i-do. Thou hast hondéuréd all my feast, Old and youngé, most and least, And worshipp’d me also : Whatsoever thou wilt have, I will thee grant, so God me save, That thine heart standeth to.”
+He said, “ Gramércy, liegé. King,
+This is to me a comforting : I tell you sickerly
+For to havé land or lede®
+Or other riches, so God me speed, It is too much for me.
+But sith® I shall choosé myself,
+I pray you grant me strokes twelve . To deal where liketh me;
+With my staff to pay them all
+To mine advérsaries in the hall, For Saint Charitie.”
+
+Then answeréd Uthér the King,
+“JT repent of my granting That I to thee made.
+Good,” he said, ‘“‘ so mote I thee,!@
+Thou haddest better have gold or fee, More need thereto thou had.”
+Sir Cleges said, with a waunt,"
+‘‘ Lord, it is your owen grant, Therefore I am full glad.”
+The King was sorry theréfore,
+But nathéless he granted him there, Therefore he was full sad.
+Sir Cleges went into the hall
+Among the greaté lurdés all Withouten any more.
+He sought after the proud Steward,
+For to give him his reward Because he grieved him sore.
+He gave the Steward such a stroke
+That he fell down as a block Before all that therein were:
+And after he gave him other three
+He said, “Sir, for thy courtesy Smité me no more!”
+
+Out of the hall Sir Cleges went,
+More to pay was his intent Without any let.”
+He went to the Usher in a braid,"
+‘‘ Have here some strokés,” he said, When he with him met,
+§ Lede, people. First English ‘ leode2’ _ 9 Sith, since.
+400
+410
+420
+430
+440
+450
+10 So mote I thee, so may I thrive. First English “‘theon,” to.
+thrive ; ie theo,” I thrive.
+‘1 Waunt, shake of the head. First English “ wagian,” ion rag oF shake.
+Let, hindrance. 13 Braid, start. Old Norse “ br- gth, ” quick motion; ‘
+: 1
+to wake out of sleep, start. So in “ Genesis sl) iste tee Pharaoh had dreamt of the fat and Jean kine, it is mie “he tine
+‘abraid and woc in thogt.
+
+So that after and many a day ‘He would warn! no man the way, So grimly he him gret.? Sir Cleges said, “By my thrift, Thou hast the third? part of my gift As I thee behight.”’
+Then he went to the Portere, And four strokés he gave him there _ His part had he thereto,
+So that after and many a day
+He would warn no man the way Neither to ride neither go.
+The firsté stroke he laid him on
+He brake in two his shoulder-bone And his one arm thereio.
+Sir Cleges saidé, “‘ By my thrift,
+Thou hast the third part of my gitt, The covenant we made so.”
+460
+Sir Cleges kneeled before the King, For he granted his asking He thank’d him courteously. Specially the King him prayed To tell him why those strokes he paid To his men three.§ He said, “I might not come inward Till each I granted® the third part Of that ye would give me. With that I should have nought myself, Wherefore I gave them strokés twelf, Methought it best truly.”
+470
+480
+The lordés laughed both old and yeng, And all that weren with the King, ; They made solace enow. The King laughed [on till it was night ;]/ He said, ‘‘ This is a noble wight: To God I make a vow!” He sent after his [sore] Steward, ‘¢ Hast thou,” he said, ‘thy reward, [Or shall he pay more now ?”’ The Steward said, and he looked grim, ‘J think me now in debt to him For my taste of his bough.’ ]
+490 !
+The King was set in his parlour
+With mirth, solace, and great hondéur, Sir Cleges thither went.
+A harper sang a gest by mouth
+Of a knight was there by sooth, Himself verament.
+3 Warn, forbid. First English ‘“‘ wyrnan,” to forbid, to deny; . “warnian,” to take care, to warn. _. * Gret, greeted. First English ‘“ grétan.”
+* Here and in the two following stanzas third, as before, becomes a a dissyllable, by rolling the r. _ * Behight (First English “ behét.”), promised. a Tiere counts as two oe (ther-c6) in the metre by the rolling z v. ne Granted: ed after t was scarcely sounded, often it was not written. 804 pare in ‘ nermnenne ec “I fast and prayed for their intelli-
+- ; : ‘the words sii square brackets are substituted for “so not might.” quare bracket ‘indicate some alteration i” following lines of this
+
+Then said the King to the Harpér,
+‘‘ Where is knight Cleges? Tell me here, For thou hast wide i-went.
+Tell me the truth if thou can,
+Knowest thou aught of that man ¢” The Harpér said, “ Yea, i-wis.®
+‘«‘Sometimé, for sooth, I him knew,
+He was a knight of yours full true, And comely of gestare.
+We minstrels miss him sickerly
+Sith he went out of country, He was fair of statare.”’
+The King said to him, “‘ By mine head,
+I trow that Sir Clegés be dead, That I loved par amour.
+Wouldé God he were alive!
+I had him liever !° than other five, For he was strong in stour.”
+
+The King Uthér said to him than, ‘‘ What is thy name? tell me, good man, Now anon right.” ‘“‘T hight Sir Cleges, so have I blisse,’ My righté name it is i-wis ; I was your owen knight.” ‘s Art thou Sir Cleges, that served me, That was so gentil and so free, And so strong in fight >” ‘Yea, Sir Lord,” he said, ‘so mot I thee,” Till God in heaven had visit me Thus poverte hath me dight.”
+520
+The King gave him anon right All that ‘longed to a knight To rich his body with ; The Castle of Cardiff he gave him then. [What else is now beyond our ken; We have the pith.
+
+8 First English “ gewis,’’ certainly.
+9 Here the r in country makes it a word of three syllables. So Shakespeare i in “ Twelfth Nicht.” Act i., se. 2:—
+‘* Mine own'ces. =. -i0ldeth to mine hope The like of him. Know’st thou this count-r-y?” 10 Liever (First English “ ledfre’’), dearer. The v in words like aver, ever (o’er, e’er), having, evil, liever, devil (de’il), was often dropped in a panne making of any such word, as here, a monosyllable.
+1 Stour, battle. Old French “ estour ;”’ Icelandic “ styr.”
+18 So mot I thee, so may I thrive. See Note 10, page 28. Tt was a common form of asseveration. In the “ Vision of Piers Plowman,” when Avarice, preached to by Repentance, told of Mindeed, he added an oath, so might he thrive, that he would give up that sin. “Ac I swere now, so the ic, that gynne wil I "
+
+Lost lines had told, to close the song,  
+Of Clarice gentle, Cleges strong,  
+And all their kith,  
+How lands came back and love remained,  
+And trust in God the knight retained  
+To rich his spirit with. ]
+
+---
+
+https://archive.org/details/metricalromance01webegoog/mode/2up?q=cleges
+
+Metrical romances of the thirteenth, fourteenth, and fifteenth centuries:
+by Weber, Henry William, 1783-1818, ed
+
+Publication date 1810 vol III 
+
+
+Notes p345-6
+
+SIR CLEGES.
+V. 4, Fter,'] According to Geofirey of Monmouth, and the romance of Artour and Merlin, Uter-Pendragon was the youngest son of King Constance. The eldest son, Constantine, preferred a monk's life to that of a king, and was hence entitled Le Moine^ Aurelius Ambrosius, aikd his brother Uter, inherited the crown, which, however, was usurped during their minority by VortigeTn. For the further histo- ry of King Uther, I refer the reader to Mr Ellis's abstract of the romance of Merlin. (Spec, of Rom» !• 195, et seq.)
+
+7, Sir CiegesJ] A knight of this name is mentioned three times in Malory's Morte d' Arthur (Part I. chap. 96 ; Part III. chap. 139 and 146) ; but none of his deeds are recorded which could lead??? us to decide whether he was the hero mentioned in the text. He is not enumerated among the knights of the Round Table in JLeyland's list, printed in Robinson's Assertion of the Life, Actes, and Death of Prince Arthure, Lond. 1582; as quoted in ^^ tho British Bibliographer," I. 116.
+378^ . a lady gent
+Was born in CornewayleJ]
+This was Igema, first married to Gorlois, duke of Cornwall. King Uther haying been transformed by Merlin into the perfect semblance of the duke (who, in the mean time, was attacked, defeated, and slain by the king's forces)^ cohabited with her^ and begot the renowned Arthur upon her. After the news of her husband's death, she was married to Uther, and crowned queen.
+
+---
 
 
 A version of the tale also appeared in the popular American chilren's St. Nicholas Magazine
