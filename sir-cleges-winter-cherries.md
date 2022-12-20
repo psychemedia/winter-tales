@@ -1,7 +1,7 @@
 
 ## Sir Cleges and the Winter Cherries
 
-First heard: David Winfield, Winter Solstice Tales online, Devon Stroytellers
+First heard: David Heathfield, Winter Solstice Tales online, Devon Stroytellers
 
 As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but whent to King Arthur's court.
 
