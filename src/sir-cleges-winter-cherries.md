@@ -8,6 +8,8 @@ As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but 
 
 However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff. The commonly thrown insult at Sir Cleges by the corrupt officers of the castle was *churl* or "peasant".
 
+I'm not sure of the proununciation either. In one of the verse forms, there appears to be an attempt to rhyme *Clege* with *deeds*. However, in an old manuscript ([Middle English Breton Lays](https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-sir-cleges), ed. Anne Laskaya, Eve Salisbury), the spelling is *Clegys* rhymed wiuth *nedys*, which suggests *Clegg iss*?
+
 It seems the original tale can be found in a couple of 15th century manuscripts, although many of the 19th and early 20th century versions I found on an initial search seem to be included in American published collections of old English Tales.
 
 For example, a really concise and efficient telling of the tale appears in *Stories of Early England* by E. M. Wilmot-Buxton, published in 1906/7.
@@ -26,7 +28,7 @@ THE TALE OF SIR CLEGES
 
 THERE lived in the days of King Arthur's father a good knight named Sir Cleges. He was so kind and generous to everyone that after a time he had nothing left for himself and for Claris, his wife, and his little children. But still neither he nor his wife would despair, but hoped for better days. When Christmas-time came, however, Sir Cleges grew very despondent, for at that season he was wont to feed " both free and bond." On Christmas Eve he wandered about his garden feeling very sad, and inclined to grumble at his ill fate ; but his good wife came to him, and, putting her arms round him, kissed him warmly, and bade him come in to his solitary meal, and be glad in honor of the day. So he went in, and played with his children, and made merry with them, and on the morrow went to church. And as they returned, he went alone into his garden, and, kneeling down under a cherry-tree, all frost-bitten with the wintry cold, he thanked God for the many blessings he still had left. But when he pulled himself up by a bough of the tree, strangely enough the bough was green, and had ripe cherries growing upon it. This was very surprising, and Sir Cleges hastened to show them to his wife. She at once proposed that he should put the Christmas cherries in a basket, and take them as a present to King Uther, his old master, in his castle at Cardiff. So the knight put on his oldest clothes for the journey, and took a staff in his hand, so thai he looked like a poor beggar, and, with his little son by his side to carry the basket of cherries, set off for Cardiff.
 
-When they reached the gate of the castle, however, they found there a very surly porter, who threatened to break the poor man's head if he at- tempted to go in. So Sir Cleges called his son, and opened the basket, and showed the marvellous cherries to the man. When he saw them, and foresaw what great gifts they would draw from the King, he allowed Sir Cleges to enter, on condition that he promised him a third of what King Uther gave him.
+When they reached the gate of the castle, however, they found there a very surly porter, who threatened to break the poor man's head if he attempted to go in. So Sir Cleges called his son, and opened the basket, and showed the marvellous cherries to the man. When he saw them, and foresaw what great gifts they would draw from the King, he allowed Sir Cleges to enter, on condition that he promised him a third of what King Uther gave him.
 
 The knight agreed, and, passing in at the gate, soon came to the door of the hall ; and there stood the usher, grim and tall, with staff in his hand. He too spoke very roughly to the beggar, as he seemed to be, and only allowed him to pass the door on condition that he too received a third of the King's gift. Inside the hall the steward met him, and would have turned him out at once had not he seen the cherries and made the same bargain as the others.
 
@@ -73,8 +75,7 @@ the hawk of him. The clown was wary and refused : but by the threats of the ushe
 
 It is probable, that the novel of Sacchetti, as well as Sir Cleges, owed its origin to some French fabliau. The ingenuity of the trouveurs, in telling several stories upon the same original foundation, is well known to the readers of Barbazan and Le Grand. There is also a distant similarity between these stories and the fabliau, entitled " Le Dit du Buffet," printed by Barbazan, (Edit. 1808, Vol. III. p. 264.)
 
-The only copy of Sir Cleges extant, to my knowledge, is in a folio MS., lately added to the Advocates' Library, on paper, apparently of the beginning of the fifteenth century, and containing besides Mandeville's Travels, and Occleve's Speculum Regis. The end of Sir Cleges is imper-fect in the MS. ; but as only part of one stanza 
-seems to be wanting, the editor has attempted to supply the defect in the rough style of the original. His supplement will be found inclosed in brackets.
+The only copy of Sir Cleges extant, to my knowledge, is in a folio MS., lately added to the Advocates' Library, on paper, apparently of the beginning of the fifteenth century, and containing besides Mandeville's Travels, and Occleve's Speculum Regis. The end of Sir Cleges is imper-fect in the MS. ; but as only part of one stanza seems to be wanting, the editor has attempted to supply the defect in the rough style of the original. His supplement will be found inclosed in brackets.
 
 p329-353
 
@@ -326,13 +327,13 @@ Than seyd the lady with good chere
 " Latt vs fyll a panyer  
 " Of this that God hath sent :  
 " Tomorovn whan the day dothe spryng  
-" Ye schill to CardyfFe to the kynge,  
+" Ye schill to Cardyffe to the kynge,  
 " And yeve hym to present ;   
 " And seche a yefte ye may haue there,  
 " That the better wee may fare all this yere ;  
 " J tell you werament."  
 Sir Cleges gravnted sone thereto :  
-" To morovn to Cardiiffe will J goo,  
+" To morovn to Cardyffe will J goo,  
 " After your entent."
 
 On the moroun, whan yt was lyght,  
@@ -643,7 +644,7 @@ The styward seyd, with lok grym,
 The kynge seyd to hym than,  
 " What is thy name tell me, good man,  
 " Now anon rygh[t] ?"—  
-" J hight Sii' Cleges, soo haue J blysse !  
+" J hight Sir Cleges, soo haue J blysse !  
 " My ryght name yt ys, i-wysse ;  
 " J was your owyn knyght"—  
 " Art thou Sir Cleges, that servyd me,  
@@ -711,7 +712,7 @@ Translation of metrical romances from the French was a marked feature of our ver
 
 p24-30
 
-The reader of Early English should remember that words from the Norman-French, retaining much of their original pronunciation, have the accent on the last. syllable in such words as "hardy," "stature," and often on the last syllable of a participle, as " parting ;" also that syllables in such words were often distinctly pronounced, where in modern English they are run together, thus making three syllables of such a word as "cre-a-ture." In course of time the tendency of English accents upon syllables is to be transferred to an earlier one than that to which it first gave stress. In reading old verse we should place the accent where the measure tells us that it fell. The final e that represented old case-endings, &c., was usually sounded before a consonant, and dropped before a vowel. Except where errors of a copyist have marred the music, the most unpractised reader of an Early English poom who makes proper allowance for these differences will soon learn to preserve its rhythm. The pronunciation generally should be less slurred than it now is, and tend slightly to bring the vowel-sounds into accord with those of our neighbours over sea.
+The reader of Early English should remember that words from the Norman-French, retaining much of their original pronunciation, have the accent on the last syllable in such words as "hardy," "stature," and often on the last syllable of a participle, as " parting ;" also that syllables in such words were often distinctly pronounced, where in modern English they are run together, thus making three syllables of such a word as "cre-a-ture." In course of time the tendency of English accents upon syllables is to be transferred to an earlier one than that to which it first gave stress. In reading old verse we should place the accent where the measure tells us that it fell. The final e that represented old case-endings, &c., was usually sounded before a consonant, and dropped before a vowel. Except where errors of a copyist have marred the music, the most unpractised reader of an Early English poem who makes proper allowance for these differences will soon learn to preserve its rhythm. The pronunciation generally should be less slurred than it now is, and tend slightly to bring the vowel-sounds into accord with those of our neighbours over sea.
 
 SIR CLEGES.
 
@@ -904,9 +905,9 @@ Keep them out of strife!"
 The lady prayed for him again,  
 That God should keep him from pain  
 In everlasting life. 
- When service was done home they went,  
- And thankéd God with good intent,  
- And put away pensi. `[Pensi, thought. French " pensée."]`
+When service was done home they went,  
+And thankéd God with good intent,  
+And put away pensi. `[Pensi, thought. French " pensée."]`
 
 When he to his placé came,  
 His care was well abated then,  
@@ -1423,7 +1424,7 @@ For ten years did Sir Cleges hold his feast for charity's sake. But at the last 
 
 It befell that one Christmas, when Sir Cleges was in his sorry case, the King, dwelling at Kardyf, made a feast. As it drew towards noon of the appointed day, Sir Cleges, who formerly had sat at the King's table, but now was forgotten as if he had been dead, chanced to fall a-thinking on his lost fortunes ; he remembered how, with a free hand, he had wasted his rents and sold his manors, and great sorrow came upon him. He wrung his hands and wept, and all his pride was humbled. As he paced to and fro he heard the noise of the King's feast ; the sound of singing and carolling, and dancing, of pipes, trumpets, harps, psalteries, and lutes ; and at that his heart was utterly cast down.
 
-" Lord Jesus, King of Heaven," he prayed in his humility, " Thou hast made all things of nought : I thank Thee for the sound of this mirth. Even as now the King does, so did I formerly feast slave and free- man alike at this Thy season. All who came to me in Thy name wanted for nothing, were it rich meats or goodly drinks, and never did I lend for usury."
+" Lord Jesus, King of Heaven," he prayed in his humility, " Thou hast made all things of nought : I thank Thee for the sound of this mirth. Even as now the King does, so did I formerly feast slave and free-man alike at this Thy season. All who came to me in Thy name wanted for nothing, were it rich meats or goodly drinks, and never did I lend for usury."
 
 As he stood mourning, his good wife came to him and caught him in her arms. " My lord and true lover," she said, "I heard your words. It avails nought to make this lament ; I pray you cease, and thank God for all that He has sent. On this Christ's day put aside your sorrow. Go we to our meal now, and make blithe and merry as best we may."
 
@@ -1487,7 +1488,7 @@ The steward took the basket, and opened it. " Never saw I such fruit at this sea
 
 Sir Cleges saw nothing for it but to agree, and he answered with a sigh, " Whatsoever the King grants me, you shall have a third part, be it less or more."
 
-Up to the dais Sir Cleges went, and full soberly and with good intent knelt before the King. He un- covered the basket and showed the cherries, and said, "Our Saviour hath sent these to the King."
+Up to the dais Sir Cleges went, and full soberly and with good intent knelt before the King. He uncovered the basket and showed the cherries, and said, "Our Saviour hath sent these to the King."
 
 The King saw the fresh cherries. "This is a fair gift," said he, and bade Sir Cleges sit down to feast, meaning to speak with him thereafter. The cherries he sent in part to a fair lady in Cornwall, and in part divided them among his guests there in the hall.
 
@@ -1509,7 +1510,7 @@ The King was sad and sorry at this reward, but nevertheless he granted it. Sir C
 
 Out of the hall Sir Cleges "went to pay his other debts, and no man hindered him. He went to the usher, and, "Take your strokes," he said when he met him ; and he dealt him that which would make him forbid no man the way to the King for many a day afterwards, so grimly did Sir Cleges greet him. "You have there the third part of my reward," quoth Sir Cleges.
 
-Sir Cleges went to the porter and gave him four strokes also. The first broke his shoulder blade and his arm, and he gave him three more for his full share, so that he would stop no more entering for many a day. "You have the third part of my re- ward," quoth Sir Cleges, "according to our covenant."
+Sir Cleges went to the porter and gave him four strokes also. The first broke his shoulder blade and his arm, and he gave him three more for his full share, so that he would stop no more entering for many a day. "You have the third part of my reward," quoth Sir Cleges, "according to our covenant."
 
 The King was in his chamber with mirth and steward fell Down lihe a log," honour. Thither came Sir Cleges to thank King Other again ; and it chanced that a harper sang to the King the former deeds of a certain knight, even of Sir Cleges himself.
 
@@ -1574,7 +1575,7 @@ p128-132
 
 " ' If you will be a fool, then,' said the King, ' have your own way and go.'
 
-" Now while this little talk had been going on the steward had been turning all sorts of colors and wishing he was out of his bargain. And as soon as the King had told Sir Cleges that he might have what he had asked, he turned and struck the steward four good blows with his staff. Then he went to the door of the hall and treated the usher to his four blows, and then to the door of the cas- tle, where he gave the porter his third of the pay.
+" Now while this little talk had been going on the steward had been turning all sorts of colors and wishing he was out of his bargain. And as soon as the King had told Sir Cleges that he might have what he had asked, he turned and struck the steward four good blows with his staff. Then he went to the door of the hall and treated the usher to his four blows, and then to the door of the castle, where he gave the porter his third of the pay.
 
 " Then he started away from the castle, but he had not gone far when a page came running after him, to tell him that the King commanded him to come back. Sir Cleges went back to the hall and there he found an old minstrel playing on a harp and singing about him to the King. The minstrel had recognized Sir Cleges at the very first, because he was one of the many to whom he had been kind when he was rich. So as soon as he had gone the minstrel began to sing this song, which he was clever enough to make up on the spot, to tell the King who he was and what good things he had done.
 
@@ -1667,7 +1668,7 @@ As he walked, he passed under a cherry tree, and to his great marvel, not only w
 
 As he stood full of wonder, looking into the cherry tree, he heard a bird flutter, and he saw that in the tree sat a falcon — a finer bird he never had seen. And the bird was plucking at the cherries.
 
-Then Sir Cleges took his glove, and softly ap- proached, and drew his glove over the head of the bird, or ever it was aware, and so caught it.
+Then Sir Cleges took his glove, and softly approached, and drew his glove over the head of the bird, or ever it was aware, and so caught it.
 
 Now when he had done this, then he brake a branch of the cherry tree on which were green leaves and a bunch of seven ripe cherries all together, and he seated the falcon on the branch and conveyed it within.
 
