@@ -4,7 +4,7 @@
 
 As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but went to King Arthur's court. Here's the gist of the tale as I remember it:
 
-*Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent he and his wife Clarys had nothing. It was midwinter, bitterly cold, and the sound of the King's court could be heard, but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, dressed as a pauper. The first guard let him through but demanded a third of what the King would give in return. The usher(?) let him through, for a third. The steward let him through, for a third. The gift was given, Sir Cleges joined the feast, and was offered a reward. Twelve hits of the stick to be given justly. The steward, the doorman and guard wer beaten by Sir Cleges. Sir Cleges was recognised as an old loyal knight and rewarded.*
+> Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent he and his wife Clarys had nothing. It was midwinter, bitterly cold, and the sound of the King's court could be heard, but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, dressed as a pauper. The first guard let him through but demanded a third of what the King would give in return. The usher(?) let him through, for a third. The steward let him through, for a third. The gift was given, Sir Cleges joined the feast, and was offered a reward. Twelve hits of the stick to be given justly. The steward, the doorman and guard wer beaten by Sir Cleges. Sir Cleges was recognised as an old loyal knight and rewarded.
 
 However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff. The commonly thrown insult at Sir Cleges by the corrupt officers of the castle was *churl* or "peasant".
 
@@ -1805,3 +1805,7 @@ The queen's lips moved ; she was about to smile, when she observed a frown on th
 "This will not do," said he. "Again have you transgressed. There is distinctly a moral to this tale, and morals are what I particularly detest. No, Noyalen, he shall receive nothing for this. I shall insist on his telling us a more amusing story, or the crock of gold will most assuredly not be his."
 
 ```
+
+## Related Tales
+
+In terms of both structure and payoff, I am reminded of the tale "The Imperial Mangoes" in James Moseley's *A Caravan from Hindustan*, in which Birbal shows the King (Akbar) how he can get through three guards to steal mangoes from the royal mango tree by promising each guard "half of what I steal if you give one mango back to me". Birbal steals two mangoes...
