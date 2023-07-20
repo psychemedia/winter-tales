@@ -8,7 +8,7 @@ As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but 
 
 However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff. The commonly thrown insult at Sir Cleges by the corrupt officers of the castle was *churl* or "peasant".
 
-I'm not sure of the proununciation either. In one of the verse forms, there appears to be an attempt to rhyme *Clege* with *deeds*. However, in an old manuscript ([Middle English Breton Lays](https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-sir-cleges), ed. Anne Laskaya, Eve Salisbury), the spelling is *Clegys* rhymed wiuth *nedys*, which suggests *Clegg iss*?
+I'm not sure of the pronunciation either. In one of the verse forms, there appears to be an attempt to rhyme *Clege* with *deeds*. However, in an old manuscript ([Middle English Breton Lays](https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-sir-cleges), ed. Anne Laskaya, Eve Salisbury; also available as [Item 24, Sir Cleges](https://d.lib.rochester.edu/teams/text/shuffelton-codex-ashmole-61-sir-cleges) by George Shuffelton (Editor) from: Codex Ashmole 61: A Compilation of Popular Middle English Verse  2008), the spelling is *Clegys* rhymed with *nedys*, which suggests *Clegg iss*?
 
 It seems the original tale can be found in a couple of 15th century manuscripts, although many of the 19th and early 20th century versions I found on an initial search seem to be included in American published collections of old English Tales.
 
@@ -1805,6 +1805,12 @@ The queen's lips moved ; she was about to smile, when she observed a frown on th
 "This will not do," said he. "Again have you transgressed. There is distinctly a moral to this tale, and morals are what I particularly detest. No, Noyalen, he shall receive nothing for this. I shall insist on his telling us a more amusing story, or the crock of gold will most assuredly not be his."
 
 ```
+
+## Further Links
+
+See also:
+
+- https://middleenglishromance.org.uk/mer/51
 
 ## Related Tales
 
