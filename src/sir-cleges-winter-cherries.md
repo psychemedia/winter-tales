@@ -8,11 +8,13 @@ As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but 
 
 However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff. The commonly thrown insult at Sir Cleges by the corrupt officers of the castle was *churl* or "peasant".
 
-I'm not sure of the pronunciation either. In one of the verse forms, there appears to be an attempt to rhyme *Clege* with *deeds*. However, in an old manuscript ([Middle English Breton Lays](https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-sir-cleges), ed. Anne Laskaya, Eve Salisbury; also available as [Item 24, Sir Cleges](https://d.lib.rochester.edu/teams/text/shuffelton-codex-ashmole-61-sir-cleges) by George Shuffelton (Editor) from: Codex Ashmole 61: A Compilation of Popular Middle English Verse  2008), the spelling is *Clegys* rhymed with *nedys*, which suggests *Clegg iss*?
+```{admonition} Pronunciation
+In one of the verse forms, there appears to be an attempt to rhyme *Clege* with *deeds*. However, in an old manuscript ([Middle English Breton Lays](https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-sir-cleges), ed. Anne Laskaya, Eve Salisbury; also available as [Item 24, Sir Cleges](https://d.lib.rochester.edu/teams/text/shuffelton-codex-ashmole-61-sir-cleges) by George Shuffelton (Editor) from: Codex Ashmole 61: A Compilation of Popular Middle English Verse  2008), the spelling is *Clegys* rhymed with *nedys*, which suggests *Clegg iss*? From loolking at Middle English pronuniciation guides, I have come round to thinking that `kledjiss` or `kledges` is probably the way to go...
+```
 
 It seems the original tale can be found in a couple of 15th century manuscripts, although many of the 19th and early 20th century versions I found on an initial search seem to be included in American published collections of old English Tales.
 
-For example, a really concise and efficient telling of the tale appears in *Stories of Early England* by E. M. Wilmot-Buxton, published in 1906/7.
+A really concise and efficient telling of the tale appears in *Stories of Early England* by E. M. Wilmot-Buxton, published in 1906/7.
 
 ```{admonition} In *Stories of Early England*, E. M. Wilmot-Buxton, 1906/1907
 :class: dropdown
@@ -590,7 +592,7 @@ Wythout any faylyuge.
 
 The kynge therof made a present,  
 And sent yt to a lady gent  
-Was bom in Cornewayle :  
+Was born in Cornewayle :  
 She was a lady bryght and schene  
 And also ryght will besene,  
 Wythout any fayle.  
@@ -689,7 +691,7 @@ Sir Cleges seyd, " Be my threfte,
 " Thowe has the thyrd parte of my yefte ;  
 " The couenaunte we made soo." 
 
-The kynge was sett in his paflor,  
+The kynge was sett in his parlor,  
 Wyth myrth solas and onor ;  
 Sir Cleges thedyr went.  
 An harpor sange a gest be mowth  
@@ -698,7 +700,7 @@ Hymselffe werament.
 Than seyd the kynge to the harpor ;  
 " Were ys knyght Cleges, tell me herr,  
 " For thou hast wyde i-went.  
-" Tell mie trewth yf thou can,  
+" Tell me trewth yf thou can,  
 " Knowyste thou of that man ?"  
 The harper seyd, " Yee, J wysse :
 
@@ -799,7 +801,7 @@ A version of the same poem presented using a rather more "modern" form of Englis
 
 ```{admonition} In *Shorter English Poems*, Henry Morley, 1870
 :class: dropdown
-https://archive.org/details/dli.ministry.06321/page/23/mode/2up?q=cleges
+https://archive.org/details/dli.ministry.06321/page/23/mode/2up
 
 Shorter English Poems
 by Morley, Henry
@@ -931,10 +933,10 @@ Many carols and great dancing ;
 On every side he heard singing,  
 In every place trulie.  
 He wrung his hands and wepéd sore, 
- Muché moané made he there,  
- Sighing piteouslie.
+Muché moané made he there,  
+Sighing piteouslie.
 
-"Lord Jesu,’"’ he said, "heaven's king,  
+"Lord Jesu," he said, "heaven's king,  
 Of nought Thou madest allé thing,  
 I thank Thee of thy sonde ; `[Sonde, that which is sent, a gift. 'I thank Thee for thy gift." So the author of " Piers Plowman" makes Conscience say to Meed, who had quoted half a text to get Scripture warrant for ascribing victory and honour to those who gave money, that the soul which receives the gift is by so much in bondage: " The soule that the sonde taketh bi so moche is bounde."]`  
 The mirth that I was wont to make.  
@@ -1048,7 +1050,7 @@ A little bough he gan off slive, `[Off slive, to slive off. First English " slif
 And thought to shew it to his wife,  
 And 1n he it brought.
 
-"To, dame' Here is novelty'  
+"Lo, dame ' Here is novelty'  
 In our garden of a cherry-tree  
 I found it sickerly  
 I am afeard it 1s tokening  
@@ -1149,7 +1151,7 @@ The Usher lift the lid smartly,
 And saw the cherries verily ;  
 He marvelled in his mood.
 
-The Usher said,  "By Mary sweet,  
+The Usher said, "By Mary sweet,  
 Churl, thou comest not in yet  
 I tell thee sickerly,  
 But thou me grant, without leasing,  
@@ -1274,7 +1276,7 @@ To mine advérsaries in the hall,
 For Saint Charitie."
 
 Then answeréd Uthér the King,  
-"JT repent of my granting  
+"I repent of my granting  
 That I to thee made.
 Good," he said, " so mote I thee, `[So mote I thee, so may I thrive. First English "theon," to.
 thrive ; "ic theo," I thrive.]`  
@@ -1407,7 +1409,7 @@ To rich his spirit with. ]
 
 ```
 
-A few short years later, a narrative version of the tale appeared in the popular American children's St. Nicholas Magazine:
+A simpler narrative version of the tale has previously appeared in the popular American children's St. Nicholas Magazine:
 
 ```{admonition} In *St Nicholas Magazine*, Arthur Guiterman, 1873
 :class: dropdown
@@ -1499,9 +1501,9 @@ Now the king came down from the dais and clasped both Sir Cleges's hands in his 
 
 ```
 
-Narrative versions that followed the verses rather more closely also appeared, some with illustrations, as in the following case:
+Other narrative versions appeared with illustrations, as in the following case:
 
-```{admonition} In *A Wonder Book of Romance*, ??, 1907
+```{admonition} In *A Wonder Book of Romance*, F. J. Harvey Darton, 1907
 :class: dropdown
 
 https://archive.org/details/wonderbookofoldr00dart/page/66/mode/2up
@@ -1683,7 +1685,7 @@ p128-132
 
 ```
 
-And finally, and as ever, the Reverend Sabine Baring Gould waxed rather more lyrical in his retelling of the tale in *The Crock of Gold*, published in 1899. As with many of his retellings, rather than provide a purely narrated version, or a purely metrical version, his text combines narrative elements interspersed with verses:
+And finally, as ever, the Reverend Sabine Baring Gould waxed rather more lyrical in his retelling of the tale in *The Crock of Gold*, published in 1899. And as with many of his retellings, rather than provide a purely narrated version, or a purely metrical version, his text combines narrative elements interspersed with verses:
 
 ```{admonition} In *The Crock of Gold*, Sabine Baring-Gould, 1899
 :class: dropdown
