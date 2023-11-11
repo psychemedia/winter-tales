@@ -780,6 +780,73 @@ The only copy of Sir Cleges extant, to my knowledge, is in a folio MS., lately a
 
 ```
 
+A more complete version of the Sacchetti tale can be found in Mary Steegman's translation *Tales from Sacchetti*, 1908:
+
+```{admonition} *Tale 66 (cxcv)* in *Tales from Sacchetti*, Steegmann, 1908:
+:class: dropdown
+https://archive.org/details/talesfromsacchet00sacciala/page/238/mode/2up
+
+Tales from Sacchetti;
+by Sacchetti, Franco, ca. 1330-ca. 1400; Steegmann, Mary G
+
+Publication date 1908
+
+pp. 238-241
+
+66.
+
+(cxcv)
+
+*A countryman of France catcheth a falcon belonging unto King Philip of Valois, and a master usher of the king, desiring to have a part of the reward, receiveth twenty-five blows.*
+
+THE remembrance of a countryman of France hath come into my mind, persuading me to describe a subtle trick which he used towards a master usher of King Philip of Valois, because with the eagerness of avarice he endeavoured to take from him that which the King had commanded should be given unto him. It chanced that during the reign of this king, and when he had made his dwelling-place in Paris, he possessed a falcon which in beauty and goodness surpassed all falcons which had ever been in his court ; and it had bells of gold and of silver all enamelled with the lilies of the royal coat-of-arms. The King being desirous, as ofttimes happened, of going forth to take his pleasure with these or the other birds or dogs, and to see the birds fly, he came to a place where there were very many partridges, and the king's falconer, who had it upon his hand, let fly this falcon at a partridge and the falcon seized it. Going a little further, he let fly at another, but the bird did not seize it, whatever might be the reason, (whether ill-treatment done unto the falcon, or other cause,) and whereas it used to be so docile that always when it seized not its prey it returned from the air to perch upon the fist, this time the falcon did just the contrary, and flew so high and so far away that it was lost to sight. Whereupon the king, seeing this, sent some eight of his grooms and the falconer in pursuit of the falcon in order that they might recover it. And so they went in divers directions, consuming eight days and finding nothing whatever, and they returned to Paris to report this unto the king. Wherefore the king became sad, because he was a valiant king and this was a noble falcon. And having waited a good while and the falcon not having been brought back by any one who had taken it, he caused a proclamation to be made that whoever should take that falcon and present it unto him again should have of him two hundred francs, and that he who caught it and did not bring it back should be hanged upon the gallows. And thus the noise and fame of the thing went forth, and when, about a month later, the falcon came into the neighbourhood of and perched upon a tree, the aforesaid countryman, whilst working in the field at the foot of the tree, heard the bells, and when he approached almost in jest and showed his rough and horny hand with an allurement fallen into disuse, the falcon came on to his hand. On feeling the grip of its talons the countryman was vexed, and being a man but little skilled in this business it seemed unto him a perplexity. Nevertheless, seeing the bells with the royal arms and having two daughters to marry, as he had heard of the proclamation he took hold of the jesses and threw down his spade, and going towards his house he cut off a cord from an ass's pack, and fastening it round the falcon's jesses, he tied it to a stake. And reflecting upon who he was, and how little fitted he was to carry the bird to Paris into the presence of the king, he was all downcast. At this moment a master usher of the king, passing before the man's house upon some business or other, heard the bells and said, " Thou hast caught the king's falcon ! "
+
+The man replied : " I do believe I have."
+
+Then the usher asked the bird of him, saying, " Thou wilt spoil it if thou dost carry it ; give it unto me."
+
+The peasant answered : " What ye say is very true ; but may it please you not to take away from me that which Fortune hath given unto me ; I will carry it myself as well as I am able."
+
+The usher used all his endeavour with good words and with threats to obtain it from the peasant, but with no avail ; wherefore he said :
+
+" See now, if thou wilt not do this for me, then render me another service. I am in the king's service, and I will do well by thee in whatsoever I am able, and thou must promise to give unto me the half of that which the king shall bestow upon thee."
+
+The peasant made answer, " I am content," and he promised.
+
+Then the usher returned to Paris. The countryman found a cloth glove which was all torn, and he sent unto a friend of his in a neighbouring village who took pleasure in birds of this kind, and prayed him he would lend him a hood. Then, having fed the falcon and put the hood upon it, he set out upon his way ; and with much labour, because he had never before carried such a thing, and because the peasant had caught a nobler creature than himself, he came to Paris into the presence of the king. When the king saw him he rejoiced greatly because the falcon was found, and he laughed heartily to see how well it sat upon the countryman's hand. Wherefore the king said : " Ask of me whatsoever thou wilt."
+
+Then the peasant replied :
+
+" My Lord the King, this falcon came on to my hand as it pleased God ; I took it as well as I was able, and the gift I ask of you is, that ye cause to be given unto me fifty blows with sticks or whips."
+
+The king marvelled and asked the reason of this request. Then said the peasant :
+
+" Seeing how that such a one, your master usher, was desirous that I should promise him the half of whatsoever your Holy Crown should bestow upon me, cause now to be given twenty-five blows to him and twenty-five to me. And notwithstanding that I am a poor man and have need of other things from your lordship in order that I may marry my two daughters, I shall depart much more contented receiving that which I have asked and seeing this man receive that which he deserveth (although I must needs have like unto him), than if ye gave me of your gold and your silver."
+
+The king, like a wise man, hearkened unto the words of the foolish peasant, and determining to send him away satisfied with justice, he said unto his servants, "Call me that master usher." He was called immediately, and when he was come to where the king was, the king asked of him :
+
+"Wert thou in that place where this man found the falcon ? "
+
+The usher replied : " Ouy, Monsignore le Roi."
+
+Said the king : " Why didst not thou take it in charge ? "
+
+" This peasant would not consent," answered the usher.
+
+Then the king returned: "Rather was it thine avarice for desiring to have the half of the gift he should receive."
+
+And the peasant, on hearing this, cried : " Thus it was, my lord ! "
+
+" And I," said the king, " do bestow upon this peasant fifty lashes upon his naked flesh, of which, as thou didst agree with him, thou shalt have twenty-five."
+
+And he commanded his executioner instantly to undress the usher and carry out the sentence, and thus it was done. Then the king caused the usher to appear before him and the peasant, and said unto him : " I have bestowed upon thee the half of the gift, and have fulfilled the agreement thou hadst with this knave ; the remainder will I not give unto thee." But he said unto one of his attendants : " Go thou and see that two hundred francs are given unto this man, so that he may marry his daughters ; and henceforth come thou to me when thou hast need of aught, for I will always succour thy necessity."
+
+So the peasant departed with good hap, and the master usher made himself of these lashes an armour of honesty, because he had sought his own good rather than that of the king.
+
+Great was the justice and the wisdom of this king. But no less a thing was this worthy request, (because it issued from the mouth of a peasant, and truly from a gentle mind, as one might say,) for rewarding the cupidity of the man who was never again in King Philip's favour as he had been before.
+
+```
+
 A comprehensive set of notes on the tale appear in the *Introduction* to G. H. McKnight's *Middle English humorous tales in verse*, c1913.
 
 ```{admonition} Introduction to *Middle English humorous tales in verse*, George McKnight, c1913
