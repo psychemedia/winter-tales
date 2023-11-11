@@ -50,7 +50,107 @@ From the Old English Metrical Poems. Thirteenth century.
 
 ```
 
-Poking around, it looks as if the *Old English Metrical Poems. Thirteenth century.* refers to *Metrical romances of the thirteenth, fourteenth, and fifteenth centuries* by Henry Weber, published in 1810:
+So what, then, was this *Old English Metrical Poems. Thirteenth century*? Jessie L. Weston's *Sir Cleges. Sir Libeaus Desconus. Two Old English metrical romances rendered into prose*, 1902, gives a prose version of the original metrical poem:
+
+> Of the two romances contained in this volume, the first — *Sir Cleges* — scarcely, perhaps, deserves the name of a romance ; it has rather the character of a *lai* or *fabliau* the tale being short and somewhat compressed in style, and the final incident distinctly humorous in character. It exists in a unique paper MS. of the fifteenth century, preserved in the Advocate's Library, Edinburgh, from which it was printed by Weber in the first volume of his *Metrical Romances*.
+
+Weston continues:
+
+> Though lacking in the grace and charm of the French *lais* the story of Sir Cleges is by no means wanting in interest ; the simple faith and trust of the poverty-stricken knight, and the miraculous succour vouchsafed to him, contrasted with the somewhat rough humour of the closing scene, have a piquant and by no means unpleasing effect. The author is unknown, but the edifying character of the tale might lead to the conjecture that it was the work of an ecclesiastic gifted with a sense of humour. Slight as it is, the story seemed worth preserving, especially in a volume intended for Christmas publication.
+
+```{admonition} In *Two Old English metrical romances rendered into prose*, J. L. Weston, 1902
+:class: dropdown
+
+https://archive.org/details/SirClegesLibeausDesconusWeston/page/2/mode/2up
+
+Sir Cleges. Sir Libeaus Desconus. Two Old English metrical romances rendered into prose by Jessie L. Weston. With designs by Caroline M. Watts
+by Weston, Jessie Laidlay, 1850-1928
+
+Publication date 1902
+
+pp. 3-18
+
+Listen, lordings, and ye shall hear of the fathers that went afore us ; hardy men they were and valiant. 'Twas in the days of King Uther, who was father unto King Arthur (fair was he to look upon) ; he had a knight, hight Sir Cleges, one of the Round Table; none was there doughtier of deeds. He was a man of tall stature, thereto full fair of feature, and withal of great might. A more courteous knight than he might not be found throughout the realm, so gentle was he and free of hand. They that had wandered in lands wasted by war, and were fallen into poverty, to them he gave both gold and fee; the poor would he succour, and do wrong to no man.
+
+Gentle of manner was Sir Cleges, and held open table to all who were fain to visit him, for he had great plenty. A fair wife had that knight, never a better was there in life, and passing merry of countenance. Dame Clarys was that lady hight ; she was a good lady assuredly, and ever of joyful mood ; she gave alms right freely to the poor, and cherished many; no man, rich or poor, bare ill-will towards them, for they ever did right.
+
+Every year at Christmastide would Sir Cleges hold a great feast and royal, even as if he were a king, in honour of the day ; throughout all the land was there no man, rich or poor, who would say nay when bidden thereto. Nor would the minstrels be behind, for they will ever be where they may find most mirth ! Nor when the feast was done should they get them gone without largesse great and good ; horses, robes, rich rings, gold, silver, and many a thing beside did they have to the amending of their mood.
+
+Ten years did Sir Cleges hold such feast, to the honour of Holy Mary, that Maiden mild, and of Him who died on the Rood, and then did his goods begin to wax scant by reason of his much spending, that knight of gentle blood. Yet would not Sir Cleges be let from holding his Christmas feast, but set his manors in pledge (thinking well to redeem them), and so did he feast knight and squire full many a year for the honour of God Almighty till, sooth to say, it came to pass at the last that all his goods were spent, and he had but little left. Yet though it were his last penny would not that good knight stint of holding feast, for that he hoped in God ; and thus did he, right royally, till that his manors were all gone and but one was left to him, and that of such little worth that he and his wife might scarce live thereon. His men, who were proud of mood, began to forsake him on every side ; no man would dwell with him, but he was left with his wife and children twain ; then was Sir Cleges in great woe, and bemoaned himself right bitterly.
+
+Now it befell on Christmas Eve that the king, who dwelt beside Kardyf, bethought himself of the season, and ordained a great feast for all in his hall `[Here, and in the concluding passage, the M.S. appears to be defective, and I have added the passages italicised, in order to avoid adruptness aud dislocation of the narrative. —J. L. W.]` *but Sir Cleges (whose manor lay hard by the borders of Kardyf) was not bidden thereto, for 'twas many a year since the king had heard speech of him, and he deemed well that he was already dead*. But that good knight, when it drew towards noon, fell on swooning, thinking how it behoved him to make mirth, and how he had sold and lost his manors and his fair rents. Bitter sorrow did he make ; he wrung his hands and wept sore for that his pride was brought thus low.
+
+As he walked up and down, sighing sore, Sir Cleges heard the sound of divers minstrelsy, trump, pipe and clarinet; harp, lute and guitar ; cithole and psaltery ; on every side he heard the voice of singing, of caroles and of fair dancing ; then did Sir Cleges wring his hands and weep, sighing right piteously : " Lord Jesu," he quoth, " King of Heaven, who hast made all things of naught, I thank Thee for these Thy good tidings; aforetime was I wont at this time to make merry for Thy sake ; bondman and free did I reed alike ; all that came to me in Thy name wanted for naught that was in my lands, rich meats and good drinks, the best that might be, by the Rood — never did I lend my goods upon usury." As he thus stood and made lament, his good wife drew nigh and clasped him in her arms; she kissed him with gladsome cheer. " My lord," she said, " my true comrade, I heard your speech ; ye see well it helpeth naught to make moan, therefore I pray ye cease and put away your sorrow, and thank God of His love for all that He hath sent. For Christ's sake I pray ye think no longer of the griefs that beset ye, for honour of this day, wherein every man should rejoice. Therefore be no more sad, but think on what I say. Go we to meat forthwith, and let us be blithe and joyful as best we may ; truly I hold this for the best, for your meat is all ready, and I trust well to your liking."
+
+"That will I," quoth the knight, and turned him with her, and somewhat amended his mood. Yet he was heavy at heart, but she comforted him more and more to the setting aside of his sorrow, so that he began to wax blithe, and wiped away the tears that ran adown his cheeks. Thus they washed and went to meat with such victuals as they might get, and made them merry together.
+
+When they had eaten, sooth to say, they passed the day in such mirth as they might ; they made sport with their children, and after supper, when the night fell, they gat them to bed.
+
+On the morrow they betook them to church, to do God service, as is both reason and right. Sir Cleges, he kneeled low on his knee and prayed unto Jesu Christ for his wife so dear. "Gracious Lord," he said, "have mercy alike on my wife and my children, and keep them far from strife." The lady, too, prayed for her husband that God should keep him from sorrow and bring him to life everlasting. When that the Mass was done they gat them home again, giving thanks of good heart to God, and put away care from their thoughts.
+
+When Sir Cleges came again to his place, he had abated him somewhat of his sorrow and set it aside. Therewith he caused his wife and his children to go before him, and betook himself alone into the garden, and there did he kneel down and pray to God surely, thanking Him from his heart for the poverty and the want which He had sent upon him. When as he thus kneeled low and made his prayer beneath a cherry-tree, a bough smote him on the head, and he arose up quickly and knelt no longer, for even as he caught the bough in his hand he found green leaves thereon and berries beside. Quoth the knight, "Dear God in Trinity, what manner of berries may these be which grow thus at Christmastide ? Never before saw I tree that bare fruit at this season." He thought to taste the fruit and spare not, and put one into his mouth. Lo ! the flavour was such that never cherry that he had tasted since that he had grown to manhood was to be compared therewith.
+
+Sir Cleges brake off a little bough, thinking to show it to his wife, and brought it to her. " Lo ! dame, see here a marvel ! On a cherry-tree in our garden did I find it growing. I fear me lest it be the foretoken of harm to follow ; so it thinketh me forsooth ! Yet, whether we have less or more, let us thank our God therefor, for truly so doth it seem fitting."
+
+Then the lady spake of joyful cheer and said, " Fill we a basket of this which God hath now sent to us ; to-morrow, when the day dawneth, ye shall to Kardyf, to the king, and bear this for a present. It may well be that ye have at his hand such a gift that we fare the better throughout the year, so I tell ye verily." The knight granted her prayer. " To-morrow," he quoth, " I will to Kardyf at your will."
+
+On the morrow, when it was light, the lady made ready a basket, and called unto her her eldest son, "Take up this goodly basket," she said, " and bear it forth lightly with thy father." Then Sir Cleges took unto him a staff, no horse had he, saith the book, wherewith to ride on his way, neither steed nor palfrey, but a staff must needs be his hackney, as befitting a poor man.
+
+Thus the good knight and his gentle son went on their way to Kardyf all on this Christmas Day ; to the castle they came in safety, even as men made ready for meat, and Sir Cleges verily thought to enter. But he was poorly clad and in simple array, and the porter spake roughly, "Churl, withdraw thee speedily and without delay, so do I rede thee, else, by God and Holy Mary, I shall break thine head for thee. Go thou, stand in the beggar's row, an thou come further I shall give thee such a clout as thou shalt rue well ! "
+
+" Good sir," quoth the knight, " I prithee let me enter, believe me without a doubt I have brought unto the king a gift from Him that hath made all things of naught. Look thou here !"
+
+With that the porter went unto the basket and raised the lid and looked upon the cherries; well he wist that he who brought such offering unto the king should receive a goodly gift : he quoth, "By Him who bought me thou comest not in hither, as I be a mortal man, save that thou grant me the third part of all that the king give thee, be it silver or gold ! " Sir Cleges said, " Thereto I agree," and with that the porter bade him pass without further hindrance.
+
+As he went in swiftly the usher stood at the hall-door, with his staff raised as he were fain to smite Sir Cleges. " Go back, thou churl ? " quoth he, " apace, and tarry not, else will I grant thee no grace, but will smite thee on every limb, head and body, if thou make more pressing ! "
+
+" Good sir," quoth Sir Cleges, " for the love of Him who made mankind, cease this wrathful mood. I bring here a gift from Him who made all of naught, and died on the Rood ; this night did it grow in my garden ! Behold whether I speak false or true, they be fair and good !" With that the usher lift up the lid and beheld the berries, and marvelled much within himself -
+
+Quoth the usher, "By sweet Saint Mary, churl, thou goest no further (that do I tell thee of a truth), but that thou grant me without fail the third part of thy guerdon whenas thou comest hither again."
+
+Sir Cleges saw he might do no otherwise, naught else would he have : with heavy cheer he took his son and his basket, and went his way into the hall. The steward, in costly weed, walked there among the lords, he gat him to Sir Cleges boldly and quoth, " Who made thee so hardy as to come into this hall? Thou art overbold, churl ! I rede thee, get thee hence with thine old clothes speedily."
+
+Quoth the knight, "I bring hither a present from our Lord, who bought us full dear and bled upon the Rood." He proffered the basket unto the steward, and pulled out the pin as smartly as might be. Quoth the steward, " By Holy Mary, since I was born saw I never the like at this season of the year. Thou shalt come no nigher to the king save that thou grant me mine asking — by Him that bought me I will have the third part of the king's guerdon, or thou comest no further."
+
+Then Sir Cleges bethought him, "My share is lost 'twixt these men, and I shall have naught ; an I have a meal for my pains, 'tis all I may look for" — thus he bethought him, sighing. Quoth the steward, " Rascal, hast no tongue ? Speak to me, and grant me mine asking without longer tarrying, else with my staff I shall wake thee, making thy ribs to quake, and put thee out headlong." Sir Cleges saw that there was none other remedy save that he grant his asking, and said, sighing sore, " Whatsoever the king's guerdon, be it less or more, ye shall have the third part thereof," Then soberly, and with good intent, the knight went up to the dais and knelt low before the king.
+
+Sir Cleges uncovered the basket, kneeling low, and showed unto the king the bright red cherries, saying : " Jesus, our Saviour, sent thee this fruit with honour, causing it to grow upon the ground." The king looked upon the fresh cherries, and quoth, " I thank Christ Jesus, of a sooth 'tis a fair gift for a New Year." He commanded the knight to sit down to meat, thinking to speak with him thereafter.
+
+Of certain of the cherries King Uther made a present and sent it unto a gentle lady of Cornwall, a bright and lovely lady she was, and withal of good repute. The rest he bade be served throughout the hall.
+
+Quoth the king, that royal lord, "I counsel ye all that ye make merry, and he that brought me this present it shall avail him right well ; full well shall I content him."
+
+When all were merry and glad, spake the king unto a squire, " Bring now hither before me the poor man who brought the cherries." Sir Cleges tarried not but came anon, and fell low on his knees before the king and his lords, saying mildly unto the king, " Lord, what may be your will ? I am your man freeborn." " I thank thee heartily," said King Uther, "of the gift and the present which thou hast now brought ; through it hast thou honoured all my feast, old and young, great and small, and done me great worship. Whatsoever thine heart desireth I will grant thee for the asking — so may God save me ! "
+
+Quoth the knight, " Gramercy, noble king, this is a comforting unto me. I tell ye, of a surety, land or folk or other riches, that were over much for me, but sith that I may choose myself, I prithee of thy clemency that thou grant me twelve strokes, to deal where it liketh me best — to pay them all with my staff to mine adversaries here in the hall."
+
+Then answered King Uther, " I repent me of the grant that I made to thee. By heaven, thou had'st better have gold or fee, thou hast more need thereof."
+
+Sir Cleges spake boldly, " Lord, 'tis your own granting, and thereof am I right glad." The king was sad at heart, but nevertheless he granted him that which he desired.
+
+Straightway Sir Cleges betook him to the hall, among the great lords, and sought out the proud steward to give him his reward, since that he had so sorely grieved him. He gave the steward such a stroke that he fell as a log before them all ; after, he gave him the other three, till he cried, " Sir, of thy courtesie smite me no more." Out of the hall went Sir Cleges, with intent to pay more without let or hindrance ; he went swiftly to the usher, " Have here some strokes," he said when they met, — thereafter for many a day that usher forbade no man entrance, so grimly did he greet him !
+
+Sir Cleges said "By my troth thou hast the third part of my guerdon, even as I promised thee."
+
+Then went he to the porter, and four strokes he gave him, his full share; for many a day that porter would forbid no man entrance, came he ahorse or afoot. The first stroke Sir Cleges dealt him he brake his shoulder-bone and one arm ; the knight quoth, "By my troth, thou hast now the third part of my guerdon, even the covenant that I made with thee ! "
+
+The king was set in his parlour with honour, mirth and solace. Sir Cleges went thither, and as he came a minstrel sang before the king the gest of a knight, even of himself. The king spake to the harper, " Where is knight Cleges ? Tell me now, for thou hast journeyed far and wide ; tell me the truth, knowest thou aught of that man ? " Quoth the harper, " Yea, I knew him aforetime, he was a true knight, and of comely presence ; we minstrels miss him sorely since that he departed from this land, he was fair of stature and free of hand."
+
+The king said, " By my beard, I trow Sir Cleges be dead, I loved him much ; would God he were alive, I had liever have him than any other five, for he was doughty at need." Sir Cleges kneeled low before the king, and thanked him courteously for that he had granted his boon. Then the king prayed him to say wherefore he had dealt those strokes to three of the king's men. The knight quoth, " Since that I might not enter till that I had granted to each the third part of all which ye should give me : with that I should have naught left for myself ; wherefore I chose twelve strokes, for verily it seemed unto me better so ! "
+
+Then old and young, and all who were with the king, laughed loudly and made much solace thereof. The king might scarce stay his mirth, he quoth, " I vow by Heaven this is a doughty fellow!" He sent unto his steward. " Hast thou," he said, " thy reward ? Christ, 'tis a man to praise ! "
+
+The steward made answer grimly, " May the devil burn him on a lowe ! " Then quoth King Uther, " Tell me thy name, good man, here anon." " Sir Cleges am I night who aforetime was your own true knight, that is my rightful name."
+
+" Art thou Sir Cleges, who served me so truly ? He who was so courteous and so free of hand, and so strong in fight ? "
+
+" Yea, my lord, that man was I, till that God in heaven visited me with sore poverty,"
+
+Anon did the king give him all that belonged unto a knight, to enrich his estate — the fair castle of Kardyf, with many more gifts, that hereafter he might live merry and joyful. The knight betook him to Dame Clarys his wife, fairer lady was none alive, and *shewed her all that had befallen him in the king's hall, the ill-will of the three kings men, the guerdon that they had won therefor*, and the fair gifts with which the king had dowered him. Thereafter did Sir Cleges and his good wife live together in joy and bliss. May Mary, that fair Virgin, guard their souls, and the souls of all ye who have hearkened unto this my tale.
+
+```
+
+So how does this compare to the *Metrical romances of the thirteenth, fourteenth, and fifteenth centuries* as published by Henry Weber in 1810:
 
 ```{admonition} In *Metrical romances*, Henry Weber, 1810
 :class: dropdown
