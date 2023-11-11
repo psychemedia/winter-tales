@@ -2,17 +2,15 @@
 
 *First heard: David Heathfield (Exeter Storytellers), Yuletide Tales online, Dartmoor Storytellers, December 19th, 2022.*
 
-As I recall the telling, Sir Cleges was an old knight of Uther Pendragon... but went to King Arthur's court. Here's the gist of the tale as I remember it:
+Here's the gist of the tale:
 
-> Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent he and his wife Clarys had nothing. It was midwinter, bitterly cold, and the sound of the King's court could be heard, but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, dressed as a pauper. The first guard let him through but demanded a third of what the King would give in return. The usher(?) let him through, for a third. The steward let him through, for a third. The gift was given, Sir Cleges joined the feast, and was offered a reward. Twelve hits of the stick to be given justly. The steward, the doorman and guard wer beaten by Sir Cleges. Sir Cleges was recognised as an old loyal knight and rewarded.
+> Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent he and his wife Clarys had nothing. It was midwinter, bitterly cold, and the sound of the King's court could be heard, but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, dressed as he was, looking like a pauper, insulted as a *churl*. The porter let him through but demanded a third of what the King would give in return. The usher let him through, for a third. The steward let him through, for a third. The gift was given and Sir Cleges joined the feast. A reward is asked for, and granted: twelve hits of the stick to be given justly. The steward, the doorman and guard were beaten by Sir Cleges.  As an aside to the harper, the King wonders what happened to Sir Cleges, his old friend (he does not recognise him. The harper points him out. Sir Cleges is recognised as an old loyal knight and rewarded.
 
-However, in the tellings I have found, the tale is set solely in court of Uther Pendragon, and involves a visit to the Christmas court at Cardiff. The commonly thrown insult at Sir Cleges by the corrupt officers of the castle was *churl* or "peasant".
+The original tale can be found in a couple of 15th century manuscripts in Middle English.
 
 ```{admonition} Pronunciation
 In one of the verse forms, there appears to be an attempt to rhyme *Clege* with *deeds*. However, in an old manuscript ([Middle English Breton Lays](https://d.lib.rochester.edu/teams/text/laskaya-and-salisbury-middle-english-breton-lays-sir-cleges), ed. Anne Laskaya, Eve Salisbury; also available as [Item 24, Sir Cleges](https://d.lib.rochester.edu/teams/text/shuffelton-codex-ashmole-61-sir-cleges) by George Shuffelton (Editor) from: Codex Ashmole 61: A Compilation of Popular Middle English Verse  2008), the spelling is *Clegys* rhymed with *nedys*, which suggests *Clegg iss*? From loolking at Middle English pronuniciation guides, I have come round to thinking that `kledjiss` or `kledges` is probably the way to go...
 ```
-
-It seems the original tale can be found in a couple of 15th century manuscripts, although many of the 19th and early 20th century versions I found on an initial search seem to be included in American published collections of old English Tales.
 
 A really concise and efficient telling of the tale appears in *Stories of Early England* by E. M. Wilmot-Buxton, published in 1906/7.
 
@@ -847,12 +845,14 @@ Great was the justice and the wisdom of this king. But no less a thing was this 
 
 ```
 
-A comprehensive set of notes on the tale appear in the *Introduction* to G. H. McKnight's *Middle English humorous tales in verse*, c1913.
+A comprehensive set of notes on the tale appear in the *Introduction* to G. H. McKnight's *Middle English humorous tales in verse*, c1913. *Among other things, he notes the version given in this work is the Oxford manuscript, which seems to have been unknowm to Weber.*
 
 ```{admonition} Introduction to *Middle English humorous tales in verse*, George McKnight, c1913
 :class: dropdown
 
 TO DO
+
+https://archive.org/details/middleenglishhum00mcknrich/page/lviii/mode/2up
 
 Middle English humorous tales in verse
 by McKnight, George Harley, 1871-1951
@@ -1014,6 +1014,8 @@ The dialect of the original work is somewhat disguised on account of scribal pec
 From the evidence of the rimes /j/, yte and ee, y, Treichel (op. cit. 374) sets the date of composition at not earlier than the beginning of the fifteenth century.
 
 ```
+
+*For `Sir Amadace` [[synopsis](https://middleenglishromance.org.uk/mer/50)], see [Three early English metrical romances, John Robson, 1842](https://archive.org/details/trent_0116401961861/page/26/mode/2up), the introduction to which states: "Sir Amadace was published by Weber in the third volume of his Metrical Romances (1810) from a manuscript, supposed unique, in the Advocates’ Library at Edinburgh, — which he says was probably written by a monk at the end of the fifteenth century". In passing, I note [`Sir Isumbras`](https://middleenglishromance.org.uk/mer/58) might also be interesting to tell.. As might [`Sir Gowther`](https://middleenglishromance.org.uk/mer/57).*
 
 As you might expect, McKnight's version of the poem also provides a critical review, rich in annotations:
 
