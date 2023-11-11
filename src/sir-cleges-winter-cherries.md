@@ -782,7 +782,7 @@ The only copy of Sir Cleges extant, to my knowledge, is in a folio MS., lately a
 
 A comprehensive set of notes on the tale appear in the *Introduction* to G. H. McKnight's *Middle English humorous tales in verse*, c1913.
 
-```{admonition}
+```{admonition} Introduction to *Middle English humorous tales in verse*, George McKnight, c1913
 :class: dropdown
 
 TO DO
