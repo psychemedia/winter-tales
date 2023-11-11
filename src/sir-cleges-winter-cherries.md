@@ -966,649 +966,649 @@ p38-59
 
 Sir Cleges
 
-[L] ystyns, lordyng^, and }e schall here Ashmole Off ansytowrres, \a\. be-fore vs were, MS ' 6l '
+[L] ystyns, lordyng^, and }e schall here Ashmole Off ansytowrres, \a\. be-fore vs were, MS ' 6l '  
 
-Bothe herdy and wyght, Yn tyme of vter and pewdragonn, Kyng artowr fad^r of grete renoue, 5
+Bothe herdy and wyght, Yn tyme of vter and pewdragonn, Kyng artowr fad^r of grete renoue, 5  
 
-A sembly man of syght. He had a kny^ht, hy^t sir clegys ; A dou^tyer man was now at nedys
+A sembly man of syght. He had a kny^ht, hy^t sir clegys ; A dou^tyer man was now at nedys  
 
-Of J;e ronde-tabull ry^ht.
+Of J;e ronde-tabull ry^ht.  
 
-He was man of hy statour 1
+He was man of hy statour 1  
 
-And tyer-to feyre of all fetowr,
+And tyer-to feyre of all fetowr,  
 
-A man of mekyll my^ht.
+A man of mekyll my^ht.  
 
-Mour curtas kny^ht J?aw he was one Yn all f?/s werld was \er non.
+Mour curtas kny^ht J?aw he was one Yn all f?/s werld was \er non.  
 
-He was so gentyll and fre, To squyres ]>at tr<7ueyled in lond of werre And wer fallyn in pou^rte, bare,
+He was so gentyll and fre, To squyres ]>at tr<7ueyled in lond of werre And wer fallyn in pou^rte, bare,  
 
-He gaff J?e;7/ gold and fe. Hys tenants feyr he wold rehete; No man he wold buske_ ne bete ;
+He gaff J?e;7/ gold and fe. Hys tenants feyr he wold rehete; No man he wold buske_ ne bete ;  
 
-Meke as meyd was he. Hys mete was redy to eu^ry man That wold com and vyset hyw than ;
+Meke as meyd was he. Hys mete was redy to eu^ry man That wold com and vyset hyw than ;  
 
-He was full of plente..
+He was full of plente..  
 
-The knyght had a gentyll wyffr, 25
+The knyght had a gentyll wyffr, 25  
 
-A better my^ht now be of lyfe,
+A better my^ht now be of lyfe,  
 
-Ne non semblyer in syght. Dame clarys hyght fyat lady ; OfF all godnes sche had treuly
+Ne non semblyer in syght. Dame clarys hyght fyat lady ; OfF all godnes sche had treuly  
 
-Glad chere boj;e dey and ny^ht. 30
+Glad chere boj;e dey and ny^ht. 30  
 
-Crete almaj-folke boj?e J^i were Both to pore man and to frere ;
+Crete almaj-folke boj?e J^i were Both to pore man and to frere ;  
 
-They cheryd many a wy^ht. ffor ]>em had no man ou^ht lore Whe^r \e\ wer ryche or pore, 35
+They cheryd many a wy^ht. ffor ]>em had no man ou^ht lore Whe^r \e\ wer ryche or pore, 35  
 
-Of hym ]>ei schuld haue ry^ht.
+Of hym ]>ei schuld haue ry^ht.  
 
-Euery $ere sir clegys wold In crystyn-mes a fest hold
+Euery $ere sir clegys wold In crystyn-mes a fest hold  
 
-Yn ]?e worschype of ]>at dey, [As Ryall in all thynge 40
+Yn ]?e worschype of ]>at dey, [As Ryall in all thynge 40  
 
-As he hade ben A kynge,
+As he hade ben A kynge,  
 
-For-soth as I you saye.] Ryche and pore in \a\. centre At ]>at fest \e\ schuld be ;
+For-soth as I you saye.] Ryche and pore in \a\. centre At ]>at fest \e\ schuld be ;  
 
-Ther wold no man sey nay. ? 45
+Ther wold no man sey nay. ? 45  
 
-Mynstrellus wold not be be-hynd, Myrthys wer \e\ may fFynd,
+Mynstrellus wold not be be-hynd, Myrthys wer \e\ may fFynd,  
 
-That is most to ]>er pay.
+That is most to ]>er pay.  
 
-Mynstrellz/j when ]?e fest was don, f Schuld not wit^-outyn gyft^j gon That wer both rych and gode,
+Mynstrellz/j when ]?e fest was don, f Schuld not wit^-outyn gyft^j gon That wer both rych and gode,  
 
-Verses 40-42 are supplied from the Edinburgh MS.
+Verses 40-42 are supplied from the Edinburgh MS.  
 
-Hors and robys and rych thyng^j, Gold and sylu^r and ofyer thyng^j,
+Hors and robys and rych thyng^j, Gold and sylu^r and ofyer thyng^j,  
 
-To mend with \er mode
+To mend with \er mode  
 
-X $ere our xii sych fester \e\ held 55
+X $ere our xii sych fester \e\ held 55  
 
-Yn worschype of hy#z, Ipat all weld
+Yn worschype of hy#z, Ipat all weld  
 
-And for vs dy^ed vpon ]?e rode. Be than his gode be-gan to schake, Sych fester he gan make,
+And for vs dy^ed vpon ]?e rode. Be than his gode be-gan to schake, Sych fester he gan make,  
 
-The knyght of jentyll blode. 60
+The knyght of jentyll blode. 60  
 
-To hold hys feste he wold not lete; Hys rych manors to wede he sete :
+To hold hys feste he wold not lete; Hys rych manors to wede he sete :  
 
-He thou^t hyw-selue oute to quyte. Thus he festyd many a $ere Both gentyll men and comener )
+He thou^t hyw-selue oute to quyte. Thus he festyd many a $ere Both gentyll men and comener )  
 
-Yn }?e name of god all-my^ht. So at J?e last, soth to sey, All hys gode was spendyd a-way ;
+Yn }?e name of god all-my^ht. So at J?e last, soth to sey, All hys gode was spendyd a-way ;  
 
-Than he had bot a lyte.
+Than he had bot a lyte.  
 
-Thoff hys god were ne-hond leste, 70
+Thoff hys god were ne-hond leste, 70  
 
-Yn j?e wyrschyp he made a feste ;
+Yn j?e wyrschyp he made a feste ;  
 
-He hopyd god wold hy/fl quyte.
+He hopyd god wold hy/fl quyte.  
 
-ryalty he ford^ryd ay, To hys manors wer sold a-wey,
+ryalty he ford^ryd ay, To hys manors wer sold a-wey,  
 
-That hym was left bot one; 75
+That hym was left bot one; 75  
 
-And Ipat was of lytell valew, That he and hys wyfe so trew
+And Ipat was of lytell valew, That he and hys wyfe so trew  
 
-Oneth my^ht lyfe Jw-one.
+Oneth my^ht lyfe Jw-one.  
 
-Hys men, \a\. wer so mych of pr/de,
+Hys men, \a\. wer so mych of pr/de,  
 
-Wente a-wey one eu^ry syde ; 80
+Wente a-wey one eu^ry syde ; 80  
 
-With hym \er left not one. To duell with hym \er left no mo Bot hys wyfe and his chyld^r two ;
+With hym \er left not one. To duell with hym \er left no mo Bot hys wyfe and his chyld^r two ;  
 
-Than made he mekyll mone.
+Than made he mekyll mone.  
 
-Yt fell on a crystewmes cue; 85
+Yt fell on a crystewmes cue; 85  
 
-Syr clegys and his wyfe,
+Syr clegys and his wyfe,  
 
-They duellyd by cardyff syde. When it drew to-werd J?e none, Syr clegys fell in swownywg sone ;
+They duellyd by cardyff syde. When it drew to-werd J?e none, Syr clegys fell in swownywg sone ;  
 
-Wo be-thought hym ]>at tyde, 9
+Wo be-thought hym ]>at tyde, 9  
 
-What myrth he was wonte to hold, And he, he had hys manors solde,
+What myrth he was wonte to hold, And he, he had hys manors solde,  
 
-Tenandrys and landes wyde. Mekyll sorow made he ]>er; He wrong hys hond^r and wepyd sore, 95
+Tenandrys and landes wyde. Mekyll sorow made he ]>er; He wrong hys hond^r and wepyd sore, 95  
 
-ffor fallyd was hys pr/de.
+ffor fallyd was hys pr/de.  
 
-And as he walkyd vppe and done, Sore sy^eng, he herd a sowne
+And as he walkyd vppe and done, Sore sy^eng, he herd a sowne  
 
-Off dyu^rse mystralsy, pJiau|* /v ' 1 Off truwpers, pypers, and nakerner^ 100
+Off dyu^rse mystralsy, pJiau|* /v ' 1 Off truwpers, pypers, and nakerner^ 100  
 
-Off herp^rs, notys and gytherners.
+Off herp^rs, notys and gytherners.  
 
-Off sytall and of sautrey. Many carrals and grete dansyng Yn eu^ry syde herd he syng,
+Off sytall and of sautrey. Many carrals and grete dansyng Yn eu^ry syde herd he syng,  
 
-In eu^ry place, treuly.
+In eu^ry place, treuly.  
 
-He wrong hys hondes and wepyd sore ; Mekyll mon he made \er, Sy^eng full pytewysly.
+He wrong hys hondes and wepyd sore ; Mekyll mon he made \er, Sy^eng full pytewysly.  
 
-/ x u A Ih^u, heuerc-kyng,
+/ x u A Ih^u, heuerc-kyng,  
 
-Off nought Ipou madyst all thyng ;
+Off nought Ipou madyst all thyng ;  
 
-Y thanke )>e of thy sonde. The myrth \a\. I was won to make Yn J?/s tyme for J?/ sake.
+Y thanke )>e of thy sonde. The myrth \a\. I was won to make Yn J?/s tyme for J?/ sake.  
 
-Y fede both fre and bond, And all Ipat euer com in )?/ name, They wantyd no]>er wylde ne tame,
+Y fede both fre and bond, And all Ipat euer com in )?/ name, They wantyd no]>er wylde ne tame,  
 
-That was in any lond, Off rych metys and drynk^j- gode That longes for any man^j fode,
+That was in any lond, Off rych metys and drynk^j- gode That longes for any man^j fode,  
 
-Off cost I wold not wonde."
+Off cost I wold not wonde."  
 
-Als he stode in mournyng so, And hys wyfe com hym to,
+Als he stode in mournyng so, And hys wyfe com hym to,  
 
-Yn armys sche hym hente. Sche kyssed hym with glad chere, And seyd : " My trew wedyd fere,
+Yn armys sche hym hente. Sche kyssed hym with glad chere, And seyd : " My trew wedyd fere,  
 
-Y herd wele what }e ment. ^e se wele, s/r, it helpys nought, To take sorow in jour thought;
+Y herd wele what }e ment. ^e se wele, s/r, it helpys nought, To take sorow in jour thought;  
 
-Ther-for I rede $e stynte. [Let yourc sorowe A-waye gon And thanke God of hys lone
+Ther-for I rede $e stynte. [Let yourc sorowe A-waye gon And thanke God of hys lone  
 
-Of all \a\. he hath sent.]
+Of all \a\. he hath sent.]  
 
-Be crystes sake, I rede $e lyne Of all \e sorow J?#t }e be Ine
+Be crystes sake, I rede $e lyne Of all \e sorow J?#t }e be Ine  
 
-A-^ene J?/s holy dey. i 35
+A-^ene J?/s holy dey. i 35  
 
-Now eu^ry man schuld be mery and glad With sych god^ as J?^i had;
+Now eu^ry man schuld be mery and glad With sych god^ as J?^i had;  
 
-Be }e so, I }ou pray. Go we to ouer mete be-lyue And make vs both m^rry and blythe, H
+Be }e so, I }ou pray. Go we to ouer mete be-lyue And make vs both m^rry and blythe, H  
 
-his wele as eu^r we may. I hold it for J?e best, trewly ; Y haue made owre mete treuly,
+his wele as eu^r we may. I hold it for J?e best, trewly ; Y haue made owre mete treuly,  
 
-Y hope, vnto $our pay."
+Y hope, vnto $our pay."  
 
-a Now I assent," q0J? cleg^j tho. '45
+a Now I assent," q0J? cleg^j tho. '45  
 
-Yn with hyr he gan go
+Yn with hyr he gan go  
 
-Som-what with better chere. When he fell in thou^t and care, ' Sche comforth hym euer mor,
+Som-what with better chere. When he fell in thou^t and care, ' Sche comforth hym euer mor,  
 
-Hys sorow for-to stere. 150
+Hys sorow for-to stere. 150  
 
-After he gan to wex blytljfe) And wyped hys terys blyue,
+After he gan to wex blytljfe) And wyped hys terys blyue,  
 
-That hang on hys lyre. Than ]>e'i wesch and went to mete, With sych god as \e\ my^ht gete, J 55
+That hang on hys lyre. Than ]>e'i wesch and went to mete, With sych god as \e\ my^ht gete, J 55  
 
-And made m^ry chere.
+And made m^ry chere.  
 
-Verses 130-132 are supplied from the Edinburgh MS. 145 MS. the.
+Verses 130-132 are supplied from the Edinburgh MS. 145 MS. the.  
 
-When \e\ had etc, J?e soth to sey,
+When \e\ had etc, J?e soth to sey,  
 
-With myrth ]>ei drofe }?e dey a-wey,
+With myrth ]>ei drofe }?e dey a-wey,  
 
-The best wey ]>at they my^ht.
+The best wey ]>at they my^ht.  
 
-With Iper chyld^r pley ]>ei dyde 160
+With Iper chyld^r pley ]>ei dyde 160  
 
-And after euensong went to bede
+And after euensong went to bede  
 
-At serteyn of ]?e nyght. ^
+At serteyn of ]?e nyght. ^  
 
-The sclepyd, to it rong at J>e chyrcheA Stf^**^ God^r s^ruys forto wyrche, O
+The sclepyd, to it rong at J>e chyrcheA Stf^**^ God^r s^ruys forto wyrche, O  
 
-As it was sky 11 and ryght. 165
+As it was sky 11 and ryght. 165  
 
-Vp \e\ ros and went ]?e}^r, They and \er chyld^r toge)?/?r,
+Vp \e\ ros and went ]?e}^r, They and \er chyld^r toge)?/?r,  
 
-When \e\ were redy dy^ht.
+When \e\ were redy dy^ht.  
 
-Syr cleg^r knelyd on hys kne,
+Syr cleg^r knelyd on hys kne,  
 
-3 Ih[es]u cryst pr^yd he 170
+3 Ih[es]u cryst pr^yd he 170  
 
-Bechegyn of hys wyfe : u Grasyos lord," he seyd tho, u My wyfe and my chyld^r two,
+Bechegyn of hys wyfe : u Grasyos lord," he seyd tho, u My wyfe and my chyld^r two,  
 
-Kepe vs out of stryffe." The lady pr^yd hym ageyn ; Sche seyd : u god kepe my lord fro peyn
+Kepe vs out of stryffe." The lady pr^yd hym ageyn ; Sche seyd : u god kepe my lord fro peyn  
 
-Yn-to eu^r-lastyng lyffe." 175
+Yn-to eu^r-lastyng lyffe." 175  
 
-Seruys was don and horn ]^y wente ; The thankyd god omnipotent
+Seruys was don and horn ]^y wente ; The thankyd god omnipotent  
 
-They went home so ryfe.
+They went home so ryfe.  
 
-When he to hys palys com, X 8o
+When he to hys palys com, X 8o  
 
-He thou^t his sorow was ou^r-gon ;
+He thou^t his sorow was ou^r-gon ;  
 
-Hys sorow he gan stynt. He made hys wyfe be-for hym gon And hy [s] chylcUr eu^rychon ;
+Hys sorow he gan stynt. He made hys wyfe be-for hym gon And hy [s] chylcUr eu^rychon ;  
 
-Hyw-selue a-lone he wente Yn-to a garthyn \er be-syde. 185
+Hyw-selue a-lone he wente Yn-to a garthyn \er be-syde. 185  
 
-He knelyd a-don in J?#t tyde
+He knelyd a-don in J?#t tyde  
 
-And prayd to god v^rament. He thankyd god with all hys hert Of all desesyd in pou^rte
+And prayd to god v^rament. He thankyd god with all hys hert Of all desesyd in pou^rte  
 
-That euer to hym he sente. 190
+That euer to hym he sente. 190  
 
-Si* c*
+Si* c*  
 
-As he knelyd onne hys kne Vnd^r-neth a chery tre,
+As he knelyd onne hys kne Vnd^r-neth a chery tre,  
 
-Makying hys praere,
+Makying hys praere,  
 
-He raw^ht a bow^e in hys hond, 195
+He raw^ht a bow^e in hys hond, 195  
 
-To ryse Iper-by and vp-stond ;
+To ryse Iper-by and vp-stond ;  
 
-No leng^-r knelyd he ]>er. When )?e bow^he was in hys hond, Grengleuys Iper-on he fond
+No leng^-r knelyd he ]>er. When )?e bow^he was in hys hond, Grengleuys Iper-on he fond  
 
-And ronde beryes in fere. 200
+And ronde beryes in fere. 200  
 
-He seyd : <c Dere god in tr/nyte, What man^r beryes may J?/s be,
+He seyd : <c Dere god in tr/nyte, What man^r beryes may J?/s be,  
 
-That grow ]?/s tyme of ^ere ? "
+That grow ]?/s tyme of ^ere ? "  
 
-" Y haue not se J?/s tyme of That treys any fruyt schuld bere, 20 5
+" Y haue not se J?/s tyme of That treys any fruyt schuld bere, 20 5  
 
-Als ferre as I haue sought." He thou3t to tayst it, yff he couthe ;
+Als ferre as I haue sought." He thou3t to tayst it, yff he couthe ;  
 
-One of ]>em he put in hys mouthe ;
+One of ]>em he put in hys mouthe ;  
 
-Spare wold he nought. toJi ai
+Spare wold he nought. toJi ai  
 
-AfV^a chery it relesyd clene, <n^/**^^ Tnebest ]>at euer he had sene,
+AfV^a chery it relesyd clene, <n^/**^^ Tnebest ]>at euer he had sene,  
 
-Seth he was man wrought. A lytell bow he gan of-slyfe ; And thought he wold schew it hys wyfe ; 215
+Seth he was man wrought. A lytell bow he gan of-slyfe ; And thought he wold schew it hys wyfe ; 215  
 
-Yn hys hond he it brought.
+Yn hys hond he it brought.  
 
-" Lo, dame, here is a nowylte ; In ou^r garthyn vpon a tre
+" Lo, dame, here is a nowylte ; In ou^r garthyn vpon a tre  
 
-Y found it, sykerly. 220
+Y found it, sykerly. 220  
 
-Y ame a-ferd, it is tokenywg Be-cause of ou^r grete plenyg, That moar greuans is ny." His wyfe seyd : " It is tokenywg Off mour godnes \a\. is comywg ; >n,$
+Y ame a-ferd, it is tokenywg Be-cause of ou^r grete plenyg, That moar greuans is ny." His wyfe seyd : " It is tokenywg Off mour godnes \a\. is comywg ; >n,$  
 
-We shall haue mour plente. Haue we les our haue we mor, All-wey thanke we god ]?^r-fore; Yt is J?e best treulye."
+We shall haue mour plente. Haue we les our haue we mor, All-wey thanke we god ]?^r-fore; Yt is J?e best treulye."  
 
-The lady seyd with gode cher: 230
+The lady seyd with gode cher: 230  
 
-" Late vs fyll a panyer
+" Late vs fyll a panyer  
 
-Off J?e frute ]>at god hath sente. To-morow, when ]?e dey do spryng, ^e schall to cardyff to J?e kyng,
+Off J?e frute ]>at god hath sente. To-morow, when ]?e dey do spryng, ^e schall to cardyff to J?e kyng,  
 
-fFull feyre hym to pr^jente.
+fFull feyre hym to pr^jente.  
 
-Sych a gyft $e may hafe J?<?r, 235
+Sych a gyft $e may hafe J?<?r, 235  
 
-That a [11] we schall ye beter fare;
+That a [11] we schall ye beter fare;  
 
-I tell 3011, veramewt." Sir clegys grantyd sone ]>er-to : To-morow to cardyff I wyll go
+I tell 3011, veramewt." Sir clegys grantyd sone ]>er-to : To-morow to cardyff I wyll go  
 
-After pur entent." 140
+After pur entent." 140  
 
-The morne, when it was dey-lyght, The lady had j;e pawnyer dyght ; To hyr eldyst son seyd sche : Take vp JMS pawnyer gladly And here it at thy bake esyly *45
+The morne, when it was dey-lyght, The lady had j;e pawnyer dyght ; To hyr eldyst son seyd sche : Take vp JMS pawnyer gladly And here it at thy bake esyly *45  
 
-After J?i fad^r so fre." Syr clegys J?aw a staff he toke ; He had no hors, so seyth J?e boke, To ryde hys jorneye, sted ne
+After J?i fad^r so fre." Syr clegys J?aw a staff he toke ; He had no hors, so seyth J?e boke, To ryde hys jorneye, sted ne  
 
-(V
+(V  
 
-Bot a staff was his hakney, As man^r in pou^rte.
+Bot a staff was his hakney, As man^r in pou^rte.  
 
-Syr cleges and hys son gent The ryght wey to cardyfe went
+Syr cleges and hys son gent The ryght wey to cardyfe went  
 
-On cryste^mes dey. 255
+On cryste^mes dey. 255  
 
-To J?e castell-^ate \e\ com full ry^ht, As \e\ wer to mete dyght,
+To J?e castell-^ate \e\ com full ry^ht, As \e\ wer to mete dyght,  
 
-At none, J?e soth to sey. As sir cleges wold in go, Yn pore clothyng was he tho, 260
+At none, J?e soth to sey. As sir cleges wold in go, Yn pore clothyng was he tho, 260  
 
-In a symple aray.
+In a symple aray.  
 
-The porter seyd full spytously : u Thow schall w/t/>-draw J?e smertly, Y rede, w/t^-oute deley.
+The porter seyd full spytously : u Thow schall w/t/>-draw J?e smertly, Y rede, w/t^-oute deley.  
 
-Els, be god and seynt mary, 265
+Els, be god and seynt mary, 265  
 
-Y schall breke }n hede smertly,
+Y schall breke }n hede smertly,  
 
-To stond in begers route. Yff J?0u draw any mour in-werd, Thow schall rew it aftmverd;
+To stond in begers route. Yff J?0u draw any mour in-werd, Thow schall rew it aftmverd;  
 
-Y schall J?e so cloute." 270
+Y schall J?e so cloute." 270  
 
-" Gode s/>," seyd sir cleges tho, " Y pray }ou, late me in go ;
+" Gode s/>," seyd sir cleges tho, " Y pray }ou, late me in go ;  
 
-Thys is w/t^-outen doute. The kyng I haue a present brow^t fFro hyw, )>at made all thinge of nou^t ; 275
+Thys is w/t^-outen doute. The kyng I haue a present brow^t fFro hyw, )>at made all thinge of nou^t ; 275  
 
-Be-hold and loke a-boute ! "
+Be-hold and loke a-boute ! "  
 
-The powrter to }?e pawnyer wente; Sone )?e lyde vp he hente ;
+The powrter to }?e pawnyer wente; Sone )?e lyde vp he hente ;  
 
-The cherys he gan be-hold. Wele he wyst, for his co/wmywg, 280
+The cherys he gan be-hold. Wele he wyst, for his co/wmywg, 280  
 
-ffor hys present to J?e kyng,
+ffor hys present to J?e kyng,  
 
-Crete gyft^ haue he schuld. He seyd : cc Be hym ]?#t me dere bought, Yn at J?is ^ate commys ]?<?u nought,
+Crete gyft^ haue he schuld. He seyd : cc Be hym ]?#t me dere bought, Yn at J?is ^ate commys ]?<?u nought,  
 
-Be hym ]?^t made ]?/s mold, 285
+Be hym ]?^t made ]?/s mold, 285  
 
-The thyrd p#rte bot J>ou gr^unte me Off ]>at the kyng wyll gyff }?e,
+The thyrd p#rte bot J>ou gr^unte me Off ]>at the kyng wyll gyff }?e,  
 
-Whe];^r it be sylu^r our gold."
+Whe];^r it be sylu^r our gold."  
 
-Syr cleges seyd : " ]>er-to I sente."
+Syr cleges seyd : " ]>er-to I sente."  
 
-He }aue hym leue, and in he wente ^90
+He }aue hym leue, and in he wente ^90  
 
-W/t/>-outen mowr lettyng. Yn he went a grete pas ; The offycers at }?e dore was
+W/t/>-outen mowr lettyng. Yn he went a grete pas ; The offycers at }?e dore was  
 
-With a staff standyng.
+With a staff standyng.  
 
-Yn com sir cleges so wyght; *95
+Yn com sir cleges so wyght; *95  
 
-He seyd : u Go, chorle, out of my syght,
+He seyd : u Go, chorle, out of my syght,  
 
-W/t-out any mour lettyng. Y schall ]?e bete eu^ry lythe, Hede and body, w/t^-outyn grythe,
+W/t-out any mour lettyng. Y schall ]?e bete eu^ry lythe, Hede and body, w/t^-outyn grythe,  
 
-And ]>ou make mour pr^syng." 300
+And ]>ou make mour pr^syng." 300  
 
-cc Code s/V," seyd sir cleges than, " For hys loue, \a\. made man,
+cc Code s/V," seyd sir cleges than, " For hys loue, \a\. made man,  
 
-Sese jour angry mode ! ffor I haue a pr^sante brou^t ffro hy/w J?#t made all thyng of now^ht 3S
+Sese jour angry mode ! ffor I haue a pr^sante brou^t ffro hy/w J?#t made all thyng of now^ht 3S  
 
-And dyed vpon }?e rode. Thys nyght J?/'s fruyt grew ; Be-hold, whe}?^r I be fals our trew;
+And dyed vpon }?e rode. Thys nyght J?/'s fruyt grew ; Be-hold, whe}?^r I be fals our trew;  
 
-They be gentyll and gode." The vsscher lyfte vp )?e lyde smertly ; 3 i The fey rest cherys ]>at euer he sey ; [) He m^ruyllyd in his mode."
+They be gentyll and gode." The vsscher lyfte vp )?e lyde smertly ; 3 i The fey rest cherys ]>at euer he sey ; [) He m^ruyllyd in his mode."  
 
-The vsscher seyd : " Be mary suete, Thou comyst not in ]?/s halle on fete,
+The vsscher seyd : " Be mary suete, Thou comyst not in ]?/s halle on fete,  
 
-Y tell J;e, sykerly,
+Y tell J;e, sykerly,  
 
-Bot ]>ou grauwte me, w/t^-out wernyng, The thyrd p#rte of ]?i wyneng,
+Bot ]>ou grauwte me, w/t^-out wernyng, The thyrd p#rte of ]?i wyneng,  
 
-When Ipou comyst a-geyn to me." Syr cleges sey now o]?er wone, Bot \er he gr^ntyd \\yrn a-non ; 320
+When Ipou comyst a-geyn to me." Syr cleges sey now o]?er wone, Bot \er he gr^ntyd \\yrn a-non ; 320  
 
-Yt wold now o)?er-weys be. Than sir cleges with heuy chere Toke his son and his pawnyer ;
+Yt wold now o)?er-weys be. Than sir cleges with heuy chere Toke his son and his pawnyer ;  
 
-In-to j?e hall went he.
+In-to j?e hall went he.  
 
-The stewerd stert fast in )?e hall, 325
+The stewerd stert fast in )?e hall, 325  
 
-Among J?e lord^ in ]?e halle,
+Among J?e lord^ in ]?e halle,  
 
-That weryd ryche wede. He went to sir cleges boldly And seyd : u Who made J?e so herdy,
+That weryd ryche wede. He went to sir cleges boldly And seyd : u Who made J?e so herdy,  
 
-To come hejw, our J?0u were bede ? 330 Cherle," he seyd, u ]>ou arte to bolde. W/'t-draw )?e with J?e clothes olde,
+To come hejw, our J?0u were bede ? 330 Cherle," he seyd, u ]>ou arte to bolde. W/'t-draw )?e with J?e clothes olde,  
 
-Smertly, I J?e rede." He seyd : " S/V, I haue a pr^sant brou^t fFro ]>at lord ]?tft vs dere bought 335
+Smertly, I J?e rede." He seyd : " S/V, I haue a pr^sant brou^t fFro ]>at lord ]?tft vs dere bought 335  
 
-And on J?e rode gan bled."
+And on J?e rode gan bled."  
 
-The stewerd stert forth wele sone And plukyd vp j?e lyde a-non,
+The stewerd stert forth wele sone And plukyd vp j?e lyde a-non,  
 
-Als smertly as he mou^ht. The stewerd seyd : u Be mary dere, 340
+Als smertly as he mou^ht. The stewerd seyd : u Be mary dere, 340  
 
-Thys saw I neu^r J?/s tyme of }ere,
+Thys saw I neu^r J?/s tyme of }ere,  
 
-Seth I was man I-wrou^ht.
+Seth I was man I-wrou^ht.  
 
-Thow schall cum no jiere^e kyng, Bot if J?0u gnmte me myn askyng,
+Thow schall cum no jiere^e kyng, Bot if J?0u gnmte me myn askyng,  
 
-Be hym \a\. me dere bought. 345
+Be hym \a\. me dere bought. 345  
 
-The thyrd parte of ]?e kyng^j gyfte Y wyll haue, be my thryfte,
+The thyrd parte of ]?e kyng^j gyfte Y wyll haue, be my thryfte,  
 
-Or els go truse be oute ! "
+Or els go truse be oute ! "  
 
-*
+*  
 
-Syr cleges stode and be-thou^t hym fan : And I schuld p^rte be-twyx thre men, 350
+Syr cleges stode and be-thou^t hym fan : And I schuld p^rte be-twyx thre men, 350  
 
-My-selue schuld haue no-thyng. fFor my traueyll schall I not gete, Bot if it be a melys mete."
+My-selue schuld haue no-thyng. fFor my traueyll schall I not gete, Bot if it be a melys mete."  
 
-Thus thought hym sore sy^eng. He seyd: u Herlot, has ]>ou no tong ? 355
+Thus thought hym sore sy^eng. He seyd: u Herlot, has ]>ou no tong ? 355  
 
-Speke to me and tary not long
+Speke to me and tary not long  
 
-And gnznte me myn askyng, Or with a staff I schall J;e twake And bete j?i ragg^j to ]?i bake
+And gnznte me myn askyng, Or with a staff I schall J;e twake And bete j?i ragg^j to ]?i bake  
 
-And schofe )>e out hedl^ ! '
+And schofe )>e out hedl^ ! '  
 
-Syr cleges saw now oper bote, Hys askyng gr^nte hym he mote,
+Syr cleges saw now oper bote, Hys askyng gr^nte hym he mote,  
 
-And seyd with sy^hyng sore : What fyat euer ]?e kyng rewerd, ^e schall haue |>e thyrd p^rte, 3 6 S
+And seyd with sy^hyng sore : What fyat euer ]?e kyng rewerd, ^e schall haue |>e thyrd p^rte, 3 6 S  
 
-Whe|?^r it be lesse our more." When s/r cleges had seyd ]>at word, The stewerd and he wer a-corde
+Whe|?^r it be lesse our more." When s/r cleges had seyd ]>at word, The stewerd and he wer a-corde  
 
-And seyd to hym no more.
+And seyd to hym no more.  
 
-Vp to )?e kyng sone he went ; 37 o
+Vp to )?e kyng sone he went ; 37 o  
 
-fFull feyn he pr0ferd hys pn?sente, Knelyng onwe hys kne hym be-fore.
+fFull feyn he pr0ferd hys pn?sente, Knelyng onwe hys kne hym be-fore.  
 
-Syr cleges vn-cou^ryd ]?e pawnyer And schewyd J?e kyng |?e cherys clere,
+Syr cleges vn-cou^ryd ]?e pawnyer And schewyd J?e kyng |?e cherys clere,  
 
-Vpon ]?e ground knelyng. 375
+Vpon ]?e ground knelyng. 375  
 
-He seyd : u Ih^u, ouer sauyoure, Sente }ou J?is fruyt with grete honoar
+He seyd : u Ih^u, ouer sauyoure, Sente }ou J?is fruyt with grete honoar  
 
-Thys dey onwe erth growyng." The kyng saw J?e cherys fressch and new, And seyd : u I thanke {?e, swete Ih*m, 380
+Thys dey onwe erth growyng." The kyng saw J?e cherys fressch and new, And seyd : u I thanke {?e, swete Ih*m, 380  
 
-Here is a feyre newyng. -nrv -
+Here is a feyre newyng. -nrv -  
 
-clees to mete, I ( f-^ '
+clees to mete, I ( f-^ '  
 
-He comandyd sir cleges to mete, I A word aft^-r with hym to speke, W/t^>[out] any feylyng
+He comandyd sir cleges to mete, I A word aft^-r with hym to speke, W/t^>[out] any feylyng  
 
-The kyng Iper-for made a pmente And send vn-to a lady fiente,
+The kyng Iper-for made a pmente And send vn-to a lady fiente,  
 
-Was born in come-weyle. Sche was a lady bryght and schen ; Aft^r sche was hys awne quen,
+Was born in come-weyle. Sche was a lady bryght and schen ; Aft^r sche was hys awne quen,  
 
-W/t^-outen any feyle. 390
+W/t^-outen any feyle. 390  
 
-The cherys wer s^rued throu^he J?e hall. Than seyd j;e kyng, a lord ryall :
+The cherys wer s^rued throu^he J?e hall. Than seyd j;e kyng, a lord ryall :  
 
-- " Be m^ry, be my conseyle ! And he ]?at brou^t me J?/s present, Y schall make hyra so content, 395
+- " Be m^ry, be my conseyle ! And he ]?at brou^t me J?/s present, Y schall make hyra so content, 395  
 
-It schall hym wele a-vayle."
+It schall hym wele a-vayle."  
 
-When all men wer merye and glad, Anon ]?e kyng a squyre bade :
+When all men wer merye and glad, Anon ]?e kyng a squyre bade :  
 
-" Bryng \\yrn me be-forne, The pore man J?#t ]?e cherys brou^t." 4 Anon he went and taryd nought,
+" Bryng \\yrn me be-forne, The pore man J?#t ]?e cherys brou^t." 4 Anon he went and taryd nought,  
 
-W/t^-outen any scorne. He brought cleges be-for ]?e kyng ; Anon he fell in knelyng, He wend hys gyft had be lorn. 4<>S
+W/t^-outen any scorne. He brought cleges be-for ]?e kyng ; Anon he fell in knelyng, He wend hys gyft had be lorn. 4<>S  
 
-He spake to }?e kyng with word^j felle. He seyd : " Lege lord, what is jour wylle ?
+He spake to }?e kyng with word^j felle. He seyd : " Lege lord, what is jour wylle ?  
 
-Y ame jour man fre-borne."
+Y ame jour man fre-borne."  
 
-T thanke ]?e hertely," seyd J?e kyng,
+T thanke ]?e hertely," seyd J?e kyng,  
 
-i u Off J?i grete pmentyng. 410
+i u Off J?i grete pmentyng. 410  
 
-That ]>ou hast to me do. Thow hast honoryd all my feste With YI deynter, moste and leste,
+That ]>ou hast to me do. Thow hast honoryd all my feste With YI deynter, moste and leste,  
 
-And worschyped me ail-so. What ]>at euer thou wyll haue, 15
+And worschyped me ail-so. What ]>at euer thou wyll haue, 15  
 
-Y wyll j?e grante, so god me saue,
+Y wyll j?e grante, so god me saue,  
 
-That J?in hert stond^j to, Whe]?<?r it be lond our lede, Or ofyer gode, so god me spede,
+That J?in hert stond^j to, Whe]?<?r it be lond our lede, Or ofyer gode, so god me spede,  
 
-How-]?tft- euer it go." 4*
+How-]?tft- euer it go." 4*  
 
-He seyd : u Garem^rsy, lege Kyng ! Thys is to me a hye thing. ffor sych one as I be.
+He seyd : u Garem^rsy, lege Kyng ! Thys is to me a hye thing. ffor sych one as I be.  
 
-forto grante me lond our lede
+forto grante me lond our lede  
 
-Or any gode, so god me spede, 425
+Or any gode, so god me spede, 425  
 
-Thys is to myche for me. Bot seth ]>at I schall ches my-selue, I aske no-thyng bot stroke xn
+Thys is to myche for me. Bot seth ]>at I schall ches my-selue, I aske no-thyng bot stroke xn  
 
-ffrely now grante ye me,
+ffrely now grante ye me,  
 
-With my staff to pay 'pern all, 430
+With my staff to pay 'pern all, 430  
 
-Myn adu*r.rarys in }?/s hall,
+Myn adu*r.rarys in }?/s hall,  
 
-ffor seynt charyte."
+ffor seynt charyte."  
 
-Than ansuerd vt^r, ]?e kyng ; He seyd : " I repent my grantyng, The couenand J?#t I made." 435
+Than ansuerd vt^r, ]?e kyng ; He seyd : " I repent my grantyng, The couenand J?#t I made." 435  
 
-He seyd : " Be hyw J;at made me and the, Thou had be better take gold our fe ;
+He seyd : " Be hyw J;at made me and the, Thou had be better take gold our fe ;  
 
-Mor nede )>er-to ]>ou hade." Syr cleges seyd witb-outen warryng : a Lord, it is your awne gr^nte[yng] ; 44
+Mor nede )>er-to ]>ou hade." Syr cleges seyd witb-outen warryng : a Lord, it is your awne gr^nte[yng] ; 44  
 
-Yt may not be deleyd." The kyng was angary and greuyd sore ; Neu*r-J?e-les he gr^nte \\yrn thore, The dynttt schuld be payd.
+Yt may not be deleyd." The kyng was angary and greuyd sore ; Neu*r-J?e-les he gr^nte \\yrn thore, The dynttt schuld be payd.  
 
-Syr cleges went in-to }?e hall 445
+Syr cleges went in-to }?e hall 445  
 
-Among |?e grete lord^j all,
+Among |?e grete lord^j all,  
 
-W/t^-outen any mour. He sought aft^r J?e stewerd ; He thou^t, to pay hym his rewerd,
+W/t^-outen any mour. He sought aft^r J?e stewerd ; He thou^t, to pay hym his rewerd,  
 
-ffor he had greuyd \\yrn sore. 45
+ffor he had greuyd \\yrn sore. 45  
 
-He gafe J>e steward sych a stroke, That he fell doune lyke a bloke
+He gafe J>e steward sych a stroke, That he fell doune lyke a bloke  
 
-Among all ]>at ther were. And after he gaff hym stroke thre, He seyd : U S/V, for }?i crtasse, 455
+Among all ]>at ther were. And after he gaff hym stroke thre, He seyd : U S/V, for }?i crtasse, 455  
 
-Stryke j?0u me no mo#r ! "
+Stryke j?0u me no mo#r ! "  
 
-Out of ]?e hall sir cleges wente ; To pay mo stroke he had mente,
+Out of ]?e hall sir cleges wente ; To pay mo stroke he had mente,  
 
-W/t^-owtyn any lette.
+W/t^-owtyn any lette.  
 
-To )?e vsscher he gan go ; 4 6
+To )?e vsscher he gan go ; 4 6  
 
-Sore stroke ^affe he tho,
+Sore stroke ^affe he tho,  
 
-When \e\ to-ged^r mette, That after-werd many a dey He wold wern no man ]?e wey ;
+When \e\ to-ged^r mette, That after-werd many a dey He wold wern no man ]?e wey ;  
 
-So grymly he hym grete. 4 6 5
+So grymly he hym grete. 4 6 5  
 
-Syr [cleges] seyd : " Be my thryfte, Thou hast the thyrd p#rte of my gyfte,
+Syr [cleges] seyd : " Be my thryfte, Thou hast the thyrd p#rte of my gyfte,  
 
-Ryght euyn as I J?e hy^ht."
+Ryght euyn as I J?e hy^ht."  
 
-To j?e porter com he $are ;
+To j?e porter com he $are ;  
 
-ffoure stroke payd he thare ; 470
+ffoure stroke payd he thare ; 470  
 
-His parte had he tho. Aftyr-werd many a dey He wold wern no man j;e wey,
+His parte had he tho. Aftyr-werd many a dey He wold wern no man j;e wey,  
 
-Ne]?*r to ryde ne go.
+Ne]?*r to ryde ne go.  
 
-The fyrst stroke he leyd hym owne, 475
+The fyrst stroke he leyd hym owne, 475  
 
-He brake a-two hys schuld^r bone
+He brake a-two hys schuld^r bone  
 
-And hys ry^ht arme also.    
+And hys ry^ht arme also.      
 
-Syr cleges seyd : " Be my thryfte, Thow hast |?e thyrd parte of my gyfte j Couenant made we so." 480
+Syr cleges seyd : " Be my thryfte, Thow hast |?e thyrd parte of my gyfte j Couenant made we so." 480  
 
-The kyng was sett in hys p^rlere, Myrth and reuell forto here ;
+The kyng was sett in hys p^rlere, Myrth and reuell forto here ;  
 
-Syr cleges thed^r wente. An harper had a geyst I-seyd, That made J?e kyng full wele apayd, 485
+Syr cleges thed^r wente. An harper had a geyst I-seyd, That made J?e kyng full wele apayd, 485  
 
-As to hys entente. Than seyd }?e kyng to JMS herper ; " Mykyll ]>ou may ofte-tyme here,
+As to hys entente. Than seyd }?e kyng to JMS herper ; " Mykyll ]>ou may ofte-tyme here,  
 
-fFor thou hast ferre wente. Tell me trew, if ]>ou can ; 49
+fFor thou hast ferre wente. Tell me trew, if ]>ou can ; 49  
 
-Knowyst ]>ou thys pore man
+Knowyst ]>ou thys pore man  
 
-That ]?/s dey me p/vsente ? "
+That ]?/s dey me p/vsente ? "  
 
-He seyd : u My lege, w/t^-oute les, Som-tyme men callyd hym cleges ;
+He seyd : u My lege, w/t^-oute les, Som-tyme men callyd hym cleges ;  
 
-He was a knyght of }oure. 495
+He was a knyght of }oure. 495  
 
-Y may thinke, when \a\. he was ffull of fortone and of grace,
+Y may thinke, when \a\. he was ffull of fortone and of grace,  
 
-A man of hye stature." The kyng seyd : " p/'s is not he iw-dede ; Yt is long gon ]>at he was dede^ 500
+A man of hye stature." The kyng seyd : " p/'s is not he iw-dede ; Yt is long gon ]>at he was dede^ 500  
 
-That I louyd paramour. 4(w^\ Wold god ]?<3t he wer wyth me ; Y had hym leu^r than knyght^ thre,
+That I louyd paramour. 4(w^\ Wold god ]?<3t he wer wyth me ; Y had hym leu^r than knyght^ thre,  
 
-That knyght was styff in stoure."
+That knyght was styff in stoure."  
 
-Syr cleges knelyd be-for J?e kyng ; s5
+Syr cleges knelyd be-for J?e kyng ; s5  
 
-ffor he had gnzntyd hym hys askyng,
+ffor he had gnzntyd hym hys askyng,  
 
-He thankyd hym cartasly. Spesyally J?e kyng hym pnzyd, The thre men, Ipat he stroke payd, Where-for it was and why. 5 10
+He thankyd hym cartasly. Spesyally J?e kyng hym pnzyd, The thre men, Ipat he stroke payd, Where-for it was and why. 5 10  
 
-He seyd : " I myght not com in-werd, To I gnmtyd Iche of ]>em ]>e thyrd parte
+He seyd : " I myght not com in-werd, To I gnmtyd Iche of ]>em ]>e thyrd parte  
 
-Off Ipat $e wold gyff me. Be tyat I schuld haue no^ht my-selue ; To dele among theym strokys xii 5*5
+Off Ipat $e wold gyff me. Be tyat I schuld haue no^ht my-selue ; To dele among theym strokys xii 5*5  
 
-Me thou^t it best, trewly."
+Me thou^t it best, trewly."  
 
-The lord^j lew^e, both old and }enge, And all ]>at ther w*r wyth J?e kyng,
+The lord^j lew^e, both old and }enge, And all ]>at ther w*r wyth J?e kyng,  
 
-They made solas I-now^e. They lew^e, so J?^i my^t not sytte; 52
+They made solas I-now^e. They lew^e, so J?^i my^t not sytte; 52  
 
-They seyd : u It was a nobull wytte,
+They seyd : u It was a nobull wytte,  
 
-Be cryst we make a vow." The kyng send after hys stewerd And seyd : "And he grante }?e any rewerd,
+Be cryst we make a vow." The kyng send after hys stewerd And seyd : "And he grante }?e any rewerd,  
 
-Askyth it be J?e law." 5S
+Askyth it be J?e law." 5S  
 
-The stewerd seyd and lukyd grym ; u Y thynke neuur to haue a-do with hym ;
+The stewerd seyd and lukyd grym ; u Y thynke neuur to haue a-do with hym ;  
 
-Y wold I had neu^r hym knaw."
+Y wold I had neu^r hym knaw."  
 
-The kyng seyd : " W/t^-outen blame, Tell me, gode man, what is ]?i name, 530 Befor me anon-ryght ! "
+The kyng seyd : " W/t^-outen blame, Tell me, gode man, what is ]?i name, 530 Befor me anon-ryght ! "  
 
-u My lege," he seyd, "p/s man 3011 telly s, Som-tyme men callyd me sir cleges ;
+u My lege," he seyd, "p/s man 3011 telly s, Som-tyme men callyd me sir cleges ;  
 
-Y was jour awne knyght." u Arte}?0u my knyght, \a\. seruyd me, 535
+Y was jour awne knyght." u Arte}?0u my knyght, \a\. seruyd me, 535  
 
-That was so gentyll and so fre,
+That was so gentyll and so fre,  
 
-Both strong, herdy and wyght ? " "e, lord," he seyd, "so mote I the, Tyll god all-my^ht hath vyset me;
+Both strong, herdy and wyght ? " "e, lord," he seyd, "so mote I the, Tyll god all-my^ht hath vyset me;  
 
-Thus pou^rte hath me dy^ht." 54
+Thus pou^rte hath me dy^ht." 54  
 
-The kyng gaffe hym anow-ry^ht All }?tft longer to a knyght,
+The kyng gaffe hym anow-ry^ht All }?tft longer to a knyght,  
 
-To a-ray hys body with. The castell of cardyff also With all J?e po#rtenas ^r-to, 545
+To a-ray hys body with. The castell of cardyff also With all J?e po#rtenas ^r-to, 545  
 
-To hold with pes and grythe. Than he made hym hys stuerd Of all hys londys after-werd,
+To hold with pes and grythe. Than he made hym hys stuerd Of all hys londys after-werd,  
 
-Off water, lond, and fry the, A cowpe of gold he gafe hym blythe, 550
+Off water, lond, and fry the, A cowpe of gold he gafe hym blythe, 550  
 
-To here to dam clarys, hyj wyfe,
+To here to dam clarys, hyj wyfe,  
 
-Tokenywg of loy and myrthe.
+Tokenywg of loy and myrthe.  
 
-The kyng made hys son squyre And gafe hym a coler forte were
+The kyng made hys son squyre And gafe hym a coler forte were  
 
-With a huwdryth pownd of rente. 555
+With a huwdryth pownd of rente. 555  
 
-When Jm com home in }?is maner, Dame clarys, ]>at lady clere,
+When Jm com home in }?is maner, Dame clarys, ]>at lady clere,  
 
-Sche thankyd god veramewt.
+Sche thankyd god veramewt.  
 
-Sche thanked god of all man^r,
+Sche thanked god of all man^r,  
 
-For sche had both knyght and squyre 560
+For sche had both knyght and squyre 560  
 
-Som-what to tyer entente.
+Som-what to tyer entente.  
 
-Vpon J?e dettys Ipat they hyght,
+Vpon J?e dettys Ipat they hyght,  
 
-They payd als fast as \e\ myght,
+They payd als fast as \e\ myght,  
 
-To eu^ry man wer content.
+To eu^ry man wer content.  
 
-A gentyll stewerd he was hold; 5 6 5
+A gentyll stewerd he was hold; 5 6 5  
 
-All men hym knew, $ong and hold,
+All men hym knew, $ong and hold,  
 
-Yn lond wer \a\. he wente. Ther fell to hym so grete ryches, He vansyd hys kynne, mour and les,
+Yn lond wer \a\. he wente. Ther fell to hym so grete ryches, He vansyd hys kynne, mour and les,  
 
-The knyght crtas and hend. 5?o
+The knyght crtas and hend. 5?o  
 
-Hys lady and he lyued many ^ere With Toy and m^ry chere,
+Hys lady and he lyued many ^ere With Toy and m^ry chere,  
 
-Tyll god dyde for them send, ffor ^er godnes J?#t \e\ dyd here, TKer saulys went to heuew clere, 575
+Tyll god dyde for them send, ffor ^er godnes J?#t \e\ dyd here, TKer saulys went to heuew clere, 575  
 
-Ther is loy w/t^-outen ende.
+Ther is loy w/t^-outen ende.  
 
 Amen.
 
