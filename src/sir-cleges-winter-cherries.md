@@ -164,20 +164,7 @@ by Weber, Henry, 1783-1816
 Publication date 1810
 Vol 1
 
-Introduction
-p. xxxix-xli
-
-SIR CLEGES.
-
-We have here a complete specimen of the real fabliau, few of which occur in the English language. The style is certainly very mean, but the latter part of the story merits preservation, particularly as it coincides so nearly 
-with the following abstract of one of Sacchetti's Novelle `[I know not if it has been before remarked, that the fourth novel of the author is very similar to the popular ballad of King John and the Abbot. The original of the tale viras probably some French fabliau.]`, (Nov. cxcv, Firenze, 1724, Vol. II, p. 134.) Sacchetti was born about 1335, and died in 1400. His Novelliero was written about the year 1376, according to the opinion of Manni.
-
-King Philip de Valois had a favourite hawk of great beauty and value. One day, after having taken several birds, the bird was pursuing another, but soared so high, that the king lost sight of it; and though eight of his squires were sent in search of the bird, they were unable to accomplish their design. The king now caused proclamation to be made, offering two hundred francs to any one who would bring the hawk, and threatening any person who detained him with the gallows. One day, the bird perched upon a tree, and a peasant, who happened to pass by, was so fortunate as to take him. By the fleurs de lis engraved on the bells, he discovered that he had caught a royal hawk, and, hearing the proclamation, set out for Paris in hopes of the reward. By the way, he met an usher of the king's palace, who demanded 
-the hawk of him. The clown was wary and refused : but by the threats of the usher, he was induced to promise one half of the profits to him. Having reached Paris, the king was so delighted, that be ordered the peasant to choose his own reward. The latter immediately demanded either fifty lashes, or else an equal number of bastinadoes. The king very naturally asked the reason of such a whimsical choice. When the peasant had related the avaricious bargain which had been forced upon him, the poor usher received his share of the reward with great punctuality ; but the half which the clown had retained was converted into two hundred livres, with which he returned contented to his home.
-
-It is probable, that the novel of Sacchetti, as well as Sir Cleges, owed its origin to some French fabliau. The ingenuity of the trouveurs, in telling several stories upon the same original foundation, is well known to the readers of Barbazan and Le Grand. There is also a distant similarity between these stories and the fabliau, entitled " Le Dit du Buffet," printed by Barbazan, (Edit. 1808, Vol. III. p. 264.)
-
-The only copy of Sir Cleges extant, to my knowledge, is in a folio MS., lately added to the Advocates' Library, on paper, apparently of the beginning of the fifteenth century, and containing besides Mandeville's Travels, and Occleve's Speculum Regis. The end of Sir Cleges is imper-fect in the MS. ; but as only part of one stanza seems to be wanting, the editor has attempted to supply the defect in the rough style of the original. His supplement will be found inclosed in brackets.
+*The notes are taken from Volume III, [p345-6](https://archive.org/details/metricalromance01webegoog/page/n355/mode/2up).*
 
 p329-353
 
@@ -186,10 +173,10 @@ SIR CLEGES.
 Will ye lystyn, and ye schyll here  
 Of eldyrs that before vs were,  
 Bothe hardy and wyght :  
-In the tyme of kynge Vter,  
+In the tyme of kynge Vter `[According to Geoffrey of Monmouth, and the romance of Artour and Merlin, Uter-Pendragon was the youngest son of King Constance. The eldest son, Constantine, preferred a monk's life to that of a king, and was hence entitled *Le Moine*. Aurelius Ambrosius, and his brother Uter, inherited the crown, which, however, was usurped during their minority by Vortigen. For the further history of King Uther, I refer the reader to Mr Ellis's abstract of the romance of Merlin. (*Spec, of Rom.* I, 195, *et seq.*)]`,  
 That was fadyr of kynge A[r]thyr  
 A semely man in sight.  
-He hade a knyght, that hight Sir Cleges,  
+He hade a knyght, that hight Sir Cleges `[A knight of this name is mentioned three times in Malory's Morte d' Arthur (Part I. chap. 96 ; Part III. chap. 139 and 146) ; but none of his deeds are recorded which could lead us to decide whether he was the hero mentioned in the text. He is not enumerated among the knights of the Round Table in Leyland's list, printed in Robinson's Assertion of the Life, Actes, and Death of Prince Arthure, Lond. 1582; as quoted in " the British Bibliographer," I. 116.]`,  
 A dowtyar was non of dedes  
 Of the rovnd tabull ryght :   
 He was a man of hight stature,  
@@ -591,7 +578,7 @@ And aftyrward he thowght with hym to speke,
 Wythout any faylyuge.
 
 The kynge therof made a present,  
-And sent yt to a lady gent  
+And sent yt to a lady gent `[This was Igema, first married to Gorlois, duke of Cornwall. King Uther haying been transformed by Merlin into the perfect semblance of the duke (who, in the mean time, was attacked, defeated, and slain by the king's forces), cohabited with her and begot the renowned Arthur upon her. After the news of her husband's death, she was married to Uther, and crowned queen.]`  
 Was born in Cornewayle :  
 She was a lady bryght and schene  
 And also ryght will besene,  
@@ -771,33 +758,865 @@ That to my talys lythe.]
 
 ```
 
-Volume III of *Metrical romances of the thirteenth, fourteenth, and fifteenth centuries* also includes some notes:
+Weber's own introduction to the poem also suggests a parallel, or earlier, version in the form of a Novell by Saccheti dating back to about 1376, abstracted as follows:
 
-```{admonition} *Metrical Romances*, Notes
-:class: seealso dropdown
-https://archive.org/details/metricalromance01webegoog/mode/2up?q=cleges
+> King Philip de Valois had a favourite hawk of great beauty and value. One day, after having taken several birds, the bird was pursuing another, but soared so high, that the king lost sight of it; and though eight of his squires were sent in search of the bird, they were unable to accomplish their design. The king now caused proclamation to be made, offering two hundred francs to any one who would bring the hawk, and threatening any person who detained him with the gallows. One day, the bird perched upon a tree, and a peasant, who happened to pass by, was so fortunate as to take him. By the fleurs de lis engraved on the bells, he discovered that he had caught a royal hawk, and, hearing the proclamation, set out for Paris in hopes of the reward. By the way, he met an usher of the king's palace, who demanded the hawk of him. The clown was wary and refused : but by the threats of the usher, he was induced to promise one half of the profits to him. Having reached Paris, the king was so delighted, that be ordered the peasant to choose his own reward. The latter immediately demanded either fifty lashes, or else an equal number of bastinadoes. The king very naturally asked the reason of such a whimsical choice. When the peasant had related the avaricious bargain which had been forced upon him, the poor usher received his share of the reward with great punctuality ; but the half which the clown had retained was converted into two hundred livres, with which he returned contented to his home.
 
-Metrical romances of the thirteenth, fourteenth, and fifteenth centuries:
-by Weber, Henry William, 1783-1818, ed
-
-Publication date 1810 vol III 
-
-
-Notes p345-6
+```{admonition} From *Introduction* to Weber, 1902
+:class: dropdown
+https://archive.org/details/metricalromances01webeiala/page/xxxviii/mode/2up
+Introduction
+p. xxxix-xli
 
 SIR CLEGES.
 
-V. 4, Vter.] According to Geoffrey of Monmouth, and the romance of Artour and Merlin, Uter-Pendragon was the youngest son of King Constance. The eldest son, Constantine, preferred a monk's life to that of a king, and was hence entitled *Le Moine*. Aurelius Ambrosius, and his brother Uter, inherited the crown, which, however, was usurped during their minority by Vortigen. For the further history of King Uther, I refer the reader to Mr Ellis's abstract of the romance of Merlin. (*Spec, of Rom.* I, 195, *et seq.*)
+We have here a complete specimen of the real fabliau, few of which occur in the English language. The style is certainly very mean, but the latter part of the story merits preservation, particularly as it coincides so nearly with the following abstract of one of Sacchetti's Novelle `[I know not if it has been before remarked, that the fourth novel of the author is very similar to the popular ballad of King John and the Abbot. The original of the tale was probably some French fabliau.]`, (Nov. cxcv, Firenze, 1724, Vol. II, p. 134.) Sacchetti was born about 1335, and died in 1400. His Novelliero was written about the year 1376, according to the opinion of Manni.
 
-7, Sir Cieges] A knight of this name is mentioned three times in Malory's Morte d' Arthur (Part I. chap. 96 ; Part III. chap. 139 and 146) ; but none of his deeds are recorded which could lead us to decide whether he was the hero mentioned in the text. He is not enumerated among the knights of the Round Table in Leyland's list, printed in Robinson's Assertion of the Life, Actes, and Death of Prince Arthure, Lond. 1582; as quoted in " the British Bibliographer," I. 116.
+[As quoted above.]
 
-378, .... *a lady gent*  
-*Was born in Cornewayle.*]  
-This was Igema, first married to Gorlois, duke of Cornwall. King Uther haying been transformed by Merlin into the perfect semblance of the duke (who, in the mean time, was attacked, defeated, and slain by the king's forces), cohabited with her and begot the renowned Arthur upon her. After the news of her husband's death, she was married to Uther, and crowned queen.
+It is probable, that the novel of Sacchetti, as well as Sir Cleges, owed its origin to some French fabliau. The ingenuity of the trouveurs, in telling several stories upon the same original foundation, is well known to the readers of Barbazan and Le Grand. There is also a distant similarity between these stories and the fabliau, entitled " Le Dit du Buffet," printed by Barbazan, (Edit. 1808, Vol. III. p. 264.)
+
+The only copy of Sir Cleges extant, to my knowledge, is in a folio MS., lately added to the Advocates' Library, on paper, apparently of the beginning of the fifteenth century, and containing besides Mandeville's Travels, and Occleve's Speculum Regis. The end of Sir Cleges is imper-fect in the MS. ; but as only part of one stanza seems to be wanting, the editor has attempted to supply the defect in the rough style of the original. His supplement will be found inclosed in brackets.
 
 ```
 
-A version of the same poem presented using a rather more "modern" form of English can be found in various works by Henry Morley published as part of Cassell's *Library of English Literature*.
+A comprehensive set of notes on the tale appear in the *Introduction* to G. H. McKnight's *Middle English humorous tales in verse*, c1913.
+
+```{admonition}
+:class: dropdown
+
+TO DO
+
+Middle English humorous tales in verse
+by McKnight, George Harley, 1871-1951
+
+Publication date [c1913]
+
+p. lxi-lxxv
+
+... The time of composition was not far from that of the Canterbury Tales. If there had been a minstrel in the famous company of pilgrims, this tale might with fitness have been attributed to him. Not only is the tail-rime stanza employed in the tale the favorite one in later minstrel stories, but the hero is particularly a minstrel hero. The generosity of Sir Cleges is displayed particularly toward minstrels. At the Christmas feasts provided by Sir Cleges, the minstrels figure conspicuously, and the gifts of
+
+Hors and robys and rych thynges, Gold and syluer and oper thynges
+
+make it easy to believe in the sincerity of the words of the minstrel in the Edinburgh manuscript, " We mynstrellys mysse hym sekyrly,
+
+Seth he went out of cuntre." (w. 496, 497.)
+
+The animus 1 against porters and their kind is appropriate to minstrels and appears not infrequently in minstrel tales. Furthermore in the Edinburgh text the minstrel is actually represented as singing before King Uther a "gest" concerning the virtues of Cleges. The tale, then, may be regarded as a minstrel tale, exemplifying many of the qualities of style that Chaucer so gleefully burlesqued in his tale of Sir Thopas.
+
+The story of Sir Cleges seems to have been a minstrel's Christmas story, for it will be noticed that the idea of Christmas is everywhere prominent. The lavish hospitality of Cleges was particularly displayed in the annual Christmas feasts, the loss of his property is particularly due to Christmas generosity, and the miracle through which he was restored to prosperity was a
+
+I Cf. King Horn, Sir Tristrem, and the ballad of Hind Etin. Christmas miracle. Doubtless the story was one which the minstrel loved to tell to encourage liberality at Yuletide feasts, and we can readily understand why to the listeners at Christmas entertainments this tale might be a favorite one in the minstrel repertory.
+
+The story is one with an evident moral. This moral is enforced by a narrative of dual character. Probably what was intended to be the main theme, was the generosity of Cleges rewarded in this life by divine interposition; what was possibly not intended as the principal element, but which nevertheless most catches the attention and clings longest to the memory, is the reverse of this, the greed of the king's servants punished with logical justice. The unity in the story is to be found only in the presentation of the opposite rewards of generosity and of greed. If we look at the story in this way, we see a logical appropriateness in the inclusion of the humorous anecdote of the strokes shared within the pious tale of generosity divinely rewarded.
+
+The man who has spent all his goods in generosity is by no means a unique character in romantic story. The close resemblance between the beginning of Sir Cleges and that of Sir Amadace x has often been remarked. In the fifteenth-century tale of The Knygbt and bis Wyfe 2 also, the knight
+
+. . . eche ^ere was wont to mak
+
+A gret fest for oure lady sake.
+
+But he spendyt so largely
+
+That in poverte he fel in hye.
+
+I Three Early English Metrical Romances (ed. Robson), Camden Society, London, 1842.
+
+z Remains of the Early Popular Poetry of England, by W. C. Hazlitt, London, 1866, vol. n.
+
+In the late ballad, A True Tale of Robin Hood (Child, no. 154), we learn how Robin Hood, Earl of Huntington, consumed his wealth in ' wine and costly cheere.' In the versions of the Launfal story also, in the Launfal 1 by Thomas Chestre and the later version, Sir Lamb ewe II f we meet a similar character. In the Launfal we read how,
+
+He gaf gyftys largelyche, Gold, and sylver, and clodes ryche, To squyer and to knyght.
+
+The manner, however, in which the knight is restored to prosperity is widely different in these different tales. In the Sir Am a dace, the account of the generous knight serves as an introduction to an interesting version of the well known folk tale of the ( grateful dead.' In The Knygbt and bis Wyfe, it introduces a story of the direct interposition of the Virgin Mary, one of the Mary legends which were so popular in contemporary French literature. In the True Tale of Robin Hood, it introduces the well known ballad story of outlawry. In the Launfal stories, it introduces a tale of aid through the fairy mistress Trieamour. The tale of Sir C leges is unlike any of these others. If classified according to its first element, it would be classed as a dit or conte devot, or perhaps better, as a legend, if Sir Cleges may be regarded as one of Saint Julian's devotees, a martyr to hospitality.
+
+The means of relief in the case of Sir Cleges, the miracle of the cherries at Christmas time, is as pleasing
+
+I Launfal (ed. Ritson), reprinted, Edinburgh, 1891. ^ Bishop Percy's Folio Manuscript (ed. Hales and Furnivall), London, 1867, vol. i.
+
+s in any of the similar stories mentioned. Similar miracles figure not infrequently in romantic and legendary story. In the legend of St. Dorothy we read how in response to the prayer of the chaste maiden, a fair child appears with a basket of roses and apples, which Dorothy sends to Theophilus. In the Decameron^- Ansaldo, the lover of Dianara, successfully accomplishes the supposedly impossible task imposed upon him, and on the first of January made to spring up a beautiful garden from which he picked the fairest fruits and flowers and sent as an unwelcome gift to the surprised lady. In the Ludus Coventriae* (xv), in the play on "The Birth of Christ," when Joseph and Mary are on the way to Bethlehem in the winter time, a cherry-tree, at first bare, successively blooms, bears ripe cherries, and finally bends down to Joseph whom Mary wishes to pluck cherries for her.-* Ability to exhibit fruit out of season was also one of the accomplishments of the popular heroes of magic, Friar Bacon and Doctor Faustus.5 None
+
+I Caxton, Golden Legend, Life of St. Dorothj.
+
+^ Tenth day, Novella 5.
+
+I Ed. Halliwell, Shakspeare Soc. London, 1841. Halliwell points out that" this fable of the cherry tree is the subject of a well known Christmas carol,which has been printed by Hone, Ancient Mysteries Described ," p.QO,
+
+4 That similar stories circulate in modern folk-tales is shown by H. Finck in the New York Evening Post (quoted by the Literary Digest, Jan. 7, 1911). He cites a French folk-tale of the Department of Ille-et-Vilaine, of an apple-tree. Mary wished to taste the fruit, and Joseph refused to gather the apples for her, saying it was a shame to touch the apple-tree at Christmas time. Whereupon the branches, of their own accord, bent down, and Mary plucked the fruit. Joseph then tried to pick some of the apples for himself, but the branches suddenly returned on high.
+
+5 W. C. Hazlitt, National Tales and Legends, London, 1899, p. 75. Hazlitt cites other parallels, among them " Another story of this kind in Painter's 4 Palace of Pleasure.' " E. K. Chambers (The Mediaeval Stage, I. 252, 253) cites the thirteenth-century Vita of St. Hadwigis, in which appears the story of trees in bloom in mid-winter, and gives reference to a number of parallel stories. The miracle of the Glastonbury thorn might also be cited in this connection.
+
+of these stories, however, is more pleasing than that of Sir Cleges, who after kneeling in prayer ft underneth a chery-trc," in rising takes a branch in his hand, and
+
+Gren leuys J>er-on he fond
+
+And ronde beryes in fere.
+
+The cherries have an appropriateness in English story. They have always been a favorite fruit among the English. In Piers Plowman (A 7,281) poor people are represented as eating "ripe chiries monye," x and one of the English popular institutions was the cherry fair* held in cherry orchards. But the presentation of a gift to the king seems not so appropriate to English story. It is hazardous to form a judgment concerning the origin of a winged tale like the present one, but the presentation of gifts to a king, although not infrequent in European folk-tales, seems like an oriental feature and is especially frequent in oriental story. According to Clouston,3 All great men in the East expect a present from a visitor, and look upon themselves as affronted, and even defrauded, when the compliment is omitted. See I Samuel, ix, 7, and Isaiah, Ivii, 9." The same custom persists to-day among African tribes, one is told.
+
+Combined with the tale of generosity divinely recompensed is another story, of greed requited. As has been said, it is not easy to determine whether the author of Sir Cleges intended this second story as an episode in the story of the generous knight or if he intended the first part of the story to serve as a setting for the widely known story of the blows shared. If we judge by the structure of such a story as Chaucer's Nonne
+
+I Version C. " chiries sam-rede."
+
+Z Brand, Popular Antiquities, II. 457.
+
+3 Popular Tales and Fictions, Edinburgh, 1887, u. 467.
+
+Preestes Tale we may conclude that the second part was intended as the piece de resistance. In any case the author has devoted nearly half of his narrative to the second element, and it is this part of the story which provides the greater amount of entertainment whether to the modern reader or to the medieval listener.
+
+The story of the man who is made to promise a share of an expected reward to one or more greedy servants and who, therefore, chooses blows for his reward, is one of the most wide-spread of tales. The universality of its theme makes it appropriate to any nation and to any time, and for that reason it is not possible to assign it to any nationality. The nature of the tale is such that it would be vain to attempt to discover the exact interrelations between the score and more of different extant versions.
+
+The defmiteness of the underlying idea in this story rendered it especially suitable for oral transmission. Hence it is not surprising to find it circulating widely as a folk-tale. Among the Arabs it was well known. M. Rene Basset x cites the following version. A eunuch promises El Mo'tadhib, the Prince of the Faithful, to bring him a man to make him laugh. He introduces a street story-teller named Ibn el Maghazik, but exacts from him a promise of half the expected reward. Ibn fails, and is ordered to be given ten strokes. He asks that the ten be made twenty. When he has received ten, he explains that the other half of the reward is to go to the eunuch. The king laughs.
+
+I Ren6 Basset, Contes et Legendes Arabes, no. 57, Rev. des trad. pop. xii. 675-7 M. Basset cites several other Arabic versions of this story, besides two Italian folk-tales.
+
+Another * Arabic version passed over among the Berbers. A chief bids his servant find a man to make him laugh. If the chief is made to laugh, he will pay a hundred r'eaux ; if not, a hundred blows. The servant brings El* Askolani, but demands half of the r'eaux in case of success. El* Askolani fails, and the chief orders that one hundred strokes be given. When the storyteller has received fifty, he bids give the remaining fifty to the servant, at the same time explaining the servant's stipulation. The chief doubles up with laughter and gives El' Askolani one hundred reaux.
+
+An Italian popular tale, in which a stupid boy presents a fine fish to the king, but is made to promise shares of the expected reward to three servants, is told by Marc. Monnier. 2 A Greek popular story with a similar beginning but with the conclusion rendered ineffective, is told by E. Legrand.3 From Italy John G. Saxe supposedly derived the version that he tells under the title, " The Nobleman, the Fisherman, and the Porter, An Italian Legend." In Italy the story is also told by Sacchetti* and by Straparola.5 In Spain it appears in the Cuentos de Juan Ar agones, 6 no. 3. In Sweden it is -produced by Backstrom in his Svenske Voksbocker(2 t
+
+I R. Basset, Nouveaux Contes Bcrbercs, Paris, 1897, no. 119," Part a deux." In this volume M. Basset discusses numerous other versions, in Arabic, Italian, German, and French.
+
+^ Let Contes Populaires en Italie, pp. fcj6, 237. An Italian version, Nerucci, Sessanta Novelle Populari Montalesi, Florence, 1880, Nov 2,7, La Novella di Sonno, pp. 233-7.
+
+3 Recueil de Contes Populaires Grecs, Paris, l88l, pp. 53-55.
+
+4 Novelle, Milano, 1815, vol. in. p. 169.
+
+5 Notti Piacevoli, Notta 7, Favola 3.
+
+6 Another Spanish version cited by Oesterley (in his edition of Schimpf und Ernst) is that in the Margerita Facetiarum^ Alfonsi Aragon, Reg. Vafredicti, etc., Argent. 1508, p. 4b.
+
+p. 78, n. 30). In Germany it appears in Pauli's Scbimpf und Ernst (no. 614), in Grimm's Kinder und Hausmarcben (no. 7), and in a poem by C. F. G. Hahn, 1 organist at Dargun, entitled " Wallenstein und der kiihne Pferdehirte aus der Umgegend von Gustrow."
+
+In the world's noodle literature the story is one frequently occurring. The adventure is attributed to the famous Turkish court-fool, Nasureddin Chodscha, 2 who presented early cucumbers to Tamburlane. In German jest-books it was one of the best-known adventures of the celebrated Pfarrer von Kalenberg.3 In England a similar story appears in " The Pleasant Conceites of Old Hobson the Merry Londoner." 4
+
+The same story appears in the form of anecdotes connected with various persons. The anecdote is told of the Italian actor Mezzetin 5 (fl. 1688-97). Mezzetin had dedicated a piece to the Duke of Saint Aignan, who paid liberally for dedications. He called on the Duke. The Swiss guard, suspecting the purpose of his visit, was unwilling to admit him. Mezzetin offered him a third of the expected gift. On the stairway he was obliged to make the same promise to the first lackey, and in the ante-chamber a like one to the valet de chambre. When he came into the presence of the
+
+I Mecklenburg's Volks-Sagcn, col. & ed. by A. Niederhoffer, Leipzig, 1859, HI. 196-199.
+
+^ Flogel, Geschichte der Hofnarren, 176-178.
+
+3 F. W. Ebeling, Die Kahlenberger, Berlin, 1890; F. Bobertag, Narren* buch, Berlin, 1885, pp. 7-86; F. H. von der Hagen, Narrenbuch, Halle, 1811, pp. 271-351; Ljrum Larum Lyrissimum, 1700, no. 184; Henrici Bebelii, Facetiarum, TUbingen, 1544, Lib. II. (The last two reference* are from Liebrecht-Dunlop, History of Fiction, II. 153 note.)
+
+4 W. C. Hazlitt, Snakes? earths Jest Books, p. 40, no. 14.
+
+5 L. Moland, Moliirt et la Comidie Italienne, pp. 375-6.
+
+Duke, Mezzetin said, " Here is a theatrical piece which I take the liberty of presenting to you and for which I ask that you give me a hundred coups de baton." On hearing Mezzetin' s explanation, the Duke gave the servants a severe reprimand and sent I oo louis to Mezzetin' s wife, who had promised nothing to the servants. Tallemantdes Reaux l tells the same anecdote concerning the actor Jodelet. In this case the actor asked his patron, the Chancellor Sequier, to distribute a hundred coups de baton among four valets de cbambre who had successively exacted promises.
+
+This story, appearing so frequently in folk-tale, in jest-book, and in biographical anecdote, has a very obvious moral. This moral element made the story a useful one to the medieval preacher, and it appears in books otexempla. In the Summa Praedicantium of John 2 of Bromyard it appears (fol. C xiii. b) under the heading Invidia. This exemplum, which is reprinted in Wright's "Latin Stories," 3 runs as follows : ( A certain man coming to the Emperor Frederick with fruits of which the Emperor was very fond, was unable to gain admittance unless he should pay to the door keeper half his gain. The emperor, delighted with the fruits, bade the bearer ask for something in return. The man asked that the emperor command that a hundred blows be given him. When the emperor learned the cause, he ordered the blows of the bearer of the fruits, to be paid lightly, those of the door keeper, heavily.' Another interesting exemplum version of the story is that in the
+
+I Tallemant des Reaux, Memoir* of Chancellor Sequier.
+
+a See Bibliography.
+
+3 Percy Society Publications, vm. ill.
+
+English Gesta Romanorum, 1 no, xc. This version, like the one in the Sir Cleges, has an elaborate introduction. In certain essential details also it closely resembles the Sir Cleges version. A king had two sons. To one he gave his kingdom; to the other, a prodigal, he gave the choice between two caskets. The chosen casket contained twenty shillings; to these the king added a penny. Thus provided, the prince met a man with a pannier containing a wonderful fish with gold head, silver body and green tail. He bought the fish for twenty shillings and paid the remaining penny for the pannier. He bore the pannier with the fish to the manor house of a great lord. The porter demanded the head of the fish, and instead of it the prince promised him half the expected reward. The usher of the hall demanded the body and was promised half of the remaining reward. The chamberlain, who demanded the tail, was promised half the remaining part. The noble lord, upon receipt of the gift, bade the prince ask a boon. The servants advised various requests, but the prince asked twelve buffets. The lord granted the request regarding the buffets to be divided, but threw in for good measure his daughter and his kingdom for the prince alone.
+
+The great variety * in the forms of this popular tale will have been noticed. The one who asks for the blows
+
+I E. E. T. S. Extra series, xxxiu. 413-416, no. xc.
+
+^ There are in circulation many similar tales, such as the Tale of the Three Wishes (cf. Bedier, pp. zzo, Z2,i), the Dit du Buffet (cf. Montaiglon et Raynaud, Notes) the Envious and the Avaricious (cf. J. W. Jacobs, of. d/., Notes), besides scattering folk-tales and adventures like those of Til Eulenspiegel. Most like of all, and closely associated with the story of the blows shared, is the one called " Luckily they are not Peaches " (Cf, W. A. Clouston, Pop. Tales & Fictions, n. 467 ff.)
+
+is in one story a groom, in another a prince; in one a stupid peasant boy, in another a witty actor. The number of greedy servants varies from one to four, of the blows, from two to five hundred. The variety of gifts offered in the different versions includes cucumbers, apples, berries, cherries, a falcon, and a fish, or the offering is a good story or a good play. The tale is told merely to excite a laugh, or to point a moral. The people who tell it are Berbers in Africa, Arabs in Asia, Germans, Swedes, Spaniards, Greeks, Italians, and English in Europe. But in all its migrations and with all the variation in detail, the essential idea remains constant.
+
+None of the versions of this protean tale known to the present writer could have served as the exact original for the English Sir Cleges. Nor is it known who was the author or whether the English story is a translation from the French or an original English composition. But though singularly neglected x by earlier literary historians, it is a highly interesting composition. Its faults are evident. It is a mongrel composition consisting of 'a fabliau tale forming an episode in a conte devot and the whole provided with an Arthurian setting. The scenes of the story in general lack the distinctness which usually characterizes the scenes in Chaucer's works. The characters lack the many-sidedness of reality; they are little more than types. For instance there is little attempt to distinguish between the porter, the usher, and the steward. Each represents the same type, that of the greedy servant. The description of Sir Cleges is like that burlesqued
+
+I The story of Sir Cleges is not mentioned by Korting, nor by Ten Brink ; Jusserand mentions it only in a footnote.
+
+in Sir Tbopas. The manner too is stiff; the humorous anecdote is not presented in correspondingly humorous style. But with all these faults, the story is a pleasing one. Besides the interest it aifords as a narrative, the story, while not offering clear pictures, does give interesting details of minstrel customs, of life in the hall, of domestic relations and of Christmas cheer. There is a sweet domesticity in the scene where, after Cleges has been comforted by his loyal wife, ' they wash and go to meat ' and then ' drive the time away with mirth ' in playing with their children, and a prettiness of detail in the scene where Cleges, kneeling in prayer under the tree, finds the branch in his hand covered with green leaves and ' beryes ' in clusters. The last part of the story makes up in comedy of situation what it lacks in appropriateness to the main theme. It is this part of the story which is told with greatest gusto. The truculent manners of the king's attendants are brought out with great distinctness by the minstrel who doubtless had himself experienced treatment similar to that experienced by Sir Cleges and been obliged to sit in the beggars row. ' The minstrel lingers with evident satisfaction over the details of the blows paid to the servants.
+
+The fyrst stroke he leyd hym onne, He brake a-two hys schulder bone, And hys ryjht arme also.
+
+There are no fine shades of humor here, but doubtless the details were relished by a gleeman's audience, and they are not entirely unpalatable to the modern reader, it must be confessed.
+
+The Sir Cleges is preserved in two paper manuscripts, both belonging to the end of the fifteenth century ; one MS. Jac. v. 7, 27, in the Advocates' Library at Edinburgh, the other, Ashmole MS. 61, in the Bodleian Library at Oxford. The text of the Edinburgh manu script was printed by Henry Weber, in his Metrical Romances, Edinburgh, 1810, i. 329 ff. The two texts have been printed in parallel columns by A. Treichel, Englische Studien, xxn. 374 ff. The Oxford text is printed in the present volume.
+
+Between the texts in these two manuscripts there are many points of difference * in detail. As has been said, the story is a minstrel story, and it has evidently been written down twice independently, from oral recitation or from memory. The differences are such as one would expect to originate in oral transmission. Neither manuscript is derived from the other; both texts go back to a common original, and in each appear variations originating in the independent line of transmission. The two manuscripts complement each other admirably. When single lines, or more frequently, three lines, of a stanza, are missing in one, they can be supplied from the other. In some important details the Edinburgh text is the better one, but in the present volume the Oxford text has been printed because the Edinburgh lacks some stanzas at the end. The Edinburgh text has, however, been used to supply lines missing in the Oxford text. The most important variations are indicated in the notes.
+
+The verse form used in theS/r C leges is the twelve-line
+
+I Treichel, op. cit. pp. 359 ff., gives a careful discussion of the differences between the two manuscripts. The Edinburgh MS. has $31 verses, the Oxford 570. Only 180 lines, about one third, are exactly alike. Of the remainder, 108 differ in one word, so that nearly half th verses are unlike in several words, or entirely unlike.
+
+tail-rime stanza. The regular rime scheme is a a b c c b d d b e e b. Variations from this scheme are found in the Oxford manuscript only in stanzas 16, 17, 19, 33, 41, 46 and 47. Assonance appears in a few instances. There are also a few instances of impure rime, but several of the apparent instances are due to the scribe. Alliteration is not an organic feature of the verse, but occurs occasionally, either through the survival of old formulae or through the use of two words with the same root. For a detailed discussion of the metrical features, see Treichel, op. cit. 364 ff.
+
+The dialect of the original work is somewhat disguised on account of scribal peculiarities. In the Oxford manuscript appear frequent Scottish features. From the evidence, however, of the rimes common to the two versions and of the inflectional forms, Treichel (op. cit. 371 ff. ) concludes that the original work was composed in the northern part of the Midland of England. In the present volume the different inflectional forms will be found registered in the glossary.
+
+From the evidence of the rimes /j/, yte and ee, y, Treichel (op. cit. 374) sets the date of composition at not earlier than the beginning of the fifteenth century.
+
+```
+
+As you might expect, McKnight's version of the poem also provides a critical review, rich in annotations:
+
+```{admonition}
+:class: dropdown
+
+TO DO + notes https://archive.org/details/middleenglishhum00mcknrich/page/70/mode/2up?q=cleges
+
+https://archive.org/details/middleenglishhum00mcknrich/page/38/mode/2up?q=cleges scan includes marginalia
+
+Middle English humorous tales in verse
+by McKnight, George Harley, 1871-1951
+
+Publication date [c1913]
+
+p38-59
+
+Sir Cleges
+
+[L] ystyns, lordyng^, and }e schall here Ashmole Off ansytowrres, \a\. be-fore vs were, MS ' 6l '
+
+Bothe herdy and wyght, Yn tyme of vter and pewdragonn, Kyng artowr fad^r of grete renoue, 5
+
+A sembly man of syght. He had a kny^ht, hy^t sir clegys ; A dou^tyer man was now at nedys
+
+Of J;e ronde-tabull ry^ht.
+
+He was man of hy statour 1
+
+And tyer-to feyre of all fetowr,
+
+A man of mekyll my^ht.
+
+Mour curtas kny^ht J?aw he was one Yn all f?/s werld was \er non.
+
+He was so gentyll and fre, To squyres ]>at tr<7ueyled in lond of werre And wer fallyn in pou^rte, bare,
+
+He gaff J?e;7/ gold and fe. Hys tenants feyr he wold rehete; No man he wold buske_ ne bete ;
+
+Meke as meyd was he. Hys mete was redy to eu^ry man That wold com and vyset hyw than ;
+
+He was full of plente..
+
+The knyght had a gentyll wyffr, 25
+
+A better my^ht now be of lyfe,
+
+Ne non semblyer in syght. Dame clarys hyght fyat lady ; OfF all godnes sche had treuly
+
+Glad chere boj;e dey and ny^ht. 30
+
+Crete almaj-folke boj?e J^i were Both to pore man and to frere ;
+
+They cheryd many a wy^ht. ffor ]>em had no man ou^ht lore Whe^r \e\ wer ryche or pore, 35
+
+Of hym ]>ei schuld haue ry^ht.
+
+Euery $ere sir clegys wold In crystyn-mes a fest hold
+
+Yn ]?e worschype of ]>at dey, [As Ryall in all thynge 40
+
+As he hade ben A kynge,
+
+For-soth as I you saye.] Ryche and pore in \a\. centre At ]>at fest \e\ schuld be ;
+
+Ther wold no man sey nay. ? 45
+
+Mynstrellus wold not be be-hynd, Myrthys wer \e\ may fFynd,
+
+That is most to ]>er pay.
+
+Mynstrellz/j when ]?e fest was don, f Schuld not wit^-outyn gyft^j gon That wer both rych and gode,
+
+Verses 40-42 are supplied from the Edinburgh MS.
+
+Hors and robys and rych thyng^j, Gold and sylu^r and ofyer thyng^j,
+
+To mend with \er mode
+
+X $ere our xii sych fester \e\ held 55
+
+Yn worschype of hy#z, Ipat all weld
+
+And for vs dy^ed vpon ]?e rode. Be than his gode be-gan to schake, Sych fester he gan make,
+
+The knyght of jentyll blode. 60
+
+To hold hys feste he wold not lete; Hys rych manors to wede he sete :
+
+He thou^t hyw-selue oute to quyte. Thus he festyd many a $ere Both gentyll men and comener )
+
+Yn }?e name of god all-my^ht. So at J?e last, soth to sey, All hys gode was spendyd a-way ;
+
+Than he had bot a lyte.
+
+Thoff hys god were ne-hond leste, 70
+
+Yn j?e wyrschyp he made a feste ;
+
+He hopyd god wold hy/fl quyte.
+
+ryalty he ford^ryd ay, To hys manors wer sold a-wey,
+
+That hym was left bot one; 75
+
+And Ipat was of lytell valew, That he and hys wyfe so trew
+
+Oneth my^ht lyfe Jw-one.
+
+Hys men, \a\. wer so mych of pr/de,
+
+Wente a-wey one eu^ry syde ; 80
+
+With hym \er left not one. To duell with hym \er left no mo Bot hys wyfe and his chyld^r two ;
+
+Than made he mekyll mone.
+
+Yt fell on a crystewmes cue; 85
+
+Syr clegys and his wyfe,
+
+They duellyd by cardyff syde. When it drew to-werd J?e none, Syr clegys fell in swownywg sone ;
+
+Wo be-thought hym ]>at tyde, 9
+
+What myrth he was wonte to hold, And he, he had hys manors solde,
+
+Tenandrys and landes wyde. Mekyll sorow made he ]>er; He wrong hys hond^r and wepyd sore, 95
+
+ffor fallyd was hys pr/de.
+
+And as he walkyd vppe and done, Sore sy^eng, he herd a sowne
+
+Off dyu^rse mystralsy, pJiau|* /v ' 1 Off truwpers, pypers, and nakerner^ 100
+
+Off herp^rs, notys and gytherners.
+
+Off sytall and of sautrey. Many carrals and grete dansyng Yn eu^ry syde herd he syng,
+
+In eu^ry place, treuly.
+
+He wrong hys hondes and wepyd sore ; Mekyll mon he made \er, Sy^eng full pytewysly.
+
+/ x u A Ih^u, heuerc-kyng,
+
+Off nought Ipou madyst all thyng ;
+
+Y thanke )>e of thy sonde. The myrth \a\. I was won to make Yn J?/s tyme for J?/ sake.
+
+Y fede both fre and bond, And all Ipat euer com in )?/ name, They wantyd no]>er wylde ne tame,
+
+That was in any lond, Off rych metys and drynk^j- gode That longes for any man^j fode,
+
+Off cost I wold not wonde."
+
+Als he stode in mournyng so, And hys wyfe com hym to,
+
+Yn armys sche hym hente. Sche kyssed hym with glad chere, And seyd : " My trew wedyd fere,
+
+Y herd wele what }e ment. ^e se wele, s/r, it helpys nought, To take sorow in jour thought;
+
+Ther-for I rede $e stynte. [Let yourc sorowe A-waye gon And thanke God of hys lone
+
+Of all \a\. he hath sent.]
+
+Be crystes sake, I rede $e lyne Of all \e sorow J?#t }e be Ine
+
+A-^ene J?/s holy dey. i 35
+
+Now eu^ry man schuld be mery and glad With sych god^ as J?^i had;
+
+Be }e so, I }ou pray. Go we to ouer mete be-lyue And make vs both m^rry and blythe, H
+
+his wele as eu^r we may. I hold it for J?e best, trewly ; Y haue made owre mete treuly,
+
+Y hope, vnto $our pay."
+
+a Now I assent," q0J? cleg^j tho. '45
+
+Yn with hyr he gan go
+
+Som-what with better chere. When he fell in thou^t and care, ' Sche comforth hym euer mor,
+
+Hys sorow for-to stere. 150
+
+After he gan to wex blytljfe) And wyped hys terys blyue,
+
+That hang on hys lyre. Than ]>e'i wesch and went to mete, With sych god as \e\ my^ht gete, J 55
+
+And made m^ry chere.
+
+Verses 130-132 are supplied from the Edinburgh MS. 145 MS. the.
+
+When \e\ had etc, J?e soth to sey,
+
+With myrth ]>ei drofe }?e dey a-wey,
+
+The best wey ]>at they my^ht.
+
+With Iper chyld^r pley ]>ei dyde 160
+
+And after euensong went to bede
+
+At serteyn of ]?e nyght. ^
+
+The sclepyd, to it rong at J>e chyrcheA Stf^**^ God^r s^ruys forto wyrche, O
+
+As it was sky 11 and ryght. 165
+
+Vp \e\ ros and went ]?e}^r, They and \er chyld^r toge)?/?r,
+
+When \e\ were redy dy^ht.
+
+Syr cleg^r knelyd on hys kne,
+
+3 Ih[es]u cryst pr^yd he 170
+
+Bechegyn of hys wyfe : u Grasyos lord," he seyd tho, u My wyfe and my chyld^r two,
+
+Kepe vs out of stryffe." The lady pr^yd hym ageyn ; Sche seyd : u god kepe my lord fro peyn
+
+Yn-to eu^r-lastyng lyffe." 175
+
+Seruys was don and horn ]^y wente ; The thankyd god omnipotent
+
+They went home so ryfe.
+
+When he to hys palys com, X 8o
+
+He thou^t his sorow was ou^r-gon ;
+
+Hys sorow he gan stynt. He made hys wyfe be-for hym gon And hy [s] chylcUr eu^rychon ;
+
+Hyw-selue a-lone he wente Yn-to a garthyn \er be-syde. 185
+
+He knelyd a-don in J?#t tyde
+
+And prayd to god v^rament. He thankyd god with all hys hert Of all desesyd in pou^rte
+
+That euer to hym he sente. 190
+
+Si* c*
+
+As he knelyd onne hys kne Vnd^r-neth a chery tre,
+
+Makying hys praere,
+
+He raw^ht a bow^e in hys hond, 195
+
+To ryse Iper-by and vp-stond ;
+
+No leng^-r knelyd he ]>er. When )?e bow^he was in hys hond, Grengleuys Iper-on he fond
+
+And ronde beryes in fere. 200
+
+He seyd : <c Dere god in tr/nyte, What man^r beryes may J?/s be,
+
+That grow ]?/s tyme of ^ere ? "
+
+" Y haue not se J?/s tyme of That treys any fruyt schuld bere, 20 5
+
+Als ferre as I haue sought." He thou3t to tayst it, yff he couthe ;
+
+One of ]>em he put in hys mouthe ;
+
+Spare wold he nought. toJi ai
+
+AfV^a chery it relesyd clene, <n^/**^^ Tnebest ]>at euer he had sene,
+
+Seth he was man wrought. A lytell bow he gan of-slyfe ; And thought he wold schew it hys wyfe ; 215
+
+Yn hys hond he it brought.
+
+" Lo, dame, here is a nowylte ; In ou^r garthyn vpon a tre
+
+Y found it, sykerly. 220
+
+Y ame a-ferd, it is tokenywg Be-cause of ou^r grete plenyg, That moar greuans is ny." His wyfe seyd : " It is tokenywg Off mour godnes \a\. is comywg ; >n,$
+
+We shall haue mour plente. Haue we les our haue we mor, All-wey thanke we god ]?^r-fore; Yt is J?e best treulye."
+
+The lady seyd with gode cher: 230
+
+" Late vs fyll a panyer
+
+Off J?e frute ]>at god hath sente. To-morow, when ]?e dey do spryng, ^e schall to cardyff to J?e kyng,
+
+fFull feyre hym to pr^jente.
+
+Sych a gyft $e may hafe J?<?r, 235
+
+That a [11] we schall ye beter fare;
+
+I tell 3011, veramewt." Sir clegys grantyd sone ]>er-to : To-morow to cardyff I wyll go
+
+After pur entent." 140
+
+The morne, when it was dey-lyght, The lady had j;e pawnyer dyght ; To hyr eldyst son seyd sche : Take vp JMS pawnyer gladly And here it at thy bake esyly *45
+
+After J?i fad^r so fre." Syr clegys J?aw a staff he toke ; He had no hors, so seyth J?e boke, To ryde hys jorneye, sted ne
+
+(V
+
+Bot a staff was his hakney, As man^r in pou^rte.
+
+Syr cleges and hys son gent The ryght wey to cardyfe went
+
+On cryste^mes dey. 255
+
+To J?e castell-^ate \e\ com full ry^ht, As \e\ wer to mete dyght,
+
+At none, J?e soth to sey. As sir cleges wold in go, Yn pore clothyng was he tho, 260
+
+In a symple aray.
+
+The porter seyd full spytously : u Thow schall w/t/>-draw J?e smertly, Y rede, w/t^-oute deley.
+
+Els, be god and seynt mary, 265
+
+Y schall breke }n hede smertly,
+
+To stond in begers route. Yff J?0u draw any mour in-werd, Thow schall rew it aftmverd;
+
+Y schall J?e so cloute." 270
+
+" Gode s/>," seyd sir cleges tho, " Y pray }ou, late me in go ;
+
+Thys is w/t^-outen doute. The kyng I haue a present brow^t fFro hyw, )>at made all thinge of nou^t ; 275
+
+Be-hold and loke a-boute ! "
+
+The powrter to }?e pawnyer wente; Sone )?e lyde vp he hente ;
+
+The cherys he gan be-hold. Wele he wyst, for his co/wmywg, 280
+
+ffor hys present to J?e kyng,
+
+Crete gyft^ haue he schuld. He seyd : cc Be hym ]?#t me dere bought, Yn at J?is ^ate commys ]?<?u nought,
+
+Be hym ]?^t made ]?/s mold, 285
+
+The thyrd p#rte bot J>ou gr^unte me Off ]>at the kyng wyll gyff }?e,
+
+Whe];^r it be sylu^r our gold."
+
+Syr cleges seyd : " ]>er-to I sente."
+
+He }aue hym leue, and in he wente ^90
+
+W/t/>-outen mowr lettyng. Yn he went a grete pas ; The offycers at }?e dore was
+
+With a staff standyng.
+
+Yn com sir cleges so wyght; *95
+
+He seyd : u Go, chorle, out of my syght,
+
+W/t-out any mour lettyng. Y schall ]?e bete eu^ry lythe, Hede and body, w/t^-outyn grythe,
+
+And ]>ou make mour pr^syng." 300
+
+cc Code s/V," seyd sir cleges than, " For hys loue, \a\. made man,
+
+Sese jour angry mode ! ffor I haue a pr^sante brou^t ffro hy/w J?#t made all thyng of now^ht 3S
+
+And dyed vpon }?e rode. Thys nyght J?/'s fruyt grew ; Be-hold, whe}?^r I be fals our trew;
+
+They be gentyll and gode." The vsscher lyfte vp )?e lyde smertly ; 3 i The fey rest cherys ]>at euer he sey ; [) He m^ruyllyd in his mode."
+
+The vsscher seyd : " Be mary suete, Thou comyst not in ]?/s halle on fete,
+
+Y tell J;e, sykerly,
+
+Bot ]>ou grauwte me, w/t^-out wernyng, The thyrd p#rte of ]?i wyneng,
+
+When Ipou comyst a-geyn to me." Syr cleges sey now o]?er wone, Bot \er he gr^ntyd \\yrn a-non ; 320
+
+Yt wold now o)?er-weys be. Than sir cleges with heuy chere Toke his son and his pawnyer ;
+
+In-to j?e hall went he.
+
+The stewerd stert fast in )?e hall, 325
+
+Among J?e lord^ in ]?e halle,
+
+That weryd ryche wede. He went to sir cleges boldly And seyd : u Who made J?e so herdy,
+
+To come hejw, our J?0u were bede ? 330 Cherle," he seyd, u ]>ou arte to bolde. W/'t-draw )?e with J?e clothes olde,
+
+Smertly, I J?e rede." He seyd : " S/V, I haue a pr^sant brou^t fFro ]>at lord ]?tft vs dere bought 335
+
+And on J?e rode gan bled."
+
+The stewerd stert forth wele sone And plukyd vp j?e lyde a-non,
+
+Als smertly as he mou^ht. The stewerd seyd : u Be mary dere, 340
+
+Thys saw I neu^r J?/s tyme of }ere,
+
+Seth I was man I-wrou^ht.
+
+Thow schall cum no jiere^e kyng, Bot if J?0u gnmte me myn askyng,
+
+Be hym \a\. me dere bought. 345
+
+The thyrd parte of ]?e kyng^j gyfte Y wyll haue, be my thryfte,
+
+Or els go truse be oute ! "
+
+*
+
+Syr cleges stode and be-thou^t hym fan : And I schuld p^rte be-twyx thre men, 350
+
+My-selue schuld haue no-thyng. fFor my traueyll schall I not gete, Bot if it be a melys mete."
+
+Thus thought hym sore sy^eng. He seyd: u Herlot, has ]>ou no tong ? 355
+
+Speke to me and tary not long
+
+And gnznte me myn askyng, Or with a staff I schall J;e twake And bete j?i ragg^j to ]?i bake
+
+And schofe )>e out hedl^ ! '
+
+Syr cleges saw now oper bote, Hys askyng gr^nte hym he mote,
+
+And seyd with sy^hyng sore : What fyat euer ]?e kyng rewerd, ^e schall haue |>e thyrd p^rte, 3 6 S
+
+Whe|?^r it be lesse our more." When s/r cleges had seyd ]>at word, The stewerd and he wer a-corde
+
+And seyd to hym no more.
+
+Vp to )?e kyng sone he went ; 37 o
+
+fFull feyn he pr0ferd hys pn?sente, Knelyng onwe hys kne hym be-fore.
+
+Syr cleges vn-cou^ryd ]?e pawnyer And schewyd J?e kyng |?e cherys clere,
+
+Vpon ]?e ground knelyng. 375
+
+He seyd : u Ih^u, ouer sauyoure, Sente }ou J?is fruyt with grete honoar
+
+Thys dey onwe erth growyng." The kyng saw J?e cherys fressch and new, And seyd : u I thanke {?e, swete Ih*m, 380
+
+Here is a feyre newyng. -nrv -
+
+clees to mete, I ( f-^ '
+
+He comandyd sir cleges to mete, I A word aft^-r with hym to speke, W/t^>[out] any feylyng
+
+The kyng Iper-for made a pmente And send vn-to a lady fiente,
+
+Was born in come-weyle. Sche was a lady bryght and schen ; Aft^r sche was hys awne quen,
+
+W/t^-outen any feyle. 390
+
+The cherys wer s^rued throu^he J?e hall. Than seyd j;e kyng, a lord ryall :
+
+- " Be m^ry, be my conseyle ! And he ]?at brou^t me J?/s present, Y schall make hyra so content, 395
+
+It schall hym wele a-vayle."
+
+When all men wer merye and glad, Anon ]?e kyng a squyre bade :
+
+" Bryng \\yrn me be-forne, The pore man J?#t ]?e cherys brou^t." 4 Anon he went and taryd nought,
+
+W/t^-outen any scorne. He brought cleges be-for ]?e kyng ; Anon he fell in knelyng, He wend hys gyft had be lorn. 4<>S
+
+He spake to }?e kyng with word^j felle. He seyd : " Lege lord, what is jour wylle ?
+
+Y ame jour man fre-borne."
+
+T thanke ]?e hertely," seyd J?e kyng,
+
+i u Off J?i grete pmentyng. 410
+
+That ]>ou hast to me do. Thow hast honoryd all my feste With YI deynter, moste and leste,
+
+And worschyped me ail-so. What ]>at euer thou wyll haue, 15
+
+Y wyll j?e grante, so god me saue,
+
+That J?in hert stond^j to, Whe]?<?r it be lond our lede, Or ofyer gode, so god me spede,
+
+How-]?tft- euer it go." 4*
+
+He seyd : u Garem^rsy, lege Kyng ! Thys is to me a hye thing. ffor sych one as I be.
+
+forto grante me lond our lede
+
+Or any gode, so god me spede, 425
+
+Thys is to myche for me. Bot seth ]>at I schall ches my-selue, I aske no-thyng bot stroke xn
+
+ffrely now grante ye me,
+
+With my staff to pay 'pern all, 430
+
+Myn adu*r.rarys in }?/s hall,
+
+ffor seynt charyte."
+
+Than ansuerd vt^r, ]?e kyng ; He seyd : " I repent my grantyng, The couenand J?#t I made." 435
+
+He seyd : " Be hyw J;at made me and the, Thou had be better take gold our fe ;
+
+Mor nede )>er-to ]>ou hade." Syr cleges seyd witb-outen warryng : a Lord, it is your awne gr^nte[yng] ; 44
+
+Yt may not be deleyd." The kyng was angary and greuyd sore ; Neu*r-J?e-les he gr^nte \\yrn thore, The dynttt schuld be payd.
+
+Syr cleges went in-to }?e hall 445
+
+Among |?e grete lord^j all,
+
+W/t^-outen any mour. He sought aft^r J?e stewerd ; He thou^t, to pay hym his rewerd,
+
+ffor he had greuyd \\yrn sore. 45
+
+He gafe J>e steward sych a stroke, That he fell doune lyke a bloke
+
+Among all ]>at ther were. And after he gaff hym stroke thre, He seyd : U S/V, for }?i crtasse, 455
+
+Stryke j?0u me no mo#r ! "
+
+Out of ]?e hall sir cleges wente ; To pay mo stroke he had mente,
+
+W/t^-owtyn any lette.
+
+To )?e vsscher he gan go ; 4 6
+
+Sore stroke ^affe he tho,
+
+When \e\ to-ged^r mette, That after-werd many a dey He wold wern no man ]?e wey ;
+
+So grymly he hym grete. 4 6 5
+
+Syr [cleges] seyd : " Be my thryfte, Thou hast the thyrd p#rte of my gyfte,
+
+Ryght euyn as I J?e hy^ht."
+
+To j?e porter com he $are ;
+
+ffoure stroke payd he thare ; 470
+
+His parte had he tho. Aftyr-werd many a dey He wold wern no man j;e wey,
+
+Ne]?*r to ryde ne go.
+
+The fyrst stroke he leyd hym owne, 475
+
+He brake a-two hys schuld^r bone
+
+And hys ry^ht arme also.    
+
+Syr cleges seyd : " Be my thryfte, Thow hast |?e thyrd parte of my gyfte j Couenant made we so." 480
+
+The kyng was sett in hys p^rlere, Myrth and reuell forto here ;
+
+Syr cleges thed^r wente. An harper had a geyst I-seyd, That made J?e kyng full wele apayd, 485
+
+As to hys entente. Than seyd }?e kyng to JMS herper ; " Mykyll ]>ou may ofte-tyme here,
+
+fFor thou hast ferre wente. Tell me trew, if ]>ou can ; 49
+
+Knowyst ]>ou thys pore man
+
+That ]?/s dey me p/vsente ? "
+
+He seyd : u My lege, w/t^-oute les, Som-tyme men callyd hym cleges ;
+
+He was a knyght of }oure. 495
+
+Y may thinke, when \a\. he was ffull of fortone and of grace,
+
+A man of hye stature." The kyng seyd : " p/'s is not he iw-dede ; Yt is long gon ]>at he was dede^ 500
+
+That I louyd paramour. 4(w^\ Wold god ]?<3t he wer wyth me ; Y had hym leu^r than knyght^ thre,
+
+That knyght was styff in stoure."
+
+Syr cleges knelyd be-for J?e kyng ; s5
+
+ffor he had gnzntyd hym hys askyng,
+
+He thankyd hym cartasly. Spesyally J?e kyng hym pnzyd, The thre men, Ipat he stroke payd, Where-for it was and why. 5 10
+
+He seyd : " I myght not com in-werd, To I gnmtyd Iche of ]>em ]>e thyrd parte
+
+Off Ipat $e wold gyff me. Be tyat I schuld haue no^ht my-selue ; To dele among theym strokys xii 5*5
+
+Me thou^t it best, trewly."
+
+The lord^j lew^e, both old and }enge, And all ]>at ther w*r wyth J?e kyng,
+
+They made solas I-now^e. They lew^e, so J?^i my^t not sytte; 52
+
+They seyd : u It was a nobull wytte,
+
+Be cryst we make a vow." The kyng send after hys stewerd And seyd : "And he grante }?e any rewerd,
+
+Askyth it be J?e law." 5S
+
+The stewerd seyd and lukyd grym ; u Y thynke neuur to haue a-do with hym ;
+
+Y wold I had neu^r hym knaw."
+
+The kyng seyd : " W/t^-outen blame, Tell me, gode man, what is ]?i name, 530 Befor me anon-ryght ! "
+
+u My lege," he seyd, "p/s man 3011 telly s, Som-tyme men callyd me sir cleges ;
+
+Y was jour awne knyght." u Arte}?0u my knyght, \a\. seruyd me, 535
+
+That was so gentyll and so fre,
+
+Both strong, herdy and wyght ? " "e, lord," he seyd, "so mote I the, Tyll god all-my^ht hath vyset me;
+
+Thus pou^rte hath me dy^ht." 54
+
+The kyng gaffe hym anow-ry^ht All }?tft longer to a knyght,
+
+To a-ray hys body with. The castell of cardyff also With all J?e po#rtenas ^r-to, 545
+
+To hold with pes and grythe. Than he made hym hys stuerd Of all hys londys after-werd,
+
+Off water, lond, and fry the, A cowpe of gold he gafe hym blythe, 550
+
+To here to dam clarys, hyj wyfe,
+
+Tokenywg of loy and myrthe.
+
+The kyng made hys son squyre And gafe hym a coler forte were
+
+With a huwdryth pownd of rente. 555
+
+When Jm com home in }?is maner, Dame clarys, ]>at lady clere,
+
+Sche thankyd god veramewt.
+
+Sche thanked god of all man^r,
+
+For sche had both knyght and squyre 560
+
+Som-what to tyer entente.
+
+Vpon J?e dettys Ipat they hyght,
+
+They payd als fast as \e\ myght,
+
+To eu^ry man wer content.
+
+A gentyll stewerd he was hold; 5 6 5
+
+All men hym knew, $ong and hold,
+
+Yn lond wer \a\. he wente. Ther fell to hym so grete ryches, He vansyd hys kynne, mour and les,
+
+The knyght crtas and hend. 5?o
+
+Hys lady and he lyued many ^ere With Toy and m^ry chere,
+
+Tyll god dyde for them send, ffor ^er godnes J?#t \e\ dyd here, TKer saulys went to heuew clere, 575
+
+Ther is loy w/t^-outen ende.
+
+Amen.
+
+```
+
+*Another critical review of the poem can be found in a dissertation published in 1896, "Sir Cleges. Eine mittelenglische Romanze. I. Einleitung" by Adolf Treichel. It's in German, so I'll need to run it through a translation tool first...*
+
+A version of the poem presented using a rather more "modern" form of English can be found in various works by Henry Morley published as part of Cassell's *Library of English Literature*.
 
 ```{admonition} In *Shorter English Poems*, Henry Morley, 1870
 :class: dropdown
