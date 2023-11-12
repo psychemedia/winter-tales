@@ -1,20 +1,15 @@
 # The Twelve Months
 
+In recent times, I originally heard this via Sue Bailey, during the preparation for our *'Tis Tales** set *Winter Tales* in December. 2022. I had a memory of it from way back, though no particular telling or teller — just the sense of the story — but it's one that really resonates for me when I hear it told, even though I haven't yet told it myself.
 
-Originally via Sue Bailey in prep for Winter Tales 'Tis Tales set, Dec, 2022
+The gist of the tale is this:
 
-Twelve Months
-https://en.wikisource.org/wiki/Czech_Folk_Tales/The_twelve_months
+> Marushka, down trodden, lives with her step-mother and step-sister, Holena. Even though it is January, and the depth of Winter, her step-mother sends her out to find March violets; she goes up the mountain, sees a fire around which are twleve stone, with twelve men sitting on them. On the largest stone, a man with a white beard and a club: January. They ask what she is doing; January swaps with March, and as the girl departs, she finds violets. The step-mother sends her to find strawberries; she returns to the mountain, january swaps with June, and she finds strawberries; her step-mother sendfs her out for red apples, January swaps with September, and she finds red apples, but may only pick two. Holena sets off to find more, is disrepectful to January. He waves the stick round his head, the fire dies down. Holena is lost in a Winter strom. Her mother goes out to find her and she is lost too. Marushka lives ever after.
 
-
-Girl has to find violets and strawberries in winter
----
-Božena Němcová  in: Slovak Tales and Legends, 1856/7
-
-
----
-
-
+Originating from a Czech fairy tale by Bozena Nemcova, the tale appears in several Czech fairy tale collections.
+ 
+```{admonition} In *Czech folk tales*, Josef Baudis, 1917
+:class: dropdown
 https://archive.org/details/czechfolktales00bauduoft
 Czech folk tales
 by Baudis, Josef
@@ -42,7 +37,7 @@ One day — it was in the middle of January — Holena felt a longing for the sc
 
 The stepmother caught hold of Marusa, turned her out of the door, and slammed it to after her. She went into the forest weeping bitterly. The snow lay deep, and there wasn't a human footprint to be seen. Marusa wandered about for a long time, tortured by hunger and trembling with cold. She begged God to take her from the world.
 
-At last she saw a light in the distance. She went towards the glow, and came at last to the top of a mountain. A big fire was burning there, and round the fire were twelve stones with twelve men sitting on them. Three of them had snow-white beards, three were not so old, and three were still younger. The three youngest were the hand- somest of them all. They were not speaking, but all sitting silent. These twelve men were the twelve months. Great January sat highest of all ; his hair and beard were as white as snow, and in his hand he held a club.
+At last she saw a light in the distance. She went towards the glow, and came at last to the top of a mountain. A big fire was burning there, and round the fire were twelve stones with twelve men sitting on them. Three of them had snow-white beards, three were not so old, and three were still younger. The three youngest were the handsomest of them all. They were not speaking, but all sitting silent. These twelve men were the twelve months. Great January sat highest of all ; his hair and beard were as white as snow, and in his hand he held a club.
 
 Marusa was frightened. She stood still for a time in terror, but, growing bolder, she went up to them and said : " Please, kind sirs, let me warm my hands at your fire. I am trembling with the cold."
 
@@ -172,11 +167,12 @@ Marusa had cooked the dinner, she had seen to the cow, and yet Holena and her mo
 
 So good Marusa inherited the cottage, a piece of ploughland and the cow. She married a kind husband, and they both lived happily ever after.
 
----
+```
 
+```{admonition} In *The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*, Parker Hoysted Fillmore, 1920
+:class: dropdown
 
-
-also in https://archive.org/details/shoemakersaprons00fill/page/n15/mode/2up
+https://archive.org/details/shoemakersaprons00fill/page/n15/mode/2up
 The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales
 by Fillmore, Parker Hoysted, 1878-
 
@@ -350,7 +346,7 @@ Helena and her stepmother were more surprised than ever to see Marushka coming t
 
 After a time the greedy Holena left off her scold- ing to eat one of the apples. It had so delicious a flavor that she declared she had never in all her life tasted anything so good. Her mother said the same. When they had finished both apples they began to wish for more.
 
-" Mother," Hoiena said, " go get me my fur cloak. I'm going up the mountain myself. No use sending that lazy little slattern again, for she would only eat up all the apples on the way home. I'll find that tree and when I pick the apples I'd like to see anybody stop me ! "
+" Mother," Holena said, " go get me my fur cloak. I'm going up the mountain myself. No use sending that lazy little slattern again, for she would only eat up all the apples on the way home. I'll find that tree and when I pick the apples I'd like to see anybody stop me ! "
 
 The mother begged Helena not to go out in such weather, but Holena was headstrong and would go. She threw her fur cloak over her shoulders and put a shawl on her head and off she went up the mountain side.
 
@@ -364,7 +360,7 @@ Great January frowned.
 
 Holena looked at him rudely.
 
-You old fool, what business is it of yours who I am or what I want! "
+" You old fool, what business is it of yours who I am or what I want! "
 
 She tossed her head airily and walked off into the forest.
 
@@ -380,7 +376,7 @@ Meanwhile at home her mother waited for her and waited. She stood at the window 
 
 So the stepmother put her fur cloak about her shoulders, threw a shawl over her head, and started out.
 
-She called: "Helena! Holena! " but no one answered.
+She called: "Holena! Holena! " but no one answered.
 
 She struggled on and on up the mountain side. All around the snow lay deep with no track of man or beast in any direction.
 
@@ -408,443 +404,11 @@ She waited for them but they didn't come. She cooked dinner for them but still t
 
 So our good little Marushka inherited the cottage and the garden and the cow. After a time she married a farmer. He made her a good husband and they lived together very happily.
 
-
-
----
-
-https://archive.org/details/cu31924051612137/page/n121/mode/2up
-Laboulaye's fairy book; fairy tales of all nations
-by Laboulaye, Edouard, 1811-1883; Booth, Mary L. (Mary Louise), 1831-1889
-Publication date 1866
-p114-121
-The Twelve Months A Bohemian Tale
-Incl. illustration
-Transl. Mary L Booth
-SEe also Piper and the Devil / Sswanda the Piper p122-126
-
-?? Katcha and the Devil https://www.worldoftales.com/European_folktales/Czechoslovak_folktale_6.html#gsc.tab=0
-
-THE TWELVE MONTHS.
-
-A BOHEMIAN TALE.
-
-There was once a woman who was left a widow with two children. The elder, who was only her step-daughter, was named Dobrunka ; the younger, who was as wicked as her mother, was called Katinka. The mother worshiped her daughter, but she hated Dobrunka, simply because she was as beautiful as her sister was ugly. Dobrunka did not even know that she was pretty, and she could not understand why her step-mother fiew into a rage at the mere sight of her. The poor child was obliged to do all the work of the house ; she had to sweep, cook, wash, sew, spin, weave, cut the grass, and take care of the cow, while Katinka lived like a princess, that is to say, did nothing.
-
-Dobrunka worked with a good will, and took reproaches and blows with the gentleness of a lamb ; but nothing soothed her step-mother, for every day added to the beauty of the elder sister and the ugliness of the younger. " They are growing up," thought the mother, " and suitors will soon appear, who will refuse my daughter when they see this hateful Dobrunka, who grows beautiful on purpose to spite me. I must get rid of her, cost what it may."
-
-One day in the middle of January, Katinka took a fancy for some violets. She called Dobrunka, and said, " Go to the forest and bring me a bunch of violets, that I may put them in my bosom and enjoy their fragrance."
-
-" Oh, sister, what an idea !" answered Dobrunka ; " as if there were any violets under the snow !"
-
-" Hold your tongue, stupid fool," returned her sister, " and do as I bid you.' If you do not go to the forest and bring me back a bunch of violets, I will beat you to a jelly." Upon this, the mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
-
-The poor girl went to the forest weeping bitterly. Every thing was covered with snow ; there was not even a foot-path. She lost her way, and wandered about till, famishing with hunger and perishing with cold, she entreated God to take her from this wretched life.
-
-All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motion- less figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the; sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
-
-Dobrunka knew January by his long white beard. He was the only one that had a staff in his hand. The poor girl was terribly frightened. She drew near, saying, in a timid voice, " My good sirs, please to let me warm myself by your fire ; I am freezing with cold."
-
-January nodded his head. "Why have you come here, my, child ?" he asked. " What are you looking for ?"
-
-" I am looking for violets," replied Dobrunka.
-
-" This is not the season for them ; there are no violets in the time of snow," said January, in his gruff voice.
-
-" I know it," replied Dobrunka, sadly ; " but my sister and mother will beat me to a jelly if I do not bring them some, My good sirs, please to tell me where I can find them."
-
-![](images/twelve_months_laboulaye.jpg)
-
-March rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the buds put forth on the trees, the grass turned green under the bushes, the flowers peeped through die verdure, and the violets opened — it was spring.
-
-"Make haste, my child, and gather your violets," said March.
-
-Dobrunka gathered a large bouquet, thanked the Twelve Months, and joyfully ran home. You can imagine the aston- ishment of Katinka and the step-mother. The fragrance of the violets filled the whole house.
-
-" Where did you find these fine things ?" asked Katinka, in a disdainful voice.
-
-" Up yonder, on the mountain," answered her sister. " It looked like a great blue carpet under the bushes."
-Katinka put. the bouquet in her bosom, and did not even thank the poor child.
-
-The next morning the wicked sister, as she sat idling by the stove, took a fancy for some strawberries.
-
-" Go to the forest and bring me some strawberries," said she to Dobrunka.
-
-" Oh, sister, what an idea ! as if there were any strawberries under the snow !"
-
-" Hold your tongue, stupid fool, and do as I bid you. If you don't go to the forest and bring me back a basket of strawberries, I will beat you to a jelly."
-
-The mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
-
-The poor girl returned to the forest, looking with all her eyes for the light that she had seen the day before. She was fortunate enough to spy it, and she reached the fire trembling and almost frozen.
-
-The Twelve Months were in their places, motionless and silent.
-
- My good sirs," said Dobrunka, " please to let me warm myself by your fire ; I am almost frozen with cold."
-
-"Why have you returned?" asked January. "What are you looking.for ?"
-
-" I am looking for strawberries," answered she.
-
-" This is not the season for them," returned January, in his gruff voice ; " there are no strawberries under the snow."
-
-" I know it," repUed Dobrunka, sadly ; " but my mother and sister will beat me to a jelly if I do not bring them some. My good sirs, please to tell me where I can find them."
-
-Old January rose, and, turning to a man in a golden mantle, he put his staff in his hand, saying, " Brother June, this is your business."
-
-June rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the earth grew green, the trees were covered with leaves, the birds sang, and the flowers opened — it was summer. Thousands of little white stars enameled the turf, then turned to red straw- berries, looking, in their green cups, like rubies set in emeralds.
-
-" Make haste, my child, and gather your strawberries," said June.
-
-Dobrunka filled her apron, thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother. The fragrance of the straw- berries filled the whole house.
-
-" Where did you find these fine things ?" asked Katinka, in a disdainful voice.
-
-" Up yonder on the mountain," answered her sister ; " there were so many of them that they looked like blood poured on the ground.
-
-Katinka and her mother devoured the strawberries without even thanking the poor child.
-
-The third day the wicked sister took a fancy for some red apples. The same threats, the same insults, and the same violence followed. Dobrunka ran to the mountain, and was fortunate enough to find the Twelve Months warming themselves, motionless and silent.
-
-" You here again, my child ?" said old January, making room for her by the fire. Dobrunka told him, with tears, how, if she did not bring home some red apples, her mother and sis- ter would beat her to death.
-
-Old January repeated the ceremonies of the day before. "Brother September," said he to a gray-bearded man in a purple mantle, "this is your business."
-
-September rose and stirred the fire with the staff", when be- hold ! the flames ascended, the snow melted, and the trees put forth a few yellow leaves, which fell one by one before the wind — it was autumn. The only flowers were a few late pinks, daisies, and immortelles. Dobrunka saw but one thing, an apple-tree with its rosy fruit.
-
-" Make haste, my child ; shake the tree," said September.
-
-She shook it, and an apple fell ; she shook it again, and a second apple followed.
-
-" Make haste, Dobrunka, make haste home !" cried Septem- ber, in an imperious voice.
-
-The good child thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother.
-
-" Green apples in January ! Where did you get these ap- ples ?" asked Katinka.
-
-" Up yonder on the mountain ; there is a tree there that is as red vnth them as a cherry-tree in July."
-
-" Why did you bring only two ? You ate the rest on the way."
-
-" Oh, sister, I did not touch them ; I was only permitted to shake the tree twice, and but two apples fell."
-
-" Begone, you fool !" cried Katinka, striking her sister, who ran away crying.
-
-The wicked girl tasted one of the apples ; she had never eaten any thing so delicious in her life, neither had her mother. How they regretted not having any more !
-
-" Mother," said Katinka, " give me my fur cloak. I will go to the forest and find the tree, and, whether I am permitted or not, I will shake it so hard that all the apples will be ours."
-
-The mother tried to stop her. A spoiled child listens to nothing. Katinka wrapped herself in her fur cloak, drew the hood over her head, and hastened to the forest.
-
-Every thing was covered with snow ; there was not even a foot-path. Katinka lost her way, but she pushed on, spurred by pride and covetousness. She spied a light in the distance. She climbed and climbed till she reached the place, and found the Twelve Months each seated on his stone, motionless and silent. Without asking their permission, she approached the fire.
-
-" Why have you come here ? What do you want ? Where are you going ?" asked old January, gruffly.
-
-" What matters it to you, old fool ?" answered Katinka. " It is none of your business where I came from or whither I am going." She plunged into the forest. January frowned, and raised his staff above his head. In the twinkling of an eye the sky was overcast, the fire went out, the snow fell, and the wind blew. Katinka could not see the way before her. She lost herself, and vainly tried to retrace her steps. The snow fell and the wind blew. She called her mother, she cursed her sister, she cursed God. The snow fell and the wind blew. Katinka froze, her limbs stiffened, and she fell nrotionless. The snow still fell and the wind still blew.
-
-The mother went without ceasing from the window to the door, and from the door to the window. The hours passed, and Katinka did not return.
-
-" I must go and look for my daughter," said she. " The child has forgotten herself with those hateful apples." She took her fur cloak and hood, and hastened to the mountain. Every thing was covered with snow ; there was not even a foot-path. She plunged into the forest, calling her daughter. The snow fell and the wind blew. She walked on with feverish anxiety, shouting at the top of her voice. The snow still fell and the wind still blew.
-
-Dobrunka waited through the evening and the night, but no one returned. In the morning she took her wheel and spun a whole distaff full ; there was still no news. " What can have happened ?" said the good girl, weeping. The sun was shining through an icy mist, and the ground was covered with snow. Dobrunka prayed for her mother and sister. They did not return; and it was not till spring that a shepherd found the two corpses in the forest.
-
-Dobrunka remained the sole mistress of the house, the cow, and the garden, to say nothing of a piece of meadow adjoining the house. But when a good and pretty girl has a field under her window, the next thing that follows is a young farmer, who offers her his heart and hand. Dobrunka was soon married. The Twelve Months did not abandon their child. More than once, when the north wind blew fearfully and the windows shook in their frames, old January stopped up all the crevices of the house with snow, so that the cold might not enter this peaceful abode.
-
-Dobrunka lived to a good old age, always virtuous and happy, having, according to the proverb, winter at the door, summer in the barn, autumn in the cellar, and spring in the heart.
-
----
-
-```{admonition} Mary L Booth transl. of Laboulay, 1896
-:class: dropdown
-
-https://archive.org/details/worldsbestlitera15warn/page/8749/mode/1up?q=%22twelve+months%22+Edouard+Laboulaye+violets
-Library of the world's best literature, ancient and modern
-Publication date 1896
-THe Twelve Months, preceded by a biog of Laboulaye
-p8749-
-
-The Twelve Months A Bohemian Tale, From "The Fairy Book" translated by Mary L Booth, published by Harper & Brothers
-
-One day in the middle of January, Katinka took a fancy for some violets. She called Dobrunka, and said, " Go to the forest and bring me a bunch of violets, that I may put them in my bosom and enjoy their fragrance."
-
-" Oh, sister, what an idea ! " answered Dobnmka : " as if there were any violets imder the snow I "
-
-" Hold your tongue, stupid fool, " returned her sister, " and do as I bid you. If you do not go to the forest and bring me back a bunch of violets, I will beat you to a jelly." Upon this the mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
-
-The poor girl went to the forest weeping bitterly. Every- thing was covered with snow; there was not even a footpath. She lost her way and wandered about, till, famishing with hunger and perishing with cold, she entreated God to take her from this wretched life.
-
-All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones; and on each stone sat a motionless figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the sheaves of ripe wheat, and three were pur- ple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve  Months of the year.
-
-Dobrunka knew January by his long white beard. He was the only one that had a staff in his hand. The poor girl was terribly frightened. She drew near, saying in a timid voice, " My good sirs, please to let me warm myself by your fire : I am freezing with cold."
-
-January nodded his head. " Why have you come here, my child ? " he asked.   " What are you looking for ? "
-
-" I am looking for violets, " replied Dobrunka.
-
-" This is not the season for them : there are no violets in the time of snow,"  said January in his gruff voice.
-
-"I know it," replied Dobrunka sadly; "but my sister and mother will beat me to a jelly if I do not bring them some. My good sirs,  please to tell me where I can find them."
-
-Old January rose, and turning to a young man in a green mantle, put his staff in his hand, and said to him, " Brother March,  this is your business."
-
-March rose in turn, and stirred the fire with the staff, when behold! the flames rose, the snow melted, the buds put forth on the trees, the grass turned green under the bushes, the flowers peeped through the verdure, and the violets opened — it was spring.
-
-" Make haste, my child, and gather your violets, " said March.
-
-Dobrunka gathered a large bouquet, thanked the Twelve Months, and joyfully ran home. You can imagine the aston- ishment of Katinka and the stepmother. The fragrance of the violets filled the whole house.
-
-" Where did you get these fine things ? " asked Katinka in a disdainful voice.
-
-"Up yonder, on the mountain," answered her sister. "It looked like a great blue carpet under the bushes."
-
-Katinka put the bouquet in her bosom, and did not even thank the poor child.
-
-The next morning the wicked sister, as she sat idling by the stove, took a fancy for some strawberries. " Go to the forest and bring me some strawberries," said she to Dobrunka.
-
-" O sister, what an idea ! as if there were any strawberries under the snow ! "
-
-" Hold your tongue, stupid fool, and do as I bid you. If you don't go to the forest and bring me back a basket of strawberries, I will beat you to a jelly."
-
-The mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
-
-The poor girl returned to the forest, looking with all her eyes for the light that she had seen the day before. She was fortunate enough to spy it, and she reached the fire trembling and almost frozen. The Twelve Months were in their places, motionless and silent.
-
-"My good sirs," said Dobrunka, "please to let me warm my- self by your fire: I am almost frozen with cold."
-
-" Why have you returned ? " asked January. " What are you looking for ? "
-
-"I am looking for strawberries," answered she.
-
-"This is not the season for them," returned January in his grufE voice: "there are no strawberries under the snow."
-
-" I know it, " replied Dobrunka sadly ; " but my mother and sister will beat me to a jelly if I do not bring them some. My good sirs, please to tell me where I can find them."
-
-Old January rose, and turning to a man in a golden mantle, he put his staff in his hand, saying, " Brother June, this is your business. "
-
-June rose in turn, and stirred the fire with the staff, when behold! the flames rose, the snow melted, the earth grew green, the trees were covered with leaves, the birds sang, and the flowers opened — it was summer. Thousands of little white stars enameled the turf, then turned to red strawberries; looking, in their green cups, like rubies set in emeralds.
-
-" Make haste, my child, and gather your strawberries, " said June.
-
-Dobrunka filled her apron, thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Ka- tinka and the stepmother. The fragrance of the strawberries filled the whole house.
-
-" Where did you find these fine things ? " asked Katinka in a disdainful voice.
-
-"Up yonder on the mountain," answered her sister; "there were so many of them that they looked like blood poured on the ground. "
-
-Katinka and her mother devoured the strawberries without even thanking the poor child.
-
-The third day the wicked sister took a fancy for some red apples. The same threats, the same insults, and the same violence followed. Dobrunka ran to the mountain, and was fortunate enough to find the Twelve Months warming themselves, motionless and silent.
-
-" You here again, my child ? " said old January, making room for her by the fire. Dobrunka told him with tears how, if she did not bring home some red apples, her mother and sister would beat her to death.
-
-Old January repeated the ceremonies of the day before.
-
-" Brother September, " said he to a gray-bearded man in a purple mantle,  " this is your business. "
-
-September rose and stirred the fire with the staff, when behold! the flames ascended, the snow melted, and the trees put forth a few yellow leaves, which fell one by one before the wind; — it was autumn. The only flowers were a few late pinks, daisies, and immortelles. Dobrunka saw but one thing, an apple-tree with its rosy fruit.
-
-"Make haste, my child:  shake the tree," said September.
-
-She shook it, and an apple fell; she shook it again, and a second apple  followed.
-
-" Make haste, Dobrnnka, make haste home ! " cried September in an imperious voice.
-
-The good child thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the stepmother.
-
-" Fresh apples in January! Where did you get these apples?" asked Katinka.
-
-"Up yonder on the mountain: there is a tree there that is as red with them as a cherry-tree in July. "
-
-" Why did you bring only two ? You ate the rest on the way."
-
-" O sister, I did not touch them ; I was only permitted to shake the tree twice, and but two apples fell."
-
-" Begone, you fool !" cried Katinka, striking her sister, who ran away crying.
-
-The wicked girl tasted one of the apples; she had never eaten anything so delicious in her life, neither had her mother. How they regretted not having any more !
-
-" Mother, " said Katinka, " give me my fur cloak. I will go to the forest and find the tree; and whether I am permitted or not, I will shake it so hard that all the apples will be ours. "
-
-The mother tried to stop her. A spoiled child listens to noth- ing. Katinka wrapped herself in her fur cloak, drew the hood over her head, and hastened to the forest.
-
-Everything was covered with snow; there was not even a footpath. Katinka lost her way, but she pushed on, spurred by pride and covetousness. She spied a light in the distance. She climbed and climbed till she reached the place, and foimd the Twelve Months each seated on his stone, motionless and silent. Without asking their permission,  she approached the fire.
-
-" Why have you come here ? What do you want ? Where are you going ? " asked old January gruffly.
-
-" What matters it to you, old fool ? " answered Katinka. " It is none of your business where I came from or whither I am going." She plunged into the forest. January frowned, and raised his staff above his head. In the twinkling of an eye the sky was overcast, the fire went out, the snow fell, and the wind blew. Katinka could not see the way before her. She lost herself, and vainly tried to retrace her steps. The snow fell and the wind blew. She called her mother, she cursed her sister, she cursed God. The snow fell and the wind blew. Katinka froze, her limbs stiffened, and she fell motionless. The snow still fell and the wind still blew.
-
-The mother went without ceasing from the window to the door, and from the door to the window. The hours passed and Katinka did not return.
-
-"I must go and look for my daughter," said she. " The child has forgotten herself with those hateful apples." She took her fur cloak and hood and hastened to the mountain. Everything was covered with snow; there was not even a footpath. She plunged into the forest, calling her daughter. The snow fell and the wind blew. She walked on with feverish anxiety, shouting at the top of her voice. The snow still fell and the wind still blew.
-
-Dobrunka waited through the evening and the night, but no one returned. In the morning she took her wheel and spun a whole distaff full ; there was still no news. " What can have happened ? " said the good girl, weeping. The sun was shining through an icy mist, and the ground was covered with snow. Dobrunka prayed for her mother and sister. They did not return; and it was not till spring that a shepherd found the two corpses in the forest.
-
-Dobrunka remained the sole mistress of the house, the cow, and the garden, to say nothing of a piece of meadow adjoining the house. But when a good and pretty girl has a field under her window, the next thing that follows is a young farmer, who offers her his heart and hand. Dobrunka was soon married. The Twelve Months did not abandon their child. More than once, when the north wind blew fearfully and the windows shook in their frames, old January stopped up all the crevices of the house with snow, so that the cold might not enter this peaceful abode.
-
-Dobrunka lived to a good old age, always virtuous and happy, having, according to the proverb, winter at the door, summer in the barn, autumn in the cellar, and spring in the heart.
-
 ```
 
-
-```{admonition} Sabine Baring Gould, in *A Book of Fairy Tales*, 1895
+```{admonition} In *Fairy tales of the Slav peasants and herdsmen*, 1896
 :class: dropdown
 
-https://archive.org/details/bookoffairytales00bariiala/page/66/mode/2up?q=violets
-A book of fairy tales
-by Baring-Gould, S. (Sabine), 1834-1924
-Publication date 1895
-Pretty Marushcka
-p67-78
-
-"PRETTY MARUSCHKA. A Sclavonic tale. It is properly Slovakian, and is given by Wenzig in his *West Slawischer Marchenschatz*, 1857. The story has a mythological importance, on account of the impersonation of the Twelve Months represented as seated round the great central fire of the sun. The fire-wheel occurs in traditional usage, not only in Sclavonic but also in Gaulish lands.
-
-PRETTY MARUSCHKA
-
-FAR away in the hazy purple of antiquity, when all stepmothers were wicked, and all younger sons were successful, there lived on the confines of a forest a woman who had two daughters : the one her own, the other only a step- child. Naturally, the love of the mother was concentrated on her own Helena, and, as naturally, she disliked Maruschka, who was the fairest, the gentlest, and the most pious of the two girls.
-
-Little did pretty Maruschka know of her own surpassing beauty a fact proving to us how remote from the present age was that in which these damsels lived. Her hair was like the waving gold of the cornfield when the wind soughs over it, and her eyes were as the blue forget-me-not which smiles and glimmers in a quiet nook by the brookside. She was slim and graceful; her step was light, for her heart was free. Wherever she went she brought cheerfulness and smiles; like the little golden sunbeams which pierce among the tree-shadows of a forest, and light up unex- pected beauties where all before was gloom ; now painting a saffron butterfly, now kindling an emerald moss-tuft, now making a scarlet lily flame against the dusk of the forest glades behind.
-
-Helena was dressed by her mother in gay colours for Sunday and Feast-day, but poor little Marsuchka had only a dingy grey gown, cast off by her sister. Helena wore black shoes with silver buckles, but pretty Maruschka clattered up the churchyard path in wooden clogs. Helena wore a false gold chain of great links round her neck, but her half-sister had only a turquoise-coloured ribbon and a little silver cross with a crystal in it that was her only ornament and that had been given her by a lady whom she had guided into the road, when she had lost her way in the forest. As the mother and the two girls went to church on Sundays, the lads were all in the yard hanging about the tombstones ; and the old woman heard them whisper, 'There is pretty Maruschka;' but never once did they say, ' See pretty Helena.' So she was angry, and hated the golden-haired, blue- eyed maiden. At home she made her do all the hard work scrub the floors, cook the victuals, mend the clothes whilst Helena stood all day before her glass, combing her hair and adorning herself with trinkets, and wishing it were Sunday that she might flare before the eyes of the young men in the churchyard.
-
-Helena and her mother did all that lay in their power to make the little girl's life miserable. They scolded her, they beat her, they devised schemes of annoyance for her, but never could they ruffle the sweet temper of Maruschka. One day, in the depth of winter, Helena cried out, 'Ah, mel would that I had a bunch of violets in my bosom to-morrow, when I go to church. Run, Maruschka, run into the forest and pluck them for me, that I may have them to smell at whilst the priest gives us his sermon.'
-'Oh, my sister 1' answered Maruschka, 'who ever heard of violets being gathered in midwinter, under the deep snow ? '
-
-' Idle hussey ! ' screamed Helena ; ' go at once and fetch them. Have them I will, and you shall not come back without them.'
-
-Then the mother chimed in with, ' Mind and bring a large bunch, or you shall not be taken in here for the night. Go!' and she caught her, thrust her from the house, and slammed the door behind her.
-
-Bitterly weeping, the poor maiden wandered into the forest. The snow lay deep everywhere, undinted by human foot ; white wreaths hung on the bushes, and the sombre pine-boughs were frosted over with snow. Here were the traces of a hare, there the prints of a badger. An owl called from the depths of the forest. The girl lost her way. Dusk came on, and a few stars looked through the interlacing boughs overhead, watching Maruschka. An icy wind moaned through the trees, shaking the pines as though they quaked with mortal fear, and then they bent their branches and shot their loads of snow in dust to the ground. Strange harp-like sounds reverberated through the gloom, and gratings of bough on bough, which seemed as though the wood demons were gnawing at fallen timbers. Now a great black crow, which had been brooding among dark firs and pines, startled by the footfall and sobs of the maiden, expanded his wings, and, with a harsh scream, rushed away, noisily, sending the life-blood with a leap to the girl's heart. Suddenly, before her far up on a hill-top a light appeared, ruddy and flickering. Maruschka, inspired with hope, made for it, scrambling up a rocky slope through deep snow-drifts. She reached the summit, and beheld a great fire. Around this fire were twelve rough stones, and on each stone sat a man. Three were grey-bearded, three were middle-aged, three were youths ; and the last three were the youngest and fairest. They spake not, but looked intently on the roaring flames. He who sat in the seat of honour had a long staff in his hand. His hair was white, and fluttering in the cold wind.
-
-Maruschka was startled, and watched them with astonishment for a little while ; then muster- ing courage, she stepped within the circle and said :
-
-' Dear, good friends, please suffer me to warm myself a little while at the fire, for, indeed, I am perishing with cold.' He with the flowing white hair raised his head, and said 'Yes, child, approach. But what brings you here ? '
-
-' I am seeking violets,' she answered. ' Violets ! It is not the time for violets, when the snow lies deep ?'
-
-'Ah, sir! I know that well; but sister Helena and mother have bidden me bring them violets, and if I do not I must perish in the cold. You, kind shepherds, tell me where I may find violets ! ' Then the white aged one arose from his seat, stepped to one of the blooming youths, put his staff into his hand, and said——
-
-'Brother March, take thou the pre-eminence.'
-
-Then the Month March sat himself on the chief stone, and waved his staff over the fire. Instantly the flames rushed up and blazed with greater brilliancy, the snow began to thaw, the hazel-bushes were covered with catkins, and glossy buds appeared on the beech. Green herbs thrust up through the moist soil, a primrose gleamed from a dusky bank, and a sweet fragrance of violets was wafted by on a gentle breeze. Under a bush, the ground was purple with their scented blossoms. ' Quick, Maruschka, pluck ! ' ordered March. The girl hastily gathered a handful. Then she cour- tesied to the twelve Months, thanked them cordially, and hurried home.
-
-Helena was amazed when her half-sister came with the bunch to the door. She opened it to her, and the house was filled with the delicious odour.
-
-'Where did you find them?' she asked.
-
-' High up on the mountain, under a hawthorn bush.'
-
-Helena took the flowers, and set them in her bosom. She let her mother smell at them, but she never gave one to Maruschka. When they came home from church next day, Helena cast off her gay shawls, and sat down to supper. But she had no appetite for what was on the table. She was angry with her sister ; for all the lads had fixed their eyes on Maruschka, and had not even been attracted to her by the fragrant bunch of violets. ' How beautiful is Maruschka to-day !' had said some of the older people ; and none had spoken a good word of her. So sne sat and sighed, and hated the pretty girl more and more.
-
-' Oh that I had strawberries ! ' she said. ' I can eat nothing this evening but strawberries. Run, Maruschka, into the forest and gather me a dishful.'
-
-' Dear sister, this is not the time of the year for strawberries. Who ever heard of strawberries ripening under the snow?'
-
-But the stepmother angrily exclaimed : ' Run, Maruschka, fetch them at once, as your sister has ordered, or I will strike you dead ; ' and she thrust her from the door.
-
-The poor girl cried bitterly ; she looked back at the firelight which glimmered through the casement, and thought how warm it was within, whilst without it was so piercingly cold. But she dared not return unless she had with her the desired fruit. So she plunged into the forest. The snow lay deep, and nowhere was a human footprint. Snow began to fall in fine powder, whitening her shoulders, clinging to the folds of her grey dress, and forming a cap of ice on her golden hair. In that dull rayless night there was no light to show the blue ribbon, which strayed among the tree boles, or to twinkle on the crystal of the silver cross.
-Presently Maruschka saw, high up on the summit of a rugged hill, a blazing fire. She scrambled to it, and there she found the Twelve sitting solemn and silent around the flames, and the Ice Month, with his staff, sat still on the seat of honour.
-
-' Dear, good friends, please suffer me to warm myself a little while at the fire,' she asked in a beseeching voice; 'for, indeed, I am perishing with cold.'
-
-Then the one with the drifting white locks raised his head and said——
-
-'Yes, child, approach. But what brings you here ?'
-
-'I am seeking strawberries,' she answered.
-
-' Strawberries! It is not the time for strawberries when the snow lies deep ? '
-
-'Ah, sir! I know that well; but sister Helena and mother have bidden me bring them strawberries, or they will strike me dead. You, kind shepherds, tell me where I may find strawberries.' Then the white Ice Month arose from his seat, stepped across the area to one of the young men, put the staff into his hand, and said——
-
-' Brother June, take thou the pre-eminence.'
-
-Then the Month June sat himself on the chief stone, and waved his staff over the fire. Instantly it glowed like molten gold, beams of glory streamed from it through the forest, and it shone like a sun resting on the earth. Overhead, the clouds flamed and curled in wreaths of light-tinted rose, carnation, and purple, athwart a sky blue as the forget-me-not. Every trace of snow vanished, and the earth was buried in green. The trees were covered with rustling leaves. Blue-bells gleamed under their shadows, and then died away. Red- robin blushed in tufts, and then shed its ragged petals. Wild roses burst into glorious flower, and the soft air was charged with the scent of the sweet-briar. From among the forest-glades called, in cool notes, a wood-dove. The thrush began to warble, and the blackbird to pipe. A bright-eyed squirrel danced among the fresh green leaves on the tree-tops. Beside a brown stone was a patch of sloping green. It was dotted with little white stars with golden hearts. Now the leaves drop off, and the hearts swell, and flush, and glow, and become crimson.
-
-' Quick, Maruschka, pluck ! ' said June. Then the girl joyfully hurried to the slope, and gathered an apronful of the luscious strawberries.
-
-he courtesied to the twelve Months, thanked them cordially, and hurried home.
-
-Helena was astonished as she saw her come to the house, and she ran to open the door. The whole cottage was fragrant with the odour of the strawberries.
-
-'Where did you gather them?' asked Helena.
-
-' High up on the mountains, under a brown rock.'
-
-Helena took the strawberries, and ate them with her mother. She never offered even one to pretty Maruschka.
-
-Next day, Helena had again no appetite for her supper.
-
-'Oh, if I had only ripe apples!' she said; and then, turning to her sister, she ordered, 'Run, Maruschka, run into the wood and gather me some ripe apples.'
-
-' Dear sister, this is not the time of the year for apples. Who ever heard of apples ripening in an icy wind ? '
-
-But her stepmother cried put, ' Run, Maruschka, fetch the apples as your sister has required, or I will strike you dead.'
-
-And she thrust her from the door into the cold winter night-air.
-
-The maiden hastened, sobbing, into the wood ; the snow lay deep, and nowhere was there a human footprint. The new moon glimmered in a clear sky, and sent its feeble beams into the forest deeps, forming little trembling, silvery pools of light, which appeared and vanished, and formed again. And a low wind whispered a great secret in the trees, but so faint was the tone that none could make out what it said. There was a little opening in the wood ; in the midst stood a grey wolf looking up at the moon and howling; but when Maruschka came near, it fled, and was lost among the shadows. The poor maiden shivered with cold, and her teeth chattered. Her lips were purple and her cheeks white ; and the tears, as they formed, froze on her long eyelashes. She would have sunk on a snow- drift and died, had she not seen, up high on a rugged hill-top, a blazing fire. Towards it she made her way, and found it to be the same she had seen before. Round about, solemn and silent, sat the Twelve, and the Ice Month was on the seat of honour, clasping the staff of power.
-
-' Dear, good friends, please suffer me to warm myself a little while at the fire,' she asked, in supplicating tones ; ' for, indeed, I am perishing with cold.'
-
-Then the one with the long white hair and frosty beard raised his head, and said : ' Yes, child, approach ; but what brings you here ? '
-
-' I am seeking ripe apples,' she answered.
-
-'Ripe apples ! It is not the time for ripe apples, when the snow lies deep ? '
-
-'Ah, sir ! I know that well ; but sister Helena and mother have bidden me bring them ripe apples, or they will strike me dead. You, kind shepherds, tell me where I may find ripe apples.'
-
-Then the Ice Month arose from his seat, stepped to one of the elder men, put the staff into his hand, and said—
-
-' Brother September, take thou the pre-eminence.'
-
-Then the Month September sat himself on the chief stone, and waved his staff over the fire. Whereat it glowed like a furnace, red and fierce ; sparks flew about, and volumes of glaring hot smoke, like the vapour of molten metal, rolled up to heaven. In a moment the snow was gone. The trees were covered with sere leaves ; the oak foliage was brown and crumpled, that of the ash yellow as sulphur ; other trees seemed leafed with copper. Stray leaves floated past and were whirled by little wind-eddies into rustling heaps. A few yellow flowers shook in the hot air. Pinks hung over the rocks, covering their faces with wandering shadows. Ladyfern waved and wafted its pleasant odour. A constant hum of bees and beetles and flies sounded through the wood. Maruschka looked about her for apples, and beheld a tree on whose branches hung the ruddy fruit.
-
-' Quick, Maruschka, shake ! ' commanded September.
-
-Then she shook, and there fell an apple ; she shook again, and there fell another.
-
-' Quick, Maruschka, hasten home ! ' said the Month.
-
-Then she courtesied to the Twelve, thanked them cordially, and returned to the house of her stepmother.
-
-Helena marvelled not a little when she saw the red apples.
-
-' How many have you plucked ? ' she asked.
-
-' Only two.'
-
-'Where did you find them?'
-
-' High up, on the mountain-top, on a tree weighed down with them.'
-
-' Why did you not gather more ? Did you not eat them on your way home ? ' asked Helena, fiercely.
-
-' Oh, dear sister, I have not tasted one ! I shook once, and down fell an apple ; I shook twice, and there fell another. I might not bring away more.'
-
-Helena struck her, and drove her to the kitchen. Then she tasted one of the apples. Never before had she eaten one so sweet and juicy. The step-mother ate the second.
-
-'Mother!' exclaimed Helena, 'give me my fur dress. I will go to the hill and bring some apples. That hussey has eaten all she took except two.' Then she wrapped herself up, and hurried into the wood. The snow lay deep, and nowhere was a human footprint Helena lost herself; but presently she was aware of a hill, and a fire burning at the summit. She hastened to the light. There she saw a great blaze, and round it sat the twelve Months, silent and solemn. He with the long snowy locks sat on the seat of honour, holding the rod of power. Helena stared at them, then, pushing through the circle, went to the fire, and began to warm herself.
-
-' What seek you here ? ' asked the Ice Month, with a frown wrinkling his white brow.
-
-'That is no business of yours,' answered Helena, sharply, over her shoulder.
-
-The Ice Month shook his head, and, raising his arm, waved the staff over the fire. Instantly the flames sank, and the fire was reduced to a glowing spark. The clouds rolled over the sky, and, bursting, discharged snow in such quantities that nothing was visible in earth and heaven but drifting white particles. An icy wind rumbled in the forest and roared round the hill. Helena fled. Everywhere white fleeting spots whirling, falling, rising, scudding! She ran this way, then that; she stumbled over a fallen log, she gathered her- self up and ran again ; then she plunged into a deep drift ; and the white cold down from the breast of heaven whirled and fell, and rose, and fleeted, and danced this side of her, and dropped here on her, and rested there on her, and lodged on this limb, and built up a white heap on that limb, then bridged over one fold and filled up another. She shook herself, and the particles fell off. But then they began theirwork again : they spangled her with white, they wove a white net, they filled up the interstices of her lace, they built a mound over her arm, they buried her foot, they raised a cairn above her bosom. Then they spun a dance around the white face which looked up at them, and began to whiten it still more ; lastly, they smoothed the sheet over her, and the work was done.
-
-The mother looked out of the window and wondered that Helena did not return. Hour after hour passed, and her daughter came not.
-
-' Maybe the apples are so sweet that she cannot eat enough,' thought the mother. ' I will go seek them too.'
-
-So she wrapped herself up in a thick shawl and went forth.
-
-The snow lay deep, and nowhere was a human footprint. She called Helena, but received no answer. Then she lost her way. The snow fell, and the wind howled.
-
-Maruschka sat over the fire and cooked supper. Mother and sister came back no more.
-```
-
-
-
----
 https://archive.org/details/cu31924029889635
 Fairy tales of the Slav peasants and herdsmen
 by Chodźko, Alexander, 1804-1891; Harding, Emily J., illus. and tr
@@ -989,8 +553,446 @@ The great Setchène frowned, and waved his wand over his head. Instantly the sky
 
 Day after day Marouckla worked and prayed, and waited ; but neither stepmother nor sister returned, they had been frozen to death on the mountain. The inheritance of a small house, a field, and a cow fell to Marouckla. In course of time an honest farmer came to share them with her, and their lives were happy and peaceful.
 
----
----
+```
+
+The tale also appeared in more general collections:
+
+```{admonition} In *Laboulaye's fairy book*, 1866
+:class: dropdown
+https://archive.org/details/cu31924051612137/page/n121/mode/2up
+Laboulaye's fairy book; fairy tales of all nations
+by Laboulaye, Edouard, 1811-1883; Booth, Mary L. (Mary Louise), 1831-1889
+Publication date 1866
+p114-121
+The Twelve Months A Bohemian Tale
+Incl. illustration
+Transl. Mary L Booth
+
+THE TWELVE MONTHS.
+
+A BOHEMIAN TALE.
+
+There was once a woman who was left a widow with two children. The elder, who was only her step-daughter, was named Dobrunka ; the younger, who was as wicked as her mother, was called Katinka. The mother worshiped her daughter, but she hated Dobrunka, simply because she was as beautiful as her sister was ugly. Dobrunka did not even know that she was pretty, and she could not understand why her step-mother fiew into a rage at the mere sight of her. The poor child was obliged to do all the work of the house ; she had to sweep, cook, wash, sew, spin, weave, cut the grass, and take care of the cow, while Katinka lived like a princess, that is to say, did nothing.
+
+Dobrunka worked with a good will, and took reproaches and blows with the gentleness of a lamb ; but nothing soothed her step-mother, for every day added to the beauty of the elder sister and the ugliness of the younger. " They are growing up," thought the mother, " and suitors will soon appear, who will refuse my daughter when they see this hateful Dobrunka, who grows beautiful on purpose to spite me. I must get rid of her, cost what it may."
+
+One day in the middle of January, Katinka took a fancy for some violets. She called Dobrunka, and said, " Go to the forest and bring me a bunch of violets, that I may put them in my bosom and enjoy their fragrance."
+
+" Oh, sister, what an idea !" answered Dobrunka ; " as if there were any violets under the snow !"
+
+" Hold your tongue, stupid fool," returned her sister, " and do as I bid you.' If you do not go to the forest and bring me back a bunch of violets, I will beat you to a jelly." Upon this, the mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
+
+The poor girl went to the forest weeping bitterly. Every thing was covered with snow ; there was not even a foot-path. She lost her way, and wandered about till, famishing with hunger and perishing with cold, she entreated God to take her from this wretched life.
+
+All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motion- less figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the; sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
+
+Dobrunka knew January by his long white beard. He was the only one that had a staff in his hand. The poor girl was terribly frightened. She drew near, saying, in a timid voice, " My good sirs, please to let me warm myself by your fire ; I am freezing with cold."
+
+January nodded his head. "Why have you come here, my, child ?" he asked. " What are you looking for ?"
+
+" I am looking for violets," replied Dobrunka.
+
+" This is not the season for them ; there are no violets in the time of snow," said January, in his gruff voice.
+
+" I know it," replied Dobrunka, sadly ; " but my sister and mother will beat me to a jelly if I do not bring them some, My good sirs, please to tell me where I can find them."
+
+![](images/twelve_months_laboulaye.jpg)
+
+March rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the buds put forth on the trees, the grass turned green under the bushes, the flowers peeped through die verdure, and the violets opened — it was spring.
+
+"Make haste, my child, and gather your violets," said March.
+
+Dobrunka gathered a large bouquet, thanked the Twelve Months, and joyfully ran home. You can imagine the aston- ishment of Katinka and the step-mother. The fragrance of the violets filled the whole house.
+
+" Where did you find these fine things ?" asked Katinka, in a disdainful voice.
+
+" Up yonder, on the mountain," answered her sister. " It looked like a great blue carpet under the bushes."
+Katinka put. the bouquet in her bosom, and did not even thank the poor child.
+
+The next morning the wicked sister, as she sat idling by the stove, took a fancy for some strawberries.
+
+" Go to the forest and bring me some strawberries," said she to Dobrunka.
+
+" Oh, sister, what an idea ! as if there were any strawberries under the snow !"
+
+" Hold your tongue, stupid fool, and do as I bid you. If you don't go to the forest and bring me back a basket of strawberries, I will beat you to a jelly."
+
+The mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
+
+The poor girl returned to the forest, looking with all her eyes for the light that she had seen the day before. She was fortunate enough to spy it, and she reached the fire trembling and almost frozen.
+
+The Twelve Months were in their places, motionless and silent.
+
+ My good sirs," said Dobrunka, " please to let me warm myself by your fire ; I am almost frozen with cold."
+
+"Why have you returned?" asked January. "What are you looking.for ?"
+
+" I am looking for strawberries," answered she.
+
+" This is not the season for them," returned January, in his gruff voice ; " there are no strawberries under the snow."
+
+" I know it," repUed Dobrunka, sadly ; " but my mother and sister will beat me to a jelly if I do not bring them some. My good sirs, please to tell me where I can find them."
+
+Old January rose, and, turning to a man in a golden mantle, he put his staff in his hand, saying, " Brother June, this is your business."
+
+June rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the earth grew green, the trees were covered with leaves, the birds sang, and the flowers opened — it was summer. Thousands of little white stars enameled the turf, then turned to red straw- berries, looking, in their green cups, like rubies set in emeralds.
+
+" Make haste, my child, and gather your strawberries," said June.
+
+Dobrunka filled her apron, thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother. The fragrance of the straw- berries filled the whole house.
+
+" Where did you find these fine things ?" asked Katinka, in a disdainful voice.
+
+" Up yonder on the mountain," answered her sister ; " there were so many of them that they looked like blood poured on the ground.
+
+Katinka and her mother devoured the strawberries without even thanking the poor child.
+
+The third day the wicked sister took a fancy for some red apples. The same threats, the same insults, and the same violence followed. Dobrunka ran to the mountain, and was fortunate enough to find the Twelve Months warming themselves, motionless and silent.
+
+" You here again, my child ?" said old January, making room for her by the fire. Dobrunka told him, with tears, how, if she did not bring home some red apples, her mother and sis- ter would beat her to death.
+
+Old January repeated the ceremonies of the day before. "Brother September," said he to a gray-bearded man in a purple mantle, "this is your business."
+
+September rose and stirred the fire with the staff", when be- hold ! the flames ascended, the snow melted, and the trees put forth a few yellow leaves, which fell one by one before the wind — it was autumn. The only flowers were a few late pinks, daisies, and immortelles. Dobrunka saw but one thing, an apple-tree with its rosy fruit.
+
+" Make haste, my child ; shake the tree," said September.
+
+She shook it, and an apple fell ; she shook it again, and a second apple followed.
+
+" Make haste, Dobrunka, make haste home !" cried Septem- ber, in an imperious voice.
+
+The good child thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother.
+
+" Green apples in January ! Where did you get these ap- ples ?" asked Katinka.
+
+" Up yonder on the mountain ; there is a tree there that is as red vnth them as a cherry-tree in July."
+
+" Why did you bring only two ? You ate the rest on the way."
+
+" Oh, sister, I did not touch them ; I was only permitted to shake the tree twice, and but two apples fell."
+
+" Begone, you fool !" cried Katinka, striking her sister, who ran away crying.
+
+The wicked girl tasted one of the apples ; she had never eaten any thing so delicious in her life, neither had her mother. How they regretted not having any more !
+
+" Mother," said Katinka, " give me my fur cloak. I will go to the forest and find the tree, and, whether I am permitted or not, I will shake it so hard that all the apples will be ours."
+
+The mother tried to stop her. A spoiled child listens to nothing. Katinka wrapped herself in her fur cloak, drew the hood over her head, and hastened to the forest.
+
+Every thing was covered with snow ; there was not even a foot-path. Katinka lost her way, but she pushed on, spurred by pride and covetousness. She spied a light in the distance. She climbed and climbed till she reached the place, and found the Twelve Months each seated on his stone, motionless and silent. Without asking their permission, she approached the fire.
+
+" Why have you come here ? What do you want ? Where are you going ?" asked old January, gruffly.
+
+" What matters it to you, old fool ?" answered Katinka. " It is none of your business where I came from or whither I am going." She plunged into the forest. January frowned, and raised his staff above his head. In the twinkling of an eye the sky was overcast, the fire went out, the snow fell, and the wind blew. Katinka could not see the way before her. She lost herself, and vainly tried to retrace her steps. The snow fell and the wind blew. She called her mother, she cursed her sister, she cursed God. The snow fell and the wind blew. Katinka froze, her limbs stiffened, and she fell nrotionless. The snow still fell and the wind still blew.
+
+The mother went without ceasing from the window to the door, and from the door to the window. The hours passed, and Katinka did not return.
+
+" I must go and look for my daughter," said she. " The child has forgotten herself with those hateful apples." She took her fur cloak and hood, and hastened to the mountain. Every thing was covered with snow ; there was not even a foot-path. She plunged into the forest, calling her daughter. The snow fell and the wind blew. She walked on with feverish anxiety, shouting at the top of her voice. The snow still fell and the wind still blew.
+
+Dobrunka waited through the evening and the night, but no one returned. In the morning she took her wheel and spun a whole distaff full ; there was still no news. " What can have happened ?" said the good girl, weeping. The sun was shining through an icy mist, and the ground was covered with snow. Dobrunka prayed for her mother and sister. They did not return; and it was not till spring that a shepherd found the two corpses in the forest.
+
+Dobrunka remained the sole mistress of the house, the cow, and the garden, to say nothing of a piece of meadow adjoining the house. But when a good and pretty girl has a field under her window, the next thing that follows is a young farmer, who offers her his heart and hand. Dobrunka was soon married. The Twelve Months did not abandon their child. More than once, when the north wind blew fearfully and the windows shook in their frames, old January stopped up all the crevices of the house with snow, so that the cold might not enter this peaceful abode.
+
+Dobrunka lived to a good old age, always virtuous and happy, having, according to the proverb, winter at the door, summer in the barn, autumn in the cellar, and spring in the heart.
+
+```
+
+Mary Booth also seems to have completed a second, quite different, translation of Laboulaye's telling, thirty tears later, in 1896:
+
+```{admonition} Mary L Booth transl. of Laboulay, 1896
+:class: dropdown
+
+https://archive.org/details/worldsbestlitera15warn/page/8749/mode/1up
+Library of the world's best literature, ancient and modern
+Publication date 1896
+THe Twelve Months, preceded by a biog of Laboulaye
+p8749-
+
+The Twelve Months A Bohemian Tale, From "The Fairy Book" translated by Mary L Booth, published by Harper & Brothers
+
+One day in the middle of January, Katinka took a fancy for some violets. She called Dobrunka, and said, " Go to the forest and bring me a bunch of violets, that I may put them in my bosom and enjoy their fragrance."
+
+" Oh, sister, what an idea ! " answered Dobnmka : " as if there were any violets under the snow ! "
+
+" Hold your tongue, stupid fool, " returned her sister, " and do as I bid you. If you do not go to the forest and bring me back a bunch of violets, I will beat you to a jelly." Upon this the mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
+
+The poor girl went to the forest weeping bitterly. Everything was covered with snow; there was not even a footpath. She lost her way and wandered about, till, famishing with hunger and perishing with cold, she entreated God to take her from this wretched life.
+
+All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones; and on each stone sat a motionless figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the sheaves of ripe wheat, and three were pur- ple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve  Months of the year.
+
+Dobrunka knew January by his long white beard. He was the only one that had a staff in his hand. The poor girl was terribly frightened. She drew near, saying in a timid voice, " My good sirs, please to let me warm myself by your fire : I am freezing with cold."
+
+January nodded his head. " Why have you come here, my child ? " he asked.   " What are you looking for ? "
+
+" I am looking for violets, " replied Dobrunka.
+
+" This is not the season for them : there are no violets in the time of snow,"  said January in his gruff voice.
+
+"I know it," replied Dobrunka sadly; "but my sister and mother will beat me to a jelly if I do not bring them some. My good sirs,  please to tell me where I can find them."
+
+Old January rose, and turning to a young man in a green mantle, put his staff in his hand, and said to him, " Brother March,  this is your business."
+
+March rose in turn, and stirred the fire with the staff, when behold! the flames rose, the snow melted, the buds put forth on the trees, the grass turned green under the bushes, the flowers peeped through the verdure, and the violets opened — it was spring.
+
+" Make haste, my child, and gather your violets, " said March.
+
+Dobrunka gathered a large bouquet, thanked the Twelve Months, and joyfully ran home. You can imagine the aston- ishment of Katinka and the stepmother. The fragrance of the violets filled the whole house.
+
+" Where did you get these fine things ? " asked Katinka in a disdainful voice.
+
+"Up yonder, on the mountain," answered her sister. "It looked like a great blue carpet under the bushes."
+
+Katinka put the bouquet in her bosom, and did not even thank the poor child.
+
+The next morning the wicked sister, as she sat idling by the stove, took a fancy for some strawberries. " Go to the forest and bring me some strawberries," said she to Dobrunka.
+
+" O sister, what an idea ! as if there were any strawberries under the snow ! "
+
+" Hold your tongue, stupid fool, and do as I bid you. If you don't go to the forest and bring me back a basket of strawberries, I will beat you to a jelly."
+
+The mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
+
+The poor girl returned to the forest, looking with all her eyes for the light that she had seen the day before. She was fortunate enough to spy it, and she reached the fire trembling and almost frozen. The Twelve Months were in their places, motionless and silent.
+
+"My good sirs," said Dobrunka, "please to let me warm my- self by your fire: I am almost frozen with cold."
+
+" Why have you returned ? " asked January. " What are you looking for ? "
+
+"I am looking for strawberries," answered she.
+
+"This is not the season for them," returned January in his grufE voice: "there are no strawberries under the snow."
+
+" I know it, " replied Dobrunka sadly ; " but my mother and sister will beat me to a jelly if I do not bring them some. My good sirs, please to tell me where I can find them."
+
+Old January rose, and turning to a man in a golden mantle, he put his staff in his hand, saying, " Brother June, this is your business. "
+
+June rose in turn, and stirred the fire with the staff, when behold! the flames rose, the snow melted, the earth grew green, the trees were covered with leaves, the birds sang, and the flowers opened — it was summer. Thousands of little white stars enameled the turf, then turned to red strawberries; looking, in their green cups, like rubies set in emeralds.
+
+" Make haste, my child, and gather your strawberries, " said June.
+
+Dobrunka filled her apron, thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Ka- tinka and the stepmother. The fragrance of the strawberries filled the whole house.
+
+" Where did you find these fine things ? " asked Katinka in a disdainful voice.
+
+"Up yonder on the mountain," answered her sister; "there were so many of them that they looked like blood poured on the ground. "
+
+Katinka and her mother devoured the strawberries without even thanking the poor child.
+
+The third day the wicked sister took a fancy for some red apples. The same threats, the same insults, and the same violence followed. Dobrunka ran to the mountain, and was fortunate enough to find the Twelve Months warming themselves, motionless and silent.
+
+" You here again, my child ? " said old January, making room for her by the fire. Dobrunka told him with tears how, if she did not bring home some red apples, her mother and sister would beat her to death.
+
+Old January repeated the ceremonies of the day before.
+
+" Brother September, " said he to a gray-bearded man in a purple mantle,  " this is your business. "
+
+September rose and stirred the fire with the staff, when behold! the flames ascended, the snow melted, and the trees put forth a few yellow leaves, which fell one by one before the wind; — it was autumn. The only flowers were a few late pinks, daisies, and immortelles. Dobrunka saw but one thing, an apple-tree with its rosy fruit.
+
+"Make haste, my child:  shake the tree," said September.
+
+She shook it, and an apple fell; she shook it again, and a second apple  followed.
+
+" Make haste, Dobrnnka, make haste home ! " cried September in an imperious voice.
+
+The good child thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the stepmother.
+
+" Fresh apples in January! Where did you get these apples?" asked Katinka.
+
+"Up yonder on the mountain: there is a tree there that is as red with them as a cherry-tree in July. "
+
+" Why did you bring only two ? You ate the rest on the way."
+
+" O sister, I did not touch them ; I was only permitted to shake the tree twice, and but two apples fell."
+
+" Begone, you fool !" cried Katinka, striking her sister, who ran away crying.
+
+The wicked girl tasted one of the apples; she had never eaten anything so delicious in her life, neither had her mother. How they regretted not having any more !
+
+" Mother, " said Katinka, " give me my fur cloak. I will go to the forest and find the tree; and whether I am permitted or not, I will shake it so hard that all the apples will be ours. "
+
+The mother tried to stop her. A spoiled child listens to noth- ing. Katinka wrapped herself in her fur cloak, drew the hood over her head, and hastened to the forest.
+
+Everything was covered with snow; there was not even a footpath. Katinka lost her way, but she pushed on, spurred by pride and covetousness. She spied a light in the distance. She climbed and climbed till she reached the place, and foimd the Twelve Months each seated on his stone, motionless and silent. Without asking their permission,  she approached the fire.
+
+" Why have you come here ? What do you want ? Where are you going ? " asked old January gruffly.
+
+" What matters it to you, old fool ? " answered Katinka. " It is none of your business where I came from or whither I am going." She plunged into the forest. January frowned, and raised his staff above his head. In the twinkling of an eye the sky was overcast, the fire went out, the snow fell, and the wind blew. Katinka could not see the way before her. She lost herself, and vainly tried to retrace her steps. The snow fell and the wind blew. She called her mother, she cursed her sister, she cursed God. The snow fell and the wind blew. Katinka froze, her limbs stiffened, and she fell motionless. The snow still fell and the wind still blew.
+
+The mother went without ceasing from the window to the door, and from the door to the window. The hours passed and Katinka did not return.
+
+"I must go and look for my daughter," said she. " The child has forgotten herself with those hateful apples." She took her fur cloak and hood and hastened to the mountain. Everything was covered with snow; there was not even a footpath. She plunged into the forest, calling her daughter. The snow fell and the wind blew. She walked on with feverish anxiety, shouting at the top of her voice. The snow still fell and the wind still blew.
+
+Dobrunka waited through the evening and the night, but no one returned. In the morning she took her wheel and spun a whole distaff full ; there was still no news. " What can have happened ? " said the good girl, weeping. The sun was shining through an icy mist, and the ground was covered with snow. Dobrunka prayed for her mother and sister. They did not return; and it was not till spring that a shepherd found the two corpses in the forest.
+
+Dobrunka remained the sole mistress of the house, the cow, and the garden, to say nothing of a piece of meadow adjoining the house. But when a good and pretty girl has a field under her window, the next thing that follows is a young farmer, who offers her his heart and hand. Dobrunka was soon married. The Twelve Months did not abandon their child. More than once, when the north wind blew fearfully and the windows shook in their frames, old January stopped up all the crevices of the house with snow, so that the cold might not enter this peaceful abode.
+
+Dobrunka lived to a good old age, always virtuous and happy, having, according to the proverb, winter at the door, summer in the barn, autumn in the cellar, and spring in the heart.
+
+```
+
+Sabine Baring-Gould also picked up on the tale:
+
+```{admonition} Sabine Baring Gould, in *A Book of Fairy Tales*, 1895
+:class: dropdown
+
+https://archive.org/details/bookoffairytales00bariiala/page/66/mode/2up
+A book of fairy tales
+by Baring-Gould, S. (Sabine), 1834-1924
+Publication date 1895
+Pretty Marushcka
+p67-78
+
+"PRETTY MARUSCHKA. A Sclavonic tale. It is properly Slovakian, and is given by Wenzig in his *West Slawischer Marchenschatz*, 1857. The story has a mythological importance, on account of the impersonation of the Twelve Months represented as seated round the great central fire of the sun. The fire-wheel occurs in traditional usage, not only in Sclavonic but also in Gaulish lands.
+
+PRETTY MARUSCHKA
+
+FAR away in the hazy purple of antiquity, when all stepmothers were wicked, and all younger sons were successful, there lived on the confines of a forest a woman who had two daughters : the one her own, the other only a step- child. Naturally, the love of the mother was concentrated on her own Helena, and, as naturally, she disliked Maruschka, who was the fairest, the gentlest, and the most pious of the two girls.
+
+Little did pretty Maruschka know of her own surpassing beauty a fact proving to us how remote from the present age was that in which these damsels lived. Her hair was like the waving gold of the cornfield when the wind soughs over it, and her eyes were as the blue forget-me-not which smiles and glimmers in a quiet nook by the brookside. She was slim and graceful; her step was light, for her heart was free. Wherever she went she brought cheerfulness and smiles; like the little golden sunbeams which pierce among the tree-shadows of a forest, and light up unex- pected beauties where all before was gloom ; now painting a saffron butterfly, now kindling an emerald moss-tuft, now making a scarlet lily flame against the dusk of the forest glades behind.
+
+Helena was dressed by her mother in gay colours for Sunday and Feast-day, but poor little Marsuchka had only a dingy grey gown, cast off by her sister. Helena wore black shoes with silver buckles, but pretty Maruschka clattered up the churchyard path in wooden clogs. Helena wore a false gold chain of great links round her neck, but her half-sister had only a turquoise-coloured ribbon and a little silver cross with a crystal in it that was her only ornament and that had been given her by a lady whom she had guided into the road, when she had lost her way in the forest. As the mother and the two girls went to church on Sundays, the lads were all in the yard hanging about the tombstones ; and the old woman heard them whisper, 'There is pretty Maruschka;' but never once did they say, ' See pretty Helena.' So she was angry, and hated the golden-haired, blue-eyed maiden. At home she made her do all the hard work scrub the floors, cook the victuals, mend the clothes whilst Helena stood all day before her glass, combing her hair and adorning herself with trinkets, and wishing it were Sunday that she might flare before the eyes of the young men in the churchyard.
+
+Helena and her mother did all that lay in their power to make the little girl's life miserable. They scolded her, they beat her, they devised schemes of annoyance for her, but never could they ruffle the sweet temper of Maruschka. One day, in the depth of winter, Helena cried out, 'Ah, mel would that I had a bunch of violets in my bosom to-morrow, when I go to church. Run, Maruschka, run into the forest and pluck them for me, that I may have them to smell at whilst the priest gives us his sermon.'
+'Oh, my sister 1' answered Maruschka, 'who ever heard of violets being gathered in midwinter, under the deep snow ? '
+
+' Idle hussey ! ' screamed Helena ; ' go at once and fetch them. Have them I will, and you shall not come back without them.'
+
+Then the mother chimed in with, ' Mind and bring a large bunch, or you shall not be taken in here for the night. Go!' and she caught her, thrust her from the house, and slammed the door behind her.
+
+Bitterly weeping, the poor maiden wandered into the forest. The snow lay deep everywhere, undinted by human foot ; white wreaths hung on the bushes, and the sombre pine-boughs were frosted over with snow. Here were the traces of a hare, there the prints of a badger. An owl called from the depths of the forest. The girl lost her way. Dusk came on, and a few stars looked through the interlacing boughs overhead, watching Maruschka. An icy wind moaned through the trees, shaking the pines as though they quaked with mortal fear, and then they bent their branches and shot their loads of snow in dust to the ground. Strange harp-like sounds reverberated through the gloom, and gratings of bough on bough, which seemed as though the wood demons were gnawing at fallen timbers. Now a great black crow, which had been brooding among dark firs and pines, startled by the footfall and sobs of the maiden, expanded his wings, and, with a harsh scream, rushed away, noisily, sending the life-blood with a leap to the girl's heart. Suddenly, before her far up on a hill-top a light appeared, ruddy and flickering. Maruschka, inspired with hope, made for it, scrambling up a rocky slope through deep snow-drifts. She reached the summit, and beheld a great fire. Around this fire were twelve rough stones, and on each stone sat a man. Three were grey-bearded, three were middle-aged, three were youths ; and the last three were the youngest and fairest. They spake not, but looked intently on the roaring flames. He who sat in the seat of honour had a long staff in his hand. His hair was white, and fluttering in the cold wind.
+
+Maruschka was startled, and watched them with astonishment for a little while ; then muster- ing courage, she stepped within the circle and said :
+
+' Dear, good friends, please suffer me to warm myself a little while at the fire, for, indeed, I am perishing with cold.' He with the flowing white hair raised his head, and said 'Yes, child, approach. But what brings you here ? '
+
+' I am seeking violets,' she answered. ' Violets ! It is not the time for violets, when the snow lies deep ?'
+
+'Ah, sir! I know that well; but sister Helena and mother have bidden me bring them violets, and if I do not I must perish in the cold. You, kind shepherds, tell me where I may find violets ! ' Then the white aged one arose from his seat, stepped to one of the blooming youths, put his staff into his hand, and said——
+
+'Brother March, take thou the pre-eminence.'
+
+Then the Month March sat himself on the chief stone, and waved his staff over the fire. Instantly the flames rushed up and blazed with greater brilliancy, the snow began to thaw, the hazel-bushes were covered with catkins, and glossy buds appeared on the beech. Green herbs thrust up through the moist soil, a primrose gleamed from a dusky bank, and a sweet fragrance of violets was wafted by on a gentle breeze. Under a bush, the ground was purple with their scented blossoms. ' Quick, Maruschka, pluck ! ' ordered March. The girl hastily gathered a handful. Then she cour- tesied to the twelve Months, thanked them cordially, and hurried home.
+
+Helena was amazed when her half-sister came with the bunch to the door. She opened it to her, and the house was filled with the delicious odour.
+
+'Where did you find them?' she asked.
+
+' High up on the mountain, under a hawthorn bush.'
+
+Helena took the flowers, and set them in her bosom. She let her mother smell at them, but she never gave one to Maruschka. When they came home from church next day, Helena cast off her gay shawls, and sat down to supper. But she had no appetite for what was on the table. She was angry with her sister ; for all the lads had fixed their eyes on Maruschka, and had not even been attracted to her by the fragrant bunch of violets. ' How beautiful is Maruschka to-day !' had said some of the older people ; and none had spoken a good word of her. So sne sat and sighed, and hated the pretty girl more and more.
+
+' Oh that I had strawberries ! ' she said. ' I can eat nothing this evening but strawberries. Run, Maruschka, into the forest and gather me a dishful.'
+
+' Dear sister, this is not the time of the year for strawberries. Who ever heard of strawberries ripening under the snow?'
+
+But the stepmother angrily exclaimed : ' Run, Maruschka, fetch them at once, as your sister has ordered, or I will strike you dead ; ' and she thrust her from the door.
+
+The poor girl cried bitterly ; she looked back at the firelight which glimmered through the casement, and thought how warm it was within, whilst without it was so piercingly cold. But she dared not return unless she had with her the desired fruit. So she plunged into the forest. The snow lay deep, and nowhere was a human footprint. Snow began to fall in fine powder, whitening her shoulders, clinging to the folds of her grey dress, and forming a cap of ice on her golden hair. In that dull rayless night there was no light to show the blue ribbon, which strayed among the tree boles, or to twinkle on the crystal of the silver cross.
+Presently Maruschka saw, high up on the summit of a rugged hill, a blazing fire. She scrambled to it, and there she found the Twelve sitting solemn and silent around the flames, and the Ice Month, with his staff, sat still on the seat of honour.
+
+' Dear, good friends, please suffer me to warm myself a little while at the fire,' she asked in a beseeching voice; 'for, indeed, I am perishing with cold.'
+
+Then the one with the drifting white locks raised his head and said——
+
+'Yes, child, approach. But what brings you here ?'
+
+'I am seeking strawberries,' she answered.
+
+' Strawberries! It is not the time for strawberries when the snow lies deep ? '
+
+'Ah, sir! I know that well; but sister Helena and mother have bidden me bring them strawberries, or they will strike me dead. You, kind shepherds, tell me where I may find strawberries.' Then the white Ice Month arose from his seat, stepped across the area to one of the young men, put the staff into his hand, and said——
+
+' Brother June, take thou the pre-eminence.'
+
+Then the Month June sat himself on the chief stone, and waved his staff over the fire. Instantly it glowed like molten gold, beams of glory streamed from it through the forest, and it shone like a sun resting on the earth. Overhead, the clouds flamed and curled in wreaths of light-tinted rose, carnation, and purple, athwart a sky blue as the forget-me-not. Every trace of snow vanished, and the earth was buried in green. The trees were covered with rustling leaves. Blue-bells gleamed under their shadows, and then died away. Red- robin blushed in tufts, and then shed its ragged petals. Wild roses burst into glorious flower, and the soft air was charged with the scent of the sweet-briar. From among the forest-glades called, in cool notes, a wood-dove. The thrush began to warble, and the blackbird to pipe. A bright-eyed squirrel danced among the fresh green leaves on the tree-tops. Beside a brown stone was a patch of sloping green. It was dotted with little white stars with golden hearts. Now the leaves drop off, and the hearts swell, and flush, and glow, and become crimson.
+
+' Quick, Maruschka, pluck ! ' said June. Then the girl joyfully hurried to the slope, and gathered an apronful of the luscious strawberries.
+
+he courtesied to the twelve Months, thanked them cordially, and hurried home.
+
+Helena was astonished as she saw her come to the house, and she ran to open the door. The whole cottage was fragrant with the odour of the strawberries.
+
+'Where did you gather them?' asked Helena.
+
+' High up on the mountains, under a brown rock.'
+
+Helena took the strawberries, and ate them with her mother. She never offered even one to pretty Maruschka.
+
+Next day, Helena had again no appetite for her supper.
+
+'Oh, if I had only ripe apples!' she said; and then, turning to her sister, she ordered, 'Run, Maruschka, run into the wood and gather me some ripe apples.'
+
+' Dear sister, this is not the time of the year for apples. Who ever heard of apples ripening in an icy wind ? '
+
+But her stepmother cried put, ' Run, Maruschka, fetch the apples as your sister has required, or I will strike you dead.'
+
+And she thrust her from the door into the cold winter night-air.
+
+The maiden hastened, sobbing, into the wood ; the snow lay deep, and nowhere was there a human footprint. The new moon glimmered in a clear sky, and sent its feeble beams into the forest deeps, forming little trembling, silvery pools of light, which appeared and vanished, and formed again. And a low wind whispered a great secret in the trees, but so faint was the tone that none could make out what it said. There was a little opening in the wood ; in the midst stood a grey wolf looking up at the moon and howling; but when Maruschka came near, it fled, and was lost among the shadows. The poor maiden shivered with cold, and her teeth chattered. Her lips were purple and her cheeks white ; and the tears, as they formed, froze on her long eyelashes. She would have sunk on a snow- drift and died, had she not seen, up high on a rugged hill-top, a blazing fire. Towards it she made her way, and found it to be the same she had seen before. Round about, solemn and silent, sat the Twelve, and the Ice Month was on the seat of honour, clasping the staff of power.
+
+' Dear, good friends, please suffer me to warm myself a little while at the fire,' she asked, in supplicating tones ; ' for, indeed, I am perishing with cold.'
+
+Then the one with the long white hair and frosty beard raised his head, and said : ' Yes, child, approach ; but what brings you here ? '
+
+' I am seeking ripe apples,' she answered.
+
+'Ripe apples ! It is not the time for ripe apples, when the snow lies deep ? '
+
+'Ah, sir ! I know that well ; but sister Helena and mother have bidden me bring them ripe apples, or they will strike me dead. You, kind shepherds, tell me where I may find ripe apples.'
+
+Then the Ice Month arose from his seat, stepped to one of the elder men, put the staff into his hand, and said—
+
+' Brother September, take thou the pre-eminence.'
+
+Then the Month September sat himself on the chief stone, and waved his staff over the fire. Whereat it glowed like a furnace, red and fierce ; sparks flew about, and volumes of glaring hot smoke, like the vapour of molten metal, rolled up to heaven. In a moment the snow was gone. The trees were covered with sere leaves ; the oak foliage was brown and crumpled, that of the ash yellow as sulphur ; other trees seemed leafed with copper. Stray leaves floated past and were whirled by little wind-eddies into rustling heaps. A few yellow flowers shook in the hot air. Pinks hung over the rocks, covering their faces with wandering shadows. Ladyfern waved and wafted its pleasant odour. A constant hum of bees and beetles and flies sounded through the wood. Maruschka looked about her for apples, and beheld a tree on whose branches hung the ruddy fruit.
+
+' Quick, Maruschka, shake ! ' commanded September.
+
+Then she shook, and there fell an apple ; she shook again, and there fell another.
+
+' Quick, Maruschka, hasten home ! ' said the Month.
+
+Then she courtesied to the Twelve, thanked them cordially, and returned to the house of her stepmother.
+
+Helena marvelled not a little when she saw the red apples.
+
+' How many have you plucked ? ' she asked.
+
+' Only two.'
+
+'Where did you find them?'
+
+' High up, on the mountain-top, on a tree weighed down with them.'
+
+' Why did you not gather more ? Did you not eat them on your way home ? ' asked Helena, fiercely.
+
+' Oh, dear sister, I have not tasted one ! I shook once, and down fell an apple ; I shook twice, and there fell another. I might not bring away more.'
+
+Helena struck her, and drove her to the kitchen. Then she tasted one of the apples. Never before had she eaten one so sweet and juicy. The step-mother ate the second.
+
+'Mother!' exclaimed Helena, 'give me my fur dress. I will go to the hill and bring some apples. That hussey has eaten all she took except two.' Then she wrapped herself up, and hurried into the wood. The snow lay deep, and nowhere was a human footprint Helena lost herself; but presently she was aware of a hill, and a fire burning at the summit. She hastened to the light. There she saw a great blaze, and round it sat the twelve Months, silent and solemn. He with the long snowy locks sat on the seat of honour, holding the rod of power. Helena stared at them, then, pushing through the circle, went to the fire, and began to warm herself.
+
+' What seek you here ? ' asked the Ice Month, with a frown wrinkling his white brow.
+
+'That is no business of yours,' answered Helena, sharply, over her shoulder.
+
+The Ice Month shook his head, and, raising his arm, waved the staff over the fire. Instantly the flames sank, and the fire was reduced to a glowing spark. The clouds rolled over the sky, and, bursting, discharged snow in such quantities that nothing was visible in earth and heaven but drifting white particles. An icy wind rumbled in the forest and roared round the hill. Helena fled. Everywhere white fleeting spots whirling, falling, rising, scudding! She ran this way, then that; she stumbled over a fallen log, she gathered her- self up and ran again ; then she plunged into a deep drift ; and the white cold down from the breast of heaven whirled and fell, and rose, and fleeted, and danced this side of her, and dropped here on her, and rested there on her, and lodged on this limb, and built up a white heap on that limb, then bridged over one fold and filled up another. She shook herself, and the particles fell off. But then they began theirwork again : they spangled her with white, they wove a white net, they filled up the interstices of her lace, they built a mound over her arm, they buried her foot, they raised a cairn above her bosom. Then they spun a dance around the white face which looked up at them, and began to whiten it still more ; lastly, they smoothed the sheet over her, and the work was done.
+
+The mother looked out of the window and wondered that Helena did not return. Hour after hour passed, and her daughter came not.
+
+' Maybe the apples are so sweet that she cannot eat enough,' thought the mother. ' I will go seek them too.'
+
+So she wrapped herself up in a thick shawl and went forth.
+
+The snow lay deep, and nowhere was a human footprint. She called Helena, but received no answer. Then she lost her way. The snow fell, and the wind howled.
+
+Maruschka sat over the fire and cooked supper. Mother and sister came back no more.
+```
+
+The tale also appeared in a collection of Eastern European tales by Jeremiah Curtin published posthumously:
+
+```{admonition} In *Fairy tales of eastern Europe*, Jeremiah Curtin, 1914
+:class: dropdown
 
 https://archive.org/details/cu31924028083479/page/n21/mode/2up
 Fairy tales of eastern Europe
@@ -1002,7 +1004,7 @@ Publication date 1914
 
 `INTRODUCTION
 
-`The present collection of "Fairy Tales of Eastern Europe" was gathered by him personally in the course of his travels. They were obtained by word of mouth in direct converse with the people in their daily lives — when stopping perhaps in some rude wayside cabin, or mingling as one of them in their fes-, tivals. In this way the author has preserved the quaint flavor of the original stories.`
+`The present collection of "Fairy Tales of Eastern Europe" was gathered by him personally in the course of his travels. They were obtained by word of mouth in direct converse with the people in their daily lives — when stopping perhaps in some rude wayside cabin, or mingling as one of them in their festivals. In this way the author has preserved the quaint flavor of the original stories.`
 
 p1-8
 
@@ -1109,35 +1111,4 @@ Time passed. Marushka got supper ready, and fed the cow, but neither Holena nor 
 
 She looked out. The heavens were gleaming with stars, the earth glittering with snow, but no human being was visible anywhere. She closed the door, made the sign of the cross, repeated "Our Father" for her step-mother and sister, and then lay down to sleep. The next day she looked for them at breakfast, waited for them at dinner ; but in vain — they came not again to the house of living man.
 
-----
-
-
-
-https://archive.org/details/wheelersgradedl01wheegoog/page/n214/mode/2up?q=%22twelve+months%22+Edouard+Laboulaye
-Wheeler's Graded Literary Readers, with Interpretations
-by William Iler Crane , William Henry Wheeler
-Publication date 1919
-Twelve months p211
-
----
-
-https://archive.org/details/disobedientkidso001820
-The disobedient kids : and other Czecho-Slovak fairy tales
-by Nemcová, Bozena, 1820-1862; Tille, Václav, 1867-1937; Scheiner, Artus, ill
-Publication date 1921
-
----
-
-Lots of Old English history tales in 
-https://archive.org/details/storiesofearlyen00wilm/page/238/mode/2up?q=cleges+cherries
-Stories of early England
-by Wilmot-Buxton, E. M. (Ethel Mary)
-
-
-
----
-https://archive.org/details/dearoldstorytel00adamgoog/page/n10/mode/2up?q=%22twelve+months%22+Edouard+Laboulaye
-Dear Old story-teller
-by Adams, Oscar Fay 1855-1919
-Publication date 1889
-includes biog of Laboulaye, Grimm etc
+```

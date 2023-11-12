@@ -1,6 +1,9 @@
 format: jb-book
 root: intro
 parts:
-- caption: Tales from Elsewhere
+- caption: Eastern European Tales
+  chapters:
+  - file: twelve_months
+- caption: Medieval Tales
   chapters:
   - file: sir-cleges-winter-cherries
