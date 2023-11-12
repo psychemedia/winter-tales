@@ -6,7 +6,7 @@ The gist of the tale is this:
 
 > Marushka, down trodden, lives with her step-mother and step-sister, Holena. Even though it is January, and the depth of Winter, her step-mother sends her out to find March violets; she goes up the mountain, sees a fire around which are twleve stone, with twelve men sitting on them. On the largest stone, a man with a white beard and a club: January. They ask what she is doing; January swaps with March, and as the girl departs, she finds violets. The step-mother sends her to find strawberries; she returns to the mountain, january swaps with June, and she finds strawberries; her step-mother sendfs her out for red apples, January swaps with September, and she finds red apples, but may only pick two. Holena sets off to find more, is disrepectful to January. He waves the stick round his head, the fire dies down. Holena is lost in a Winter strom. Her mother goes out to find her and she is lost too. Marushka lives ever after.
 
-Originating (I think?) from a Czech fairy tale by Bozena Nemcova, the earliest appearance I have found for it is in an 1866 collection of tales translated from Edouard Laboulaye:
+Originating from a Czech fairy tale by Bozena Nemcova, the earliest appearance I have found for it is in an 1866 collection of tales translated from Edouard Laboulaye:
 
 ```{admonition} In *Laboulaye's fairy book*, 1866
 :class: dropdown
@@ -151,7 +151,171 @@ Dobrunka lived to a good old age, always virtuous and happy, having, according t
 
 The same translation was also republished in *Library of the world's best literature, ancient and modern*, 1896, [p8749-8754](https://archive.org/details/worldsbestlitera15warn/page/8748/mode/2up).
 
-Sabine Baring-Gould also picked up on the tale and published it in his *A Book of Fairy Tales* in 1895:
+
+The earliest version I have found as an explicit translation of Nemcova's tale is in a collection of *Czech folk tales* by Josef Baudis published in 1917:
+
+```{admonition} In *Czech folk tales*, Josef Baudis, 1917
+:class: dropdown
+https://archive.org/details/czechfolktales00bauduoft
+Czech folk tales
+by Baudis, Josef
+Publication date [1917]
+
+The first two stories `[the first being "Twelve Months"]` have been retold by the novelist Bozena Nemcova (from the Slovak).
+
+p1-15
+
+THE TWELVE MONTHS
+
+Once upon a time there lived a mother who had two daughters. One was her own child, the other her stepdaughter. She was very fond of her own daughter, but she would not so much as look at her step-daughter. The only reason was that Marusa, the stepdaughter, was prettier than her own daughter, Holena. The gentle-hearted Marusa did not know how beautiful she was, and so she could never make out why her mother was so cross with her whenever she looked at her. She had to do all the housework, tidying up the cottage, cooking, washing, and sewing, and then she had to take the hay to the cow and look after her. She did all this work alone, while Holena spent the time adorning herself and lazing about. But Marusa liked work, for she was a patient girl, and when her mother scolded and rated her, she bore it like a lamb. It was no good, however, for they grew crueller and crueller every day, only because Marusa was growing prettier and Holena uglier every day.
+
+At last the mother thought : " Why should I keep a pretty stepdaughter in my house? When the lads come courting here, they will fall in love with Marusa and they won't look at Holena."
+
+From that moment the stepmother and her daughter were constantly scheming how to get rid of poor Maru§a. They starved her and they beat her. But she bore it all, and in spite of all she kept on growing prettier every day. They invented torments that the cruellest of men would never have thought of.
+
+One day — it was in the middle of January — Holena felt a longing for the scent of violets.
+
+" Go, Marusa, and get me some violets from the forest ; I want to wear them at my waist and to smell them," she said to her sister.
+
+" Great heavens ! sister. What a strange notion ! Who ever heard of violets growing under the snow?" said poor Marusa.
+
+"You wretched tatterdemalion! how dare you argue when I tell you to do something? Off you go at once, and if you don't bring me violets from the forest I'll kill you !" said Holena threateningly.
+
+The stepmother caught hold of Marusa, turned her out of the door, and slammed it to after her. She went into the forest weeping bitterly. The snow lay deep, and there wasn't a human footprint to be seen. Marusa wandered about for a long time, tortured by hunger and trembling with cold. She begged God to take her from the world.
+
+At last she saw a light in the distance. She went towards the glow, and came at last to the top of a mountain. A big fire was burning there, and round the fire were twelve stones with twelve men sitting on them. Three of them had snow-white beards, three were not so old, and three were still younger. The three youngest were the handsomest of them all. They were not speaking, but all sitting silent. These twelve men were the twelve months. Great January sat highest of all ; his hair and beard were as white as snow, and in his hand he held a club.
+
+Marusa was frightened. She stood still for a time in terror, but, growing bolder, she went up to them and said : " Please, kind sirs, let me warm my hands at your fire. I am trembling with the cold."
+
+Great January nodded, and asked her : " Why have you come here, my dear little girl ? What are you looking for ? "
+
+" I am looking for violets," answered MaruSa.
+
+" This is no time to be looking for violets, for everything is covered with snow," answered Great January.
+
+" Yes, I know ; but my sister Holena and my stepmother said that I must bring them some violets from the forest. If I don't bring them, they'll kill me. Tell me, fathers, please tell me where I can find them."
+
+Great January stood up and went to one of the younger months — it was March — and, giving him the club, he said : " Brother, take the high seat."
+
+March took the high seat upon the stone and waved the club over the fire. The fire blazed up, the snow began to melt, the trees began to bud, and the ground under the young beech-trees was at once covered with grass and the crimson daisy buds began to peep through the grass. It was springtime. Under the bushes the violets were blooming among their little leaves, and before Marusa had time to think, so many of them had sprung up that they looked like a blue cloth spread out on the ground.
+
+" Pick them quickly, Marusa ! " commanded March.
+
+Marusa picked them joyfully till she had a big bunch. Then she thanked the months with all her heart and scampered merrily home.
+
+Holena and the stepmother wondered when they saw Marusa bringing the violets. They opened the door to her, and the scent of violets filled all the cottage.
+
+" Where did you get them ? " asked Holena sulkily.
+
+" They are growing under the bushes in a forest on the high mountains."
+
+Holena put them in her waistband. She let her mother smell them, but she did not say to her sister : " Smell them."
+
+Another day she was lolling near the stove, and now she longed for some strawberries. So she called to her sister and said: "Go, Marusa, and get me some strawberries from the forest."
+
+"Alas! dear sister, where could I find any strawberries ." Who ever heard of strawberries growing under the snow ? " said Maru§a.
+
+" You wretched little tatterdemalion, how dare you argue when I tell you to do a thing? Go at once and get me the strawberries, or I'll kill you!"
+
+The stepmother caught hold of Marusa and pushed her out of the door and shut it after her. Marusa went to the forest weeping bitterly. The snow was lying deep, and there wasn't a human footprint to be seen anywhere. She wandered about for a long time, tortured by hunger and trembling with cold. At last she saw the light she had seen the other day. Overjoyed, she went towards it. She came to the great fire with the twelve months sitting round it.
+
+" Please, kind sirs, let me warm my hands at the fire. I am trembling with cold."
+
+Great January nodded, and asked her : " Why have you come again, and what are you looking for here ? "
+
+" I am looking for strawberries."
+
+" But it is winter now, and strawberries don't grow on the snow," said January.
+
+"Yes, I know," said Maru§a sadly; "but my sister Holena and my stepmother bade me bring them some strawberries, and if I don't bring them, they will kill me. Tell me, fathers, tell me, please, where I can find them."
+
+Great January arose. He went over to the month sitting opposite to him — it was June — and handed the club to him, saying : " Brother, take the high seat."
+
+June took the high seat upon the stone and swung the club over the fire. The fire shot up, and its heat melted the snow in a moment. The ground was all green, the trees were covered with leaves, the birds began to sing, and the forest was filled with all kinds of flowers. It was summer. The ground under the bushes was covered with white starlets, the starry blossoms were turning into strawberries every minute. They ripened at once, and before Marusa had time to think, there were so many of them that it looked as though blood had been sprinkled on the ground.
+
+" Pick them at once, Marusa ! " commanded June.
+
+Marusa picked them joyfully till she had filled her apron full. Then she thanked the months with all her heart and scampered merrily home. Holena and the stepmother wondered when they saw Marusa bringing the strawberries. Her apron was full of them. They ran to open the door for her, and the scent of the strawberries filled the whole cottage.
+
+"Where did you pick them?" asked Holena sulkily.
+
+" There are plenty of them growing under the young beech-trees in the forest oh the high mountains."
+
+Holena took the strawberries, and went on eating them till she could eat no more. So did the stepmother too, but they didn't say to Marusa : " Here is one for you."
+
+When Holena had enjoyed the strawberries, she grew greedy for other dainties, and so on the third day she longed for some red apples.
+
+" Marusa, go into the forest and get me some red apples," she said to her sister.
+
+" Alas ! sister dear, how am I to get apples for you in winter ?" protested Marusa.
+
+" You wretched little tatterdemalion, how dare you argue when I tell you to do a thing? Go to the forest at once, and if you don't bring me the apples I will kill you ! " threatened Holena.
+
+The stepmother caught hold of Marusa and pushed her out of the door and shut it after her. Marusa went to the forest weeping bitterly. The snow was lying deep ; there wasn't a human footprint to be seen anywhere. But she didn't wander about this time. She ran straight to the top of the mountain where the big fire was burning. The twelve months were sitting round the fire ; yes, there they certainly were, and Great January was sitting on the high seat.
+
+" Please, kind sirs, let me warm my hands at the fire. I am trembling with cold."
+
+Great January nodded, and asked her : " Why have you come here, and what are you looking for ? "
+
+" I am looking for red apples."
+
+"It is winter now, and red apples don't grow in winter," answered January.
+
+"Yes, I know," said Marusa sadly; "but my sister and my stepmother, too, bade me bring them some red apples from the forest. If I don't bring them, they will kill me. Tell me, father, tell me, please, where I could find them."
+
+Great January rose up. He went over to one of the older months — it was September. He handed the club to him and said : " Brother, take the high seat."
+
+Month September took the high seat upon the stone and swung the club over the fire. The fire began to burn with a red flame, the snow began to melt. But the trees were not covered with leaves ; the leaves were wavering down one after the other, and the cold wind was driving them to and fro over the yellowing ground. This time MaruSa did not see so many flowers. Only red pinks were blooming on the hillside, and meadow saffrons were flowering in the valley. High fern and thick ivy were growing under the young beech-trees. But Marusa was only looking for red apples, and at last she saw an apple-tree with red apples hanging high among its branches.
+
+"Shake the tree at once, Marusa!" commanded the month.
+
+Right gladly Marusa shook the tree, and one apple fell down. She shook it a second time, and another apple fell down.
+
+" Now, Marusa, run home quickly ! " shouted the month.
+
+Marusa obeyed at once. She picked up the apples, thanked the months with all her heart, and ran merrily home.
+
+Holena and the stepmother wondered when they saw Marusa bringing the apples. They ran to open the door for her, and she gave them two apples.
+
+" Where did you get them ? " asked Holena.
+
+" There are plenty of them in the forest on the high mountain."
+
+"And why didn't you bring more? Or did you eat them on the way home ?" " said Holena harshly.
+
+" Alas ! sister dear, I didn't eat a single one. But when I had shaken the tree once, one apple fell down, and when I shook it a second time, another apple fell down, and they wouldn't let me shake it again. They shouted to me to go straight home," protested Marusa.
+
+Holena began to curse her : " May you be struck to death by lightning ! " and she was going to beat her.
+
+Marusa began to cry bitterly, and she prayed to God to take her to Himself, or she would be killed by her wicked sister and her stepmother. She ran away into the kitchen.
+
+Greedy Holena stopped cursing and began to eat the apple. It tasted so delicious that she told her mother she had never tasted anything so nice in all her life. The step- mother liked it too. When they had finished, they wanted some more.
+
+"Mother, give me my fur coat. I'll go to the forest myself. That ragged little wretch would eat them all up again on her way home. I'll find the place all right, and I'll shake them all down, however they shout at me."
+
+Her mother tried to dissuade her, but it was no good. She took her fur coat, wrapped a cloth round her head, and off she went to the forest. Her mother stood on the threshold, watching to see how Holena would manage to walk in the wintry weather.
+
+The snow lay deep, and there wasn't a human footprint to be seen anywhere. Holena wandered about for a long time, but the desire of the sweet apple kept driving her on. At last she saw a light in the distance. She went towards it, and climbed to the top of the mountain where the big fire was burning, and round the fire on twelve stones the twelve months were sitting. She was terrified at first, but she soon recovered. She stepped up to the fire and stretched out her hands to warm them, but she didn't say as much as " By your leave " to the twelve months ; no, she didn't say a single word to them.
+
+"Why have you come here, and what are you looking for ? " asked Great January crossly.
+
+"Why do you want to know, you old fool ? It's no business of yours," replied Holena angrily, and she turned away from the fire and went into the forest.
+
+Great January frowned and swung the club over his head. The sky grew dark in a moment, the fire burned low, the snow began to fall as thick as if the feathers had been shaken out of a down quilt, and an icy wind began to blow through the forest. Holena couldn't see one step in front of her ; she lost her way altogether, and several times she fell into snowdrifts. Then her limbs grew weak and began slowly to stiffen. The snow kept on falling and the icy wind blew more icily than ever. Holena began to curse Marusa and the Lord God. Her limbs began to freeze, despite her fur coat.
+
+Her mother was waiting for Holena ; she kept on looking out for her, first at the window, then outside the door, but all in vain.
+
+" Does she like the apples so much that she can't leave them, or what is the matter? I must see for myself where she is," decided the stepmother at last. So she put on her fur coat, she wTapped a shawl round her head, and went out to look for Holena. The snow was lying deep ; there wasn't a human footprint to be seen; the snow fell fast, and the icy wind was blowing through the forest.
+
+Marusa had cooked the dinner, she had seen to the cow, and yet Holena and her mother did not come back. " Where are they staying so long ? " thought Marusa, as she sat down to work at the distaff. The spindle was full already and it was quite dark in the room, and yet Holena and the stepmother had not come back.
+
+"Alas, Lord! what has come to them?" cried MaruSa, peering anxiously through the window. The sky was bright and the earth was all glittering, but there wasn't a human soul to be seen. . . . Sadly she shut the window ; she crossed herself, and prayed for her sister and her mother. ... In the morning she waited with breakfast, she waited with dinner ; but however much she waited, it was no good. Neither her mother nor her sister ever came back. Both of them were frozen to death in the forest.
+
+So good Marusa inherited the cottage, a piece of ploughland and the cow. She married a kind husband, and they both lived happily ever after.
+
+```
+
+Sabine Baring-Gould picked up on the tale and published it in his *A Book of Fairy Tales* in 1895, ascribing it to Wenzig in 1857:
 
 ```{admonition} Sabine Baring Gould, in *A Book of Fairy Tales*, 1895
 :class: dropdown
@@ -163,7 +327,7 @@ Publication date 1895
 Pretty Marushcka
 p67-78
 
-"PRETTY MARUSCHKA. A Sclavonic tale. It is properly Slovakian, and is given by Wenzig in his *West Slawischer Marchenschatz*, 1857. The story has a mythological importance, on account of the impersonation of the Twelve Months represented as seated round the great central fire of the sun. The fire-wheel occurs in traditional usage, not only in Sclavonic but also in Gaulish lands.
+"PRETTY MARUSCHKA. A Sclavonic tale. It is properly Slovakian, and is given by Wenzig in his [*West Slawischer Marchenschatz*](https://archive.org/details/westslawischerm00wenzgoog/), 1857. The story has a mythological importance, on account of the impersonation of the Twelve Months represented as seated round the great central fire of the sun. The fire-wheel occurs in traditional usage, not only in Sclavonic but also in Gaulish lands.
 
 PRETTY MARUSCHKA
 
@@ -461,167 +625,6 @@ Day after day Marouckla worked and prayed, and waited ; but neither stepmother n
 
 ```
 
-```{admonition} In *Czech folk tales*, Josef Baudis, 1917
-:class: dropdown
-https://archive.org/details/czechfolktales00bauduoft
-Czech folk tales
-by Baudis, Josef
-Publication date [1917]
-
-The first two stories `[the first being "Twelve Months"]` have been retold by the novelist Bozena Nemcova (from the Slovak).
-
-p1-15
-
-THE TWELVE MONTHS
-
-Once upon a time there lived a mother who had two daughters. One was her own child, the other her stepdaughter. She was very fond of her own daughter, but she would not so much as look at her step-daughter. The only reason was that Marusa, the stepdaughter, was prettier than her own daughter, Holena. The gentle-hearted Marusa did not know how beautiful she was, and so she could never make out why her mother was so cross with her whenever she looked at her. She had to do all the housework, tidying up the cottage, cooking, washing, and sewing, and then she had to take the hay to the cow and look after her. She did all this work alone, while Holena spent the time adorning herself and lazing about. But Marusa liked work, for she was a patient girl, and when her mother scolded and rated her, she bore it like a lamb. It was no good, however, for they grew crueller and crueller every day, only because Marusa was growing prettier and Holena uglier every day.
-
-At last the mother thought : " Why should I keep a pretty stepdaughter in my house? When the lads come courting here, they will fall in love with Marusa and they won't look at Holena."
-
-From that moment the stepmother and her daughter were constantly scheming how to get rid of poor Maru§a. They starved her and they beat her. But she bore it all, and in spite of all she kept on growing prettier every day. They invented torments that the cruellest of men would never have thought of.
-
-One day — it was in the middle of January — Holena felt a longing for the scent of violets.
-
-" Go, Marusa, and get me some violets from the forest ; I want to wear them at my waist and to smell them," she said to her sister.
-
-" Great heavens ! sister. What a strange notion ! Who ever heard of violets growing under the snow?" said poor Marusa.
-
-"You wretched tatterdemalion! how dare you argue when I tell you to do something? Off you go at once, and if you don't bring me violets from the forest I'll kill you !" said Holena threateningly.
-
-The stepmother caught hold of Marusa, turned her out of the door, and slammed it to after her. She went into the forest weeping bitterly. The snow lay deep, and there wasn't a human footprint to be seen. Marusa wandered about for a long time, tortured by hunger and trembling with cold. She begged God to take her from the world.
-
-At last she saw a light in the distance. She went towards the glow, and came at last to the top of a mountain. A big fire was burning there, and round the fire were twelve stones with twelve men sitting on them. Three of them had snow-white beards, three were not so old, and three were still younger. The three youngest were the handsomest of them all. They were not speaking, but all sitting silent. These twelve men were the twelve months. Great January sat highest of all ; his hair and beard were as white as snow, and in his hand he held a club.
-
-Marusa was frightened. She stood still for a time in terror, but, growing bolder, she went up to them and said : " Please, kind sirs, let me warm my hands at your fire. I am trembling with the cold."
-
-Great January nodded, and asked her : " Why have you come here, my dear little girl ? What are you looking for ? "
-
-" I am looking for violets," answered MaruSa.
-
-" This is no time to be looking for violets, for everything is covered with snow," answered Great January.
-
-" Yes, I know ; but my sister Holena and my stepmother said that I must bring them some violets from the forest. If I don't bring them, they'll kill me. Tell me, fathers, please tell me where I can find them."
-
-Great January stood up and went to one of the younger months — it was March — and, giving him the club, he said : " Brother, take the high seat."
-
-March took the high seat upon the stone and waved the club over the fire. The fire blazed up, the snow began to melt, the trees began to bud, and the ground under the young beech-trees was at once covered with grass and the crimson daisy buds began to peep through the grass. It was springtime. Under the bushes the violets were blooming among their little leaves, and before Marusa had time to think, so many of them had sprung up that they looked like a blue cloth spread out on the ground.
-
-" Pick them quickly, Marusa ! " commanded March.
-
-Marusa picked them joyfully till she had a big bunch. Then she thanked the months with all her heart and scampered merrily home.
-
-Holena and the stepmother wondered when they saw Marusa bringing the violets. They opened the door to her, and the scent of violets filled all the cottage.
-
-" Where did you get them ? " asked Holena sulkily.
-
-" They are growing under the bushes in a forest on the high mountains."
-
-Holena put them in her waistband. She let her mother smell them, but she did not say to her sister : " Smell them."
-
-Another day she was lolling near the stove, and now she longed for some strawberries. So she called to her sister and said: "Go, Marusa, and get me some strawberries from the forest."
-
-"Alas! dear sister, where could I find any strawberries ." Who ever heard of strawberries growing under the snow ? " said Maru§a.
-
-" You wretched little tatterdemalion, how dare you argue when I tell you to do a thing? Go at once and get me the strawberries, or I'll kill you!"
-
-The stepmother caught hold of Marusa and pushed her out of the door and shut it after her. Marusa went to the forest weeping bitterly. The snow was lying deep, and there wasn't a human footprint to be seen anywhere. She wandered about for a long time, tortured by hunger and trembling with cold. At last she saw the light she had seen the other day. Overjoyed, she went towards it. She came to the great fire with the twelve months sitting round it.
-
-" Please, kind sirs, let me warm my hands at the fire. I am trembling with cold."
-
-Great January nodded, and asked her : " Why have you come again, and what are you looking for here ? "
-
-" I am looking for strawberries."
-
-" But it is winter now, and strawberries don't grow on the snow," said January.
-
-"Yes, I know," said Maru§a sadly; "but my sister Holena and my stepmother bade me bring them some strawberries, and if I don't bring them, they will kill me. Tell me, fathers, tell me, please, where I can find them."
-
-Great January arose. He went over to the month sitting opposite to him — it was June — and handed the club to him, saying : " Brother, take the high seat."
-
-June took the high seat upon the stone and swung the club over the fire. The fire shot up, and its heat melted the snow in a moment. The ground was all green, the trees were covered with leaves, the birds began to sing, and the forest was filled with all kinds of flowers. It was summer. The ground under the bushes was covered with white starlets, the starry blossoms were turning into strawberries every minute. They ripened at once, and before Marusa had time to think, there were so many of them that it looked as though blood had been sprinkled on the ground.
-
-" Pick them at once, Marusa ! " commanded June.
-
-Marusa picked them joyfully till she had filled her apron full. Then she thanked the months with all her heart and scampered merrily home. Holena and the stepmother wondered when they saw Marusa bringing the strawberries. Her apron was full of them. They ran to open the door for her, and the scent of the strawberries filled the whole cottage.
-
-"Where did you pick them?" asked Holena sulkily.
-
-" There are plenty of them growing under the young beech-trees in the forest oh the high mountains."
-
-Holena took the strawberries, and went on eating them till she could eat no more. So did the stepmother too, but they didn't say to Marusa : " Here is one for you."
-
-When Holena had enjoyed the strawberries, she grew greedy for other dainties, and so on the third day she longed for some red apples.
-
-" Marusa, go into the forest and get me some red apples," she said to her sister.
-
-" Alas ! sister dear, how am I to get apples for you in winter ?" protested Marusa.
-
-" You wretched little tatterdemalion, how dare you argue when I tell you to do a thing? Go to the forest at once, and if you don't bring me the apples I will kill you ! " threatened Holena.
-
-The stepmother caught hold of Marusa and pushed her out of the door and shut it after her. Marusa went to the forest weeping bitterly. The snow was lying deep ; there wasn't a human footprint to be seen anywhere. But she didn't wander about this time. She ran straight to the top of the mountain where the big fire was burning. The twelve months were sitting round the fire ; yes, there they certainly were, and Great January was sitting on the high seat.
-
-" Please, kind sirs, let me warm my hands at the fire. I am trembling with cold."
-
-Great January nodded, and asked her : " Why have you come here, and what are you looking for ? "
-
-" I am looking for red apples."
-
-"It is winter now, and red apples don't grow in winter," answered January.
-
-"Yes, I know," said Marusa sadly; "but my sister and my stepmother, too, bade me bring them some red apples from the forest. If I don't bring them, they will kill me. Tell me, father, tell me, please, where I could find them."
-
-Great January rose up. He went over to one of the older months — it was September. He handed the club to him and said : " Brother, take the high seat."
-
-Month September took the high seat upon the stone and swung the club over the fire. The fire began to burn with a red flame, the snow began to melt. But the trees were not covered with leaves ; the leaves were wavering down one after the other, and the cold wind was driving them to and fro over the yellowing ground. This time MaruSa did not see so many flowers. Only red pinks were blooming on the hillside, and meadow saffrons were flowering in the valley. High fern and thick ivy were growing under the young beech-trees. But Marusa was only looking for red apples, and at last she saw an apple-tree with red apples hanging high among its branches.
-
-"Shake the tree at once, Marusa!" commanded the month.
-
-Right gladly Marusa shook the tree, and one apple fell down. She shook it a second time, and another apple fell down.
-
-" Now, Marusa, run home quickly ! " shouted the month.
-
-Marusa obeyed at once. She picked up the apples, thanked the months with all her heart, and ran merrily home.
-
-Holena and the stepmother wondered when they saw Marusa bringing the apples. They ran to open the door for her, and she gave them two apples.
-
-" Where did you get them ? " asked Holena.
-
-" There are plenty of them in the forest on the high mountain."
-
-"And why didn't you bring more? Or did you eat them on the way home ?" " said Holena harshly.
-
-" Alas ! sister dear, I didn't eat a single one. But when I had shaken the tree once, one apple fell down, and when I shook it a second time, another apple fell down, and they wouldn't let me shake it again. They shouted to me to go straight home," protested Marusa.
-
-Holena began to curse her : " May you be struck to death by lightning ! " and she was going to beat her.
-
-Marusa began to cry bitterly, and she prayed to God to take her to Himself, or she would be killed by her wicked sister and her stepmother. She ran away into the kitchen.
-
-Greedy Holena stopped cursing and began to eat the apple. It tasted so delicious that she told her mother she had never tasted anything so nice in all her life. The step- mother liked it too. When they had finished, they wanted some more.
-
-"Mother, give me my fur coat. I'll go to the forest myself. That ragged little wretch would eat them all up again on her way home. I'll find the place all right, and I'll shake them all down, however they shout at me."
-
-Her mother tried to dissuade her, but it was no good. She took her fur coat, wrapped a cloth round her head, and off she went to the forest. Her mother stood on the threshold, watching to see how Holena would manage to walk in the wintry weather.
-
-The snow lay deep, and there wasn't a human footprint to be seen anywhere. Holena wandered about for a long time, but the desire of the sweet apple kept driving her on. At last she saw a light in the distance. She went towards it, and climbed to the top of the mountain where the big fire was burning, and round the fire on twelve stones the twelve months were sitting. She was terrified at first, but she soon recovered. She stepped up to the fire and stretched out her hands to warm them, but she didn't say as much as " By your leave " to the twelve months ; no, she didn't say a single word to them.
-
-"Why have you come here, and what are you looking for ? " asked Great January crossly.
-
-"Why do you want to know, you old fool ? It's no business of yours," replied Holena angrily, and she turned away from the fire and went into the forest.
-
-Great January frowned and swung the club over his head. The sky grew dark in a moment, the fire burned low, the snow began to fall as thick as if the feathers had been shaken out of a down quilt, and an icy wind began to blow through the forest. Holena couldn't see one step in front of her ; she lost her way altogether, and several times she fell into snowdrifts. Then her limbs grew weak and began slowly to stiffen. The snow kept on falling and the icy wind blew more icily than ever. Holena began to curse Marusa and the Lord God. Her limbs began to freeze, despite her fur coat.
-
-Her mother was waiting for Holena ; she kept on looking out for her, first at the window, then outside the door, but all in vain.
-
-" Does she like the apples so much that she can't leave them, or what is the matter? I must see for myself where she is," decided the stepmother at last. So she put on her fur coat, she wTapped a shawl round her head, and went out to look for Holena. The snow was lying deep ; there wasn't a human footprint to be seen; the snow fell fast, and the icy wind was blowing through the forest.
-
-Marusa had cooked the dinner, she had seen to the cow, and yet Holena and her mother did not come back. " Where are they staying so long ? " thought Marusa, as she sat down to work at the distaff. The spindle was full already and it was quite dark in the room, and yet Holena and the stepmother had not come back.
-
-"Alas, Lord! what has come to them?" cried MaruSa, peering anxiously through the window. The sky was bright and the earth was all glittering, but there wasn't a human soul to be seen. . . . Sadly she shut the window ; she crossed herself, and prayed for her sister and her mother. ... In the morning she waited with breakfast, she waited with dinner ; but however much she waited, it was no good. Neither her mother nor her sister ever came back. Both of them were frozen to death in the forest.
-
-So good Marusa inherited the cottage, a piece of ploughland and the cow. She married a kind husband, and they both lived happily ever after.
-
-```
-
 ```{admonition} In *The shoemaker's apron; a second book of Czechoslovak fairy tales and folk tales*, Parker Hoysted Fillmore, 1920
 :class: dropdown
 
@@ -859,7 +862,7 @@ So our good little Marushka inherited the cottage and the garden and the cow. Af
 
 ```
 
-It also seems that the tale was collected by Jeremiah Curtun, alrhoufh it was published in his name until after his death:
+It also seems that the tale was collected by Jeremiah Curtun, although it wasn't published in his name until after his death:
 
 ```{admonition} In *Fairy tales of eastern Europe*, Jeremiah Curtin, 1914
 :class: dropdown
