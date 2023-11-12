@@ -862,7 +862,7 @@ So our good little Marushka inherited the cottage and the garden and the cow. Af
 
 ```
 
-It also seems that the tale was collected by Jeremiah Curtun, although it wasn't published in his name until after his death:
+It also seems that the tale was collected by Jeremiah Curtin, although it wasn't published under his name until after his death:
 
 ```{admonition} In *Fairy tales of eastern Europe*, Jeremiah Curtin, 1914
 :class: dropdown
