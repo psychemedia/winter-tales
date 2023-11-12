@@ -782,7 +782,7 @@ The only copy of Sir Cleges extant, to my knowledge, is in a folio MS., lately a
 
 ```
 
-A more complete version of the Sacchetti tale can be found in Mary Steegman's translation *Tales from Sacchetti*, 1908:
+A more complete version of the Sacchetti tale mentioned by Weber can be found in Mary Steegman's translation *Tales from Sacchetti*, 1908:
 
 ```{admonition} *Tale 66 (cxcv)* in *Tales from Sacchetti*, Steegmann, 1908:
 :class: dropdown
@@ -939,7 +939,11 @@ From the evidence of the rimes *i3t*, *yte* and *ee*, *y*, Treichel (*op. cit.* 
 
 ```
 
+```{admontion} the Romance of "Sir Amadace"
+:class: seealso
+
 *For `Sir Amadace` [[synopsis](https://middleenglishromance.org.uk/mer/50)], see [Three early English metrical romances, John Robson, 1842](https://archive.org/details/trent_0116401961861/page/26/mode/2up), the introduction to which states: "Sir Amadace was published by Weber in the third volume of his Metrical Romances (1810) from a manuscript, supposed unique, in the Advocates’ Library at Edinburgh, — which he says was probably written by a monk at the end of the fifteenth century". In passing, I note [`Sir Isumbras`](https://middleenglishromance.org.uk/mer/58) might also be interesting to tell.. As might [`Sir Gowther`](https://middleenglishromance.org.uk/mer/57).*
+```
 
 ```{admonition} Bibliography, McKnight, c1913
 :class: dropdown
@@ -2568,7 +2572,7 @@ Thereupon the King bestowed upon Sir Cleges all that belonged of right to a knig
 
 Concise versions of the tale also appeared in some collections of Arthurian tales:
 
-```{admonition} In *The court of King Arthur*, ??, 1896
+```{admonition} In *The court of King Arthur*, William Henry Frost, 1896
 :class: dropdown
 https://archive.org/details/courtofkingarthu00frosiala/page/128/mode/2up?q=cleges+cherries
 The court of King Arthur; stories from the land of the Round table
