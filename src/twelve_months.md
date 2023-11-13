@@ -474,7 +474,7 @@ The snow lay deep, and nowhere was a human footprint. She called Helena, but rec
 Maruschka sat over the fire and cooked supper. Mother and sister came back no more.
 ```
 
-The tale then seems to start appearing in English language collections of Chzech, Slav and Eastern European tales:
+The tale then seems to start appearing in English language collections of Czech, Slav and Eastern European tales:
 
 ```{admonition} In *Fairy tales of the Slav peasants and herdsmen*, 1896
 :class: dropdown
