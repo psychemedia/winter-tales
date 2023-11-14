@@ -1,9 +1,12 @@
-## Axe Porridge
+## Stone Soup / Axe Porridge
 
+Another story that came to me in recent times via Sue, though again it was familiar but not in a way I could place.
 
-TH variant based on one I remember from Sue?
+The gist of the tale is this:
 
+> A poor traveller (varously a soldier/pilgrim/woodcutter/orphans) comes upon a cottage; it's cold, and the miserly widow allows the traveller(s) in; he asks for a morsel of food, bit she says she has none; so he asks for a pot of water to boil that he could make a meal for them both, variously stone stoup/axe porridge. The water is brought to the boil, and the stone/axe placed in it. At various points, the traveller(s) taste the liquor, claim it is lacking a little something, which the widown duly obliges with. At the final tasting, the widow is impressed, and asks to buy the stone/axe. The travller leaves well fed and with a coin in their pocket.
 
+Im my ??? set, I actually used a variant of this tale as part of an opening sequence, of a story that started not at the beginning, biut in the middle, with two children walking trhough the forest, running through the forest, then stumbling through the forest, fleeing some unknown terror; and as night fell they met two travellers, an old tinker and his wife, coming the other way, in the middle of *their* own story, perhaps, TO DO
 
 children walking through wood, meet tinker and wife; share stories, pass night, wake up: man gives boy a flint, woman gives girl a secret.
 
@@ -11,21 +14,15 @@ children walking through wood, meet tinker and wife; share stories, pass night, 
 Axe soup or similar (stone soup variant , nail broth) - Eastern European ~8mins?
 
 
+```{admonition} In *The Sack Full of News*, 1673 (1866)
+:class: dropdown
+In *The Sack-full of Newes, 1673: Reprinted from the Rare Original*, William Carew Hazlitt, 1866, [p167-8](https://archive.org/details/sackfullnewesre00hazlgoog/page/n14/mode/2up)
 
-
----
-
-
-https://archive.org/details/sackfullnewesre00hazlgoog
-The Sack-full of Newes, 1673: Reprinted from the Rare Original
-by William Carew Hazlitt
-1866
-stone soup variant p167-8 https://archive.org/details/sackfullnewesre00hazlgoog/page/n14/mode/2up?q=whetstone
 Another
+
 There was a fryer in London, which did use to go often to the house of an old woman, but ever when he came to her house, she hid all the meat she had. On a time this fryer came to her house (bringing certain company with him) and demanded of the wife if she had any meat And she said ; Nay. Well, quoth the fryer, have you not a whetstone? Yea (qd the woman); what will you do with it ? Marry, qd he, I would make meat thereof. Then she brought a whetstone. He asked her likewise if she had not a frying-pan. Yea, said she, but what the divil will ye do therewith? Marry (said the fryer), you shall see by and by what I will do with it ; and when he had the pan, he set it on the fire, and put the whetstone therein. Cocks body, said the woman, you will burn the pan. No, no, qd the fryer, if you will give me some eggs, it will not burn at all. But she would have had the pan from him, when that she saw it was in danger; yet he would not let her, but still urged her to fetch him some eggs, which she did. Tush, said the fryer, here are not enow, go fetch ten or twelve. So the good wife was constrayned to fetch more, for feare lest the pan should burn ; and when he had them, he put them in the pan. Now, qd he, if you have no butter, the pan will burn and the eggs too. So the good wife being very loth to have her pan burnt, and her eggs lost, she fetcht him a dish of butter, the which he put into the pan and made good meat thereof, and brought it to the table, saying : much good may it do you, my Masters ; now may you say, you have eaten of a buttered whetstone. Whereat all the company laughed, but the woman was exceeding angry, because the fryer had subtilly beguiled her of her meat.
 
-
----
+```
 
 
 Stone soup - https://sites.pitt.edu/~dash/type1548.html
@@ -36,15 +33,10 @@ Hungarian
 Where he was, where he wasn't, there was once a poor soldier returning home from war. He went out of one village and into another, poor in rags and hungry. But they certainly didn't offer him anywhere with a bite of bread or a little warm soup. He asked for one house and the other house as well. Here they instigated the dog, there they pretended to be so poor that they had nothing. Well, as he said goodbye, he decided to himself that you should stop at the next house, whoever it may be, and I will cook soup there. He picked up a stone from the gate and entered the very first house. It just belonged to an old woman. - Good day, old lady! - God forbid, brave sir! - Well, how is your health and how does it serve you? - You serve as you serve, so how do you serve my brave master? - It serves me somehow, I'm just hungry, I'd eat something if you had it, if you'd be willing to give it to me. - Alas, my soul, valiant lord, I would give, if there were. But I am as poor as a church mouse. I have nothing, my closet, my attic, everything is empty. - Well - says the soldier - I'm not that poor, I have a big stone in my pocket. I could make soup out of it, I just need a cauldron or pot to cook it in. - Well, I can give you that, because I have enough pots - the old woman calmed down, but there is nothing for me to put in them. Well, the soldier washed the stone well and put it in the pot. The old woman made a fire. The soldier poured water on the stone and put it there to cook. He stirred it with a long wooden spoon. The old woman watched. The soldier even tasted it. - Well, it's good - he clicked his tongue - but if there was a little salt in it, it would be even better. - I'll bring salt, I have it! The soldier puts the salt in, stirs it, and says: - You know, if it had a spoonful of fat, then it would be really good. - I have that too, I'll bring it! - boasted the old woman. He brought a spoonful of fat, which was also dropped into the pot. The soldier stirs it, tastes it, watches the old woman. The soldier says again: - Do you know, I used to cook stone soup, but there was also sausage in it. How delicious it is! - I also have sausage - offered the old woman - I'll bring a piece from the pantry. "Bring two pieces then, old lady, I need a piece and you too," said the soldier afterwards. - I'll bring it, I'll bring it! - The old woman brought two pieces of sausage. The soldier let it into the pot as well. He stirs it, tastes it. - Do you know, if you have a few grains of chickpeas or potatoes, we would peel them and chop them in here, and even if you had vegetables, that would be all right. - I have that too - the old woman pulled herself out proudly - I'll bring that too. He quickly brought some carrots, parsley, and fenugreek, they cleaned them and put them in the soup. The soldier stirs it, tastes it, and hands the spoon to the old woman. - Just taste it, it's good now! The old woman tastes it and licks the corner of her mouth. - Oh, well, I never thought that you could cook such a good soup from the stone. They let it simmer for a little while, then the soldier spoke again: - A couple of grains of rice porridge would be good, but isn't there? - I have that too - the old woman sneered. Soon, a couple of grains of rice were sprinkled in, and then the soldier stroked his belly with satisfaction. - This is now just the way I cook it! They waited for it to cook. The soldier filled a large plate for himself and one for the old woman, and they scooped it up with gusto. The old woman couldn't help but wonder how such good soup could be made from stone. When they were full, he turned to the soldier. - Tell me, brave sir, won't you sell this stone? Often I don't even have what to cook, and I could make a good soup out of it. - Of course! - snapped the soldier immediately. He smiled under his mustache. I'll give it to you for a hundred forints. The old woman quickly gave the hundred forints, and from the soup, what remained of the stone, she wrapped it in a clean towel and put it aside so that she would have it when she wanted to cook soup. The soldier quickly said goodbye with the hundred forints in his pocket, lest the old woman change her mind and ask for it back. Now that he was full and had a hundred forints, he merrily went on his way until the evening, until he found another old woman who didn't know how to cook stone soup. There he was satisfied again. I don't know what kind of soup the poor old woman was able to cook from that stone. Aunt Kalári told me this story. Maybe they tried it when they were still poor in Bukovina.
 
 
----
+```{admonition} "The Old Woman and the Tramp", in *Fairy tales from the Swedish*, Nils Gabriel Djurklou, 1901
+:class: dropdown
 
-https://archive.org/details/fairytalesfromsw00djuriala
-Fairy tales from the Swedish of G. Djurklo;
-by Djurklou, Nils Gabriel, friherre, 1829-1904; Brækstad, H. L., 1845-1915
-Publication date 1901
-
-Old woman and the tramp nail broth https://archive.org/details/fairytalesfromsw00djuriala/page/32/mode/2up?q=nail
-p33-41
+In *Fairy tales from the Swedish*, Nils Gabriel Djurklou, 1901 [p33-41](https://archive.org/details/fairytalesfromsw00djuriala/page/32/mode/2up)
 
 incl. illustration at p37
 
@@ -170,8 +162,7 @@ The woman stood at the door staring after him.
 
 " Such people don't grow on every bush," she said.
 
-
----
+```
 
 
 TH variant - old people frame tale, secret, stone soup
@@ -179,12 +170,10 @@ TH variant - old people frame tale, secret, stone soup
 
 Also need a group variant
 
-https://archive.org/details/in.ernet.dli.2015.241431/page/n19/mode/2up?q=%22axe+porridge%22
 
-A Mountain Of Gems: Fairy Tales of the People of Soviet Lands
-
-Translated from the Russian Irina ZHELEZNOVA
-p19-20
+```{admonition} "Axe Porridge", in *A Mountain of Gems*, Irina Zheleznova, 19??
+:class: dropdown
+In *A Mountain Of Gems: Fairy Tales of the People of Soviet Lands*. translated from the Russian by Irina Zheleznova, [p19-20](https://archive.org/details/in.ernet.dli.2015.241431/page/n19/mode/2up):
 
 AXE PORRIDGE
 
@@ -244,16 +233,12 @@ They began eating the porridge and praising it.
 
 And the soldier ate, and laughed up his sleeve.
 
+```
 
----
 
-https://archive.org/details/europeanmagazin00goog/page/n293/mode/2up?q=%22stone+soup%22
-The European magazine, and London review
-by THE EUROPEAN MAGAZINE , AND LONDON REVIEW , FOR OCTOBER 1806
-
-VOl 50
-
-p268-70
+```{admonition} THe Stone Eaters (Original Recipe) The Euuropean Magazine, 1906
+:class: dropdown
+In *The European magazine, and London review*, October, 1806, Vol 50, [p268-70](https://archive.org/details/europeanmagazin00goog/page/n293/mode/2up):
 
 THE STONE-EATERS, AND THE ORIGINAL RECIPE TO MAKE STONE SOUP
 
@@ -311,27 +296,31 @@ The poor woman could hardly set any bounds to her gratitude ; and she and the Tr
 
 Proud of this discovery, she, in general terms, mentioned it to her neighhours. By this means the recipe was promulgated ; and it was in the course of many experiments at length found, that other pebbles would make as good soup as that in her possession. The viand now became fashionable through the Canton, and was indeed so generally approved, as to find its way to most of the peasants' tables, where *stone soup* used frequently to be served as the first dish.
 
----
+```
 
-https://archive.org/details/sim_ladies-weekly-museum-or-polite-repository-of-amusement_1807-07-25_19_24/page/n1/mode/2up?q=%22stone+soup%22
-New-York Weekly Museum 1807-07-25: Vol 19 Iss 24
-Publication date 1807-07-25
+```{admonition} In *New York Weekly Magazine*, July 1807
+:class: dropdown
+In *New-York Weekly Museum*, Vol 19 Iss 24, July 25th, 1807, [pp??](
+https://archive.org/details/sim_ladies-weekly-museum-or-polite-repository-of-amusement_1807-07-25_19_24/page/n1/mode/2up):
 
 Anecdotes
 
 Two travellers, ready to die with hunger thirst, came to a churlish farmer's begging some little matter to satisfy their stomachs. The Mistress of the house, some servants, and children only were at home. " Good people," said the dame, (who as churlish as her husband) " it is but six miles to the next town, where you may every thing you, want, and we have neither bread nor victuals in the house." Said one of the travellers 'as for your bread and victuals, we want neither, can you oblige us with a tolerable large flint stone?' "What for?" ' To make us some soup.' ' Oh! if that be ail,' said the ill-natured Jezebel, ' there are flints enough in the yard, but who the deuce told you a soup was made out of stones?" 'If you will have patience' said the traveller, ' and only assist us with a little water, you shall see'. 'How much water do you want?' ' About a gallon." The maid was immediately ordered to put it on the fire. The traveller then went into the yard, and having, with great seeming circumspection, picked up a stone, washed it as clean as possible, and as soon as the water boiled soused it into the pot. After it had lain about a quarter of an hour, he gets a spoon. and tasting it, calls the landlady ; 'Here ma'am, only take a drop, has not it a most excellent favour? ' 'A flavour?' cries she, 'the water is just as it was before'. The other traveller now put in his word, ' you have forgot to put in the pot herbs' 'Faith, so I did,' cried his comrade, ' I thought it wanted something.' ' Prythee, good dame, let us have a few pot-herbs out of the garden, [and as the maid was going for them] bring also, added he, a cabbage, some onions, and two or three carrots; I know I never failed of making soup out of a stone in my life.' 'I'll be shot', says the farmer's wife, ' if you'll make it now.' 'You shall see. Come let me have a little salt and pepper.' He now seasoned the water, and after the garden stuff had boiled some time, he tasted the soup again, handing the spoon a second time to the farmer's wife, with, ' How is it at present?' " Why," said she, it is something better ; but you'll never make soup of it.' 'Faith !' savs he, smacking his lips, ' I think it is excellent already : have you ever a bit of beef in the house ?" 'I don't know but there is,' said she, " about two or three ls of a neck." ' Nothing better— let me have it directly, with half a dozen burnt crusts of bread.' These ingredients were allowed him like the rest After a proper time he declared the soup was ready, and calling for a dish, poured it out, the stone appearing in the middle. Every one tasted, and declared it was excellent. ' Heaven bless you,' cried the farmer's wife, 'let me have a receipt— my good man will be pleased'. 'Give me a piece of paper', said the traveller, and I'll write it down fer you," which he did as follows :— *A Receipt to make Stone Soup.* 'Take a large stone, put it into a sufficient quantity of boiling water : properly season it with pepper and salt ; and three or four pounds of good beef, a handful of pot herbs, some onions, a cabbage, and three or four carrots ; when the soup is made the stone may be thrown away.'
 
+```
 
----
-https://archive.org/details/sim_notes-and-queries_1892-01-30_1_5/page/88/mode/2up?q=%22bernard%27s+soup%22
+```{admonition} *St Bernard's Soup*, N&Q, Jan. 1892
+:class: dropdown
 
 Notes and Queries 1892-01-30: Vol 1 Iss 5
 Notes and queries
-8th S. I. JAN, 30, 1892
+8th S. I. JAN, 30, 1892 [pp??](https://archive.org/details/sim_notes-and-queries_1892-01-30_1_5/page/88/mode/2up):
 
 ST. BERNARD'S SOUP.— Will any reader of ' N. & Q.' kindly give me information with respect to the legend of St. Bernard's soup? The frugal saint was supposed to make his soup with a pebble, adding, of course, various other ingredients. What is the origin of the legend, and where is it to be found? There is a story by A. Karr, ' La Soupe au Caillou,' but I do not think that he makes any mention, of St. Bernard. K. W. H.
 
----
+```
+
+
 
 Brewers Dictionary Of Phrase and Fable (1870)
 Publication date 1870
@@ -344,9 +333,11 @@ This story, which was a great favourite in the 16th and 17th centuries, was told
 
 --
 
-This was widely syndicated; first I have found is
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000461/19390225/247/0014
- Dumfries and Galloway Standard - Saturday 25 February 1939
+The following article was widely syndicated throughut the local press; the earliest publication date I have found for it dates to February 25th, 1939, in the *Dumfries and Galloway Standard*:
+
+```{admonition} "St Bernard's Soup", *Dumfries and Galloway Standard*, Feb. 1939
+:class: dropdown
+In *Dumfries and Galloway Standard*, Saturday 25 February 1939, [p14](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000461/19390225/247/0014):
 
 STRANGE LEGENDS.
 
@@ -371,3 +362,5 @@ So they gave him some scraps of meat, a little boiled rice, crust, and some sauc
 " Well I never," thought when, with many thanks, handed him back the empty saucepan. "The stone’s gone."
 
 Off started St Bernard, refreshed and grateful, and he continued to live on stone soup till the story began to get about. Then the good Abbot laughed heartily, but the people laughed uncomfortably, because it showed meanness. To this day in France, the excellent soup made from oddments is called St Bernard’s soup.
+
+```
