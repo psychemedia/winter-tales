@@ -946,7 +946,7 @@ From the evidence of the rimes *i3t*, *yte* and *ee*, *y*, Treichel (*op. cit.* 
 ```
 
 ```{admonition} Bibliography, McKnight, c1913
-:class: dropdown
+:class: dropdown seealso
 
 https://archive.org/details/middleenglishhum00mcknrich/page/88/mode/2up
 
@@ -1723,7 +1723,7 @@ Amen.
 
 *Another critical review of the poem can be found in a dissertation published in 1896, "Sir Cleges. Eine mittelenglische Romanze. I. Einleitung" by Adolf Treichel. It's in German, so I'll need to run it through a translation tool first...*
 
-A version of the poem presented using a rather more "modern" form of English can be found in various works by Henry Morley published as part of Cassell's *Library of English Literature*.
+A version of the poem presented using a rather more "modern" form of English can be found in various works by Henry Morley published as part of Cassell's *Library of English Literature*. The notes include multiple comments on etymology and pronunication, though not, it has to be said, on how to pronounce *Cleges*!
 
 ```{admonition} In *Shorter English Poems*, Henry Morley, 1870
 :class: dropdown
