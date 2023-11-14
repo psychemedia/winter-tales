@@ -7,3 +7,6 @@ parts:
 - caption: Medieval Tales
   chapters:
   - file: sir-cleges-winter-cherries
+- caption: Additional Storynotes Collections
+  chapters:
+  - file: elsewhere
