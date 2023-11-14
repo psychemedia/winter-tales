@@ -1054,7 +1054,7 @@ As you might expect, McKnight's version of the poem, taken from the Oxford manus
 
 ```{seealso} Middle English alphabet
 
-There are several "lost* letters we need to be aware of:
+There are several "lost" letters we need to be aware of:
 
 - þ: the letter *thorn*; pronounced as the unvoiced "th" in "think", although it may also be used as the voiced th in "that";
 - ȝ: the letter "yogh" (yog, or yough (as in cough))
@@ -1964,7 +1964,7 @@ What manner of berries may these be,
 That grow this time of year ?
 
 " About this time I saw never ere  
-That any tree should fruit `[fruit has each vowel sounded, as in French] bear,
+That any tree should fruit `[fruit has each vowel sounded, as in French]` bear,
 As far as I have sought.  
 He thought to taste it if he couth, `[Couth, could. First English "cunnan," to ken, know, be able, had for its present "can," and for its past " cúthe ;". this was. written "couthe," " couth," "coud," then "cou'd," because (from a supposed relation to would and should) l seemed to be wanting ; then the l was inserted, and we came to " could. ]`  
 And one `[Pronounce "o-ne," not " wun."]` he put in his mouth,  
@@ -2056,10 +2056,10 @@ He gave him leave, and in he went.
 Withouten more letting.  
 In he went a greaté pace:  
 The Usher at the hall door was  
-With a staff standing,
+With a staff standing,  
 In point Cleges for to smite:  
 "Go back, thou churl," he said,  
-" Full tite `[Tite, quickly. Icelandic ''tithr" and " titt. "]` without tarrying!  
+" Full tite `[Tite, quickly. Icelandic "tithr" and " titt. "]` without tarrying!  
 I shall thee beat every leth, `[Leth limb." "Finet English "lith."]`  
 Head and body, without greth, `[Greth. privilege of protection to you. First English " grith," the ??-peace or protection given to officials; privilege of security within a certain place.]`  
 If thou make more pressing ! "
@@ -2096,7 +2096,7 @@ That were rich in weed. `[Weed, dress. First English " weed," a garment, clothin
 To Sir Cleges he went boldly,  
 And said, " Who made thee so hardy  
 To come into this stead ?  
-Churl," he said, "thou art too bold!
+Churl," he said, "thou art too bold!  
 Withdraw thee with thy clothés old   
 Smartly, I thee rede!" `[Rede, advise. First English " rae’dan," to counsel, made its past tense "réd," and participle "rae’den." " Raedan," to read, interpret, decree, rule, made its past "rae’dde," and its participle " rae'ded."]`  
 "I have," he said, "a present brought  
@@ -2228,7 +2228,7 @@ And after he gave him other three
 He said, "Sir, for thy courtesy  
 Smité me no more!"
 
-Out of the hall Sir Cleges went,
+Out of the hall Sir Cleges went,  
 More to pay was his intent  
 Without any let. `[Let, hindrance.]`  
 He went to the Usher in a braid, `[Braid, start. Old Norse " bregth, " quick motion; "bregtha" to wake out of sleep, start. So in " Genesis and Exodus" when Pharaoh had dreamt of the fat and lean kine, it is said "The king
@@ -2245,7 +2245,7 @@ As I thee behight." `[Behight (First English " behét."), promised.]`
 Then he went to the Portere,  
 And four strokés he gave him there  
 His part had he thereto,  
-So that after and many a day
+So that after and many a day  
 He would warn no man the way  
 Neither to ride neither go.  
 The firsté stroke he laid him on  
@@ -2287,7 +2287,7 @@ Sir Cleges thither went.
 A harper sang a gest by mouth  
 Of a knight was there by sooth,  
 Himself verament.  
-Then said the King to the Harpér,
+Then said the King to the Harpér,  
 " Where is knight Cleges?  Tell me here,  
 For thou hast wide i-went.  
 Tell me the truth if thou can,  
