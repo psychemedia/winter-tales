@@ -11,7 +11,7 @@ Here's the gist of the tale:
 The original tale can be found in a couple of 15th century manuscripts in Middle English.
 
 ```{admonition} Pronunciation
-I keep vacillating on this... I am coming round to "Clee-djizz or Clee-djiss, but probably really should to try to identify what best seems to fit the original metrical poems. There is a line that rhymes `cleges` with `nedys` ("needs"), which possibly suggests "Cleedge"?
+I keep vacillating on this... The name may be spelled Cleges" or "Clegys", which suggets it ends "iss" rather than "uss", or "uh-s"? Part of the issue is with the first `e`: is thist short, to give "kledge-iss". Or an `ee` to give "klee-djizz" or "klee-djiss"? Reading the Middle English verse aloud may give some clues as to what sounds right... There is a line that rhymes `cleges` with `nedys` ("needs"), but how was `nedys` pronounced? Does `ys` give "iss"? Moght we even have "kleedge"?
 ```
 
 A really concise and efficient telling of the tale appears in *Stories of Early England* by E. M. Wilmot-Buxton, published in 1906/7.
