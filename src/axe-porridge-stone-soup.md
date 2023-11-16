@@ -1,4 +1,4 @@
-## Stone Soup / Axe Porridge
+# Stone Soup / Axe Porridge
 
 Another story that came to me in recent times via Sue, though again it was familiar but not in a way I could place.
 
