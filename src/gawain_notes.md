@@ -6,7 +6,7 @@ Outside, there was jousting, and competition, and inside, there was dancing, fea
 
 They were also seated accordimg to custom, in order of rank, Guinevere on the platform, alongside Arthur, with the finest tapestries hung on the wall behind. And beside them, too, Gawain, Arthur's nephew.
 
-And they waited. For it was also Arthur's cuatom, on that New Year's eve, that he would not eat until a story was told of some chivalrous deed, or a challenge was made to one of the knights. And they waited. It had been a slow year...
+And they waited. For it was also Arthur's custom, on that New Year's eve, that he would not eat until a story was told of some chivalrous deed, or a challenge was made to one of the knights. And they waited. It had been a slow year...
 
 
 
