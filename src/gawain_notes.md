@@ -12,9 +12,13 @@ And they waited. For it was also Arthur's custom, on that New Year's eve, that h
 
 And so, not wanting to offend any of Arthur's knights, there assembled, with tales of greater derring do from Uther's court than anything Arthur's knights had achieved throughout that year just finished, the minstrel began...
 
-[*Sir Cleges and the Winter Cherries.* There was once a knight...]
+[*Sir Cleges and the Winter Cherries.* There was once a knight...] And there the minstrel's tale ended...
 
+And with that, the bugles blared again, and more food was brought in, so fast that the tables barely had time to be cleared from one course to the next.. But while everyone there was fed as well as a man or wan could bw fed, and then some more, still King Arthur waited, for a tale of great honour, or derring do, or for a challenge to be made to one of the Court..
 
+When suddenly, a sound, from outside, and a fearful form appeared at the door, a giant of a man, stood barefoot in the stirrups a mighty great horse.
+
+But not juat any horse....
 
 
 
