@@ -8,7 +8,7 @@ They were also seated accordimg to custom, in order of rank, Guinevere on the pl
 
 And they waited. For it was also Arthur's custom, on that New Year's eve, that he would not eat until a story was told of some chivalrous deed, or a challenge was made to one of the knights. And they waited. It had been a slow year...
 
-"A story from the minstrels, then, while we wait" called the King, and a minstrel was a summoned. "Give us a tale of my father's time, of Uther Pendragon and hia band of knights. A Christmas tale, if you will..."
+"A story from the minstrels, then, while we wait" called the King, and a minstrel was a summoned. "Give us a tale of my father's time, of Uther Pendragon and his band of knights. A Christmas tale, if you will..."
 
 And so, not wanting to offend any of  knights there assembled, with tales of greater derring do from Uther's court than anything Arthur's knights had achieved throughout that that year just finished, the minstrel began...
 
