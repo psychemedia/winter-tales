@@ -1,3 +1,6 @@
+
+*Based on Simon Armitage's 2007 translation.*
+
 It was Christmas in Camelot, and all the Round Table were there.
 
 The most chivalrous knights in all the land, the most wonderful women, the handsomest King, of highest renown.
@@ -18,7 +21,12 @@ And with that, the bugles blared again, and more food was brought in, so fast th
 
 When suddenly, a sound, from outside, and a fearful form appeared at the door, a giant of a man, stood barefoot in the stirrups a mighty great horse.
 
-But not just any horse....
+But not just any horse....for the horse's tack, from the harness to the girth, the saddle to the stirrups, was all coloured green. And so was its hair, from its combed and knotted main, to its ribbon braided tail.
+
+And the rider on the horse, he was also dressed in green: from his cloak to his tunic, his hood to his leggings.
+
+But that was not the strangest of it: for the stranger himself, for his long flowimg hair, for great bushy beard, they were also coloured the richest of greens too...
+
 
 
 
