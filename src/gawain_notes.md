@@ -10,9 +10,9 @@ And they waited. For it was also Arthur's custom, on that New Year's eve, that h
 
 "A story from the minstrels, then, while we wait" called the King, and a minstrel was a summoned. "Give us a tale of my father's time, of Uther Pendragon and hia band of knights. A Christmas tale, if you will..."
 
-And so the story began...
+And so, not wanting to offend any of Arthur's knights there assembled by talrs of greater derring do then they had acheived that year, the minstrel began...
 
-[Sir Cleges and the Winter Cherries.]
+[*Sir Cleges and the Winter Cherries.* There was once a knight...]
 
 
 
