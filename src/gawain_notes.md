@@ -23,10 +23,12 @@ When suddenly, a sound, from outside, and a fearful form appeared at the door, a
 
 But not just any horse....for the horse's tack, from the harness to the girth, the saddle to the stirrups, was all coloured green. And so was its hair, from its combed and knotted main, to its ribbon braided tail.
 
-And the rider on the horse, he was also dressed in green: from his cloak to his tunic, his hood to his leggings.
+But even though he rode a war horse, he had no armour on, not even a shield, nor even a sword. Just a dark green cloak, and a dark green tunic, A dark green hood, and dark green leggings.
 
-But that was not the strangest of it: for the stranger himself, for his long flowimg hair, for great bushy beard, they were also coloured the richest of greens too...
+But that was not the strangest of it: for the stranger himself, for his long flowimg hair, and for his great bushy beard, they were also coloured the richest of greens too... And rather than a shield, he carried a sprig of holly, and rather than a sword, an axe. A *huge* axe, the mother of all axes, made of green steel and with decoration inlaid in the handle.
 
+Looking around, he was the first to speak: "So who's the boss of this horrible rabble, then?"
 
+And everyone just gawped, dumbstruck, and a deep, expectant hush fell on the hall, as they waited for Arthur to respond.
 
 
