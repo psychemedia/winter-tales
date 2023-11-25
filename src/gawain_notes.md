@@ -4,7 +4,7 @@ The most chivalrous knights in all the land, the most wonderful women, the hands
 
 Outside, there was jousting, and competition; inside, there was dancing, feasting and dancing, and dancing and carousing, and more feasting, as befits Christmas time, and New Year. Double portions all round, at every course. And as was the custom at the end of the year: presents.
 
-They were also seated accordimg to custom, in order of rank, Guinevere on the platform, alongside Arthur, with the finest tapestries hung on the wall behind. And beside them, too, Gawain, Arthur's nephew.
+They were also seated according to custom, in order of rank, Guinevere on the platform, alongside Arthur, with the finest tapestries hung on the wall behind. And beside them, too, Gawain, Arthur's nephew.
 
 And they waited. For it was also Arthur's custom, on that New Year's eve, that he would not eat until a story was told of some chivalrous deed, or a challenge was made to one of the knights. And they waited. It had been a slow year...
 
@@ -18,7 +18,7 @@ And with that, the bugles blared again, and more food was brought in, so fast th
 
 When suddenly, a sound, from outside, and a fearful form appeared at the door, a giant of a man, stood barefoot in the stirrups a mighty great horse.
 
-But not juat any horse....
+But not just any horse....
 
 
 
