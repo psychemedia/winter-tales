@@ -7,11 +7,11 @@ PART I
 
 It was Christmas at Camelot, and everyone was there.
 
-The most chivalrous knights in all the land, the most wonderful women, the handsomest King, of highest renown.
+The most chivalrous knights in all the land, the most wonderful women, the handsomest King, of highest renown. These were the rock stars of their day, the racing drivers and the supermodels, hard living, fast riding, and larger than life. And with reputations to match.
 
-Outside, there was jousting, and competition; inside, there was dancing; dancing and feasting; feasting, amd dancing, and dancing, and feasting; and carousing. There was lots of carousing; and more feasting; and more dancing; in fact, so much feasting and dancing and carousing, with double portions all round, at every course, that before anyone knew it, Christmas had almost turned into New Year.
+Outside, there was jousting, and competition; inside, there was dancing; feasting and dancing; feasting, and dancing, and dancing, and feasting; and carousing. There was lots of carousing; and more feasting; and more dancing; in fact, so much feasting and dancing and carousing, with double portions all round, at every course, that before anyone knew it, Christmas had almost turned into New Year.
 
-And, as was the custom at the end of the year, there were presents. But they arenlt part of the story.
+And, as was the custom at the end of the year, there were presents. But they aren't part of the story.
 
 Everyone was seated, according to custom, in order of rank; Guinevere was on the platform, and alongside her, King Arthur. The finest tapestries hung on the wall behind them. And beside them, sat Gawain, King Arthur's nephew.
 
@@ -23,9 +23,9 @@ It had been a slow year...
 
 And they waited some more...
 
-"A story from the minstrels, then, while we wait" called the King, and a minstrel was a summoned. "Give us a tale of my father's time, of Uther Pendragon and his band of knights. A Christmas tale, if you will..."
+"A story from the minstrels, then, whilst we wait" called the King, and a minstrel was a summoned. "Give us a tale of my father's time, of Uther Pendragon and his band of knights. A Christmas tale, if you will..."
 
-And not wanting to offend any of Arthur's knights on that festive night with tales of greater derring do from Uther's court than anything Arthur's men had achieved throughout that year, the minstrel began...
+And not wanting to offend any of Arthur's knights on that festive night with tales of greater derring do from Uther's court than anything King Arthur's men had managed throughout that year, the minstrel began...
 
 [*Sir Cleges and the Winter Cherries.* There was once a knight...] And there the minstrel's tale ended...
 
@@ -35,9 +35,9 @@ But while everyone there was fed as well as any man or woman could be fed, and t
 
 And he waited...
 
-And then, suddenly, because there'd be no story if nothing else happend, there was a mighty sound from outside; and a fearful form appeared at the door; a giant of a man; a giant of a man, stood barefoot, in the stirrups of a mighty great horse.
+And then, suddenly, because there'd be no story if nothing else happend, there was a mighty sound from outside; and a fearful form appeared at the door; a giant of a man; a giant of a man, standing barefoot, in the stirrups of a mighty great war horse.
 
-But not just any horse....for the horse's tack, from its harness to its girth, from its saddle to its stirrups, were all coloured green. And so was its hair: from its combed and knotted mane, to its ribbon braided tail.
+But not just any horse....for the horse's tack, from its harness to its girth, from its saddle to its stirrups, they were all coloured green. And so was its hair: from its combed and knotted mane, to its ribbon braided tail.
 
 But even though the huge great knight was straddling a war horse, he wasn't wearing any armour; nor was he carrying a shield; nor even a sword. Instead, he was wearing just a simple dark green cloak, and a simple dark green tunic. A dark green hood, and dark green leggings.
 
@@ -45,11 +45,11 @@ But that wasn't the strangest of it, not at all: for the stranger himself, from 
 
 And he laughed at the court. "Ha, haaaaa."
 
-In place of his shield, he carried a sprig of holly; instead of his sword, an axe. A great big axe. A *huge* axe: the mother of all axes. And not just any mother of all axes. Becuase this axe was made of green steel; and inlaid in the handle, the most intricate, the most exquisite, green jeweled and green enameled decoration.
+In place of his shield, he carried a sprig of holly; instead of his sword, an axe. A great big axe. A *huge* great axe: the mother of all axes. And not just any mother of all axes. Because this axe was made of glowing green steel; and inlaid in the handle, the most intricate, the most exquisite, green jeweled and green enameled decoration.
 
 Looking around the Court, this great, Green Knight was the first to speak: "So, who's the boss of this horrible lot, then? Who's the leader of this rabble?"
 
-And everyone gawped, dumbstruck; and a deep, expectant hush fell on the hall, as they waited for Arthur to respond.
+And everyone just gawped, dumbstruck; and a deep, expectant hush fell on the hall, as they waited for Arthur to respond.
 
 "A warm welcome to you, sir, on this cold winter's night. I am Arthur, the head of this household. You are welcome to join us."
 
@@ -57,7 +57,7 @@ And everyone gawped, dumbstruck; and a deep, expectant hush fell on the hall, as
 
 And he gestured his tunic with the hand that held the holly.
 
-And there was silence. As everyone looked at the axe.
+And there was silence. As everyone else looked at the axe.
 
 "I was wondering: are you up for a game? Are you up for a challenge...?"
 
@@ -75,11 +75,11 @@ Instead, he favoured a game. A Christmas game:
 
 And no-one replied. Coughs went around the room, and the knights of Arthur's Court looked at the floor, and avoided the Green Knight's gaze.
 
-And the Green Knight laughed: "So the house of King Arthur, the knights of the famed Round Table, are all a bunch of wimps?"
+And the Green Knight laughed: "So the house of King Arthur, the knights of the famous Round Table, are all a bunch of wimps?"
 
 And as he laughed at them for their cowardice, Arthur himself stood up, enraged, and perhaps not a little embarrassed.
 
-"No-one in this Court is afraid of that challenge", he said, "except, perhaps, for being associated with such foolishness. So give me the axe, and I'll take the blow, and let that be that, and be done with it."
+"No-one in this Court is afraid of that challenge", he said, "except, perhaps, for being associated with such foolishness. So give me the axe, and I'll take the blow, and let that be that, and let us all be done with it."
 
 But before he could take the axe, Gawain, his nephew, came leaping up.
 
@@ -105,11 +105,11 @@ The head tumbled to the floor, and the other knights kicked at it as it rolled b
 
 But even as the red blood spurted from the Green Knight's neck and onto the floor, his body staggered forward, the arms flailing in search of the head.
 
-*If you've ever seen the Universiry Challenge episode of the Young Ones, when Vivien loses his head as he looks out of a train window, you can proabably imagine it in the same way that I can...*
+*If you've ever seen the University Challenge episode of the Young Ones, when Vivien loses his head as he looks out of a train window, you can proabably imagine it in the same way that I can...*
 
 Eventually the Green Knight's flailing arms found their target, and the knight stood up straight, holding his head beside him. He walked towards his horse, and remounted it. And as he wheeled the horse about, the blood continued to drain from the severed head and onto the floor.
 
-As he was about to depart, he wheeled the head around to face the platform. It opened its eyes and stared straight ahead.
+As he was about to depart, he twisted the head round to face the platform. It opened its eyes and stared straight ahead.
 
 "Be sure to keep your word, Gawain. You will find me at the site of the Green Chapel. I am known as the Green Knight". And with that, he turned again, and was gone.
 
@@ -119,7 +119,7 @@ King Arthur turned to Guinevere, who was in a certain amount of shock.
 
 And then he turned to Gawain, told him to hang up the mighty axe on the wall behind them, and bade everyone to eat.
 
-And so it was that more food was brought, and the singing and the dancing resumed until late in the night, amd probably some carousing too, and the New Year dawned.
+And so it was that more food was brought, and the singing and the dancing resumed until late in the night, and probably some carousing too, and the New Year dawned.
 
 PART II
 
@@ -154,4 +154,43 @@ And so he prays to God. And to Mary. And to Jesus Christ the Lord. And he makes 
 And as he does so, making his way through the frosted wood, he sees the most impressive castle ahead, with its drawbridge withdrawn, and sturdy gates, shuttered fast.
 
 He halted Gringolet, and called out to the porter, and to the watchman on the wall. And he was greeted in return.
+
+"Could you take a nessage to the master of this place?" called out Gawain, "would he grant me shelter?"
+
+And the porter repolied: "it would be my pleasure."
+
+And before Gawin knew it, the drawbirdge wa lowered, the gate opened, and Gawaion rode across.
+
+He was helped free of his his shield and his sword and his helmet, and taken inside, where he was greeted warnly by the Lord:
+
+"You are most welcome, so come in, come in, and make yorself at home."
+
+And Gawain thanked him.
+
+The master of the castle had hard, fiery face, and bushy red beard.
+
+Gawain was shown to his room, finely furnshed with the riches tapestries, and curtains.
+
+He removed his armour, now rusted and weather beaten, and was presented in its place with a fine set of robes.
+
+He returned to the hall, and was seated by a roaring red fire, to help him thaw out from the cold.
+
+A table was set and a feast laid before him. the finest fish dishes that Gawain had ever seen, let alone eaten.
+
+Then question followed question and Gawain answered politely, admitting his name, and that he was one of Arthur's Round Table.
+
+And everyone there was suitably impressed, for never had they had such a celebrity in their midst, a knight of legend and lore.
+
+Day became dusk, and the meal came to an end. The bells sounded evensong, and everyone assembled there made their way to make their prayers.
+
+And with them, went Gawain.
+
+Accompanying the Lord, was his Lady, who seemed fairer to Gawain than even the Queen, Guinevere.
+
+As they left the Church, she was hand in hand with another woman, much older, withered and well advanced in years, her cheeks waddled and slack compared to the bloom of her younger, and fairer, companion. There was just no comparison. ANd Gawain and the fair Lady exchanged courtesies.
+
+Gawain glanced at the younger woman, and by the grace of the Lord, approached them both, the fair and the foul. At which point, they took him between them, arm in arm, and led him away, talking as they walked.
+
+And again, they sat by the fire, and feasted on cake and the finest wine, until it was time for bed.
+
 
