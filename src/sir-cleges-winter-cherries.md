@@ -4,14 +4,16 @@
 
 Here's the gist of the tale:
 
-> Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent he and his wife Clarys had nothing. It was midwinter, bitterly cold, and the sound of the King's court could be heard, but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, dressed as he was, looking like a pauper, insulted as a *churl*. The porter let him through but demanded a third of what the King would give in return. The usher let him through, for a third. The steward let him through, for a third. The gift was given and Sir Cleges joined the feast. Uther is impressed (as is a certain "lady of Cornwall he is perhaps trying to woo...). A reward is asked for, and granted: twelve hits of the stick to be given justly. The steward, the doorman and guard were beaten by Sir Cleges. As an aside to the harper, the King asks the name of the man who gave him the cherries. Sir Cleges is named, recognised as an old loyal knight and rewarded.
+> Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent that he and his wife Clarys had nothing left. It was midwinter, bitterly cold, and the sound of the King's court could be heard; but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, but dressed as he was, looking like a pauper, was insulted as a *churl*. The porter let him through but demanded a third of what the King would give in return. The usher let him through, for a third. The steward let him through, for a third. The gift was given and Sir Cleges joined the feast. Uther is impressed (as is a certain "lady of Cornwall" whom he's perhaps trying to woo...). A reward is asked for, and granted: twelve strikes of the stick to be justly given. The steward, the doorman and guard were beaten by Sir Cleges. Sir Cleges returns, to find the harper singing songs of his old exploits. Prompted by the song, the King asks Cleges to come closer, at which point he recognises him as his old loyal knight, and rewards him.
 
 *The "lady of Cornwall" is Iguerne, which it to say, Igraine, which is to say, King Arthur's mother. How Uther seduced her is, of course, another story... But there is great scope here for telling that tale in the same sitting as this, as the scene is already set...*
 
 The original tale can be found in a couple of 15th century manuscripts in Middle English.
 
 ```{admonition} Pronunciation
-I keep vacillating on this... The name may be spelled Cleges" or "Clegys", which suggets it ends "iss" rather than "uss", or "uh-s"? Part of the issue is with the first `e`: is thist short, to give "kledge-iss". Or an `ee` to give "klee-djizz" or "klee-djiss"? Reading the Middle English verse aloud may give some clues as to what sounds right... There is a line that rhymes `cleges` with `nedys` ("needs"), but how was `nedys` pronounced? Does `ys` give "iss"? Moght we even have "kleedge"?
+I keep vacillating on this... The name may be spelled "Cleges" or "Clegys". AFter discussion with Prf. Richard D. Brown, I think I am settled on "Clegg-iz", but reserve the rights, as was apparaently the custom at the time, to vary the pronunciation as appropriate, which might variously allow *Clegg-iss*, "Cledjizz" and variants of "Clee-jiss".
+
+I also need to learn to read and write IPA, the International Phonetc Alphabet!
 ```
 
 A really concise and efficient telling of the tale appears in *Stories of Early England* by E. M. Wilmot-Buxton, published in 1906/7.
@@ -849,7 +851,7 @@ Great was the justice and the wisdom of this king. But no less a thing was this 
 
 ```
 
-A comprehensive set of notes on parralel or alternative versions of the tale appear in the *Introduction* to G. H. McKnight's *Middle English humorous tales in verse*, c1913.
+A comprehensive set of notes on parallel or alternative versions of the tale appear in the *Introduction* to G. H. McKnight's *Middle English humorous tales in verse*, c1913.
 
 ```{admonition} Introduction to *Middle English humorous tales in verse*, George McKnight, c1913
 :class: dropdown
@@ -2288,7 +2290,8 @@ A harper sang a gest by mouth
 Of a knight was there by sooth,  
 Himself verament.  
 Then said the King to the Harpér,  
-" Where is knight Cleges?  Tell me here,  
+" Where is knight Cleges?  
+Tell me here,  
 For thou hast wide i-went.  
 Tell me the truth if thou can,  
 Knowest thou aught of that man ?"  
