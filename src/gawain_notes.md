@@ -7,21 +7,23 @@ PART I
 
 It was Christmas at Camelot, and everyone was there.
 
-The most chivalrous knights in all the land, the rock stars of their day, and the racing drivers, the most beautiful women, the supermodels of the time, and of course, the royalty: all of them, hard living, fast riding, and larger than life. And with reputations to match. Chief amongst them, of course, King Arthur, the king of highest renown.
+The most chivalrous knights in all the land, the rock stars and the racing drivers of their day; and the most beautiful women, the supermodels of the time, the Hollywood stars and starlets. All of them, hard living, fast riding, and larger than life. And with reputations to match, reputations that went ahead of them. And of course, there was royalty: chief amongst them, King Arthur, the king of highest renown. And at his side, the beatiful Queen Guinevere.
 
-Outside, there was jousting, and competition; inside, there was dancing; feasting and dancing; feasting, and dancing, and dancing, and feasting; and carousing. There was lots of carousing; because you can't have feasting and dancing without carousing. In fact, there was so much feasting and dancing and carousing, with double portions all round, at every course, that before anyone knew it, Christmas had almost turned into New Year. Because for now, it was New Year's Eve.
+Outside, there was jousting, and fierce competition; inside, there was dancing; feasting and dancing; feasting, and dancing, and dancing, and feasting; and carousing. There was lots of carousing; because you can't have feasting and dancing without carousing. In fact, there was so much feasting and dancing and carousing, with double portions all round, at every course, that before anyone knew it, Christmas had almost turned into New Year. Because for now, it was New Year's Eve.
 
-As was the custom at the end of the year, there were also presents. But presents aren't part of this story. At least, not yet.
+As was the custom at the end of the year, there were presents. Gifts from the heart, as well as from the purse. But presents aren't part of this story. At least, not yet.
 
-__Everyone was seated, according to custom, in order of rank;__ Guinevere was on the platform, and alongside her, King Arthur. The finest tapestries hung on the wall behind them. And beside them, sat Gawain, Arthur's nephew.
+__Everyone was seated, according to custom, in order of rank;__ Guinevere was on the platform, and alongside her, King Arthur. The finest tapestries hung on the wall behind them. And beside them, sat Gawain, Arthur's nephew. He has still yet to prove himself as a knight, and perhaps even as a man. For the adventures by which we remember him now, in the tales that are told, still to this day, are still in his future.
 
-__The food was served, as custom decrees, to each man as his station deserved.__ But for now, the King waited. Because it was his custom, on that New Year's eve, not to eat until a story had been told, of some chivalrous deed, or derring do, from amongst the knights; or for a challenge to be made against one of them.
+__The food was served, as custom decrees, to each man as his station deserved.__ But everyone was a little relucatant to partake of it, because for now, King Arthur waited. And he waited because it was his custom, on that New Year's eve, not to eat until a story had been told, of some chivalrous deed, or derring do, from amongst the knights; or for a challenge to be made against one of them.
+
+And so Arthur waited.
 
 And he waited.
 
-It had been a slow year...
-
 And he waited some more...
+
+It had been a slow year...
 
 "A story from the minstrels, then, to entertain us whilst we wait", and a minstrel was a summoned. "Give us a tale of my father's time, of Uther Pendragon and his band of knights. A Christmas tale, if you will..."
 
@@ -29,7 +31,7 @@ So not wanting to offend any of Arthur's knights on that festive night, with tal
 
 [*Sir Cleges and the Winter Cherries.* There was once a knight...] And there the minstrel's tale ended...
 
-And with that, the bugles blared again, and more food was brought in, so fast that the tables barely had time to be cleared from one course to the next.
+And with that, the bugles blared again, and more wine was brought in, so fast that the tables barely had time to be cleared from one course to the next.
 
 But while everyone there was fed as well as any man or woman could be fed, and then some more, still King Arthur waited, for a tale of great honour, or derring do, from his own Court, or for a challenge to be made against one of his men.
 
@@ -37,7 +39,7 @@ And he waited...
 
 And then, suddenly, because there'd be no story if nothing else happened, there was a mighty sound from outside; and a fearful form appeared at the door; a giant of a man; a giant of a man, standing barefoot, in the stirrups of a mighty great war horse.
 
-But not just any horse....for the horse's tack, from its harness to its girth, from its saddle to its stirrups, they were all coloured green. As was its hair: from its combed and knotted mane, to its ribbon braided tail.
+But not just any horse....for the horse's tack, from its bridle to its girth, from its saddle to its stirrups, they were all coloured green. As was its hair: from its combed and plaited mane, to its ribbon braided tail.
 
 But even though the huge great knight was straddling a war horse, he wasn't wearing any armour; nor was he carrying a shield; nor even a sword. Instead, he was wearing just a simple dark green cloak, and a simple dark green tunic. A dark green hood, and dark green leggings.
 
@@ -49,13 +51,13 @@ In place of a shield, he carried a sprig of holly; instead of a sword, an axe. A
 
 Looking around the Court, this great, Green Knight was the first to speak: "So, who's the boss of this horrible lot, then? Who's the leader of this rabble?"
 
-And everyone just gawped, dumbstruck; and a deep, expectant hush fell on the hall, as they waited for Arthur to respond.
+And everyone just gawped, dumbstruck; and everyone looked at the axe; and a deep, expectant hush fell on the hall, as they waited for Arthur to respond.
 
 "A warm welcome to you, sir, on this cold winter's night. I am Arthur, the head of this household. You are welcome to join us."
 
 "Thank you, but no," said the knight. "That is *not* why I am here."
 
-And there was silence. As everyone else looked at the axe.
+And there was silence. As everyone else looked at the axe again.
 
 "Don't worry yourselves," said the knight. "I'm not here for a fight. You can see I'm not dressed for war."
 
@@ -79,7 +81,7 @@ The assembled Court waited expectantly, to hear what the giant knight would say 
 
 No-one replied. Coughs went around the room, and the knights of Arthur's Court looked at the floor, and avoided the Green Knight's gaze.
 
-And the Green Knight laughed: "So the house of King Arthur, the knights of the famous Round Table, are all a bunch of wimps?"
+And the Green Knight laughed: "So, the house of King Arthur, the knights of the famous Round Table, are all a bunch of wimps? The 'Wimps of the Round Table'?"
 
 And as he laughed at them for their cowardice, King Arthur himself stood up, enraged, and perhaps not a little embarrassed.
 
@@ -95,7 +97,7 @@ And Gawain knelt before Arthur to receive his blessing, and the King gave him a 
 
 *That sounds a bit like the advice given at the start of the blind challenge on Bake Off, doesn't it...?*
 
-__"Be bold, with the flavours, and make sure you cook it through."__ Whatever...
+__"Be bold, with the flavours, and make sure you cook it through. And beware the soggy bottom."__ Whatever...
 
 So strike true, Gawain...
 
@@ -103,17 +105,17 @@ But before he could take up the challenge, the Green Knight bid him to state his
 
 "I am Gawain," was the response. "I'll wield this axe now, and in a year and a day, you may strike me in return."
 
-"Spot on", said the Green Knight. "Now, swear that you, and only you, will seek me out to return the blow."
+"Spot on", said the Green Knight. "And swear also that you, and only you, will seek me out to return the blow."
 
 And Gawain agreed. "But where will I find you?"
 
-"I'll tell you when you've taken the blow", said the Green Knight. And with that, he handed over the axe, stood before Sir Gawain, heaped his long green hair onto the top of his head, and bared his neck.
+"Plenty of time for that, Gawain, plenty of time for that", and with that, the Green Knight handed over the axe, stood before Sir Gawain, heaped his long green hair onto the top of his head, and bared his neck.
 
 Gawain took the axe, planted his feet, and swung a mighty blow, severing the spinal cord, and cleaving the Green Knight's head clean from his neck, so cleanly that the axe hit the stone floor in a shower of sparks.
 
 The head tumbled to the floor, and the other knights kicked at it as it rolled by.
 
-But even as the red blood spurted from the Green Knight's neck and onto the floor, his body staggered forward, the arms flailing in search of the head.
+But even as the green blood spurted from the Green Knight's neck and onto the floor, his body staggered forward, the arms flailing in search of the head.
 
 *If you've ever seen the University Challenge episode of the Young Ones, when Vivien loses his head as he looks out of a train window, you can probably imagine it in the same way that I can...*
 
@@ -121,39 +123,37 @@ Eventually the Green Knight's flailing arms found their target, and the knight s
 
 As he was about to depart, he twisted the head round to face the platform. It opened its eyes and stared straight ahead.
 
-"Be sure to keep your word, Gawain. You will find me at the site of the Green Chapel. I am known as the Green Knight". And with that, he turned again, and was gone.
+"Be sure to keep your word, Gawain. You'll find me at the site of the Green Chapel. I'm known as the Green Knight". And with that, he turned again, and was gone.
 
 King Arthur turned to Guinevere, who was in a certain amount of shock.
 
-"Well that was a bit odd... But never fear, at least I can have something to eat now!"
+"Well that was a bit odd... But never fear, a challenge has been made, so at least we can have something to eat now!"
 
-And then he turned to Gawain, told him to hang up the mighty axe on the wall behind them, and bade everyone to eat.
+And then he turned to Gawain, he was perhaps looking a little green himslef, and told him to hang up the mighty axe on the wall behind them; and then he bade everyone to eat.
 
-And so it was that more food was brought, and the feasting began again. The discussion was muted at first, glances toward the platform, and talking in hushed tones about Sir Gawain's chances a year a day from then. But as the wine flowed, and more beer was brought, and mead, and the strongest of ciders, the party atmosphere resumed, and continued all through the night...
+And so it was that more food was brought, and the feasting began in earnest. The discussion was muted at first, glances toward the platform, and talking in hushed tones about Sir Gawain's chances a year a day from then. But as the wine flowed, and more beer was brought, and mead, and the strongest of ciders, and by and by the party atmosphere resumed, and continued all through the night.
 
 PART II
 
-The old year had passed and the new one had begun.
-
-And so the season's progressed: the lean times of Lent came and went, and Spring waged war on Winter. Summer came around, and Autumn, and as the year passed Michaelmas and gave way to Winter again, Gawain was reminded of his covenant and began to rouse himself, ready to set out, and find the Green Knight.
+The old year had passed and the new one had begun. The apple trees and pears of the ancient surrounding orchards were duly wassailed, and the seasons progressed: the lean times of Lent came and went, and Spring waged war on Winter. Summer came around, and Autumn, and as the year passed Michaelmas and gave way to Winter again, Gawain was reminded of his covenant and began to rouse himself, ready to set out, and find the Green Knight.
 
 But even then he tarried, till Hallowe'en, and All Saints' Day, All Hallows, that time of the year when the days grow short and the nights grow long, and the worlds of the living and the dead are at their closest. And again the Court feasted, as Sir Gawain made ready to take his leave of the King.
 
-By now, the events of New Year's Eve were just a faded memory for many, but for Gawain, he must honour his agreement, though he had little idea where he could actually find the Green Knight. And the King called again for the minstrel, to set Gawain on his way. But what should he tell? The minstrel sensed Gawain's foreboding, and telling a heroic tale, or a minor fancy, did not seem fitting in such circumstances. For the mood was dark, and the sense of humour in that place that night was black. And so he made his choice. Something grim, but with a hopeful end.
+By now, the events of New Year's Eve were just a faded memory for many, but for Gawain, well, he must honour his agreement, though he had little idea where he could find the Green Knight. And the King called again for the minstrel, the storyeller, to set Gawain on his way. But what should he tell? The minstrel sensed Gawain's unease, his foreboding, and telling a heroic tale, or a minor fancy, did not seem fitting with circumstance. Because for the mood was dark, and the sense of humour in that place that night was black. And so he made his choice. Something grim, but with a hopeful end.
 
-`[Juniper Tree]`
+`[Juniper Tree] There was once a time, ...`
 
 With the minstrel's story over, the somber mood that had settled over King Arthur's Court continued. All were reminded of the fateful challenge accepted months before, and they were filled with sorrow. But even so, there was a glimmer of hope, of hope against hope, that there might be some other resolution to Gawain's fate.
 
 Early the next morning, Gawain called for his arms. First, an extravagant silk tunic, then a thick warm cloak, lined with white fur. Stout steel shoes, and shiny plate to cover his knees, tied behind with golden thread. Sturdy leg guards, and the finest chain mail, tiny hoops of shimmering steel. Then elbow guards, and metal gloves to complete the attire, with a sword fastened to a belt, by his side.
 
-He took a final Mass, then mounted Gringolet, his faithful, gold dressed war horse.
+He took a final Mass, then mounted Gringolet, his faithful, war horse, all dressed in gold.
 
-He took his helmet, and his scarlet shield, Ferrari red, emblazoned with golden pentangle livery, a symbol of his five flawless senses, his fingers that never fumbled, his faith, founded on the five wounds Christ received on the Cross, the five joys that gave him strength, of the Blessed Virgin Mary at the birth of her son, and the five principles by which he lived: friendship, fraterniry, purity, politeness and pity, and he slung it on his back.
+He took his helmet, and his scarlet shield, Ferrari red, emblazoned with golden pentangle livery, a symbol of his five flawless senses, his fingers that never fumbled, his faith, founded on the five wounds Christ received on the Cross, the five joys that of the Blessed Virgin Mary at the birth of her son that gave him strength, and the five principles by which he lived: friendship, fraterniry, purity, politeness and pity, and he slung it on his back.
 
-As then his spurred Gringolet away. And their was pity in the hearts and tears in the eyes of the people who saw him go.
+As then his spurred Gringolet away. And there was pity in the hearts, and tears in the eyes, of the people who saw him go.
 
-And so Gawain rode, over hill and dale, through Arrthur's realm, foraging for his food, with no friend other than his horse.
+And so Gawain rode, through hill and dale, over mountain and valley, skirting round lakes and fording rivers, through Arthur's realm, foraging for his food, and with no friend other than his horse.
 
 Through North Wales he rode, then to the Wirral, and everywhere in between. And everywhere he goes he asks the same question: "do you know where I can find the Green Chapel? Have you heard of the Green Knight?" But always the same answer: "no; we've never heard of such a place, we've never heard of such a knight".
 
@@ -161,41 +161,43 @@ He scales steep slopes, bridges brooks, scraps with serpents and snarling wolves
 
 And so he prays to God. And to Mary. And to Jesus Christ our Lord. And he makes the sign of the cross: once, twice, three times...
 
-And as he does so, making his way through the frosted wood, he sees the most impressive castle ahead, with its drawbridge withdrawn, and sturdy gates, shuttered fast.
+And as he does so, making his way through the frosted wood, he sees the most impressive castle ahead, a red wooden pallisade, and a red wooden drawbridge, a red stone hall, or keep, inside; and sturdy gates, shuttered fast.
 
-He halted Gringolet, called out to the porter, and to the watchman on the wall.
+`[Reminder of Sir Cleges tale: porter, usher, steward.]`
+
+He halted Gringolet, called out to the porter.
 
 And he was greeted in return.
 
 "Could you take a message to the master of this place? Would he grant me shelter?"
 
-And the porter replied: "most certainly."
+And the porter replied: "as my Lord decrees, all who come in good faith are welcome here."
 
-And before Gawain knew it, the red wood drawbridge was lowered, and the was gate opened, and Gawain rode into the castle and the red stone keep.
+And before Gawain knew it, the red wood drawbridge was lowered, and the gate was opened, and Gawain rode into the castle and the red stone keep.
 
-He was relieved of his shield, and his sword, and his helmet, and was taken inside, then well met by the Lord, with a hard, fiery face, and bushy red beard:
+He was greeted by an usher, and relieved of his shield, and his sword, and his helmet; and he was taken inside, by a welcoming steward, then well met by the Lord, with a hard, fiery face, and great big, bushy red beard:
 
-"You are most welcome, so come in, come in, and make yourself at home."
+"You are most welcome, Sir Knight, come in, come in, and make yourself at home."
 
-Gawain was shown to his room, finely furnished with the riches tapestries, and a large curtained bed.
+Gawain is shown to his room, finely furnished with the riches tapestries; and a large box bed, surrounded by curtains.
 
-He removed his armour, now rusted and weather beaten, and was presented instead with a fine set of robes.
+He removes his armour, now rusted and weather beaten, and dreeses himself in a fine set of robes that have been laid out for him.
 
-He returned to the hall, and was seated by a roaring red fire, that he might thaw out from the cold.
+He returns to the hall, and is seated by a roaring red fire, that he might thaw out from the cold.
 
-A table was set and a feast laid before him. The finest fish dishes that Gawain had ever seen, let alone eaten.
+A table is set and a feast laid before him. The finest fish dishes that Gawain has ever seen, let alone eaten.
 
-Then question followed question and Gawain answered politely, admitting his name, that he was one of Arthur's Round Table.
+Then question followed question and Gawain answers politely, admitting his name, that he's one of Arthur's Round Table.
 
-And everyone there was suitably impressed, for they had never had such a celebrity in their midst before, a knight of legend and lore.
+And everyone there is suitably impressed, for they have never had such a celebrity in their midst before, a knight of legend and lore.
 
-Day became dusk, and the meal came to an end. The bells sounded evensong, and as everyone made their way to pray, Gawain went with them.
+The day became dusk, and the meal came to an end. The bells sounded evensong, and as everyone made their way to pray, Gawain went with them.
 
-Accompanying the Lord, his Lady, who to Gawain's eye, seemed fairer even than the fair Queen, Guinevere.
+Accompanying the Lord, his Lady, who to Gawain's eye, seemed fairer even than the fair Queen, Guinevere, and he blushes slightly at the thought. She is drop dead gorgeous.
 
-As they left the Church, the Lady was hand in hand with another, much older woman, withered and well advanced in years, her cheeks waddled and slack compared to the bloom of her younger, and fairer, companion. There was just no comparison to be made between them. And Gawain and the fair Lady exchanged pleasantaries, and courtesies.
+As they left the Church, the Lady was hand in hand with another, much older woman, withered and well advanced in years, her cheeks waddled and slack compared to the bloom of her younger, and fairer, companion. There was no comparison to be made between them. And Gawain and the fair Lady exchanged pleasantaries, and courtesies. And to the older woman, he was charming and polite.
 
-With the Lord's blessing, Gawain approached the two maidens, the fair and the foul, and they took him between them, arm in arm, and led him away, talking as they walked.
+With the Lord's blessing, Gawain walked with the two maidens, the fair and the foul, and they took him between them, arm in arm, and led him away, chatting pleasantly as they walked.
 
 And again, they sat by the fire, and feasted on cake and the finest of wines, until it was time for bed.
 
@@ -203,13 +205,13 @@ The next day dawned, and all through the day there were banquets and buffets.
 
 __Everyone was seated, according to custom, in order of rank.__ The ancient old crone was sat at the high table next to the Lord, and Gawain sat next to the younger. __The food was served, as custom decrees, to each man as his station deserved__. And throughout the meal, Gawain and the fair Lady, chatted and conversed and were most comfortable in each other's company.
 
-The next day, they drank, and they danced; and the next, and the next day after that too. St John's Day `[December 27th]` passed and the Christmas feasting was coming to a close. In the greyness of the following day, the guests were to take their leave, and so Gawain began to make his goodbyes; but though it was late, he was ushered into the host's own chamber, and thanked for visiting and so honouring his house.
+The next day, they drank, and they danced; and the next, and the next day after that too. St John's Day `[December 27th]` passed and the Christmas feasting was coming to a close. In the greyness of the following day, the guests were to take their leave, and so Gawain began to make his goodbyes; but though it was late, he was ushered into the host's own chamber, and thanked for so visiting and honouring his house.
 
 And the Lord of that place asked Sir Gawain if he might impose on him, and ask him what mission he was on that should keep him away from Camelot at Christmas time?
 
-And Gawain explained his quest: to find the Green Chapel, and the Green Knight, but he didn't where to begin. Of the covenant with the Green Knight, the blow for a blow that he must accept. And time was running out. For New Year's Day was just three more days away.
+And Gawain explained his quest: to find the Green Chapel, and the Green Knight, but he didn't know where to begin. Of the covenant with the Green Knight, the blow for a blow that he must accept. And time was running out. For New Year's Day was just three more days away.
 
-The Lord laughed, and smiled. "Don't worry yourself, I know the place, it is but a short ride away from here. So stay until New Year's Day, and I'll have you led there at dawn on New Year's Day."
+The Lord laughed, and smiled. "Don't worry yourself, I know the place, it is but a short ride away from here. So stay until then, and I'll have you led there at dawn on New Year's Day."
 
 And at this news, Gawain was overjoyed, and swore himself to the service of the Lord until that time; and the Lord called for the ladies to join them, and they continued to share good cheer and conversation through those early hours of the morning.
 
@@ -219,11 +221,9 @@ But he also bade Gawain to join him in a pact, in a wager. A game. "Whatever I t
 
 PART III
 
-*There are many stories of the hunt. A tale I have told here, before, relates how Fionn MaCumhaill, of the Fianna, that band of warriors who were sworn to protect the King of all Ireland from invaders from the land of Lachlann, the Land of the North, of the Vikings who went hunting once, only to find a deer protected by Fionn's two dogs, Bran and Sceolan, a deer who then turned Fionn's head completely. Or of another time when those same two trusted dogs, whose own original story provides yet another tale, protected a fawn who was found whilst out on a hunt. But those are stories for another day, and another time, and another set. Because for now, this little glimpse at another story tradition is over, and we return to our tale.*
-
 Before sunrise, the servants stirred, and made ready the horses for the hunt. After __mass, and a quick early breakfast__, the hunters cantered off on their chosen course, the Lord amongst them. And as they rode out, the bugles blared. And the hunt was on.
 
-The wild creatures of the forest quaked with fear, not least among them, the deer. For though the male of that kind was not to be hunted in the close season, the hinds were fair game. And the arrows flew, and the hunting was good indeed, and many a kill was had that day. (These were different times!)
+The wild creatures of the forest quaked with fear, not least among them, the deer. For although the male of that kind was not to be hunted in the close season, the hinds were fair game. And the arrows flew, and the hunting was good indeed, and many a kill was had that day.
 
 __Meanwhile, back at the castle,__ Gawain lay snug and warm in his bed, surrounded by curtains and under a mountain of covers.
 
@@ -235,17 +235,17 @@ Gawain continues to pretend to sleep, hoping she'll go away.
 
 But she doesn't, She just sits there, gently stroking the bed clothes, patting them, and waiting.
 
-After a while, Gawain realises she isn't about to go anywhere in a hurry, and so he does what __any virtuous knight would do,__ and pretends to wake up, starts to stretch, and then feigns being startled to see her there.
+After a while, she starts humming quietly to herself, and Gawain realises she isn't about to go anywhere in a hurry. And so he does what __any virtuous knight would do,__ and pretends to wake up, starts to stretch, and then feigns being startled to see her there.
 
 "Oh, erm... my Lady..."
 
-She smiles sweetly at him:
+And she smiles sweetly at him:
 
 "Good morning, Sire. How deeply you seem to sleep... But now, I have you trapped!" and, with that, laughing, she pins him down beneath the bed clothes.
 
 He responds, as __any virtuous knight would do__. "I... how might I help you, my lady? If you would just let me get up, and get dressed, I'd gladly be at your service."
 
-But still she pins him down. "That won't be necessary, *Sir* Gawain. Sir Gawain who is feared through the land, yet somehow seems to be trapped by a mere lady" and she giggles again. "And with my husband out all day too.... And the servants all asleep... And my maids probably with them. The door is bolted, so I'll take my time, and I expect you'll do what you will..."
+But still she pins him down. "That won't be necessary, *Sir* Gawain. Sir Gawain who is feared through the land, yet somehow seems to be trapped by a mere lady" and she giggles again. "And with my husband out all day too.... And the servants all asleep... And my maids probably with them. The door is bolted, But I'll keep you at bay as best I can..."
 
 Now, as __any virtuous knight would do__, Sir Gawain stifled back an embarrassed cough, and struggling for something else to say, thanked the Lady for praising him so, but said he was not so worthy. He was the least of the knights, and,..
 
@@ -255,7 +255,7 @@ Now, as __any virtuous knight would do__, Sir Gawain stifled back an embarrassed
 
 And so it was, pinned down as he was, he deflected each of her advances, and avoided each of her approaches, until at last she said she would leave him in peace...
 
-And hen she laughed and bade her farewell. "I was right..." she said, "you could never be Sir Gawain..."
+And then she laughed and bade her farewell. "I was right..." she said, "you could never be Sir Gawain..."
 
 But to that, he took affront. "But why ever not, my Lady?"
 
@@ -265,7 +265,7 @@ But to that, he took affront. "But why ever not, my Lady?"
 
 And then promptly left.
 
-Gawain jumped out of bed, and pulled on some clothes __— and whether he had a cold shower first I surely don't know — and headed off to Mass, *and then a leisurely breakfast*__, where he was seated between the Lady, and the old crone, and all was good between them.
+Gawain jumped out of bed, and pulled on some clothes __— and whether he had a cold shower first I surely don't know — and headed off to Mass, *and then a leisurely breakfast*__, where he was seated between the Lady, and the old crone, and of their enocunter earlier that morning, nothing was said, but all was still good between them.
 
 __Back on the hunt, in the forest, the Lord was still leading the chase against the *hinds*.__ And finally, with the dogs run out and the horses tired from the chase, they surveyed their kill. They pick the finest deer, they __*butcher it* there and then, feeding the scraps and the offal to the dogs as they do so__. And with that, __the kill horn is blown, and the hunt is ended__, and they haul the meat home.
 
@@ -275,13 +275,15 @@ The whole of the household was summoned, and the venison revealed to the assembl
 
 "And you, Sir Gawain do you have anything for me in return?"
 
-"Well, I, erm, I... yes, I do... I, erm" and he walked up to the Lord, and cupping his bearded chin in his hands, he.....[head forward once, twice] gave the Lord a kiss.
+"Well, I, erm, I... yes, I do... I, erm" and, a little hesitantly, he walked up to the Lord, and cupping his bearded chin in his hands, he.....[head forward once, twice] gave the Lord a peck of a kiss.
 
-"Ooh, Gawain", said the Lord. "A fancy thing.... But how ever did you come by it?"
+"Ooh, Gawain", said the Lord. "A fancy thing.... But, how ever did you come by it?"
 
-And Gawain, little sheepishly, denied him an answer. "My Lord, that was *not* part of our agreement."
+And Gawain, a little sheepishly, denies him an answer. "My Lord, that was *not* part of our agreement."
 
 "Surely not, surely not, you dark horse you..." said the Lord. And then they lounged by the fire, and feasted, and agreed to the same game again, on the morrow, each of their takings to be traded at the end of the day.
+
+*And that night they listened to stories from the West, from Ireland and Wales. Of...  And you may have heard me tell those tales before, or you may not, or you may yet hear me tell them again, but I'm afraid that time is such that it does not let me tell them now.*
 
 And eventually they went to bed. Separately, just in case you were in any doubt...
 
@@ -305,7 +307,7 @@ Not wanting the offend the Lady, Gawain was very careful in his reply: "You flat
 
 And as the Lady continued to tease him and tempt him, Gawain defended himself and deflected her advances, avoiding whatever mischief she had in mind.
 
-And at length, she laughed, and as left, she gave Gawain a second sweet kiss of the day.
+And at length, she laughed a final time, and bade him goodbye, and as left, she gave him a second sweet kiss of the day.
 
 Gawain roused himself and rose out of bed __— and whether he had a cold shower then I surely don't know — and headed off to Mass, *and a leisurely breakfast*__, and then loitered with the ladies throughout the day.
 
@@ -325,15 +327,19 @@ Once again, the Lord is excited when he sees Gawain, calls for the ladies, and s
 
 "And do you have anything for me, Gawain?"
 
-And Gawain approaches the Lord, cups his thick read beard in his hands once again, and kisses him once, then twice, in return.
+And Gawain approaches the Lord, a little more confidently this time, cups his thick read beard in his hands once again, and kisses him once, then twice, in return.
 
 "Gawain... You have certainly been keeping yourself amused..."
 
+But he does not ask how Gawain came by his gift that day.
+
 And once again, the tables are assembled, and covered with fine cloth. Places are set, and supper is served, and after the feast, song is followed by song.
 
-And the younger Lady, and Gawain, are sat, side by side, with stolen glances between them, and secret smiles; and Gawain is driven half mad.
+And the younger Lady, and Gawain, are sat, side by side, with stolen glances between them, and secret smiles; and Gawain is driven half mad, but he remembers his place, being a virtuous knight.
 
-But he could not snub her, and though tongues might wag, he returned her affection.
+And of course he does not snub her, and although mindul tongues might wag, he returns all her affection and they confidently chat.
+
+*And that night they listened to tales from the North, and the South, and the East. Of...  And you may have heard me tell those tales before, or you may not, or you may yet hear me tell them again, but I'm afraid that time is such that it does not let me tell them now.*
 
 And as the rest of the party retired for bed, the Lord gestures again for Sir Gawain to tarry with him a while longer by the hearth and the fire.
 
@@ -349,7 +355,7 @@ But each time the dogs get close, he somehow outwits them, that crafty Reynard, 
 
 __Meanwhile, back at the castle,__ Gawain snoozes, but the Lady cannot sleep. She rises. Despite the chill in the air, she rushes to his room, dressed in a long flowing robe, unhooded, her neck naked, her shoulders bare to front and back.
 
-She strides into his room, and throws open the window, "How can you sleep on such a beautiful day?!", but still he dozes and dreams of his impending fate in the Green Chapel. Then, sensing her presence, he startles awake, and cannot but notice her low cut dress.
+She strides into his room, and throws open the window, "How can you sleep on such a beautiful day?!", but still he dozes and dreams of his impending fate in the Green Chapel. And she wanders to the bed with a "wake up sleepy head", and he cannot but notice her low cut dress.
 
 He remains polite — he is, after all, a virtuous knight — as she presents him with the first kiss of the day. And then they chat and talk tenderly to each other, as good friends will do, who are comfortable with each other.
 
@@ -359,15 +365,15 @@ But he remains courteous, not sinful, and swears to himself not to succumb.
 
 He parries her passes and deflects her advances, the loving phrases that leap from her lips, and she asks him: "is it me? Or is there someone else?"
 
-And it's time for him to tread carefully... "No, there's no-one else; and there won't be for some time yet..."
+And it's time for him to tread carefully... "No, there's no-one else..."
 
 Which is *exactly* the *wrong* thing to say...
 
-"Do you know how insulting that is?! Well, I suppose I asked for it... If mourn, I must, then at least let me have a kiss as a memory of our time together..."
+"Do you know how insulting that is?! Well, I suppose I asked for it...But if I am to tbe spurned, then at least let me have a kiss as a memory of our time together..."
 
 And with that, she gives him a second kiss of the day.
 
-"But will you also give me a small gift to remember you by?"
+And then she asks him for a small gift to remember him by.
 
 "I would that I could, my Lady, but I came with nothing, except my horse and armour."
 
@@ -391,17 +397,17 @@ As she turns away, his thoughts of dread, that troubled his dreams, return. Mayb
 
 So when she offers him the girdle one final time — "are you *sure* you won't take it?" —  he relents. But as he does so she begs him: "please don't tell my husband..."
 
-And with one last kiss, the third of the day, she departs.
+And with that, and with one last kiss, the third of the day, she departs.
 
-Gawain clothes himself quickly, in the richest of robes, the green belt hidden inside his robe, and heads off for the chapel, for confession, and absolution. And then, in a comforted mood, he heads off to find the ladies.
+Whether he needed a cold shower that day, I do not know, but he quickly clothes himself, in the richest of robes, the green belt hidden inside his robe, and heads off for the chapel, for confession, and absolution. And then, in a comforted mood, he heads off to find the ladies.
 
 __Back on the hunt,__ in the forest, the Lord and his men are still being led a merry chase by the wily fox. The fox eventually tires, and the Lord closes in. He swipes at it with his sword, but misses as it jumps away; but one of the dogs manages to catch hold, then another. The Lord shouts at the dogs, and reaching down  wrestles the fox away, before it's ripped to shreds. He holds it high, above his head: a trophy. A stinking, mangy, flea infested trophy, but a trophy nonetheless. And at last, __the kill horn is blown, and the hunt is ended__.
 
-As the night draws in, they set off back home. Barely has the Lord had time to entered the hall before Gawain jumps up from beside the fire and strides towards him, grabs his red bushy beard and kisses him three times.
+As the night draws in, they set off back home. Barely has the Lord had time to entered the hall before Gawain jumps up from beside the fire and strides purposefully towards him, grabs his great big red bushy beard and kisses him three times.
 
 "By God, you've had some luck today":, says the Lord. "And all I have in return is this stinking fox", and he drops it to the floor.
 
-And with that, their game is over. The food is brought, but it's a quieter night than the nights before. In place of the singing, and the dancing, many tales were told, *and if I had the time I would tell some of them to you now, but I'm afraid I don't, so I won't. But if you come again, maybe...* And eventually, it's time for bed. Gawain thanks the Lord for his generosity, and checks again that someone will lead him to the Green Chapel in the morning. And with that agreed, Gawain takes his leave; and with a heavy he heart, he thanks the other guests too, for their hospitality, for making him so welcome, and they thank him in return.
+And with that, their game is over. The food is brought, but it's a quieter night than the nights before. In place of the singing, and the dancing, many more tales were told, *and if I had the time I would tell some of them to you now, but I'm afraid I don't, so I won't. But if you come again, maybe...* And eventually, it's time for bed. Gawain thanks the Lord for his generosity, and checks again that someone will lead him to the Green Chapel in the morning. And with that agreed, Gawain takes his leave; and with a heavy he heart, he thanks the other guests too, for their hospitality, for making him so welcome, and they thank him in return.
 
 And so it is, with tapering torchlight, Gawain makes his way to bed. But who would expect our knight to sleep soundly, on such a night, given the challenge he must face in the morning?
 
@@ -494,7 +500,4 @@ And so it was, and so it is, and so we come to the end our of tale. Of Camelot, 
 *For honest is he who shows penance.*
 
 And that is the end of the tale, and of our set for tonight.
-
-
-And they had a storyteller in that night telling *traditional Irish tales*, such as *....*. And you may have heard me tell those tales before, or you may yet hear me tell them again, but I'm afraid that time is such that it does not let me tell them now.
 
