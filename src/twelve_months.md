@@ -75,7 +75,7 @@ The poor girl returned to the forest, looking with all her eyes for the light th
 
 The Twelve Months were in their places, motionless and silent.
 
- My good sirs," said Dobrunka, " please to let me warm myself by your fire ; I am almost frozen with cold."
+" My good sirs," said Dobrunka, " please to let me warm myself by your fire ; I am almost frozen with cold."
 
 "Why have you returned?" asked January. "What are you looking.for ?"
 
