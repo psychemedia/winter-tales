@@ -309,7 +309,7 @@ Her mother was waiting for Holena ; she kept on looking out for her, first at th
 
 Marusa had cooked the dinner, she had seen to the cow, and yet Holena and her mother did not come back. " Where are they staying so long ? " thought Marusa, as she sat down to work at the distaff. The spindle was full already and it was quite dark in the room, and yet Holena and the stepmother had not come back.
 
-"Alas, Lord! what has come to them?" cried MaruSa, peering anxiously through the window. The sky was bright and the earth was all glittering, but there wasn't a human soul to be seen. . . . Sadly she shut the window ; she crossed herself, and prayed for her sister and her mother. ... In the morning she waited with breakfast, she waited with dinner ; but however much she waited, it was no good. Neither her mother nor her sister ever came back. Both of them were frozen to death in the forest.
+"Alas, Lord! what has come to them?" cried Marusa, peering anxiously through the window. The sky was bright and the earth was all glittering, but there wasn't a human soul to be seen. . . . Sadly she shut the window ; she crossed herself, and prayed for her sister and her mother. ... In the morning she waited with breakfast, she waited with dinner ; but however much she waited, it was no good. Neither her mother nor her sister ever came back. Both of them were frozen to death in the forest.
 
 So good Marusa inherited the cottage, a piece of ploughland and the cow. She married a kind husband, and they both lived happily ever after.
 
