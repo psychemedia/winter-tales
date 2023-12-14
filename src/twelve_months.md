@@ -4,7 +4,7 @@ In recent times, I originally heard this via Sue Bailey, during the preparation 
 
 The gist of the tale is this:
 
-> Marushka, down trodden, lives with her step-mother and step-sister, Holena. Even though it is January, and the depth of Winter, her step-mother sends her out to find March violets; she goes up the mountain, sees a fire around which are twleve stone, with twelve men sitting on them. On the largest stone, a man with a white beard and a club: January. They ask what she is doing; January swaps with March, and as the girl departs, she finds violets. The step-mother sends her to find strawberries; she returns to the mountain, january swaps with June, and she finds strawberries; her step-mother sendfs her out for red apples, January swaps with September, and she finds red apples, but may only pick two. Holena sets off to find more, is disrepectful to January. He waves the stick round his head, the fire dies down. Holena is lost in a Winter strom. Her mother goes out to find her and she is lost too. Marushka lives ever after.
+> Marushka, down trodden, lives with her step-mother and step-sister, Holena. Even though it is January, and the depth of Winter, her step-mother sends her out to find March violets; she goes up the mountain, sees a fire around which are twleve stones, each with a person sitting on them. On the largest stone, a man with a white beard and a club: January. They ask what she is doing; January swaps with March, and as the girl departs, she finds violets. The step-mother sends her to find strawberries; she returns to the mountain, January swaps with June, and she finds strawberries; her step-mother sendfs her out for red apples, January swaps with September, and she finds red apples, but may only pick two. Holena sets off to find more, is disrepectful to January. He waves the stick round his head, the fire dies down. Holena is lost in a Winter strom. Her mother goes out to find her and she is lost too. Marushka lives happily ever after.
 
 Originating from a Czech fairy tale by Bozena Nemcova, the earliest appearance I have found for it is in an 1866 collection of tales translated from Edouard Laboulaye:
 
@@ -32,11 +32,11 @@ One day in the middle of January, Katinka took a fancy for some violets. She cal
 
 " Oh, sister, what an idea !" answered Dobrunka ; " as if there were any violets under the snow !"
 
-" Hold your tongue, stupid fool," returned her sister, " and do as I bid you.' If you do not go to the forest and bring me back a bunch of violets, I will beat you to a jelly." Upon this, the mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
+" Hold your tongue, stupid fool," returned her sister, " and do as I bid you. If you do not go to the forest and bring me back a bunch of violets, I will beat you to a jelly." Upon this, the mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
 
 The poor girl went to the forest weeping bitterly. Every thing was covered with snow ; there was not even a foot-path. She lost her way, and wandered about till, famishing with hunger and perishing with cold, she entreated God to take her from this wretched life.
 
-All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motion- less figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the; sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
+All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motionless figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the; sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
 
 Dobrunka knew January by his long white beard. He was the only one that had a staff in his hand. The poor girl was terribly frightened. She drew near, saying, in a timid voice, " My good sirs, please to let me warm myself by your fire ; I am freezing with cold."
 
@@ -50,7 +50,7 @@ January nodded his head. "Why have you come here, my, child ?" he asked. " What 
 
 ![](images/twelve_months_laboulaye.jpg)
 
-March rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the buds put forth on the trees, the grass turned green under the bushes, the flowers peeped through die verdure, and the violets opened — it was spring.
+March rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the buds put forth on the trees, the grass turned green under the bushes, the flowers peeped through the verdure, and the violets opened — it was spring.
 
 "Make haste, my child, and gather your violets," said March.
 
@@ -83,15 +83,15 @@ The Twelve Months were in their places, motionless and silent.
 
 " This is not the season for them," returned January, in his gruff voice ; " there are no strawberries under the snow."
 
-" I know it," repUed Dobrunka, sadly ; " but my mother and sister will beat me to a jelly if I do not bring them some. My good sirs, please to tell me where I can find them."
+" I know it," replied Dobrunka, sadly ; " but my mother and sister will beat me to a jelly if I do not bring them some. My good sirs, please to tell me where I can find them."
 
 Old January rose, and, turning to a man in a golden mantle, he put his staff in his hand, saying, " Brother June, this is your business."
 
-June rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the earth grew green, the trees were covered with leaves, the birds sang, and the flowers opened — it was summer. Thousands of little white stars enameled the turf, then turned to red straw- berries, looking, in their green cups, like rubies set in emeralds.
+June rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the earth grew green, the trees were covered with leaves, the birds sang, and the flowers opened — it was summer. Thousands of little white stars enameled the turf, then turned to red strawberries, looking, in their green cups, like rubies set in emeralds.
 
 " Make haste, my child, and gather your strawberries," said June.
 
-Dobrunka filled her apron, thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother. The fragrance of the straw- berries filled the whole house.
+Dobrunka filled her apron, thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother. The fragrance of the strawberries filled the whole house.
 
 " Where did you find these fine things ?" asked Katinka, in a disdainful voice.
 
@@ -101,7 +101,7 @@ Katinka and her mother devoured the strawberries without even thanking the poor 
 
 The third day the wicked sister took a fancy for some red apples. The same threats, the same insults, and the same violence followed. Dobrunka ran to the mountain, and was fortunate enough to find the Twelve Months warming themselves, motionless and silent.
 
-" You here again, my child ?" said old January, making room for her by the fire. Dobrunka told him, with tears, how, if she did not bring home some red apples, her mother and sis- ter would beat her to death.
+" You here again, my child ?" said old January, making room for her by the fire. Dobrunka told him, with tears, how, if she did not bring home some red apples, her mother and sister would beat her to death.
 
 Old January repeated the ceremonies of the day before. "Brother September," said he to a gray-bearded man in a purple mantle, "this is your business."
 
@@ -356,7 +356,7 @@ Maruschka was startled, and watched them with astonishment for a little while ; 
 
 'Brother March, take thou the pre-eminence.'
 
-Then the Month March sat himself on the chief stone, and waved his staff over the fire. Instantly the flames rushed up and blazed with greater brilliancy, the snow began to thaw, the hazel-bushes were covered with catkins, and glossy buds appeared on the beech. Green herbs thrust up through the moist soil, a primrose gleamed from a dusky bank, and a sweet fragrance of violets was wafted by on a gentle breeze. Under a bush, the ground was purple with their scented blossoms. ' Quick, Maruschka, pluck ! ' ordered March. The girl hastily gathered a handful. Then she cour- tesied to the twelve Months, thanked them cordially, and hurried home.
+Then the Month March sat himself on the chief stone, and waved his staff over the fire. Instantly the flames rushed up and blazed with greater brilliancy, the snow began to thaw, the hazel-bushes were covered with catkins, and glossy buds appeared on the beech. Green herbs thrust up through the moist soil, a primrose gleamed from a dusky bank, and a sweet fragrance of violets was wafted by on a gentle breeze. Under a bush, the ground was purple with their scented blossoms. ' Quick, Maruschka, pluck ! ' ordered March. The girl hastily gathered a handful. Then she courtesied to the twelve Months, thanked them cordially, and hurried home.
 
 Helena was amazed when her half-sister came with the bunch to the door. She opened it to her, and the house was filled with the delicious odour.
 
@@ -535,7 +535,7 @@ Helen kept the flowers for herself and her mother; she did not even thank her st
 
 "Hold your tongue, worm; don't answer me; if I don't have my strawberries I will kill you."
 
-Then the stepmother pushed her into the yard and bolted the door. The unhappy girl made her way towards the moun- tain and to the large fire round which sat the twelve months. The great Setchène occupied the highest place.
+Then the stepmother pushed her into the yard and bolted the door. The unhappy girl made her way towards the mountain and to the large fire round which sat the twelve months. The great Setchène occupied the highest place.
 
 " Men of God, may I warm myself at your fire ? The winter cold chills me," said she, drawing near.
 
@@ -545,7 +545,7 @@ The great Setchène raised his head and asked :
 
 " I am looking for strawberries," said she.
 
-" We are in the midst of winter," replied Setchène ; " straw- berries do not grow in the snow."
+" We are in the midst of winter," replied Setchène ; " strawberries do not grow in the snow."
 
 "I know," said the girl sadly, "but my sister and step- mother have ordered me to bring them strawberries ; if I do not they will kill me. Pray, good shepherds, tell me where to find them."
 
@@ -563,7 +563,7 @@ Joyfully she thanked the months, and having filled her apron ran happily home. H
 
 " Right up among the mountains ; those from under the beech trees are not bad."
 
-Helen gave a few to her mother and ate the rest herself; not one did she offer to her step-sister. Being tired of straw- berries, on the third day she took a fancy for some fresh red apples.
+Helen gave a few to her mother and ate the rest herself; not one did she offer to her step-sister. Being tired of strawberries, on the third day she took a fancy for some fresh red apples.
 
 "Run, Marouckla," said she, "and fetch me fresh red apples from the mountain."
 
@@ -889,7 +889,7 @@ Holena.
 
 Holena sat around in idleness, while'Marushka had to cook, wash, spin, weave, bring grass and take care of the cow. She was willing to work, she didn't know why her mother hated her, but she bore reproaches with patience.
 
-At last the step-mother and her daughter thought only of how 'to get rid of poor Marushka. They tor- tured her with hunger, and beat her, but she endured it all and grew more beautiful each day.
+At last the step-mother and her daughter thought only of how 'to get rid of poor Marushka. They tortured her with hunger, and beat her, but she endured it all and grew more beautiful each day.
 pne day, in the middle of winter, Holena pretended to want violets, and she said to Marushka, —
 
 "Go to the woods and get me some violets. I want to put them in my belt and enjoy their perfume."
