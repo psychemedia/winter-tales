@@ -1,4 +1,4 @@
-# Gawain and the Green Knight
+# Sir Gawain and the Green Knight
 
 *Based on Simon Armitage's 2007 translation. Oiginal peparation notes for tellings at Babushka Books, Shanklin, December, 2023, and various partial practice tellings in folk nights at Dairyman's Daughter, Arreton, and The Waverley, Carisbrooke, prior to that.*
 
