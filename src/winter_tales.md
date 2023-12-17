@@ -124,10 +124,3 @@ Publication date 1866
 
 
 ## Sir Gawain and the Green Knight
-
-A wonder book of old romance
-by Darton, F. J. Harvey (Frederick Joseph Harvey), 1878-1936; Walker, Arthur G., ill
-
-Publication date [1907?]
-https://archive.org/details/wonderbookofoldr00dart/page/81/mode/1up
-p81-
