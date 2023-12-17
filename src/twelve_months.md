@@ -4,7 +4,7 @@ In recent times, I originally heard this via Sue Bailey, during the preparation 
 
 The gist of the tale is this:
 
-> Marushka, down trodden, lives with her step-mother and step-sister, Holena. Even though it is January, and the depth of Winter, her step-mother sends her out to find March violets; she goes up the mountain, sees a fire around which are twleve stone, with twelve men sitting on them. On the largest stone, a man with a white beard and a club: January. They ask what she is doing; January swaps with March, and as the girl departs, she finds violets. The step-mother sends her to find strawberries; she returns to the mountain, january swaps with June, and she finds strawberries; her step-mother sendfs her out for red apples, January swaps with September, and she finds red apples, but may only pick two. Holena sets off to find more, is disrepectful to January. He waves the stick round his head, the fire dies down. Holena is lost in a Winter strom. Her mother goes out to find her and she is lost too. Marushka lives ever after.
+> Marushka, down trodden, lives with her step-mother and step-sister, Holena. Even though it is January, and the depth of Winter, her step-mother sends her out to find March violets; she goes up the mountain, sees a fire around which are twelve stones, with a robed and hooded person sitting on each, three dressed in white (snow), three in green (grass), three in gold (wheat) and three in deep purple (blackberries, or grapes, or dark winter cherries). On the largest stone, a man with a white beard and a club: January. They ask what she is doing; January swaps with March, and as the girl departs, she finds violets. The step-mother sends her to find strawberries; she returns to the mountain, January swaps with June, and she finds strawberries; her step-mother sends her out for red apples, January swaps with September, and she finds red apples, but may only pick two. Holena sets off to find more, is disrepectful to January. He waves the stick round his head, the fire dies down. Holena is lost in a Winter storm. Her mother goes out to find her and she is lost too. Marushka lives happier ever after.
 
 Originating from a Czech fairy tale by Bozena Nemcova, the earliest appearance I have found for it is in an 1866 collection of tales translated from Edouard Laboulaye:
 
@@ -36,7 +36,7 @@ One day in the middle of January, Katinka took a fancy for some violets. She cal
 
 The poor girl went to the forest weeping bitterly. Every thing was covered with snow ; there was not even a foot-path. She lost her way, and wandered about till, famishing with hunger and perishing with cold, she entreated God to take her from this wretched life.
 
-All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motion- less figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the; sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
+All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motionless figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
 
 Dobrunka knew January by his long white beard. He was the only one that had a staff in his hand. The poor girl was terribly frightened. She drew near, saying, in a timid voice, " My good sirs, please to let me warm myself by your fire ; I am freezing with cold."
 
@@ -54,11 +54,12 @@ March rose in turn, and stirred the fire with the staff, when behold ! the flame
 
 "Make haste, my child, and gather your violets," said March.
 
-Dobrunka gathered a large bouquet, thanked the Twelve Months, and joyfully ran home. You can imagine the aston- ishment of Katinka and the step-mother. The fragrance of the violets filled the whole house.
+Dobrunka gathered a large bouquet, thanked the Twelve Months, and joyfully ran home. You can imagine the astonishment of Katinka and the step-mother. The fragrance of the violets filled the whole house.
 
 " Where did you find these fine things ?" asked Katinka, in a disdainful voice.
 
 " Up yonder, on the mountain," answered her sister. " It looked like a great blue carpet under the bushes."
+
 Katinka put. the bouquet in her bosom, and did not even thank the poor child.
 
 The next morning the wicked sister, as she sat idling by the stove, took a fancy for some strawberries.
@@ -75,7 +76,7 @@ The poor girl returned to the forest, looking with all her eyes for the light th
 
 The Twelve Months were in their places, motionless and silent.
 
- My good sirs," said Dobrunka, " please to let me warm myself by your fire ; I am almost frozen with cold."
+"My good sirs," said Dobrunka, " please to let me warm myself by your fire ; I am almost frozen with cold."
 
 "Why have you returned?" asked January. "What are you looking.for ?"
 
@@ -87,11 +88,11 @@ The Twelve Months were in their places, motionless and silent.
 
 Old January rose, and, turning to a man in a golden mantle, he put his staff in his hand, saying, " Brother June, this is your business."
 
-June rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the earth grew green, the trees were covered with leaves, the birds sang, and the flowers opened — it was summer. Thousands of little white stars enameled the turf, then turned to red straw- berries, looking, in their green cups, like rubies set in emeralds.
+June rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the earth grew green, the trees were covered with leaves, the birds sang, and the flowers opened — it was summer. Thousands of little white stars enameled the turf, then turned to red strawberries, looking, in their green cups, like rubies set in emeralds.
 
 " Make haste, my child, and gather your strawberries," said June.
 
-Dobrunka filled her apron, thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother. The fragrance of the straw- berries filled the whole house.
+Dobrunka filled her apron, thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother. The fragrance of the strawberries filled the whole house.
 
 " Where did you find these fine things ?" asked Katinka, in a disdainful voice.
 
@@ -101,21 +102,21 @@ Katinka and her mother devoured the strawberries without even thanking the poor 
 
 The third day the wicked sister took a fancy for some red apples. The same threats, the same insults, and the same violence followed. Dobrunka ran to the mountain, and was fortunate enough to find the Twelve Months warming themselves, motionless and silent.
 
-" You here again, my child ?" said old January, making room for her by the fire. Dobrunka told him, with tears, how, if she did not bring home some red apples, her mother and sis- ter would beat her to death.
+" You here again, my child ?" said old January, making room for her by the fire. Dobrunka told him, with tears, how, if she did not bring home some red apples, her mother and sister would beat her to death.
 
 Old January repeated the ceremonies of the day before. "Brother September," said he to a gray-bearded man in a purple mantle, "this is your business."
 
-September rose and stirred the fire with the staff", when be- hold ! the flames ascended, the snow melted, and the trees put forth a few yellow leaves, which fell one by one before the wind — it was autumn. The only flowers were a few late pinks, daisies, and immortelles. Dobrunka saw but one thing, an apple-tree with its rosy fruit.
+September rose and stirred the fire with the staff", when behold ! the flames ascended, the snow melted, and the trees put forth a few yellow leaves, which fell one by one before the wind — it was autumn. The only flowers were a few late pinks, daisies, and immortelles. Dobrunka saw but one thing, an apple-tree with its rosy fruit.
 
 " Make haste, my child ; shake the tree," said September.
 
 She shook it, and an apple fell ; she shook it again, and a second apple followed.
 
-" Make haste, Dobrunka, make haste home !" cried Septem- ber, in an imperious voice.
+" Make haste, Dobrunka, make haste home !" cried September, in an imperious voice.
 
 The good child thanked the Twelve Months, and joyfully ran home. You may imagine the astonishment of Katinka and the step-mother.
 
-" Green apples in January ! Where did you get these ap- ples ?" asked Katinka.
+" Green apples in January ! Where did you get these apples ?" asked Katinka.
 
 " Up yonder on the mountain ; there is a tree there that is as red vnth them as a cherry-tree in July."
 
@@ -289,7 +290,7 @@ Holena began to curse her : " May you be struck to death by lightning ! " and sh
 
 Marusa began to cry bitterly, and she prayed to God to take her to Himself, or she would be killed by her wicked sister and her stepmother. She ran away into the kitchen.
 
-Greedy Holena stopped cursing and began to eat the apple. It tasted so delicious that she told her mother she had never tasted anything so nice in all her life. The step- mother liked it too. When they had finished, they wanted some more.
+Greedy Holena stopped cursing and began to eat the apple. It tasted so delicious that she told her mother she had never tasted anything so nice in all her life. The step-mother liked it too. When they had finished, they wanted some more.
 
 "Mother, give me my fur coat. I'll go to the forest myself. That ragged little wretch would eat them all up again on her way home. I'll find the place all right, and I'll shake them all down, however they shout at me."
 
@@ -331,9 +332,9 @@ p67-78
 
 PRETTY MARUSCHKA
 
-FAR away in the hazy purple of antiquity, when all stepmothers were wicked, and all younger sons were successful, there lived on the confines of a forest a woman who had two daughters : the one her own, the other only a step- child. Naturally, the love of the mother was concentrated on her own Helena, and, as naturally, she disliked Maruschka, who was the fairest, the gentlest, and the most pious of the two girls.
+FAR away in the hazy purple of antiquity, when all stepmothers were wicked, and all younger sons were successful, there lived on the confines of a forest a woman who had two daughters : the one her own, the other only a step-child. Naturally, the love of the mother was concentrated on her own Helena, and, as naturally, she disliked Maruschka, who was the fairest, the gentlest, and the most pious of the two girls.
 
-Little did pretty Maruschka know of her own surpassing beauty a fact proving to us how remote from the present age was that in which these damsels lived. Her hair was like the waving gold of the cornfield when the wind soughs over it, and her eyes were as the blue forget-me-not which smiles and glimmers in a quiet nook by the brookside. She was slim and graceful; her step was light, for her heart was free. Wherever she went she brought cheerfulness and smiles; like the little golden sunbeams which pierce among the tree-shadows of a forest, and light up unex- pected beauties where all before was gloom ; now painting a saffron butterfly, now kindling an emerald moss-tuft, now making a scarlet lily flame against the dusk of the forest glades behind.
+Little did pretty Maruschka know of her own surpassing beauty a fact proving to us how remote from the present age was that in which these damsels lived. Her hair was like the waving gold of the cornfield when the wind soughs over it, and her eyes were as the blue forget-me-not which smiles and glimmers in a quiet nook by the brookside. She was slim and graceful; her step was light, for her heart was free. Wherever she went she brought cheerfulness and smiles; like the little golden sunbeams which pierce among the tree-shadows of a forest, and light up unexpected beauties where all before was gloom ; now painting a saffron butterfly, now kindling an emerald moss-tuft, now making a scarlet lily flame against the dusk of the forest glades behind.
 
 Helena was dressed by her mother in gay colours for Sunday and Feast-day, but poor little Marsuchka had only a dingy grey gown, cast off by her sister. Helena wore black shoes with silver buckles, but pretty Maruschka clattered up the churchyard path in wooden clogs. Helena wore a false gold chain of great links round her neck, but her half-sister had only a turquoise-coloured ribbon and a little silver cross with a crystal in it that was her only ornament and that had been given her by a lady whom she had guided into the road, when she had lost her way in the forest. As the mother and the two girls went to church on Sundays, the lads were all in the yard hanging about the tombstones ; and the old woman heard them whisper, 'There is pretty Maruschka;' but never once did they say, ' See pretty Helena.' So she was angry, and hated the golden-haired, blue-eyed maiden. At home she made her do all the hard work scrub the floors, cook the victuals, mend the clothes whilst Helena stood all day before her glass, combing her hair and adorning herself with trinkets, and wishing it were Sunday that she might flare before the eyes of the young men in the churchyard.
 
@@ -346,7 +347,7 @@ Then the mother chimed in with, ' Mind and bring a large bunch, or you shall not
 
 Bitterly weeping, the poor maiden wandered into the forest. The snow lay deep everywhere, undinted by human foot ; white wreaths hung on the bushes, and the sombre pine-boughs were frosted over with snow. Here were the traces of a hare, there the prints of a badger. An owl called from the depths of the forest. The girl lost her way. Dusk came on, and a few stars looked through the interlacing boughs overhead, watching Maruschka. An icy wind moaned through the trees, shaking the pines as though they quaked with mortal fear, and then they bent their branches and shot their loads of snow in dust to the ground. Strange harp-like sounds reverberated through the gloom, and gratings of bough on bough, which seemed as though the wood demons were gnawing at fallen timbers. Now a great black crow, which had been brooding among dark firs and pines, startled by the footfall and sobs of the maiden, expanded his wings, and, with a harsh scream, rushed away, noisily, sending the life-blood with a leap to the girl's heart. Suddenly, before her far up on a hill-top a light appeared, ruddy and flickering. Maruschka, inspired with hope, made for it, scrambling up a rocky slope through deep snow-drifts. She reached the summit, and beheld a great fire. Around this fire were twelve rough stones, and on each stone sat a man. Three were grey-bearded, three were middle-aged, three were youths ; and the last three were the youngest and fairest. They spake not, but looked intently on the roaring flames. He who sat in the seat of honour had a long staff in his hand. His hair was white, and fluttering in the cold wind.
 
-Maruschka was startled, and watched them with astonishment for a little while ; then muster- ing courage, she stepped within the circle and said :
+Maruschka was startled, and watched them with astonishment for a little while ; then mustering courage, she stepped within the circle and said :
 
 ' Dear, good friends, please suffer me to warm myself a little while at the fire, for, indeed, I am perishing with cold.' He with the flowing white hair raised his head, and said 'Yes, child, approach. But what brings you here ? '
 
@@ -356,7 +357,7 @@ Maruschka was startled, and watched them with astonishment for a little while ; 
 
 'Brother March, take thou the pre-eminence.'
 
-Then the Month March sat himself on the chief stone, and waved his staff over the fire. Instantly the flames rushed up and blazed with greater brilliancy, the snow began to thaw, the hazel-bushes were covered with catkins, and glossy buds appeared on the beech. Green herbs thrust up through the moist soil, a primrose gleamed from a dusky bank, and a sweet fragrance of violets was wafted by on a gentle breeze. Under a bush, the ground was purple with their scented blossoms. ' Quick, Maruschka, pluck ! ' ordered March. The girl hastily gathered a handful. Then she cour- tesied to the twelve Months, thanked them cordially, and hurried home.
+Then the Month March sat himself on the chief stone, and waved his staff over the fire. Instantly the flames rushed up and blazed with greater brilliancy, the snow began to thaw, the hazel-bushes were covered with catkins, and glossy buds appeared on the beech. Green herbs thrust up through the moist soil, a primrose gleamed from a dusky bank, and a sweet fragrance of violets was wafted by on a gentle breeze. Under a bush, the ground was purple with their scented blossoms. ' Quick, Maruschka, pluck ! ' ordered March. The girl hastily gathered a handful. Then she courtesied to the twelve Months, thanked them cordially, and hurried home.
 
 Helena was amazed when her half-sister came with the bunch to the door. She opened it to her, and the house was filled with the delicious odour.
 
@@ -389,7 +390,7 @@ Then the one with the drifting white locks raised his head and said——
 
 ' Brother June, take thou the pre-eminence.'
 
-Then the Month June sat himself on the chief stone, and waved his staff over the fire. Instantly it glowed like molten gold, beams of glory streamed from it through the forest, and it shone like a sun resting on the earth. Overhead, the clouds flamed and curled in wreaths of light-tinted rose, carnation, and purple, athwart a sky blue as the forget-me-not. Every trace of snow vanished, and the earth was buried in green. The trees were covered with rustling leaves. Blue-bells gleamed under their shadows, and then died away. Red- robin blushed in tufts, and then shed its ragged petals. Wild roses burst into glorious flower, and the soft air was charged with the scent of the sweet-briar. From among the forest-glades called, in cool notes, a wood-dove. The thrush began to warble, and the blackbird to pipe. A bright-eyed squirrel danced among the fresh green leaves on the tree-tops. Beside a brown stone was a patch of sloping green. It was dotted with little white stars with golden hearts. Now the leaves drop off, and the hearts swell, and flush, and glow, and become crimson.
+Then the Month June sat himself on the chief stone, and waved his staff over the fire. Instantly it glowed like molten gold, beams of glory streamed from it through the forest, and it shone like a sun resting on the earth. Overhead, the clouds flamed and curled in wreaths of light-tinted rose, carnation, and purple, athwart a sky blue as the forget-me-not. Every trace of snow vanished, and the earth was buried in green. The trees were covered with rustling leaves. Blue-bells gleamed under their shadows, and then died away. Red-robin blushed in tufts, and then shed its ragged petals. Wild roses burst into glorious flower, and the soft air was charged with the scent of the sweet-briar. From among the forest-glades called, in cool notes, a wood-dove. The thrush began to warble, and the blackbird to pipe. A bright-eyed squirrel danced among the fresh green leaves on the tree-tops. Beside a brown stone was a patch of sloping green. It was dotted with little white stars with golden hearts. Now the leaves drop off, and the hearts swell, and flush, and glow, and become crimson.
 
 ' Quick, Maruschka, pluck ! ' said June. Then the girl joyfully hurried to the slope, and gathered an apronful of the luscious strawberries.
 
@@ -413,7 +414,7 @@ But her stepmother cried put, ' Run, Maruschka, fetch the apples as your sister 
 
 And she thrust her from the door into the cold winter night-air.
 
-The maiden hastened, sobbing, into the wood ; the snow lay deep, and nowhere was there a human footprint. The new moon glimmered in a clear sky, and sent its feeble beams into the forest deeps, forming little trembling, silvery pools of light, which appeared and vanished, and formed again. And a low wind whispered a great secret in the trees, but so faint was the tone that none could make out what it said. There was a little opening in the wood ; in the midst stood a grey wolf looking up at the moon and howling; but when Maruschka came near, it fled, and was lost among the shadows. The poor maiden shivered with cold, and her teeth chattered. Her lips were purple and her cheeks white ; and the tears, as they formed, froze on her long eyelashes. She would have sunk on a snow- drift and died, had she not seen, up high on a rugged hill-top, a blazing fire. Towards it she made her way, and found it to be the same she had seen before. Round about, solemn and silent, sat the Twelve, and the Ice Month was on the seat of honour, clasping the staff of power.
+The maiden hastened, sobbing, into the wood ; the snow lay deep, and nowhere was there a human footprint. The new moon glimmered in a clear sky, and sent its feeble beams into the forest deeps, forming little trembling, silvery pools of light, which appeared and vanished, and formed again. And a low wind whispered a great secret in the trees, but so faint was the tone that none could make out what it said. There was a little opening in the wood ; in the midst stood a grey wolf looking up at the moon and howling; but when Maruschka came near, it fled, and was lost among the shadows. The poor maiden shivered with cold, and her teeth chattered. Her lips were purple and her cheeks white ; and the tears, as they formed, froze on her long eyelashes. She would have sunk on a snow-drift and died, had she not seen, up high on a rugged hill-top, a blazing fire. Towards it she made her way, and found it to be the same she had seen before. Round about, solemn and silent, sat the Twelve, and the Ice Month was on the seat of honour, clasping the staff of power.
 
 ' Dear, good friends, please suffer me to warm myself a little while at the fire,' she asked, in supplicating tones ; ' for, indeed, I am perishing with cold.'
 
@@ -461,7 +462,7 @@ Helena struck her, and drove her to the kitchen. Then she tasted one of the appl
 
 'That is no business of yours,' answered Helena, sharply, over her shoulder.
 
-The Ice Month shook his head, and, raising his arm, waved the staff over the fire. Instantly the flames sank, and the fire was reduced to a glowing spark. The clouds rolled over the sky, and, bursting, discharged snow in such quantities that nothing was visible in earth and heaven but drifting white particles. An icy wind rumbled in the forest and roared round the hill. Helena fled. Everywhere white fleeting spots whirling, falling, rising, scudding! She ran this way, then that; she stumbled over a fallen log, she gathered her- self up and ran again ; then she plunged into a deep drift ; and the white cold down from the breast of heaven whirled and fell, and rose, and fleeted, and danced this side of her, and dropped here on her, and rested there on her, and lodged on this limb, and built up a white heap on that limb, then bridged over one fold and filled up another. She shook herself, and the particles fell off. But then they began theirwork again : they spangled her with white, they wove a white net, they filled up the interstices of her lace, they built a mound over her arm, they buried her foot, they raised a cairn above her bosom. Then they spun a dance around the white face which looked up at them, and began to whiten it still more ; lastly, they smoothed the sheet over her, and the work was done.
+The Ice Month shook his head, and, raising his arm, waved the staff over the fire. Instantly the flames sank, and the fire was reduced to a glowing spark. The clouds rolled over the sky, and, bursting, discharged snow in such quantities that nothing was visible in earth and heaven but drifting white particles. An icy wind rumbled in the forest and roared round the hill. Helena fled. Everywhere white fleeting spots whirling, falling, rising, scudding! She ran this way, then that; she stumbled over a fallen log, she gathered herself up and ran again ; then she plunged into a deep drift ; and the white cold down from the breast of heaven whirled and fell, and rose, and fleeted, and danced this side of her, and dropped here on her, and rested there on her, and lodged on this limb, and built up a white heap on that limb, then bridged over one fold and filled up another. She shook herself, and the particles fell off. But then they began theirwork again : they spangled her with white, they wove a white net, they filled up the interstices of her lace, they built a mound over her arm, they buried her foot, they raised a cairn above her bosom. Then they spun a dance around the white face which looked up at them, and began to whiten it still more ; lastly, they smoothed the sheet over her, and the work was done.
 
 The mother looked out of the window and wondered that Helena did not return. Hour after hour passed, and her daughter came not.
 
@@ -487,7 +488,7 @@ p17-27
 
 THE TWELVE MONTHS
 
-THERE was once a widow who had two daughters, Helen, her own child by her dead husband, and Marouckla, his daughter by his first wife. She loved Helen, but hated the poor orphan, because she was far prettier than her own daughter. Marouckla did not think about her good looks, and could not understand why her stepmother should be angry at the sight of her. The hardest work fell to her share ; she cleaned out the rooms, cooked, washed, sewed, spun, wove, brought in the hay, milked the cow, and all this with- out any help. Helen, meanwhile, did nothing but dress herself in her best clothes and go to one amusement after another. But Marouckla never complained; she bore the scoldings and bad temper of mother and sister with a smile on her lips, and the patience of a lamb. But this angelic behaviour did not soften them. They became even more tyrannical and grumpy, for Marouckla grew daily more beautiful, while Helen's ugliness increased. So the step- mother determined to get rid of Marouckla, for she knew that while she remained her own daughter would have no suitors. Hunger, every kind of privation, abuse, every means was used to make the girl's life miserable. The most wicked of men could not have been more mercilessly cruel than these two vixens. But in spite of it all Marouckla grew ever sweeter and more charming.
+THERE was once a widow who had two daughters, Helen, her own child by her dead husband, and Marouckla, his daughter by his first wife. She loved Helen, but hated the poor orphan, because she was far prettier than her own daughter. Marouckla did not think about her good looks, and could not understand why her stepmother should be angry at the sight of her. The hardest work fell to her share ; she cleaned out the rooms, cooked, washed, sewed, spun, wove, brought in the hay, milked the cow, and all this without any help. Helen, meanwhile, did nothing but dress herself in her best clothes and go to one amusement after another. But Marouckla never complained; she bore the scoldings and bad temper of mother and sister with a smile on her lips, and the patience of a lamb. But this angelic behaviour did not soften them. They became even more tyrannical and grumpy, for Marouckla grew daily more beautiful, while Helen's ugliness increased. So the step-mother determined to get rid of Marouckla, for she knew that while she remained her own daughter would have no suitors. Hunger, every kind of privation, abuse, every means was used to make the girl's life miserable. The most wicked of men could not have been more mercilessly cruel than these two vixens. But in spite of it all Marouckla grew ever sweeter and more charming.
 
 One day in the middle of winter Helen wanted some wood-violets.
 
@@ -535,7 +536,7 @@ Helen kept the flowers for herself and her mother; she did not even thank her st
 
 "Hold your tongue, worm; don't answer me; if I don't have my strawberries I will kill you."
 
-Then the stepmother pushed her into the yard and bolted the door. The unhappy girl made her way towards the moun- tain and to the large fire round which sat the twelve months. The great Setchène occupied the highest place.
+Then the stepmother pushed her into the yard and bolted the door. The unhappy girl made her way towards the mountain and to the large fire round which sat the twelve months. The great Setchène occupied the highest place.
 
 " Men of God, may I warm myself at your fire ? The winter cold chills me," said she, drawing near.
 
@@ -545,15 +546,15 @@ The great Setchène raised his head and asked :
 
 " I am looking for strawberries," said she.
 
-" We are in the midst of winter," replied Setchène ; " straw- berries do not grow in the snow."
+" We are in the midst of winter," replied Setchène ; " strawberries do not grow in the snow."
 
-"I know," said the girl sadly, "but my sister and step- mother have ordered me to bring them strawberries ; if I do not they will kill me. Pray, good shepherds, tell me where to find them."
+"I know," said the girl sadly, "but my sister and step-mother have ordered me to bring them strawberries ; if I do not they will kill me. Pray, good shepherds, tell me where to find them."
 
 The great Setchène arose, crossed over to the month opposite him, and putting the wand into his hand, said :
 
 "Brother Tchervene (June), do thou take the highest place."
 
-Tchervene obeyed, and as he waved his wand over the fire the flames leapt towards the sky. Instantly the snow melted, the earth was covered with verdure, trees were clothed with leaves, birds began to sing, and various flowers blossomed in the forest. It was summer. Under the bushes masses of star-shaped flowers changed into ripening strawberries. Be- fore Marouckla had time to cross herself they covered the glade, making it look like a sea of blood.
+Tchervene obeyed, and as he waved his wand over the fire the flames leapt towards the sky. Instantly the snow melted, the earth was covered with verdure, trees were clothed with leaves, birds began to sing, and various flowers blossomed in the forest. It was summer. Under the bushes masses of star-shaped flowers changed into ripening strawberries. Before Marouckla had time to cross herself they covered the glade, making it look like a sea of blood.
 
 " Gather them quickly, Marouckla," said Tchervene.
 
@@ -563,7 +564,7 @@ Joyfully she thanked the months, and having filled her apron ran happily home. H
 
 " Right up among the mountains ; those from under the beech trees are not bad."
 
-Helen gave a few to her mother and ate the rest herself; not one did she offer to her step-sister. Being tired of straw- berries, on the third day she took a fancy for some fresh red apples.
+Helen gave a few to her mother and ate the rest herself; not one did she offer to her step-sister. Being tired of strawberries, on the third day she took a fancy for some fresh red apples.
 
 "Run, Marouckla," said she, "and fetch me fresh red apples from the mountain."
 
@@ -605,7 +606,7 @@ Thanking the months, she returned joyfully. Helen marvelled and the stepmother w
 
 "May Perum smite you with his thunderbolt," said Helen, striking her.
 
-Marouckla prayed to die rather than suffer such ill-treat- ment. Weeping bitterly, she took refuge in the kitchen. Helen and her mother found the apples more delicious than any they had ever tasted, and when they had eaten both longed for more.
+Marouckla prayed to die rather than suffer such ill-treatment. Weeping bitterly, she took refuge in the kitchen. Helen and her mother found the apples more delicious than any they had ever tasted, and when they had eaten both longed for more.
 
 " Listen, mother," said Helen. " Give me my cloak ; I will fetch some more apples myself, or else that good-for-nothing wretch will eat them all on the way. I shall be able to find the mountain and the tree. The shepherds may cry ' Stop,' but I shall not leave go till I have shaken down all the apples."
 
@@ -646,11 +647,11 @@ THERE was once a woman who had two girls. One was her own daughter, the other a 
 
 Mother and daughter made Marushka do all the housework alone. She had to cook and wash and sew and spin and take care of the garden and look after the cow. Holena, on the contrary, spent all her time decking herself out and sitting around like a grand lady.
 
-Marushka never complained. She did all she was told to do and bore patiently their everlasting fault- finding. In spite of all the hard work she did she grew prettier from day to day, and in spite of her lazy life Holena grew uglier.
+Marushka never complained. She did all she was told to do and bore patiently their everlasting fault-finding. In spite of all the hard work she did she grew prettier from day to day, and in spite of her lazy life Holena grew uglier.
 
 " This will never do," the stepmother thought to herself. " Soon the boys will come courting and once they see how pretty Marushka is, they'll pay no attention at all to my Holena. We had just better do all we can to get rid of that Marushka as soon as possible."
 
-So they both nagged Marushka all day long. They made her work harder, they beat her, they didn't give her enough to eat, they did everything they could think of to make her ugly and nasty. But all to no avail. Marushka was so good and sweet that, in spite of all their harsh treatment, she kept on grow- ing prettier.
+So they both nagged Marushka all day long. They made her work harder, they beat her, they didn't give her enough to eat, they did everything they could think of to make her ugly and nasty. But all to no avail. Marushka was so good and sweet that, in spite of all their harsh treatment, she kept on growing prettier.
 
 One day in the middle of January Holena took the notion that nothing would do but she must have a bunch of fragrant violets to put in her bodice.
 
@@ -800,7 +801,7 @@ Helena and her stepmother were more surprised than ever to see Marushka coming t
 
 "I wish the lightning had struck you dead!' Holena sneered. " I've a good mind to beat you! "
 
-After a time the greedy Holena left off her scold- ing to eat one of the apples. It had so delicious a flavor that she declared she had never in all her life tasted anything so good. Her mother said the same. When they had finished both apples they began to wish for more.
+After a time the greedy Holena left off her scolding to eat one of the apples. It had so delicious a flavor that she declared she had never in all her life tasted anything so good. Her mother said the same. When they had finished both apples they began to wish for more.
 
 " Mother," Holena said, " go get me my fur cloak. I'm going up the mountain myself. No use sending that lazy little slattern again, for she would only eat up all the apples on the way home. I'll find that tree and when I pick the apples I'd like to see anybody stop me ! "
 
@@ -842,7 +843,7 @@ Still no answer.
 
 The snow fell fast. The icy wind moaned on.
 
-At home Marushka prepared the dinner and looked after the cow. Still neither Holena nor the step- mother returned.
+At home Marushka prepared the dinner and looked after the cow. Still neither Holena nor the step-mother returned.
 
 " What can they be doing all this time? " Marushka thought.
 
@@ -889,8 +890,9 @@ Holena.
 
 Holena sat around in idleness, while'Marushka had to cook, wash, spin, weave, bring grass and take care of the cow. She was willing to work, she didn't know why her mother hated her, but she bore reproaches with patience.
 
-At last the step-mother and her daughter thought only of how 'to get rid of poor Marushka. They tor- tured her with hunger, and beat her, but she endured it all and grew more beautiful each day.
-pne day, in the middle of winter, Holena pretended to want violets, and she said to Marushka, —
+At last the step-mother and her daughter thought only of how 'to get rid of poor Marushka. They tortured her with hunger, and beat her, but she endured it all and grew more beautiful each day.
+
+One day, in the middle of winter, Holena pretended to want violets, and she said to Marushka, —
 
 "Go to the woods and get me some violets. I want to put them in my belt and enjoy their perfume."
 
@@ -933,7 +935,7 @@ Holena and her mother were astonished when they saw Marushka coming with a large
 
 VVhere did you find them?" asked Holena. "On a hill f there are many of them under the trees." Holena took the violets, put them in her belt and enjoyed their perfume; she didn't offer even one of them to Marushka.
 
-The next day they sent Marushka for strawberries, Long she wandered around in the cold, praying God to take her out of the world; then she came to the Twelve Months and again met with a kind reception. Learn- ing what she wanted, December left his place and going to the month sitting just opposite, gave him the scepter, and said, — -. "Brother June, sit in the first place."
+The next day they sent Marushka for strawberries, Long she wandered around in the cold, praying God to take her out of the world; then she came to the Twelve Months and again met with a kind reception. Learning what she wanted, December left his place and going to the month sitting just opposite, gave him the scepter, and said, — -. "Brother June, sit in the first place."
 
 June sat in the highest place and waved the scepter above the fire; that instant the flames leaped high/the snow melted, the earth was covered with grass, the trees with leaves; the birds began to sing; many-colored flowers bloomed in the forest — Summer had come. Little white blossoms gleamed, like stars, in the grass, as if some one had put them there on purpose. Before Marushka's eyes the flowers became fruit, and the berries were ripe. She could not look around before the grass was dotted with them as if some one had sprinkled it with blood-drops.
 
@@ -968,10 +970,10 @@ The poor girl began to cry. Holena ate an apple; it seemed to her wonderfully sw
 She put on her cloak, tied a shawl over her head and; went out.
 The snow was deep, there was no trace of a human foot anywhere. She wandered long, and at last she came to the Twelve Months. Without asking leave Holena walked straight to the fire and began to warm her hands.
 
-"What do you want; why are you here?" asked De- cember, severely.
-"Why ask, old man? What business is it of ycjurs; where I am going?" answered Holena, and turned to go into the forest. December frowned and raised his scepter. That moment the fire died down, the heavens grew dark, snow fell in great flakes, as if some one were shaking feathers out of a tick; and a cutting, all-chilling wind whistled through the forest. Holena could not see one step before her ; she felt that her limbs were growing stiff. She cursed Marushka, and stumbled on.
+"What do you want; why are you here?" asked December, severely.
+"Why ask, old man? What business is it of yours; where I am going?" answered Holena, and turned to go into the forest. December frowned and raised his scepter. That moment the fire died down, the heavens grew dark, snow fell in great flakes, as if some one were shaking feathers out of a tick; and a cutting, all-chilling wind whistled through the forest. Holena could not see one step before her ; she felt that her limbs were growing stiff. She cursed Marushka, and stumbled on.
 
-The mother, waiting at home, looked through the win- dow, and ran to the gate ; but hours passed by, one after another, and no Holena came.
+The mother, waiting at home, looked through the window, and ran to the gate ; but hours passed by, one after another, and no Holena came.
 
 "Most likely she found the apples so good that she can't stop eating them. I'll go myself and look for her," said the mother.
 She put on her cloak, threw a shawl over her head and went in search of her daughter.
