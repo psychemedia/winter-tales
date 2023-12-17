@@ -11,7 +11,7 @@ Here's the gist of the tale:
 The original tale can be found in a couple of 15th century manuscripts in Middle English.
 
 ```{admonition} Pronunciation
-I keep vacillating on this... The name may be spelled "Cleges" or "Clegys". AFter discussion with Prf. Richard D. Brown, I think I am settled on "Clegg-iz", but reserve the rights, as was apparaently the custom at the time, to vary the pronunciation as appropriate, which might variously allow *Clegg-iss*, "Cledjizz" and variants of "Clee-jiss".
+I keep vacillating on this... The name may be spelled "Cleges" or "Clegys". After discussion with Prof. Richard D. Brown, I think I am settled on "Clegg-iz", but reserve the rights, as was apparaently the custom at the time, to vary the pronunciation as appropriate, which might variously allow *Clegg-iss*, "Cledjizz" and variants of "Clee-jiss".
 
 I also need to learn to read and write IPA, the International Phonetc Alphabet!
 ```
