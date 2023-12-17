@@ -450,8 +450,8 @@ As they were to mete dyght,
 Anon the sothe to say.  
 In Sir Cleges thowght to goo ;  
 But in pore clothyng was he tho,  
-And in sympull araye. 
-The porter seyd full hastyly, 
+And in sympull araye.  
+The porter seyd full hastyly,  
 " Thou chorle, withdrawe thè smertly,  
 " J rede thè, without delaye !
 
@@ -473,12 +473,12 @@ And the led vppe he hentt ;
 The cheryse he gan behold.  
 Will he wyst for his comyng  
 Wyth that present to the kyng,  
-Gret yeftes haue he schuld. 
+Gret yeftes haue he schuld.  
 " Be hym, he seyd, that me bowght,  
 " Into thys place comste thou nott,  
 " As J am man of mold,  
 " The thyrde part but thou graunte me  
-" Of that the kyng will yeve thè, 
+" Of that the kyng will yeve thè,  
 " Wethyr yt be syluer or gold !"
 
 Sir Cleges seyd, " J asent."  
@@ -528,7 +528,7 @@ And seyd, " Ho made thè soo hardi
 " To com into ihys stede ?  
 " Chorle, he seyd, thou art to bold !  
 " Wythdrawe thè with thy clothys olde  
-Smartly, J thè rede !" 
+Smartly, J thè rede !"  
 " J haue, he seyd, a present browght  
 " From our Lord that vs dere bowght,  
 " And on the rode gan blede."
@@ -548,7 +548,7 @@ The styward seyd, " Be Mari dere,
 
 Sir Cleges bethowght hym than,  
 " My part ys lest betwyxt thes men,  
-" And J schall haue nothynge ; 
+" And J schall haue nothynge ;  
 " For my labor schall J nott get  
 " But yt be a melys mete."  
 Thus he thought syynge.  
@@ -559,8 +559,8 @@ He seyd, " Harlot, hast noo tonge ?
 " That thy rebys schall all to-quake,  
 " And put thè out hedlynge." 
 
-Sir Cleges sey non othyr bote, 
-But his askyng graunte he most, 
+Sir Cleges sey non othyr bote,  
+But his askyng graunte he most,  
 And seyd with syynge sore :  
 " Whatsoeuer the kypg reward,  
 " Ye schall haue the thyrd part,  
@@ -635,7 +635,7 @@ Than aunsswerd Hewtar the kynge :
 " That J to thè made.  
 " Good, he seyd, so mott J thee  
 " Thowe haddyst be belter haue gold or fee ;  
-" More nede therto thou hade." 
+" More nede therto thou hade."  
 Sur Cleges seyd, with a waunt,  
 " Lord yt ys your owyn graunte,  
 " Therfore J am full glade."  
@@ -645,7 +645,7 @@ Therefore he was full sade.
 
 Sir Cleges went into the hall,  
 Among the gret lordes all,  
-Without any more. 
+Without any more.  
 He sowght after the prowghd styward,  
 For to yeve hym hys reward,  
 Becavse he grevyd hym sore.  
@@ -741,9 +741,9 @@ The kynge seyd to hym than,
 " My ryght name yt ys, i-wysse ;  
 " J was your owyn knyght"—  
 " Art thou Sir Cleges, that servyd me,  
-" That was soo jentyll and soo fre, 
+" That was soo jentyll and soo fre,  
 " And so stronge on fyght ?"—  
-" Ye, sir, lord, he seyd, so mott J thee, 
+" Ye, sir, lord, he seyd, so mott J thee,  
 " Tyll God in hevyn had vesyte me :  
 " Thus pouerte haue me dyght."
 
@@ -1811,7 +1811,7 @@ By that his good began to slake
 For the great feasts that he did make,  
 The knight gentil of blood.
 
-To hold the feast he would not let, `[Let, hinder or stop.]` 
+To hold the feast he would not let, `[Let, hinder or stop.]`  
 His manors he did to wed `[Wed, pledge; the sense in the word wedding]` set ;  
 He thought them out to quite; `[Quite, obtain quittance, redeem.]`  
 Thus he feasted many a year  
@@ -2014,17 +2014,17 @@ Neither steede nor palfrey,
 But a staff was his hachney,  
 As man in povertie.
 
-Sir Cleges and his sone gent
+Sir Cleges and his sone gent  
 The righte way to Cardiff went  
 Upon Christmas-day  
 To the castle he came full right  
 As they were to meate dight,  
-Anon, the sooth to say.
+Anon, the sooth to say.  
 In Sir Cleges thought to go;  
 But in poor clothing was he tho, `[Tho, (First English " tha "), then.]`  
 And in simple array.  
 The Porter said full hastily,  
-"Thou ehurl, withdraw thee smartly, `[Smartly: see note 15, page 26. So in "As You Like It," "The parts and graces of the wrestler."]`  
+"Thou churl, withdraw thee smartly, `[Smartly: see note 15, page 26. So in "As You Like It," "The parts and graces of the wrestler."]`  
 I rede `[Rede (First English "raedan," past "réd"), advise. "Raedan" to read, discern, rule, made its past " raedde."]` thee, without delay.
 
 " Ellés, by Heaven and Saint Mary,  
