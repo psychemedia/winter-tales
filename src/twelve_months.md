@@ -32,11 +32,11 @@ One day in the middle of January, Katinka took a fancy for some violets. She cal
 
 " Oh, sister, what an idea !" answered Dobrunka ; " as if there were any violets under the snow !"
 
-" Hold your tongue, stupid fool," returned her sister, " and do as I bid you.' If you do not go to the forest and bring me back a bunch of violets, I will beat you to a jelly." Upon this, the mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
+" Hold your tongue, stupid fool," returned her sister, " and do as I bid you. If you do not go to the forest and bring me back a bunch of violets, I will beat you to a jelly." Upon this, the mother took Dobrunka by the arm, put her out of the door, and drew the bolt on her.
 
 The poor girl went to the forest weeping bitterly. Every thing was covered with snow ; there was not even a foot-path. She lost her way, and wandered about till, famishing with hunger and perishing with cold, she entreated God to take her from this wretched life.
 
-All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motionless figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
+All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motion- less figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the; sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
 
 Dobrunka knew January by his long white beard. He was the only one that had a staff in his hand. The poor girl was terribly frightened. She drew near, saying, in a timid voice, " My good sirs, please to let me warm myself by your fire ; I am freezing with cold."
 
@@ -50,7 +50,7 @@ January nodded his head. "Why have you come here, my, child ?" he asked. " What 
 
 ![](images/twelve_months_laboulaye.jpg)
 
-March rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the buds put forth on the trees, the grass turned green under the bushes, the flowers peeped through die verdure, and the violets opened — it was spring.
+March rose in turn, and stirred the fire with the staff, when behold ! the flames rose, the snow melted, the buds put forth on the trees, the grass turned green under the bushes, the flowers peeped through the verdure, and the violets opened — it was spring.
 
 "Make haste, my child, and gather your violets," said March.
 
@@ -76,7 +76,7 @@ The poor girl returned to the forest, looking with all her eyes for the light th
 
 The Twelve Months were in their places, motionless and silent.
 
-"My good sirs," said Dobrunka, " please to let me warm myself by your fire ; I am almost frozen with cold."
+ My good sirs," said Dobrunka, " please to let me warm myself by your fire ; I am almost frozen with cold."
 
 "Why have you returned?" asked January. "What are you looking.for ?"
 
@@ -84,7 +84,7 @@ The Twelve Months were in their places, motionless and silent.
 
 " This is not the season for them," returned January, in his gruff voice ; " there are no strawberries under the snow."
 
-" I know it," repUed Dobrunka, sadly ; " but my mother and sister will beat me to a jelly if I do not bring them some. My good sirs, please to tell me where I can find them."
+" I know it," replied Dobrunka, sadly ; " but my mother and sister will beat me to a jelly if I do not bring them some. My good sirs, please to tell me where I can find them."
 
 Old January rose, and, turning to a man in a golden mantle, he put his staff in his hand, saying, " Brother June, this is your business."
 
@@ -151,7 +151,6 @@ Dobrunka lived to a good old age, always virtuous and happy, having, according t
 ```
 
 The same translation was also republished in *Library of the world's best literature, ancient and modern*, 1896, [p8749-8754](https://archive.org/details/worldsbestlitera15warn/page/8748/mode/2up).
-
 
 The earliest version I have found as an explicit translation of Nemcova's tale is in a collection of *Czech folk tales* by Josef Baudis published in 1917:
 
@@ -310,7 +309,7 @@ Her mother was waiting for Holena ; she kept on looking out for her, first at th
 
 Marusa had cooked the dinner, she had seen to the cow, and yet Holena and her mother did not come back. " Where are they staying so long ? " thought Marusa, as she sat down to work at the distaff. The spindle was full already and it was quite dark in the room, and yet Holena and the stepmother had not come back.
 
-"Alas, Lord! what has come to them?" cried MaruSa, peering anxiously through the window. The sky was bright and the earth was all glittering, but there wasn't a human soul to be seen. . . . Sadly she shut the window ; she crossed herself, and prayed for her sister and her mother. ... In the morning she waited with breakfast, she waited with dinner ; but however much she waited, it was no good. Neither her mother nor her sister ever came back. Both of them were frozen to death in the forest.
+"Alas, Lord! what has come to them?" cried Marusa, peering anxiously through the window. The sky was bright and the earth was all glittering, but there wasn't a human soul to be seen. . . . Sadly she shut the window ; she crossed herself, and prayed for her sister and her mother. ... In the morning she waited with breakfast, she waited with dinner ; but however much she waited, it was no good. Neither her mother nor her sister ever came back. Both of them were frozen to death in the forest.
 
 So good Marusa inherited the cottage, a piece of ploughland and the cow. She married a kind husband, and they both lived happily ever after.
 
@@ -890,9 +889,8 @@ Holena.
 
 Holena sat around in idleness, while'Marushka had to cook, wash, spin, weave, bring grass and take care of the cow. She was willing to work, she didn't know why her mother hated her, but she bore reproaches with patience.
 
-At last the step-mother and her daughter thought only of how 'to get rid of poor Marushka. They tortured her with hunger, and beat her, but she endured it all and grew more beautiful each day.
-
-One day, in the middle of winter, Holena pretended to want violets, and she said to Marushka, —
+At last the step-mother and her daughter thought only of how 'to get rid of poor Marushka. They tor- tured her with hunger, and beat her, but she endured it all and grew more beautiful each day.
+pne day, in the middle of winter, Holena pretended to want violets, and she said to Marushka, —
 
 "Go to the woods and get me some violets. I want to put them in my belt and enjoy their perfume."
 
