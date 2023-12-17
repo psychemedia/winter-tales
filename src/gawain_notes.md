@@ -1,5 +1,6 @@
+# Gawain and the Green Knight
 
-*Based on Simon Armitage's 2007 translation.*
+*Based on Simon Armitage's 2007 translation. Oiginal peparation notes for tellings at Babushka Books, Shanklin, December, 2023, and various partial practice tellings in folk nights at Dairyman's Daughter, Arreton, and The Waverley, Carisbrooke, prior to that.*
 
 *Notes include possible break points for telling in episodic form.*
 
@@ -500,4 +501,3 @@ And so it was, and so it is, and so we come to the end our of tale. Of Camelot, 
 *For honest is he who shows penance.*
 
 And that is the end of the tale, and of our set for tonight.
-

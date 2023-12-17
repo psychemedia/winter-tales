@@ -7,6 +7,7 @@ parts:
 - caption: Medieval Tales
   chapters:
   - file: sir-cleges-winter-cherries
+  - file: gawain_notes
 - caption: Additional Storynotes Collections
   chapters:
   - file: elsewhere
