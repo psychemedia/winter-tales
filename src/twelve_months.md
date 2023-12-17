@@ -36,7 +36,7 @@ One day in the middle of January, Katinka took a fancy for some violets. She cal
 
 The poor girl went to the forest weeping bitterly. Every thing was covered with snow ; there was not even a foot-path. She lost her way, and wandered about till, famishing with hunger and perishing with cold, she entreated God to take her from this wretched life.
 
-All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motion- less figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the; sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
+All at once she saw a light in the distance. She went on, climbing higher and higher, until at last she reached the top of a huge rock, upon which a great fire was built. Around the fire were twelve stones, and on each stone sat a motionless figure, wrapped in a large mantle, his head covered with a hood which fell over his eyes. Three of these mantles were white like the snow, three were green like the grass of the meadows, three were golden like the; sheaves of ripe wheat, and three were purple like the grapes of the vine. These twelve figures, gazing at the fire in silence, were the Twelve Months of the year.
 
 Dobrunka knew January by his long white beard. He was the only one that had a staff in his hand. The poor girl was terribly frightened. She drew near, saying, in a timid voice, " My good sirs, please to let me warm myself by your fire ; I am freezing with cold."
 
@@ -889,7 +889,7 @@ Holena.
 
 Holena sat around in idleness, while'Marushka had to cook, wash, spin, weave, bring grass and take care of the cow. She was willing to work, she didn't know why her mother hated her, but she bore reproaches with patience.
 
-At last the step-mother and her daughter thought only of how 'to get rid of poor Marushka. They tor- tured her with hunger, and beat her, but she endured it all and grew more beautiful each day.
+At last the step-mother and her daughter thought only of how 'to get rid of poor Marushka. They tortured her with hunger, and beat her, but she endured it all and grew more beautiful each day.
 pne day, in the middle of winter, Holena pretended to want violets, and she said to Marushka, —
 
 "Go to the woods and get me some violets. I want to put them in my belt and enjoy their perfume."
