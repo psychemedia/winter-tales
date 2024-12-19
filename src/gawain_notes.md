@@ -1,6 +1,6 @@
 # Sir Gawain and the Green Knight
 
-*Based on Simon Armitage's 2007 translation. Oiginal peparation notes for tellings at Babushka Books, Shanklin, December, 2023, and various partial practice tellings in folk nights at Dairyman's Daughter, Arreton, and The Waverley, Carisbrooke, prior to that.*
+*Based on Simon Armitage's 2007 translation. Original preparation notes for tellings at Babushka Books, Shanklin, December, 2023, and various partial practice tellings in folk nights at Dairyman's Daughter, Arreton, and The Waverley, Carisbrooke, prior to that.*
 
 *Notes include possible break points for telling in episodic form.*
 
@@ -406,7 +406,7 @@ __Back on the hunt,__ in the forest, the Lord and his men are still being led a 
 
 As the night draws in, they set off back home. Barely has the Lord had time to entered the hall before Gawain jumps up from beside the fire and strides purposefully towards him, grabs his great big red bushy beard and kisses him three times.
 
-"By God, you've had some luck today":, says the Lord. "And all I have in return is this stinking fox", and he drops it to the floor.
+"By God, you've had some luck today", says the Lord. "And all I have in return is this __stinking fox__", and he drops it to the floor.
 
 And with that, their game is over. The food is brought, but it's a quieter night than the nights before. In place of the singing, and the dancing, many more tales were told, *and if I had the time I would tell some of them to you now, but I'm afraid I don't, so I won't. But if you come again, maybe...* And eventually, it's time for bed. Gawain thanks the Lord for his generosity, and checks again that someone will lead him to the Green Chapel in the morning. And with that agreed, Gawain takes his leave; and with a heavy he heart, he thanks the other guests too, for their hospitality, for making him so welcome, and they thank him in return.
 
