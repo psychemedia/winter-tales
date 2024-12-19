@@ -293,9 +293,9 @@ Publication date 1898
 Also a second edition of 1903
 https://archive.org/details/SirGawainAndTheGreenKnightWeston1903/page/n23/mode/2up
 
-This is the second edition version
+This is the second edition version.
 
-After the siege and the Of the assault of Troy, when that burg was destroyed and burnt to ashes, and the traitor tried for his treason, the noble AEneas and his kin sailed forth to become princes and patrons of well-nigh all the Western Isles. Thus Romulus built Rome (and gave to the city his own name, which it bears even to this day); and Ticius turned him to Tuscany; and Langobard raised him up dwellings in Lombardy ; and Felix Brutus sailed far over the French flood, and founded the kingdom of Britain, wherein have been war and waste and wonder, and bliss and bale, oft-times since.
+After the siege and the assault of Troy, when that burg was destroyed and burnt to ashes, and the traitor tried for his treason, the noble AEneas and his kin sailed forth to become princes and patrons of well-nigh all the Western Isles. Thus Romulus built Rome (and gave to the city his own name, which it bears even to this day); and Ticius turned him to Tuscany; and Langobard raised him up dwellings in Lombardy ; and Felix Brutus sailed far over the French flood, and founded the kingdom of Britain, wherein have been war and waste and wonder, and bliss and bale, oft-times since.
 
 And in that kingdom of Britain have been wrought more gallant deeds than in any other ; but of all British kings Arthur was the most valiant, as I have heard tell, therefore will I set forth a wondrous adventure that fell out in his time. And if ye will listen to me, but for a little while, I will tell it even as it stands in story stiff and strong, fixed in the letter, as it hath long been known in the land.
 
@@ -724,9 +724,48 @@ by Cox, John Harrington, 1863-1945
 
 Publication date 1910
 
-
 ---
 
+https://archive.org/details/bib_fict_2517737/page/3/mode/1up
+
+Syr Gawayne; a collection of ancient romance-poems, by Scotish and English authors, relating to that celebrated knight of the Round Table, with an introduction, notes, and a glossary. 
+
+Frederic Madden, 1839
+
+pp. 1-92
+
+SYR GAWAYN AND THE GRENE KNY3T.
+
+[Version in Middle English.]
+
+Includes illustrative plates, eg p. 18-9, 44-5, 82-3, 90-1,
+
+---
+https://archive.org/details/cu31924072606613/page/n99/mode/2up
+
+The Legend of Sir Gawain; studies upon its original scope and significance
+
+Weston, Jessie Laidlay, 1850-1928
+
+Publication date 1897
+
+summary, p85-88
+
+As the story, while it preserves with singular fidelity its archaic character, is yet given at greater length, and with more elaboration, in the English poem than in the other versions, we will first consider the adventure as there related, and then compare the other accounts with it, thus endeavouring to discover what were the original features of the story, and who was its earliest hero.
+
+The poem, as given by Sir F. Madden in his Sir Gawayne, is printed from a ms., believed to be unique, in the Cottonian collection. From internal evidence it appears to have been written in the reign of Richard ii., i.e. towards the end of the fourteenth century, though it may have been composed somewhat earlier ; and the authorship has been ascribed to the Scottish poet, Huchown, whose Morte d' Arthur, preserved in the Lincoln Library, was used, among other romances, by Malory in his compilation. `[ Cf. Madden, Sir Gawayne, p. 299 et seq. Mr. GoUancz, on the other hand, assigns the poem to the author of Pearl and other middle English alliterative poems of a didactic character, and regards the whole group as belonging to the West-Midland district, i.e. to the borderland between the English- Welsh-speaking lands. See his edition of *Pearl*, London, 1892.]`
+
+The story is as follows : — On a New Year's Day, while Arthur is keeping his Christmas feast at Camelot, a gigantic knight, clad in green, mounted on a green horse, and carrying in one hand a holly bough, and in the other a 'Danish' axe, enters the hall and challenges one of Arthur's knights to stand him * one stroke for another.' If any accept the challenge he may strike the first blow, but he must take oath to seek the Green Knight at a twelvemonths' end and receive the return stroke. Seeing the gigantic size and fierce appearance of the stranger the knights hesitate, much to Arthur's indignation. Finally Gawain accepts the challenge, and, taking the axe, smites the Green Knight's head from the body. To the dismay of all present the trunk rises up, takes up the head, and, repeating the challenge to Gawain to meet him on the next New Year's morning at the Green Chapel, rides from the hall.
+
+Faithful to his compact, Gawain, as the year draws to an end, sets forth amid the lamentations of the court to abide his doom, which all look upon as inevitable. He journeys north, and on Christmas Eve comes to a castle, where the lord receives him kindly, tells him he is within easy reach of his goal, and bids him remain over the feast as his guest. Gawain accepts. The three last days of the year the host rides forth on a hunting expedition, leaving Gawain to the care of his wife, and making a bargain that on his return they shall mutually exchange whatever they have won during the day. Gawain is sorely tempted by the wiles of his ho stess, who, during her lord's absen ce, would fain take advantageof Gawain's well-known courtesy and fam e as a loier.. But h^turns a deaf ear to her blandishments, and only a kiss passes between them, which he, in fulfilment of his compact, passes on to the husband on his return. The next day the result is similar : Gawain receives and gives two kisses. The third day, besides three kisses, the lady gives him a green lace, which, if bound round the body, has the property of preserving from harm. In view of the morrow's ordeal, from which Gawain does not expect to escape with his life, he cannot make up his mind to part with this talisman, but gives his host the kisses, and says nothing about the lace. The following morning at daybreak he rides forth, and comes to the Green Chapel, apparently a natural hollow, or cave, in a wild and desolate part of the country. The Green Knight appears, armed with his axe, and bids Gawain kneel to receive the blow. As the axe descends , Gawain instinctively flinches, and is rebuked for his cowardice by the knight, who tells him he cannot be Gawain. The second time he remains steady, but the axe does not touch him. The third time the knight strikes him, inflicting a slight cut on the neck.
+
+Gawain promptly springs to his feet, drawing his sword, and announces that he has now stood 'one stroke for another,' and that the compact is at an end ; whereon the Green Knight reveals himself as his erewhile host. He was cognisant of his wife's dealings with Gawain; the three strokes equalled the three trials of his guest's fidelity, and, had not Gawain proved partially faithless to his compact by concealing the gift of the lace, he would have escaped unharmed. The name of the Green Knight is Bernlak de Hautdesert, and he had undertaken this test of Gawain's valour at the instance, and by help of the skill, of Morgan le Fay, who desired to vex Guinevere by shaming the Knights of the Round Table.
+
+Gawain returns to court, tells the whole story, concealing nothing, and all the knights vow henceforward to wear a green lace in his honour.
+
+This is a summary of the wild and fantastic story, the origin of which Sir F. Madden believed he had discovered in the first continuation (by Gautier de Doulens) of Chretien's Conte del Graal. But this theory, though at first favourably received, cannot, we think, be maintained.
+
+---
 
 For the original Middle English poem, Richard Morris' *Sir Gawayne and the Green Knight*, 1864, has the advantage of already being [transcribed](https://www.gutenberg.org/cache/epub/14568/pg14568.txt) by the Gutenberg Project.
 
@@ -736,6 +775,76 @@ by Morris, Richard, 1833-1894
 
 Publication date 1864
 
+---
+
+Exeter Riddles https://en.wikisource.org/wiki/Anglo-Saxon_Riddles_of_the_Exeter_Book
+
+---
+https://archive.org/details/arthurofalbion0000rwba/page/96/mode/2up?q=GAWAIN
+
+arthur of albion
+by r.w. barber
+
+Publication date 1873
+
+
+...
+
+Yet the first of the poems of which he is hero, Sir Gawain and he Green Knight, is the most superb accomplishment of this artificial literature, the only great Middle English Arthurian work, and one of the great masterpieces of the poetry of this period as a whole, both in its treatment of the subject-matter and in the strength of its style and imagery, which represents the climax of English alliterative poetry. ‘The unique manuscript? contains in addition three other poems of the same period, by the same writer; all are in West Midland dialect with a strong Scandinavian influence, which is at its most marked in Sir Gawain and the Green Knight. This seems to have been the earliest of the four, written between 1370 and 1390. One critic believes it to have been commissioned by John of Gaunt,? and there is strong evidence for the connection, if not for the actual commission. The identity of the unknown genius has long been a matter for debate. No suggestion yet put forward has gained more than a handful of supporters, and as usual in such cases attempts have been made to find internal evidence in the shape of puns, and even numerological evidence,* which will reveal the identity of its author. All that can be said with certainty about the writer is that he was well acquainted with courtly life, could read Latin and French, and was probably a scholar of some merit. He might well have been, or have become, as the tone of his later poems suggests, a clerk in minor orders.
+
+The poem opens with an account of the founding of Britain, and tells us that Arthur was the greatest and most honoured of Britain’s kings. The story proper then begins. Arthur is at _ Camelot one Christmastide, and on New Year’s Day, in accordance with his custom, does not eat until some adventure has taken place. Soon a gigantic knight appears, entirely clad in green, and riding a green horse. He demands to see Arthur, who asks him what he wants. The knight has a bargain to propose: any of Arthur’s knights who is bold enough to strike off his head with the axe he has brought, may do so, provided that he accepts a return blow in a year’s time. None of the knights comes forward, and the Green Knight taunts them with cowardice. Arthur angrily leaps forward to take up the challenge himself, but Gawain restrains him, and asks permission to undertake the adventure himself. Arthur grants it, and Gawain beheads the Green Knight. To the astonishment of all, the latter picks up his head, which admonishes Gawain to meet him at the Green Chapel in a year’s time, and gallops away with it under his arm.
+
+Next All-Hallows day, Gawain is armed in preparation for his departure in search of the mysterious trysting-place. He rides through the kingdom of Logres to North Wales, and eventually reaches the wilderness of Wirral, by way of Anglesey, Holyhead and the coast. By now it is Christmas, and he finds himself in a vast, dreary forest. He kneels down and prays, and shortly afterwards comes to a splendid castle, where he finds the desired shelter for the night, and learns that the Green Chapel is but a few miles away. The lord of the castle invites him to remain until the New Year, which is in three days’ time. He also proposes a bargain; he will go hunting on these three days, and Gawain shall remain at the castle with his wife. At the end of each day they will exchange their spoils.
+
+The hunts take place with due ceremony; and meanwhile the lady visits Gawain each morning while is is still lying in bed and tempts him to be unchaste with her in her lord’s absence. He, however, turns aside her advances with courteous but artful speeches. At the end of each day, Gawain and the lord duly exchange their day’s winnings: Gawain gives one kiss for several deer on the first day, and two kisses for a boar on the second. However, on the third day, the lady gives him a magical green lace girdle which protects the wearer from all harm, and three kisses as well; but Gawain keeps this and gives the lord only the three kisses, for which he receives a fox’s skin. He has thus broken the agreement.
+
+Early next morning, Gawain makes his way to the Green Chapel with one of the lord’s servants, who warns him of the fearful strength of the Green Knight and advises him to turn back. Gawain refuses, but, finding the Green Chapel deserted,
+
+is about to go, when he hears the sound of an axe being whetted, and discovers the Green Knight preparing for the encounter. Gawain bows to receive the blow, but the Green Knight accuses him of flinching when he lifts the axe. He promises to keep still, and the Green Knight lifts the axe again, but lowers it without striking. Finally he lifts it again and lets it fall in such a way that it slightly grazes Gawain’s neck. He then reveals that he is the lord of the castle at which Gawain had stayed, and that his wife had tempted Gawain in accordance with his instructions. The two feints were in payment for the kisses, and the graze was for the magic lace which he had kept against the terms of the bargain. Gawain is ashamed at being found out, and offers to give back the lace, but is made to keep it and wear it in memory of his disgrace. The Green Knight tells him that his name is Bernlak de Hautdesert, and that it was Morgan le Fay who had arranged the adventure in order to prove the Round Table and to frighten Guinevere. Gawain returns to Arthur’s court, and, although much embarrassed, relates his adventures. 'The king decrees that all knights of the Round Table shall wear a green baldric in memory of the adventure.
+
+In this tale there are two distinct parts which have been skilfully welded into one. The Green Knight’s challenge to Gawain is an example of a Celtic episode that we may call the Beheading Game. The approaches of the hostess at the castle, are the other part, the ‘Temptation. Both incidents are of great age and have a long pedigree. In the case of the Beheading Game, the earliest form of the story is to be found in the Irish epic Fled Bricrend (Bricreu’s Feast), in which it is part of the contest for the championship of Ulster, with Cuchullinn as its hero. Even here it occurs twice in variant forms, and must have come from an earlier recited version of about the eighth century, for the tale is considerably older than the written form, and the manuscript dates from the tenth century. From Ireland it passed to France, possibly via Wales and Brittany, and by comparing the details of the stories in which it is found, we can reconstruct the original ranslation. Three French romances made use of this; in two cases Gawain is the hero, in the other, it is Lancelot. A second version must have been made, for the Beheading Game is found in the Livre de Carados in a rather different form which is nearer to that in Sir Gawain and the Green Knight. 'The basic elements in all cases are a supernatural being who is beheaded without apparent harm and who returns his half of the bargain with a harmless blow.®
+
+The Temptation story is similarly Celtic in origin, the nearest parallel being found in Pwyll, one of the stories in the Welsh Mabinogi. This presents three major points of resemblance: the noble huntsman introduces the hero as a guest, a temptation scene in which the huntsman’s wife is rejected by the hero, and, more incidental, a year’s interval between a related challenge incident and its sequel. The huntsman is also the same colour as his horse, in this case grey; in the English poem both are green.® We have also two French stories from a similar original; the first, in the romance Yder, differs considerably from the other group, for here the hero repulses the temptress physically and handles her roughly. This probably represents one of two Irish versions; the other is the source of the incident in Sir Gawain and the Carl of Carlisle, in which the host puts Gawain into his wife’s bed, orders him to kiss her three times, but forbids him to go further. In reward for his obedience he is given the host’s daughter. This, however, belongs to the group of Imperious Host stories in which obedience is the crucial factor. The other French parallel, in the Chevalier a l’ Epée, is confused by the introduction of other features such as the Enchanted Bed, which kills anyone who sleeps in it. A third person, in the German Lanzelet, has a temptress acting of her own free will whose advances are accepted. We possess no clear-cut line of descent here as in the case of the Beheading Game, but thereseems to have been a French story of this type current which was used by the poet of Sir Gawain and the Green Knight.
+
+When these two stories, the Beheading Game and Temptation, were combined, has long been disputed. One school of thought favours a lost French original containing both; the other argues that a poet of the stature of the author of Sir Gawain and the Green Knight would be perfectly capable of making such a fusion. Let us for the moment accept the latter view; but fortunately the poem’s merit is in no way dependent on it. Whoever did make the two stories one was a brilliant sculptor of poetic form; for the outcome of one half is made to depend on the other with extreme subtlety. The crux is the exchange of spoils during the three days’ hunting, which provides a motive for the slight blow given to Gawain by the Green Knight, for he has broken the agreement by concealing the green lace instead of giving it in exchange for the fox’s skin. Thus, while the Temptation arose naturally enough out of the Challenge, yet this addition makes the issue of the Challenge depend on the outcome of the Temptation. But such subtlety of plot must be matched by the verse and language if the poem is to succeed. And here at last is a poet writing an Arthurian romance who is capable of the task. The alliterative verse in his hands is a tool adapted to any purpose he cares to turn it to. Everything descriptive is material for a small masterpiece; the loving portrayal of the Green Knight’s axe
+
+‘A spetos sparthe to expoun in spelle who might’ The hede of an elnyarde _ the large lenkthe hade, The grain al of grene stele and of golde hewen, The bit burnist bright with a brode edge As wel shapen to schere as sharp rasores.
+
+The stele of a stif staf the sturne hit bi gripte That was wounden with iron to the wandes ende, And al bigraven with grene in gravios werkes.*
+
+and of the arming of Gawain before he departs on his quest for
+
+* “Tet he who will set forth in verse the fine points of a battle-axe’; The head was a full yard in length, the sides of green steel decorated with gold; the edge was burnished and broad, as well shaped for cutting as sharp rasors. The shaft was a strong staff, its handle bound with iron to the foot, and skilfully engraved in green... 
+
+the Green Chapel, are but two examples. But the greatest passages are those in which the poet depicts Nature and her ways. The two verses at the opening of the second part describe the changing seasons between Christmas and Michaelmas; they alone surpass all conventional attempts at such poetry. But they are followed by the harsh weather that Gawain encounters on his northward journey, where in the sound of the words and the rugged rhythms is captured the very spirit of winter. The northern countryside in which the poet lived rises up before us in its most severe and impressive beauty. Across this background sweep past the three days’ hunting; and few poets have caught the atmosphere of the chase so exactly; days of exhilaration, danger, triumph, and noble ritual, and at the end of each a homecoming to a warm welcome and a blazing fire when the last horn has been blown. On the day of the tryst at the Green Chapel, the countryside seems grim once more; the hills are mist-mantled, there is hoar frost in the oakwoods, snow in the valleys. But possibly the finest picture of all is that of Gawain lying awake on New Year’s Day, waiting for dawn and listening to the gale outside:
+
+“Now neghes the New Yere and the night passes, The day drives to the derk as Drighten biddes; Bot wilde wederes of the worlde wakned theroute, Cloudes kesten kenly _ the colde to the erthe, With nighe innoghe of the northe, the naked to tene; The snawe snitered ful snart, that snayped the wilde; The werbelande winde wapped fro the highe, And drof eche dale ful of driftes ful grete. The leude listened ful wel that ley in his bedde, Thagh he lowkes his liddes, _ ful littel he slepes; Bi ech kok that crue _ he knew wel the steven.’*
+
+* Now the New Year draws near, and the night passes; drives daylight off darkness, as our Lord ordained. But the world outside was full of wild weather; the clouds cast bitter cold on the earth that came from the north and caused the flesh pain; the snow fell bleakly, and froze the
+The people of this harsh, real world are equally alive; their feasts and merrymaking, gaiety and good cheer are far from the delicate but artificial world of the French romances, and their conversations are as unforced and natural as those of the heroes and heroines of Chrétien de Troyes are studied and literary.
+
+Only one character seems contradictory: the Green Knight himself. In the beheading incidents he is a superhuman being with strange powers, who moves in an aura of mystery. But in the Temptation, he becomes the gay, friendly lord of a rich castle. The poet in combining the two stories was unable to find a suitable equation between the two characters, and had to make the Green Knight a shape-shifter. This may seem unsatisfactory to the modern reader; but the medieval mind delighted in such things. And the strange legendary world of Norse and Saxon literature is never far from the poet’s mind; Gawain encounters dragons, trolls and giants on his journey northward. The fact that the magical Green Knight can also appear as an ordinary nobleman makes him all the more striking.
+
+Finally, the skill of the poet in handling verse and language is not wasted on a mere romance. The English poet has given his story a definite moral and didactic tone. Gawain, the model of knighthood, only escapes the fatal return blow because he holds out against the lady’s adulterous temptations. This is a far cry from the French writers’ easy acceptance, in fact exaltation, of amour courtois. They would probably have admired such a sin, even though it contravened the strictest conception of this code. Yet they would have agreed with his punishment, for by breaking his word in concealing the lace, he has dishonoured the order of knighthood. The English poet, however, has a far higher idea of the latter, too; we find several religious features in the work, especially in the Pentangle device borne by Gawain on his shield,’ and in the several references to him as ‘ Mary’s knight’. ‘There is
+
+wild beasts; the whirling wind wailed from the heights, and filled each valley with great drifts. The knight (i.e. Gawain) listened as he lay in bed; though his eyes were closed, he slept but little, and knew the hour from the cock’s crowing.
+
+an idealism throughout that raises the poem far above the level of the other English romances, and reminds one of Wolfram von Eschenbach. Gawain is an idealized hero who makes one error that cannot be redeemed, although not fatal; Parzival, on the other hand, although he almost fails in the Grail quest when he does not ask the required question the first time, gains a second opportunity by long years of atonement. The common subject of Wolfram and the Gawain-poet is the search for perfection, typified in the former by the achievement of the Grail, and in the other by the preservation of knightly honour in face of temptation. And the Gawain-poet is more pessimistic than Wolfram, for the latter regards perfection as eventually attainable, while he sees any striving towards it as inevitably doomed to failure but not to disaster. Some writers have seen Gawain and the Green Knight as a poem with a didactic moral; but it is rather a moral reflection on human weakness.
+
+In Sir Gawain and the Green Knight the Arthurian legend leaves its realms of isolated fantasy to become natural and human; and new splendour of a far more enduring kind is the result. Language, style and a subtle framework combine into a superb achievement beside which every other English medieval poem on Arthur pales into literary insignificance; and nowhere else does the tradition of the romances produce such a high idealism and sustained exaltation of chivalry.
+
+
+
+---
+
+https://archive.org/details/bishoppercysfol00percgoog/page/56/mode/2up?q=%22greene+knight%22
+Bishop Percy's folio manuscript. Ballads and romances
+by Percy, Thomas, 1729-1811
+
+Publication date 1867
+The Grene Knight
+
+Version at: https://d.lib.rochester.edu/teams/text/hahn-sir-gawain-greene-knight
 
 ---
 
