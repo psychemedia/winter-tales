@@ -370,7 +370,7 @@ And it's time for him to tread carefully... "No, there's no-one else..."
 
 Which is *exactly* the *wrong* thing to say...
 
-"Do you know how insulting that is?! Well, I suppose I asked for it...But if I am to tbe spurned, then at least let me have a kiss as a memory of our time together..."
+"Do you know how insulting that is?! Well, I suppose I asked for it...But if I am to the spurned, then at least let me have a kiss as a memory of our time together..."
 
 And with that, she gives him a second kiss of the day.
 
