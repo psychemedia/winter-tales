@@ -140,7 +140,7 @@ The old year had passed and the new one had begun. The apple trees and pears of 
 
 But even then he tarried, till Hallowe'en, and All Saints' Day, All Hallows, that time of the year when the days grow short and the nights grow long, and the worlds of the living and the dead are at their closest. And again the Court feasted, as Sir Gawain made ready to take his leave of the King.
 
-By now, the events of New Year's Eve were just a faded memory for many, but for Gawain, well, he must honour his agreement, though he had little idea where he could find the Green Knight. And the King called again for the minstrel, the storyeller, to set Gawain on his way. But what should he tell? The minstrel sensed Gawain's unease, his foreboding, and telling a heroic tale, or a minor fancy, did not seem fitting with circumstance. Because for the mood was dark, and the sense of humour in that place that night was black. And so he made his choice. Something grim, but with a hopeful end.
+By now, the events of New Year's Eve were just a faded memory for many, but for Gawain, well, he must honour his agreement, though he had little idea where he could find the Green Knight. And the King called again for the minstrel, the storyteller, to set Gawain on his way. But what should he tell? The minstrel sensed Gawain's unease, his foreboding, and telling a heroic tale, or a minor fancy, did not seem fitting with circumstance. Because for the mood was dark, and the sense of humour in that place that night was black. And so he made his choice. Something grim, but with a hopeful end.
 
 `[Juniper Tree] There was once a time, ...`
 
@@ -150,7 +150,7 @@ Early the next morning, Gawain called for his arms. First, an extravagant silk t
 
 He took a final Mass, then mounted Gringolet, his faithful, war horse, all dressed in gold.
 
-He took his helmet, and his scarlet shield, Ferrari red, emblazoned with golden pentangle livery, a symbol of his five flawless senses, his fingers that never fumbled, his faith, founded on the five wounds Christ received on the Cross, the five joys that of the Blessed Virgin Mary at the birth of her son that gave him strength, and the five principles by which he lived: friendship, fraterniry, purity, politeness and pity, and he slung it on his back.
+He took his helmet, and his scarlet shield, Ferrari red, emblazoned with golden pentangle livery, a symbol of his five flawless senses, his fingers that never fumbled, his faith, founded on the five wounds Christ received on the Cross, the five joys that of the Blessed Virgin Mary at the birth of her son that gave him strength, and the five principles by which he lived: friendship, fraternity, purity, politeness and pity, and he slung it on his back.
 
 As then his spurred Gringolet away. And there was pity in the hearts, and tears in the eyes, of the people who saw him go.
 
