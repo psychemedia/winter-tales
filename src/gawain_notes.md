@@ -221,7 +221,7 @@ And at this news, Gawain was overjoyed, and swore himself to the service of the 
 
 Eventually, the Lord praised Gawain for joining in their festivities night after night, even though he must have been tired from his journey; and told him to have a lie in that day, whilst he, the Lord, went out hunting. And his wife, the young Lady, would keep him company.
 
-But he also bade Gawain to join him in a pact, in a wager. A game. "Whatever I take in the hunt tomorrow, shall be yours. But in return, you'll give me whatever you gain during the day." An odd request, but Gawain agreed - he had bid himself to the service of the Lord, after all. And they sealed the pact with a toast. But who knew what game was afoot...
+But he also bade Gawain to join him in a pact, in a wager. A Christmas game. "Whatever I take in the hunt tomorrow, shall be yours. But in return, you'll give me whatever you gain during the day." An odd request, but Gawain agreed — he had bid himself to the service of the Lord, after all. And they sealed the pact with a toast. But who knew what game was afoot...
 
 PART III
 
@@ -231,13 +231,13 @@ The wild creatures of the forest quaked with fear, not least among them, the dee
 
 __Meanwhile, back at the castle,__ Gawain lay snug and warm in his bed, surrounded by curtains and under a mountain of covers.
 
-When suddenly, he hears a sound: the door to his room being quietly opened. He peeks through the curtains and sees the Lady, the beautiful one, the Lord's own wife, creep in, and close the door.
+When suddenly, he hears a sound: the door to his room being quietly opened. He peeks through the curtains and sees the Lady, the beautiful one, the Lord's own wife, creep in, close the door, and slide the bolt.
 
 Obviously, he does what __any virtuous knight would do__, and pretends to be asleep. Silently, the Lady creeps towards the bed, opens the curtains, and sits herself on the edge.
 
 Gawain continues to pretend to sleep, hoping she'll go away.
 
-But she doesn't, She just sits there, gently stroking the bed clothes, patting them, and waiting.
+But she doesn't; she just sits there, gently stroking the bed clothes, patting them, and waiting.
 
 After a while, she starts humming quietly to herself, and Gawain realises she isn't about to go anywhere in a hurry. And so he does what __any virtuous knight would do,__ and pretends to wake up, starts to stretch, and then feigns being startled to see her there.
 
@@ -245,11 +245,11 @@ After a while, she starts humming quietly to herself, and Gawain realises she is
 
 And she smiles sweetly at him:
 
-"Good morning, Sire. How deeply you seem to sleep... But now, I have you trapped!" and, with that, laughing, she pins him down beneath the bed clothes.
+"Good morning, Sire. How deeply you seem to sleep... But now, I have you trapped!" and, with that, laughing, she pins him down beneath the bed clothes, tucking them in tight.
 
 He responds, as __any virtuous knight would do__. "I... how might I help you, my lady? If you would just let me get up, and get dressed, I'd gladly be at your service."
 
-But still she pins him down. "That won't be necessary, *Sir* Gawain. Sir Gawain who is feared through the land, yet somehow seems to be trapped by a mere lady" and she giggles again. "And with my husband out all day too.... And the servants all asleep... And my maids probably with them. The door is bolted, But I'll keep you at bay as best I can..."
+But still she pins him down. "That won't be necessary, *Sir* Gawain. Sir Gawain who is feared through the land, yet somehow seems to be trapped by a mere lady" and she giggles again. "And with my husband out all day too.... And the servants all asleep... And my maids probably with them. And the door bolted... from *this* side. But I'll keep you at bay as best I can..."
 
 Now, as __any virtuous knight would do__, Sir Gawain stifled back an embarrassed cough, and struggling for something else to say, thanked the Lady for praising him so, but said he was not so worthy. He was the least of the knights, and,..
 
@@ -287,11 +287,11 @@ And Gawain, a little sheepishly, denies him an answer. "My Lord, that was *not* 
 
 "Surely not, surely not, you dark horse you..." said the Lord. And then they lounged by the fire, and feasted, and agreed to the same game again, on the morrow, each of their takings to be traded at the end of the day.
 
-*And that night they listened to stories from the West, from Ireland and Wales. Of...  And you may have heard me tell those tales before, or you may not, or you may yet hear me tell them again, but I'm afraid that time is such that it does not let me tell them now.*
+*And that night they listened to stories from the West, from Ireland and from Wales. Of...  And you may have heard me tell those tales before, or you may not, or you may yet hear me tell them again, but I'm afraid that time is such that it does not let me tell them now.*
 
 And eventually they went to bed. Separately, just in case you were in any doubt...
 
-But even though they had been up late, by the third cock's crow, the Lord was up for __mass, and a quick, early breakfast__, and out on the hunt again. And before long, the hounds had picked up the scent of a mighty wild boar, bigger than the biggest of big things, even as wild boars go, and whenever they got near, it fought back in return, and mauled many of the men with its gleaming white tusks. And even their arrows bounced off its thick, tough hide.
+But even though they had been up late, by the third cock's crow, the Lord was up for __mass, and a quick, early breakfast__, and out on the hunt again. And before long, the hounds had picked up the scent of a mighty wild boar, bigger than the biggest of big things, even as wild boars go, and whenever they got near, it fought back in return, and mauled many of the men and killed many of the dogs with its gleaming white tusks. And even their arrows bounced off its thick, tough hide.
 
 The boar is cornered again, and again it breaks free, and heads in to the forest, pursued by the Lord alone.
 
@@ -305,7 +305,7 @@ And carefully Gawain replied, "Dear Lady, I dare not, lest my kiss be declined."
 
 But a virtuous knight would never do such a thing, and before he could stop her, the fair lady had given him the sweetest morning kiss.
 
-"Now tell me — you knights: you are well known for your lusty liaisons and amorous affairs. But you, Sir Gawain? You have not spoken of love? Surely one so well versed in such exploits should be able to instruct an innocent lady such as I in the lessons of love, before my husband gets home from the hunt?"
+"Now tell me — you knights: you are well known for your lusty liaisons and amorous affairs. But you, Sir Gawain? You have not spoken of love? Surely one so well versed in such exploits should be able to instruct an innocent lady such as I in such things, before my husband gets home from the hunt?"
 
 Not wanting the offend the Lady, Gawain was very careful in his reply: "You flatter me indeed, my Lady. But to explain love to you.... I sense you have more... insight, and skill, in such arts than I do..."
 
@@ -331,7 +331,7 @@ Once again, the Lord is excited when he sees Gawain, calls for the ladies, and s
 
 "And do you have anything for me, Gawain?"
 
-And Gawain approaches the Lord, a little more confidently this time, cups his thick read beard in his hands once again, and kisses him once, then twice, in return.
+And Gawain approaches the Lord, a little more confidently this time, cups his thick red beard in his hands once again, and kisses him once, then twice, in return.
 
 "Gawain... You have certainly been keeping yourself amused..."
 
@@ -347,7 +347,7 @@ And of course he does not snub her, and although many tongues might wag, he retu
 
 And as the rest of the party retired for bed, the Lord gestures again for Sir Gawain to tarry with him a while longer by the hearth and the fire.
 
-They supped and swapped stories, and if we had time now, I would tell you some of their tales'; but through it all, Gawain keeps raising the question of his quest, and again the Lord tells him he has plenty of time, that he should stay another night. And that they should play their game again, for a third time, on the morrow.
+They supped and swapped stories, and if we had time now, I would tell you some of their tales; but through it all, Gawain keeps raising the question of his quest, and again the Lord tells him he has plenty of time, that he should stay another night. And that they should play their game again, for a third time, on the morrow.
 
 And then they retired, but before too long, the Lord was again up and made ready for the hunt. He took __mass, and a quick, early breakfast__, and called for his mount.
 
@@ -399,7 +399,7 @@ Oops...
 
 As she turns away, his thoughts of dread, that troubled his dreams, return. Maybe he had been a little too hasty.
 
-So when she offers him the girdle one final time — "are you *sure* you won't take it?" —  he relents. But as he does so she begs him: "please don't tell my husband..."
+So when she offers him the girdle one final time — "are you *sure* you won't take it?" —  he relents. But as he does so she begs him: "but please, promise me, don't tell my husband..."
 
 And with that, and with one last kiss, the third of the day, she departs.
 
@@ -447,9 +447,9 @@ Gawain calls out: "Is anybody there? Someone to honour our agreement? It's now, 
 
 "Hang on...." came the reply, "you'll get what's coming to you soon enough. I just need to finishing sharpening this last little bit... Wouldn't want any rough edges..."
 
-Then through the crags he comes, the Green Knight, His axe is in his hand, a handle the size of a staff, and he leaps across a stream.
+Then through the crags he comes, the Green Knight. His axe is in his hand, a handle the size of a staff, and he leaps across a stream.
 
-"Welcome to my domain. You've timed it well. And I see you came alone. As I have.  Except for this." And his gestures the axe. "Now remove your helmet, and take what's coming to you with no more struggle than I gave you."
+"Welcome to my domain. You've timed it well. And I see you came alone. As have I. Except for *this*." And his brandishes the axe. "Now remove your helmet, and take what's coming to you with no more struggle than I gave you."
 
 And Gawain lowers his head, and bares his neck, and braces himself for the blow.
 
