@@ -110,9 +110,9 @@ But before he could take up the challenge, the Green Knight bid him to state his
 
 And Gawain agreed. "But where will I find you?"
 
-"Plenty of time for that, Gawain, plenty of time for that", and with that, the Green Knight handed over the axe, stood before Sir Gawain, heaped his long green hair onto the top of his head, and bared his neck.
+"Plenty of time for that, Gawain, plenty of time for that", and with that, Gawain took the axe, stood before Sir Gawain, heaped his long green hair onto the top of his head, and bared his neck.
 
-Gawain took the axe, planted his feet, and swung a mighty blow, severing the spinal cord, and cleaving the Green Knight's head clean from his neck, so cleanly that the axe hit the stone floor in a shower of sparks.
+Axe in hand, Gawain planted his feet, and swung a mighty blow, severing the spinal cord, and cleaving the Green Knight's head clean from his neck, so cleanly that the axe hit the stone floor in a shower of sparks.
 
 The head tumbled to the floor, and the other knights kicked at it as it rolled by.
 
@@ -164,7 +164,8 @@ And so he prays to God. And to Mary. And to Jesus Christ our Lord. And he makes 
 
 And as he does so, making his way through the frosted wood, he sees the most impressive castle ahead, a red wooden pallisade, and a red wooden drawbridge, a red stone hall, or keep, inside; and sturdy gates, shuttered fast.
 
-`[Reminder of Sir Cleges tale: porter, usher, steward.]`
+`[Reminder of Sir Cleges tale: porter, usher, steward.]` *No churl he, stood before King Uther's Court. Althugh it mus be said his armour was looking if not a little rusty, at least a little weather beaten.*
+
 
 He halted Gringolet, called out to the porter.
 
