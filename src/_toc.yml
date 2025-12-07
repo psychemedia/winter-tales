@@ -4,7 +4,10 @@ parts:
 - caption: Eastern European Tales
   chapters:
   - file: twelve_months
-- caption: Medieval Tales
+- caption: Grimm Tales
+  chapters:
+  - file: juniper_tree
+- caption: Mediaeval Tales
   chapters:
   - file: sir-cleges-winter-cherries
   - file: gawain_notes
