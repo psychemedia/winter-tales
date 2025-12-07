@@ -1,6 +1,6 @@
 # Sir Gawain and the Green Knight
 
-*Based on Simon Armitage's 2007 translation. Original preparation notes for tellings at Babushka Books, Shanklin, December, 2023, and various partial practice tellings in folk nights at Dairyman's Daughter, Arreton, and The Waverley, Carisbrooke, prior to that.*
+*Based on Simon Armitage's 2007 translation. Original preparation notes for tellings at Babushka Books, Shanklin, December, 2023, and various partial practice tellings in folk nights at Dairyman's Daughter, Arreton, and The Waverley, Carisbrooke, prior to that. For a set in 2025, I added an extra story, The Cursed Dancers of Colbeck, nesting this in the events in Sir Bertilak's castle.*
 
 *Notes include possible break points for telling in episodic form.*
 
@@ -8,7 +8,7 @@ PART I
 
 It was Christmas at Camelot, and everyone was there.
 
-The most chivalrous knights in all the land, the rock stars and the racing drivers of their day; and the most beautiful women, the supermodels of the time, the Hollywood stars and starlets. All of them, hard living, fast riding, and larger than life. And with reputations to match, reputations that went ahead of them. And of course, there was royalty: chief amongst them, King Arthur, the king of highest renown. And at his side, the beatiful Queen Guinevere.
+The most chivalrous knights in all the land, the rock stars and the racing drivers of their day; and the most beautiful women, the supermodels of the time, the Hollywood stars and starlets. All of them, hard living, fast riding, and larger than life. And with reputations to match, reputations that went ahead of them. And of course, there was royalty: chief amongst them, King Arthur, the king of highest renown. And at his side, the beautiful Queen Guinevere.
 
 Outside, there was jousting, and fierce competition; inside, there was dancing; feasting and dancing; feasting, and dancing, and dancing, and feasting; and carousing. There was lots of carousing; because you can't have feasting and dancing without carousing. In fact, there was so much feasting and dancing and carousing, with double portions all round, at every course, that before anyone knew it, Christmas had almost turned into New Year. Because for now, it was New Year's Eve.
 
@@ -16,7 +16,7 @@ As was the custom at the end of the year, there were presents. Gifts from the he
 
 __Everyone was seated, according to custom, in order of rank;__ Guinevere was on the platform, and alongside her, King Arthur. The finest tapestries hung on the wall behind them. And beside them, sat Gawain, Arthur's nephew. He has still yet to prove himself as a knight, and perhaps even as a man. For the adventures by which we remember him now, in the tales that are told, still to this day, are still in his future.
 
-__The food was served, as custom decrees, to each man as his station deserved.__ But everyone was a little relucatant to partake of it, because for now, King Arthur waited. And he waited because it was his custom, on that New Year's eve, not to eat until a story had been told, of some chivalrous deed, or derring do, from amongst the knights; or for a challenge to be made against one of them.
+__The food was served, as custom decrees, to each man as his station deserved.__ But everyone was a little reluctant to partake of it, because for now, King Arthur waited. And he waited because it was his custom, on that New Year's eve, not to eat until a story had been told, of some chivalrous deed, or derring do, from amongst the knights; or for a challenge to be made against one of them.
 
 And so Arthur waited.
 
@@ -58,7 +58,7 @@ And everyone just gawped, dumbstruck; and everyone looked at the axe; and a deep
 
 "Thank you, but no," said the knight. "That is *not* why I am here."
 
-And there was silence. As everyone else looked at the axe again.
+And there was silence. As everyone else looked at the axe again, whilst the Green Knight jiggled the piece of holly.
 
 "Don't worry yourselves," said the knight. "I'm not here for a fight. You can see I'm not dressed for war."
 
@@ -76,9 +76,9 @@ And everyone continued to look at the axe.
 
 The assembled Court waited expectantly, to hear what the giant knight would say next.
 
-"A blow for a blow, with the axe, that is all. And I'll bare my neck first... and whosoever takes the strike: I'll meet them in a year and a day from now, and take my turn."
+"A blow for a blow, that is all that I ask. And I'll bare my neck first... and whosoever takes the strike: I'll meet them in a year and a day from now, and take my turn."
 
-*And just in case anyone is tempted to play this game at Christmas, I'd probably recommend against it...*
+*And everyone looked at the axe, even as the knight jiggled the piece of holly. And just in case anyone is tempted to play this game at Christmas as the knights expected it to be played, I'd probably recommend against it...*
 
 No-one replied. Coughs went around the room, and the knights of Arthur's Court looked at the floor, and avoided the Green Knight's gaze.
 
@@ -98,7 +98,7 @@ And Gawain knelt before Arthur to receive his blessing, and the King gave him a 
 
 *That sounds a bit like the advice given at the start of the blind challenge on Bake Off, doesn't it...?*
 
-__"Be bold, with the flavours, and make sure you cook it through. And beware the soggy bottom."__ Whatever...
+*__"Be bold, be bold, with the flavours, and make sure you cook it through. And beware the soggy bottom."__ Whatever...*
 
 So strike true, Gawain...
 
@@ -130,7 +130,7 @@ King Arthur turned to Guinevere, who was in a certain amount of shock.
 
 "Well that was a bit odd... But never fear, a challenge has been made, so at least we can have something to eat now!"
 
-And then he turned to Gawain, he was perhaps looking a little green himslef, and told him to hang up the mighty axe on the wall behind them; and then he bade everyone to eat.
+And then he turned to Gawain, who was perhaps looking a little green himself, and told him to hang up the mighty axe on the wall behind them; and then he bade everyone to eat.
 
 And so it was that more food was brought, and the feasting began in earnest. The discussion was muted at first, glances toward the platform, and talking in hushed tones about Sir Gawain's chances a year a day from then. But as the wine flowed, and more beer was brought, and mead, and the strongest of ciders, and by and by the party atmosphere resumed, and continued all through the night.
 
@@ -182,7 +182,7 @@ He was greeted by an usher, and relieved of his shield, and his sword, and his h
 
 Gawain is shown to his room, finely furnished with the riches tapestries; and a large box bed, surrounded by curtains.
 
-He removes his armour, now rusted and weather beaten, and dreeses himself in a fine set of robes that have been laid out for him.
+He removes his armour, now rusted and weather beaten, and dresses himself in a fine set of robes that have been laid out for him.
 
 He returns to the hall, and is seated by a roaring red fire, that he might thaw out from the cold.
 
@@ -205,6 +205,8 @@ And again, they sat by the fire, and feasted on cake and the finest of wines, un
 The next day dawned, and all through the day there were banquets and buffets.
 
 __Everyone was seated, according to custom, in order of rank.__ The ancient old crone was sat at the high table next to the Lord, and Gawain sat next to the younger. __The food was served, as custom decrees, to each man as his station deserved__. And throughout the meal, Gawain and the fair Lady, chatted and conversed and were most comfortable in each other's company.
+
+*And a storyteller told them a story: [Cursed Dancers of Colbeck].*
 
 The next day, they drank, and they danced; and the next, and the next day after that too. St John's Day `[December 27th]` passed and the Christmas feasting was coming to a close. In the greyness of the following day, the guests were to take their leave, and so Gawain began to make his goodbyes; but though it was late, he was ushered into the host's own chamber, and thanked for so visiting and honouring his house.
 
@@ -266,7 +268,7 @@ But to that, he took affront. "But why ever not, my Lady?"
 
 And then promptly left.
 
-Gawain jumped out of bed, and pulled on some clothes __— and whether he had a cold shower first I surely don't know — and headed off to Mass, *and then a leisurely breakfast*__, where he was seated between the Lady, and the old crone, and of their enocunter earlier that morning, nothing was said, but all was still good between them.
+Gawain jumped out of bed, and pulled on some clothes __— and whether he had a cold shower first I surely don't know — and headed off to Mass, *and then a leisurely breakfast*__, where he was seated between the Lady, and the old crone, and of their encounter earlier that morning, nothing was said, but all was still good between them.
 
 __Back on the hunt, in the forest, the Lord was still leading the chase against the *hinds*.__ And finally, with the dogs run out and the horses tired from the chase, they surveyed their kill. They pick the finest deer, they __*butcher it* there and then, feeding the scraps and the offal to the dogs as they do so__. And with that, __the kill horn is blown, and the hunt is ended__, and they haul the meat home.
 
@@ -338,7 +340,7 @@ And once again, the tables are assembled, and covered with fine cloth. Places ar
 
 And the younger Lady, and Gawain, are sat, side by side, with stolen glances between them, and secret smiles; and Gawain is driven half mad, but he remembers his place, being a virtuous knight.
 
-And of course he does not snub her, and although mindul tongues might wag, he returns all her affection and they confidently chat.
+And of course he does not snub her, and although many tongues might wag, he returns all her affection and they confidently chat.
 
 *And that night they listened to tales from the North, and the South, and the East. Of...  And you may have heard me tell those tales before, or you may not, or you may yet hear me tell them again, but I'm afraid that time is such that it does not let me tell them now.*
 
@@ -442,7 +444,7 @@ And then, there's screeching, renching sound, ripping at the air. It's coming fr
 
 Gawain calls out: "Is anybody there? Someone to honour our agreement? It's now, or never; it's a year and a day since we made our pact."
 
-"Hang on...." came the reply, "you'll get what's coming to you soon enough. I just need to finishing sharpening this last little bit... Wouldn't want any rouch edges..."
+"Hang on...." came the reply, "you'll get what's coming to you soon enough. I just need to finishing sharpening this last little bit... Wouldn't want any rough edges..."
 
 Then through the crags he comes, the Green Knight, His axe is in his hand, a handle the size of a staff, and he leaps across a stream.
 
@@ -456,7 +458,7 @@ The Green Knight summons his strength, raises the axe high above his head, and: 
 
 And Gawain apologises, "I'm sorry, I won't fail again. Be brisk; get it over with. I'll not flinch again."
 
-And again, for a second time, the Green Knight raises his axe, brings down the blow... and showing great strength, and even geeater control, stops just short of Gawain's neck. So close he felt the wind of the ripped air before it, but not its actual touch.
+And again, for a second time, the Green Knight raises his axe, brings down the blow... and showing great strength, and even greater control, stops just short of Gawain's neck. So close he felt the wind of the ripped air before it, but not its actual touch.
 
 "Ha ha, that's more like it. Much braver. Now, I'll serve you your blow properly."
 
