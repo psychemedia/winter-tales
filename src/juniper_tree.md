@@ -252,7 +252,7 @@ My father picked my bones.
 My little sister buried me.  
 Under the marble stones."
 
-I heard this in Australia. Mr. Jones gives part of it in *Folk Tales of the Magyars*, 418-20, and another version occurs in *Notes and Queries*, vi. 496. Mr. I. Gollancz informs me he remembers a version entitled "Pepper, Salt, and Mustard," with the refrain just given. Abroad it is Grimm's "Juniper Tree " (No. 47), where see further parallels. The German rhyme is sung by Margaret in the mad scene of Goethe's "Faust".
+I heard this in Australia. Mr. Jones gives part of it in *Folk Tales of the Magyars*, 418-20, and another version occurs in *Notes and Queries*, vi. 496. Mr. I. Gollancz informs me he remembers a version entitled "Pepper, Salt, and Mustard," with the refrain just given. Abroad it is Grimm's "Juniper Tree" (No. 47), where see further parallels. The German rhyme is sung by Margaret in the mad scene of Goethe's "Faust".
 
 ```
 
