@@ -2435,6 +2435,7 @@ Now the king came down from the dais and clasped both Sir Cleges's hands in his 
 A different version of the tale would also appear in *St Nicholas* magazine in November 1920:
 
 ```{admonition} Sir Cleges, 1920
+:class: dropdown
 https://archive.org/details/stnicholasserial4811dodg/page/119/mode/1up
 St Nicholas for Boys and Girls, November 1920
 
