@@ -1781,7 +1781,7 @@ And gladsome both day and night;
 Almés great she woldé give  
 The pooré people to relieve,  
 She cherished many a wight;  
-For them haddé no man dere; `[ Dere, hurt; no man receivd hurt, becuase of them. "Dere" from "derian," to injure.]`  
+For them haddé no man dere; `[ Dere, hurt; no man receivd hurt, because of them. "Dere" from "derian," to injure.]`  
 Rich or poor whether they were,  
 They did ever right.
 
@@ -2965,9 +2965,7 @@ The queen's lips moved; she was about to smile, when she observed a frown on the
 
 ## Further Links
 
-See also:
-
-- https://middleenglishromance.org.uk/mer/51
+See also the entry in the University of York *Database of Middle English Romance*: https://middleenglishromance.org.uk/mer/51
 
 ## Related Tales
 
