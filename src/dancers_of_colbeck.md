@@ -718,7 +718,7 @@ She was apparently called Ave.
 Between them,  
 They agreed  
 Who should try to entice Ave out:  
-Wybessyne and Merwynde.
+Wybessyne and Mersynde.
 The young women approached Ave, and persuaded her
 To join their party.  
 Bevune led the dance  
@@ -833,7 +833,7 @@ No matter how hard they tried.
 The curse that was made there  
 Would be spent there.  
 And it was as if they never got tired  
-Though you might expect them to, what with the continous dancing,  
+Though you might expect them to, what with the continuous dancing,  
 And they never ate; and they never drank
 And they didn't even sleep, not a single wink.  
 Whether it was day or night  
@@ -852,7 +852,7 @@ The Emperor himself came from Rome
 To see the dancers' fate.  
 And when he saw them, he cried in sympathy  
 At the misfortune he saw there.  
-He summoned some carpenteers
+He summoned some carpenters
 To make a shelter to protect them from the rain  
 But it was a pointless task  
 That came to nothing,  
@@ -975,7 +975,7 @@ I'll mention the revellers' names as I was told them, and as I pronounce them, s
 
 And the reason they came to Colbek, and to that Church in particular? That would be the priest's daughter. The priest was named Robert, if I remember it correctly, his son was named Azone, and his daughter — the one whom the party-goers had came to meet — she was called Ave.
 
-Between them, they agreed who should try to entice Ave out: it would be Wybessyne and Merwynde. The young women approached Ave, and persuaded her to join their party.  
+Between them, they agreed who should try to entice Ave out: it would be Wybessyne and Mersynde. The young women approached Ave, and persuaded her to join their party.  
 
 Bevune led the dance, nd Gerlew suggested what they should sing.  
  
@@ -1022,7 +1022,7 @@ Deeply saddened, he took his daughter's arm and buried it. But the next day, he 
 
 As to the rest of the carollers — the dancers — they carried on dancing for the whole of the year, hand in hand. They couldn't escape the place, no matter how hard they tried.  The curse that had been made there, would be spent there.  
 
-And despite their continous dancing, it was as if they never got tired. They never ate, they never drank, they didn't even sleep, not a single wink. 
+And despite their continuous dancing, it was as if they never got tired. They never ate, they never drank, they didn't even sleep, not a single wink. 
 
 Whether it was day or night, whatever the weather, frost or snow, hail or rain, warm or cold, they seemed oblivious to it.
 
@@ -1032,9 +1032,9 @@ And so they sang:
 
 "Why are stuck here? Why can't we let go?"
 
-And who in their right mind wouldn't want to go and see such a spectacle? The Emperor himself came from Rome to see them, and when he saw them, he cried in sympathy at their misfortune. So he summoned some carpenteers to make a shelter to protect them from the rain. But it was a pointless task, because whatever they managed to build during one day was razed to the ground by the next. Once, twice, three times they tried, but all their efforts came to nothing. It seemed like no covering could protect the dancers unless Christ, in his might, would grant them mercy.
+And who in their right mind wouldn't want to go and see such a spectacle? The Emperor himself came from Rome to see them, and when he saw them, he cried in sympathy at their misfortune. So he summoned some carpenters to make a shelter to protect them from the rain. But it was a pointless task, because whatever they managed to build during one day was razed to the ground by the next. Once, twice, three times they tried, but all their efforts came to nothing. It seemed like no covering could protect the dancers unless Christ, in his might, would grant them mercy.
 
-At the end of the year, on the next Christmas night, at the exact same time that the priest had proclaimed against them the year before, at the exact same hour a year later from when he'd first cursed them, the dancers managed to let go of each others' hands. Immediately, in the twinkling of an eye, they ran into the Church and fell to the floor as if they'd fainted. For three days they lay there, each of them, not moving a muscle. But then, after three days, tt was as if God raised them up again, and they sat up, and each of them spoke to the parish priest, to Sir Robert:
+At the end of the year, on the next Christmas night, at the exact same time that the priest had proclaimed against them the year before, at the exact same hour a year later from when he'd first cursed them, the dancers managed to let go of each others' hands. Immediately, in the twinkling of an eye, they ran into the Church and fell to the floor as if they'd fainted. For three days they lay there, each of them, not moving a muscle. But then, after three days, it was as if God raised them up again, and they sat up, and each of them spoke to the parish priest, to Sir Robert:
 
 "You were the one who caused the affliction we suffered over the past year. You caused our troubles that everyone came to gawp at. But your own earthly troubles will soon come to an end, because you'll return to your eternal home soon enough."
 
@@ -1044,13 +1044,13 @@ I don't believe his soul was damned, the priest's, but I do think that the physi
 
 And what of Ave's arm, the arm that couldn't be buried? Wll, the emperor had a casket made, and the arm was placed in it, and it was hung up so that all could see it, and reflect on what lesson it might teach them.
 
-And what of the revellers who had been locked hand in hand hhroughout the previous year? Even though they'd now been separated, everyone still gawped at them, because that same hopping dance that they'd first done, hadn't stopped: they carried on dancing still. But whereas they hadn't been able to separate themselves from each other before, now they couldn't stand (in many senses of the word) to remain in the same place, at the same time, together.
+And what of the revellers who had been locked hand in hand throughout the previous year? Even though they'd now been separated, everyone still gawped at them, because that same hopping dance that they'd first done, hadn't stopped: they carried on dancing still. But whereas they hadn't been able to separate themselves from each other before, now they couldn't stand (in many senses of the word) to remain in the same place, at the same time, together.
 
 Four of them made their separate ways to the court of Rome, dancing all of the way there, though they never crossed each others' paths again. Their clothes never faded, never even needed washing; their hair and their nails never grew, and they never found a cure to stop the dancing, not at any any shrine, except for one: to St Edith, where Saint Theodoric was given a cure on Our Lady's Day, in Lenten time, as he slept beside her tomb.
 
 It was Brunnyng, the Bishop of Saint Toulous, who wrote this marvellous tale. He was even more revered, later, under the name they knew him by in Rome, and in the chronicles, and in many places beyond the sea: as Pope Leon.
 
-As the old saying goes, *"The nearer to the church, the further from God." So pay due regard to the lesson of this tale. Some say, it is but an idle storym while others believe it to be the truth, wondering at it, as a marvel, a clear example and a dreadful warning, against cursing. But also as a warning against dancing in church, or in the churchyard, especially when the priest tells you not to:  
+As the old saying goes, *"The nearer to the church, the further from God." So pay due regard to the lesson of this tale. Some say, it is but an idle story while others believe it to be the truth, wondering at it, as a marvel, a clear example and a dreadful warning, against cursing. But also as a warning against dancing in church, or in the churchyard, especially when the priest tells you not to:  
 just leave quietly if he asks you to settle down and you don't believe you can.
 
 ```
