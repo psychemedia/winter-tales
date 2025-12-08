@@ -4,7 +4,7 @@
 
 Here's the gist of the tale:
 
-> Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent that he and his wife Clarys had nothing left. It was midwinter, bitterly cold, and the sound of the King's court could be heard; but they had no gifts to take, A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, but dressed as he was, looking like a pauper, was insulted as a *churl*. The porter let him through but demanded a third of what the King would give in return. The usher let him through, for a third. The steward let him through, for a third. The gift was given and Sir Cleges joined the feast. Uther is impressed (as is a certain "lady of Cornwall" whom he's perhaps trying to woo...). A reward is asked for, and granted: twelve strikes of the stick to be justly given. The steward, the doorman and guard were beaten by Sir Cleges. Sir Cleges returns, to find the harper singing songs of his old exploits. Prompted by the song, the King asks Cleges to come closer, at which point he recognises him as his old loyal knight, and rewards him.
+> Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent that he and his wife Clarys had nothing left. It was midwinter, bitterly cold, and the sound of the King's court could be heard; but they had no gifts to take. A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, but dressed as he was, looking like a pauper, was insulted as a *churl*. The porter let him through but demanded a third of what the King would give in return. The usher let him through, for a third. The steward let him through, for a third. The gift was given and Sir Cleges joined the feast. Uther is impressed (as is a certain "lady of Cornwall" whom he's perhaps trying to woo...). A reward is asked for, and granted: twelve strikes of the stick to be justly given. The steward, the doorman and guard were beaten by Sir Cleges. Sir Cleges returns, to find the harper singing songs of his old exploits. Prompted by the song, the King asks Cleges to come closer, at which point he recognises him as his old loyal knight, and rewards him.
 
 *The "lady of Cornwall" is Iguerne, which it to say, Igraine, which is to say, King Arthur's mother. How Uther seduced her is, of course, another story... But there is great scope here for telling that tale in the same sitting as this, as the scene is already set...*
 
@@ -21,7 +21,7 @@ A really concise and efficient telling of the tale appears in *Stories of Early 
 ```{admonition} In *Stories of Early England*, E. M. Wilmot-Buxton, 1906/1907
 :class: dropdown
 
-https://archive.org/details/storiesofearlyen00wilm/page/238/mode/2up?q=cleges+cherries
+https://archive.org/details/storiesofearlyen00wilm/page/238/mode/2up
 Stories of early England
 by Wilmot-Buxton, E. M. (Ethel Mary)
 
@@ -146,7 +146,7 @@ The king said, "By my beard, I trow Sir Cleges be dead, I loved him much; would 
 
 Then old and young, and all who were with the king, laughed loudly and made much solace thereof. The king might scarce stay his mirth, he quoth, "I vow by Heaven this is a doughty fellow!" He sent unto his steward. "Hast thou," he said, "thy reward? Christ, 'tis a man to praise!"
 
-The steward made answer grimly, "May the devil burn him on a lowe!" Then quoth King Uther, "Tell me thy name, good man, here anon." "Sir Cleges am I night who aforetime was your own true knight, that is my rightful name."
+The steward made answer grimly, "May the devil burn him on a lowe!" Then quoth King Uther, "Tell me thy name, good man, here anon." "Sir Cleges am I hight who aforetime was your own true knight, that is my rightful name."
 
 "Art thou Sir Cleges, who served me so truly? He who was so courteous and so free of hand, and so strong in fight?"
 
@@ -1062,7 +1062,7 @@ There are several "lost" letters we need to be aware of:
 - ȝ: the letter "yogh" (yog, or yough (as in cough))
 ```
 
-```{admonition}
+```{admonition} Annotated text, 1913
 :class: dropdown
 
 TO DO + notes https://archive.org/details/middleenglishhum00mcknrich/page/70/mode/2up?q=cleges
@@ -1072,7 +1072,7 @@ https://archive.org/details/middleenglishhum00mcknrich/page/38/mode/2up?q=cleges
 Middle English humorous tales in verse
 by McKnight, George Harley, 1871-1951
 
-Publication date [c1913]
+Publication date [1913]
 
 p38-59
 
@@ -1082,7 +1082,7 @@ Sir Cleges
 
 `Since the difference between the two texts is so great that it is impossible to print the variant readings at the bottom of the pages, it seems desirable to illustrate the difference by printing the first stanza of the E. text in full in the notes:`
 
-> WILL ye lystyn, and ye schyll here Of Eldyrs that before vs were
+> WiLL ye lystyn, and ye schyll here Of Eldyrs that before vs were
 > Bothe hardy and wyȝt.  
 > In the tyme of kynge Vter  
 > That was Fadyr of kynge A[r]thyr,  
@@ -1174,31 +1174,31 @@ Thoff hys god were ne-hond leste,
 Yn þe wyrschyp he made a feste;  
 He hopyd god wold hym quyte.  
 
-Hys ryalty he forderyd ay,  
+Hys ryalty he forderyd ay, `['His munificence, he continued ever.' In N. E. D. the earliest citation of * royalty ' with this meaning is 1548. E. reads, This rialte he made than Aye.]`  
 To hys maners wer sold a-wey,  
 That hym was left bot one;  
 And þat was of lytell valew,  
 That he and hys wyfe so trew  
 Oneth myȝht lyfe þer-one.  
 Hys men, þat wer so mych of pride,  
-Wente a-wey one euery syde;
+Wente a-wey one euery syde; `[At this point this story differs from Sir Amadace, of which the beginning is strikingly similar. Sir Amadace is advised to "putte away fulle mony of ȝour men," but prefers to conceal his straitened circumstances, and keeps up appearances by being more liberal than ever, 37-60.]`
 With hym þer left not one.  
 To duell with hym þer left no mo  
 Bot hys wyfe and his chylder two;  
 Than made he mekyll mone.
 
-Yt fell on a crystewmes eue;  
-Syr clegys and his wyfe,  
-They duellyd by cardyff syde.  
+Yt fell on a crystewmes eue; `[Notice the rimes cue, wyfe (O. E. ī: O. E. æ ) which indicate a pronunciation of the sound from O. E. ī tending toward the modern pronunciation. Cf. Note to 219, 222, 225, 228.]`  
+Syr clegys and his wyfe, `[E. has: The kynge be-thouȝt hym full Evyn.]`  
+They duellyd by cardyff syde. `[Caerleon, near Cardiff, is the more usual center in Arthurian story.]`  
 When it drew to-werd þe none,  
-Syr clegys fell in swownywg sone;  
+Syr clegys fell in swownywg sone; `[swownywg: Not unusual for heroes of medieval romance. See Floris and Blauncheflur, 246, etc.]`  
 Wo be-thought hym þat tyde,   
 What myrth he was wonte to hold,  
-And he, he had hys manors solde,  
+And he, he had hys manors solde, `[E. offers the better reading, And howe he hade his maners sold.]`  
 Tenandrys and landes wyde.  
-Mekyll sorow made he þer;  
+Mekyll sorow made he þer; `[Mekyll: Northern dialect. Cf. also 107. In each of these cases E. has the Southern form mech.]`  
 He wrong hys hondes and wepyd sore,  
-ffor fallyd was hys pride.
+ffor fallyd was hys pride. `[pride, wyde, tyde, syde. These rimes, which arc the same in E., are sufficient to indicate a non-Southern dialect.]`
 
 And as he walkyd vppe and done,  
 Sore sȝeng, he herd a sowne  
@@ -2338,27 +2338,29 @@ To rich his spirit with. ]
 
 ```
 
-A simpler narrative version of the tale has previously appeared in the popular American children's St. Nicholas Magazine:
+A simpler narrative version of the tale has previously appeared in the popular American children's *St. Nicholas* magazine in the winter of 1910:
 
-```{admonition} In *St Nicholas Magazine*, Arthur Guiterman, 1873
+```{admonition} In *St Nicholas Magazine*, Arthur Guiterman, 1910
 :class: dropdown
 
-https://archive.org/details/stnicholasserial381dodg/page/254/mode/2up?q=cleges+cherries
-St. Nicholas [serial]
+https://archive.org/details/stnicholasserial381dodg/page/254/mode/2up
+St. Nicholas VOLUME XXXVIII. Part I.— November, 1910, to April, 1911.
 by Dodge, Mary Mapes, 1830-1905
-Publication date 1873
+
 p254-7
+
+
+TO DO - images (Illustrated by Julie C. Pratt)
 
 SIR CLEGES AND HIS GIFT
 
-An Old English Christmas Legend
+(An Old English Christmas Legend)
 
 by Arthur Guiterman
 
 Not in the time of King Arthur, but in that still earlier day when King Arthur's father, the great Uther Pendragon, ruled Britain with a strong hand, there dwelt near the city of Cardiff, so tell the old chronicles, "a worthy, strong, tall, fair, courteous, gentle knight, named Sir Cleges, with his good wife, Dame Clarys." In his youth Sir  Cleges had been a great champion. Right well had he served his king in the wars against the heathen invaders, — the Saxons, Danes, and Northmen,— and worthily had he won much wealth in lands and treasure. But he cared little for wealth, loving to give, rather than to hold in store. Both he and his dame were wont to bestow bountiful alms on the poor and rich guerdon to wandering minstrels. Each Christmas-tide they held a great feast at which they gave presents of food and robes to all who might come. So one Christmas morning Sir Cleges awoke to find that he had no more the means of giving, for all his treasure was spent, all his lands were gone, and little enough remained for himself and his wife.
 
 So he went forth heavily from his door, and his sorrow was heightened as he heard on all sides the sounds of rejoicing and the music of "trompes, pipes, clarions, harps, lutes, and gitterns," celebrating the dawning of Christmas Day.
-
 
 Then out came the good Dame Clarys and comforted him, saying, "Surely, we have each other; and will not the Lord provide the little that we may need in our old age?" So they went in together and ate joyfully such food as they had.
 
@@ -2428,6 +2430,129 @@ And he answered": "My name is Sir Cleges. I was thy own knight till poverty came
 
 Now the king came down from the dais and clasped both Sir Cleges's hands in his own. "Old friend," said he, while all the assembled guests ceased talking, "oft hast thou done me good service with sword and lance on battle-field years agone when we both were younger and stronger than we are to-day, when each would have gladly given his life to save the other. But of all the timely and valuable services thou didst render me in the past, I have never received better service than thou hast done me this day, when thy stout staff hath dealt justice on the grasping knaves who would stand betwixt true people and their king." So he clothed Sir Cleges in fine robes, befitting his rank, and bestowed upon him  much riches, together with the castle of Cardiff, where the good knight and his dame dwelt long in peace, bounty, and honor, beloved by all the people.
 
+```
+
+A different version of the tale would also appear in *St Nicholas* magazine in November 1920:
+
+```{admonition} Sir Cleges, 1920
+https://archive.org/details/stnicholasserial4811dodg/page/119/mode/1up
+St Nicholas for Boys and Girls, November 1920
+
+TO DO includes images
+
+pp.119-4
+
+SIR CLEGES
+
+By GEORGE PHILIP KRAPP
+
+In the days of Uther, the father of King Arthur, there lived a knight in England who was a member of the famous Round Table, and his name was Sir Cleges. Of all his knights none was dearer to King Uther than Sir Cleges. There was nothing strange in this, for everybody loved Sir Cleges, both because he was brave and good and cheerful, and, above all, because he was so generous. No poor man ever came to Sir Cleges in vain. He was always ready to help those upon whom sickness or the waste of war or any other misfortune had fallen, and far and wide he was known as the poor man's friend. And not only was Sir Cleges known for his charity to the poor, but he was famous also for his generosity toward those of his own rank and station in life. His hall and his chambers were always filled with guests, and his tables were always spread for those who were hungry. There was no lack of the very best food and drink in Sir Cleges' house, and when good food and drink are to be found, you may be sure there will be plenty of friends to enjoy them.
+
+Thus Sir Cleges and his fair wife, the Lady Clarys, kept open house with the most generous hospitality. Most of all at Christmas-time there were great feasting and merriment in Sir Cleges' castle. From every corner of England the knights and their ladies gathered there, and so cheerful and kind were Sir Cleges and Lady Clarys, and so abundant was the fare provided for all comers, that you might have searched all through King Uther's kingdom and not have found any Christmas feasting happier or more cheerful than that under Sir Cleges' roof.
+
+Thus for many years Sir Cleges lived in this generous fashion, and never thought of his money except as a means whereby he could help the needy or give pleasure to his friends. But there is always an end even to the longest purse, and, as time went on and as Sir Cleges' friends grew more numerous, it took more and more to entertain them. All the money he' had. Sir Cleges spent freely; and when his money was gone, he sold his cattle and other goods to keep up his household. But this was soon used, and after that Sir Cleges' lands went the same way as his money and his cattle. As long as he had a penny left, said Sir Cleges, no friend should know the lack of it. But at last, when Sir Cleges had nothing more to sell and nothing in which the swarm of friends who had gathered about him could find their pleasure and profit, then straightway they heartlessly left him.
+
+Thus the good Sir Cleges, who had never thought of his own welfare, but had spent all his substance in order that others might be comfortable and happy, now found himself deserted as soon as he had nothing more to give. He was no longer able to appear at King Uther's court, and he who had been one of the merriest and best loved of the knights of the Round Table dropped quietly out of sight and soon was altogether forgotten. With his wife and his children, Sir Cleges went to live in the one poor house that was left to him, and there in poverty and obscurity he strove to forget the fickle friends who had so readily forsaken him.
+
+Now it happened some years after this that King Uther decided to spend the Christmas-tide at the royal castle of Cardiff, which stood not far from Sir Cleges' humble dwelling. Great preparations were made for the Christmas feasting, and invitations were sent out to all the brave knights of the kingdom. On Christmas eve all the knights and their ladies were come together at Cardiff, and then the feasting began in earnest. The cooks and the servers ran hither and thither, and all was excitement and bustle. In the great hall, there were tumblers and dancers and magicians to amuse the Christmas feasters with their tricks and gamboling. Singers and minstrels of all kinds had been summoned, and the music of the pipes and trumpets and bugles was heard far and wide. Nothing was spared that might help to make the time speed rapidly and joyously for all the assembled knights and their ladies.
+
+In his little house not far away, Sir Cleges heard the sounds of rejoicing in the great hall of the castle, and it made him sad and bitter. He had not been invited to the feasting, for long since he had been forgotten and none of his old friends troubled to inquire whether he was dead or living. "Many a happy day," said Sir Cleges, to the Lady Clarys, "have I given to those who reck not now of m>' sorrow." But the Lady Clarys would not allow Sir Cleges to dwell on thoughts of unkindness, and bade him consider how much they still had to be grateful for, and thus little by little she comforted him and brought him again to contentment.
+
+Thus the Christmas eve Sir Cleges and the Lady Clarys spent quietly in their humble cottage, and found such pleasure in the innocent joys and playfulness of their happy children that they had no longing for the noisy revelry of the courtiers in the castle of Cardiff.
+
+The next day was Christmas day, and, with good will in their hearts for all men. Sir Cleges and the Lady Clarys went to the church to give thanks for their many blessings. Now after the church was over. Sir Cleges walked in his garden ; and after a time he knelt down to pray beneath a cherry-tree that stood in the midst of the garden. As Sir Cleges knelt, praying, he suddenly felt a bough of the tree striking him on the head, and, seizing hold of it and springing to his feet, lo, what was his astonishment to see the bough covered with green leaves and full of cherries — red, ripe, and luscious! Picking one of the cherries. Sir Cleges put it into his mouth, and it seemed to him he had never tasted anything so delicious. Gathering more of the fruit, he ran into the house and cried out, "Behold, Dame Clarys, what a marvel is here!" And when the Lady Clarys had come she could hardly believe her eyes. "Cherries at Christmas-time!" she exclaimed. "How can such a thing be!" And when Sir Cleges had told her how he had been praying beneath the tree, how he had felt a bough striking him on the head, and how, when he took hold of it, he had found it filled with green leaves and ripe fruit, then the Lady Clarys believed that the cherries were real, and great was her wonder at the marvel which had happened in their little garden.
+
+"Now hast thou indeed," she said, "a present fit for a king ! No longer grieve that thou hast no Christmas offering for the good King Uther, for cherries such as these I doubt he has ever seen."
+
+And then the Lady Clarys counseled Sir Cleges to gather the cherries and to put them in a basket and bear them straightway as a present to the king. And Sir Cleges, glad at heart that even in his poverty he could do something to add to the joy of the king's Christmas feasting, readily consented so to do.
+
+To Cardiff Castle Sir Cleges took his way, and on his arm he bore the basket of the wonderful fruit. It was just dinner-time when Sir Cleges reached the castle gate, and all the court were about to sit down to meat. But when the porter at the gate saw the poverty-stricken man with a basket on his arm approaching to enter, he drove him away with scorn and reviling.
+
+"Begone, old beggar," he said, "with thy rags and thy tatters! What have such as thou to do entering kings' castles? Let me see the last of thee, or thou .shalt not soon forget where thou belongest."
+
+"Pray let me through the gate, good porter," answered Sir Cleges, to this greeting, "I have here in this basket a Christmas present for the king."
+
+"Thou a Christmas present for the king! A likely story, in sooth! Show me what thou hast in thy basket that thou thinkest worthy a king."
+
+And then, when Sir Cleges lifted the cover of the basket and showed him the cherries, he was surprised almost beyond speech. "Heaven defend us!" he exclaimed; "cherries at Christmastime! How can such a thing be? Certainly this is a present worthy a king. But listen, old man," said he, greedily, "thou shalt not pass through this gate unless thou dost promise to give me a third of the reward which the king shall give for the present thou bringest." And Sir Cleges, seeing no other way of passing the gate, promised the porter that one third of the reward should be his.
+
+Now after Sir Cleges had passed by the porter, he thought all would be well; but no sooner had he reached the door of the hall than he was met by the usher, who forbade him to go in.
+
+"Out with thee, old fellow!" he exclaimed. "How camst thou here? This is no place for beggars and basket-men such as thou."
+
+Then when Sir Cleges said he had a present in his basket for the king, the usher, like the porter, must see what the present could be.
+
+"Holy Saint Peter!" he gasped, when Sir Cleges had lifted the cover of the basket. "Cherries at Christmas-time! How can such a thing be?
+
+But he soon recovered from his surprise and told Sir Cleges he might go in, but only if he promised that one third of the reward which the king gave him should come to him. And Sir Cleges, thinking how hard it was to do even a kindness to a king, must needs promise as he had done before.
+
+When Sir Cleges entered the great hall all was bright and merry there. The knights and the ladies of King Uther's court, all decked in their finest feathers and silks, were about to sit down to the banquet. The ser\ing-men went scurrying back and forth from the kitchen, bearing the platters of rich food for the king's feasters and stumbling over each other in their excitement and hurry. The table was hardly able to carry everything they wanted to put upon it. There were great haunches of venison, and roast swans and geese and ducks and pheasants by the dozen. At each end, there stood a huge pasty almost as big around as a cart-wheel. The king's cooks had used all their art in concocting cakes and pies and puddings, to say nothing of the sweetmeats of marchpane molded into the forms of towers and castles, or of knights on horseback, or baskets of fruit and flowers, and various other fanciful and astonishing structures. Ever>'body's mouth was watering, but the king was not yet ready to sit down to the feasting, and the courtiers and their ladies stood chatting and laughing merrily with one another. All were too busy to pay any heed to the shabby Sir Cleges, with the basket on his arm, until the watchful eye of the king's haughty steward happened to fall upon him. Horrified to see such a melancholy figure in the midst of so gay a company, he hastened up to Sir Cleges and was hustling him out of the hall with short ceremony before Sir Cleges managed to say that he had a present for the king.
+
+"Beggars are not givers," said the steward; "but show me, what is the present thou dost bring?"
+
+Then, when Sir Cleges had lifted the cover of the basket and had shown him the cherries, he was no less surprised than the others had been, nor was he less greedy.
+
+"Cherries at Christmas!" he exclaimed. "Whoever heard of such a thing? But listen, sir," said he, in a low voice, "thou speakest not with the king unless thou promise me one third of the reward he gives thee."
+
+When Sir Cleges heard these words he thought to himself: "Little enough am I to get out of this. If I have a dinner for my pains, it 's as much as I may look for." But he said nothing until the steward prodded him again, and then, seeing that there was no other way of getting by this greedy officer, he promised him a third of his reward, as he already had done to the porter and the usher.
+
+At last the way was free for Sir Cleges; and with his precious basket, he made his way through the throng of the courtiers to the place where the king was seated on a dais.
+
+"Receive, O King," said he, falling on his knees before King Uther, "this Christmas ofTering from one of thy most humble subjects."
+
+And when King Uther looked into the basket and saw that it was filled with luscious red cherries, he too, like the Lady Clarys, could hardly believe his eyes.
+
+"Cherries at Christmas!" he cried. "Now certainly this is a marvel, and a right worthy gift thou hast brought to us, good fellow." Then when he had tasted one of the cherries he declared a better cherry he had never eaten. And then he gave some to each of the knights and the ladies; and they all wondered greatly to see such fruit at that bleak season.
+
+"The king's thanks hast thou won," said Uther to Sir Cleges, "for thou hast made this Christmas
+
+feasting forever memorable. But sit thou now at our table and have part in our dinner, and afterward thou shalt have whatever reward for thy gift that thou askest."
+
+Then he motioned to the haughty steward to make a place for Sir Cleges; and certainly a strange figure this shabby knight made among all the gay lords and their ladies. Little they thought that this humble stranger had once bestowed benefit upon many a one of them, and little heed they paid to one whom they took to be but a poor old gardener! But Sir Cleges said nothing, and sat quietly at the table, to his heart's content enjoying all the good things the king had provided for his Christmas dinner. And though the best cooks of the land had shown there all their skill and cunning, nothing at that feast was so wonderful as the cherries which had been brought by the humble stranger.
+
+Now when the dinner was over, the king had not forgotten the poor man who had brought him the unexpected present, and, summoning Sir Cleges to him, he bade him ask whatever reward he would in return for his welcome present. Then Sir Cleges bethought himself of the promises he had made to the porter, the usher, and the steward, and he said :
+
+"Lord King, this is the reward I ask: twelve strokes of this good staff that I bear in my hand, to be delivered on whomsoever it may please me within this royal castle."
+
+"A strange fellow art thou !" answered the king, in astonishment at this; "and from thy looks, thou hadst done better to ask for something more worthy my giving. But, since it is thy request, thou sha't not find the king fail of his promise. Take thy strokes and deliver them as thou see'st fit."
+
+"Thanks for thy boon, King Uther," answered Sir Cleges; "none other shall please me so well as this one."
+
+And then, turning to the steward in the hall, with his staff Sir Cleges gave him a blow on the shoulders that made him bend double. "Three more thou gettest," he said, "for that is the full share coming to thee!"
+
+And with a right good will Sir Cleges gave the three strokes, and left the proud steward groaning with pain and terror. Then to the hall door Sir Cleges made his way and delivered another four, no less hearty and stinging, on the shoulders of the astonished usher.
+
+"There, thou hast thy share!" said Sir Cleges, as he hastened to the gateway.
+
+The porter greeted him eagerly, but he little guessed what was coming. Four times Sir Cleges lifted his staff and let it fall with all his might on the back of the greedy porter. And this last third of Sir Cleges' boon you can be sure was not less light than the others had been.
+
+When Sir Cleges had thus delivered the three thirds of the reward for his present, he found at his elbow a messenger from the king, who bade him return to the great hall of the castle. All the courtiers and the king were still there and were listening to a song the minstrel was singing. Now this song, as it happened, was made about Sir Cleges himself, and the minstrel was telling how this generous knight had spent all his days making other people happy and now was altogether lost and forgotten.
+
+"Poor Sir Cleges!" sighed the king, "I loved him well, but alas! 1 have no hope ever again to see him."
+
+Just then, however, Sir Cleges knelt down before the king and thanked him for the reward he had given him, and told him that the twelve strokes had been duly delivered.
+
+"But I beseech thee, good fellow," answered the king, "tell me what the meaning of this may be. Why were these strokes on the shoulders of my varlets more pleasing to thee than a reward of gold or silver?"
+
+Then Sir Cleges told the king how the porter, the usher, and the steward had each demanded a third of his reward before they would permit him to make his present, and he added, "May they learn thus to be more free in giving and less greedy in demanding. Perchance the next poor man may not find it so hard to come into the king's presence."
+
+When the king and his courtiers heard all this, they laughed, and were delighted with the story.
+
+"Well done," said the king, "thou wielder of the staff! Thou hast taught these knaves a good lesson. How now, master steward, how likest thou thy share of this fellow's present?"
+
+"May the fiends burn him in flames below!" muttered the steward, as he rubbed the bruises on his shoulders.
+
+Now the king was so pleased with all these happenings that had made his Christmas feasting
+
+so merry that he turned again to Sir Cleges and asked him what his name was.
+
+"My name, sire," answered the poverty-stricken knight, "is one not unknown to thee in the days of old. My name is Sir Cleges."
+
+"What!" exclaimed the king, "art thou the long-lost Sir Cleges whom men to this day praise for his good deeds and his charity?" And so moved with joy was the good King Uther to find his old friend again that he came down from his high seat and took him by the hand and could not make enough of him. When the courtiers saw how things were going, they all flocked around Sir Cleges claiming his friendship and acquaintance.
+
+But the king did not stop with kind words. He knew that a knight with a heart as true and loyal as the heart of Sir Cleges was not easily to be found, even among the knights of the Round Table, and now he was determined never again to lose him. So he gave to him the good castle of Cardiff to dwell in and other lands and fees wherewith he might live worthily.
+
+Thus ended the king's Christmas feasting in the castle of Cardiff, and a happy day it was for the knight Sir Cleges and the Lady Clarys. Many a long year they lived in the noble castle the king had given them, and you may be sure that no selfish porters or ushers or stewards stood at the gates and doorways to stop any poor man who would enter there.
 ```
 
 Other narrative versions appeared with illustrations, as in the following case:
