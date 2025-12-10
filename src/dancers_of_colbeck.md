@@ -951,7 +951,7 @@ Just leave quietly when he asks you to be still.
 A narrative version, generated from the modern English version, that I used as a basis for my own first telling of this tale in December, 2025, as part of a Sir Gawain set modified from a couple of years earlier.
 
 ```{admonition} Cursed Dancers of Cobeck (narrative)
-:class:dropdown
+:class: dropdown
 
 __The Cursed Dancers of Colbeck__
 
