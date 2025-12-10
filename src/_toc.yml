@@ -11,6 +11,7 @@ parts:
   chapters:
   - file: sir-cleges-winter-cherries
   - file: gawain_notes
+  - file: dancers_of_colbeck.md
 - caption: Additional Storynotes Collections
   chapters:
   - file: elsewhere
