@@ -2529,7 +2529,7 @@ The porter greeted him eagerly, but he little guessed what was coming. Four time
 
 When Sir Cleges had thus delivered the three thirds of the reward for his present, he found at his elbow a messenger from the king, who bade him return to the great hall of the castle. All the courtiers and the king were still there and were listening to a song the minstrel was singing. Now this song, as it happened, was made about Sir Cleges himself, and the minstrel was telling how this generous knight had spent all his days making other people happy and now was altogether lost and forgotten.
 
-"Poor Sir Cleges!" sighed the king, "I loved him well, but alas! 1 have no hope ever again to see him."
+"Poor Sir Cleges!" sighed the king, "I loved him well, but alas! I have no hope ever again to see him."
 
 Just then, however, Sir Cleges knelt down before the king and thanked him for the reward he had given him, and told him that the twelve strokes had been duly delivered.
 
