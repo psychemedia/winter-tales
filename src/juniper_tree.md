@@ -2,6 +2,8 @@
 
 A dark tale that I first told as a nested tale in a *Sir Gawain and the Green Knight* framed winter tales set. A useful bit of colour, not present in the stories as written, is to mention the striking blue berries of the juniper tree. An interesting English variant was also collected by Sabine Baring Gould in Devonshire, and first published in 1865.
 
+I quite like the Grimm version as a Christmas tale, with a few minor tweaks. The sister's name works better for me as *Marlene* (`mar-layn-uh`) For the bird's repeated refrain when asked to sing the song again, I prefer a begging bowl line along the lines of *'If you like my song so much', said the bird, 'give me something in exchange for it'*. And for the song, *My stepmother killed me, out of spite; my father ate me up that night; my sister Marlene buried me, Under the spreading Juniper Tree, Oh what a pretty bird am I.*.
+
 ```{admonition} *The Juniper Tree*, Grimm, transl. Hunt, 1888
 :class: dropdown
 
@@ -28,7 +30,13 @@ Then the father came home, and sat down to dinner and said, "But where is my son
 
 But the bird flew away and lighted on a goldsmith's house, and began to sing,
 
-"My mother she killed me, My father he ate me, My sister, little Marlinchen, Gathered to,2;ether all my bones. Tied them in a silken handkerchief, Laid them beneath the juniper-tree, Kywitt, kywitt, what a beautiful bird am I!*
+"My mother she killed me,  
+My father he ate me,  
+My sister, little Marlinchen,  
+Gathered together all my bones.  
+Tied them in a silken handkerchief,  
+Laid them beneath the juniper-tree,  
+Kywitt, kywitt, what a beautiful bird am I!*
 
 The goldsmith was sitting in his workshop making a gold chain, when he heard the bird which was sitting singing on his roof, and very beautiful the song seemed to him. He stood up, but as he crossed the threshold he lost one of his slippers. But he went away right up the middle of the street with one shoe on and one sock; he had his apron on, and in one hand he had the gold chain and in the other the pincers, and the sun was shining brightly on the street. Then he went right on and stood still, and said to the bird, "Bird," said he then, "how beautifully thou canst sing! Sing me that piece again." "No," said the bird, "I'll not sing it twice for nothing! Give me the golden chain, and then I will sing it again for thee." "There," said the goldsmith, "there is the golden chain for thee, now sing me that song again." Then the bird came and took the golden chain in his right claw, and went and sat in front of the goldsmith, and sang,
 
@@ -93,9 +101,7 @@ Then the last stopped also, and heard the last words. "Bird," said he, "how beau
 
 "Yes," said he, "if it belonged to me only, thou shouldst have it."
 
-"Yes," said the others, "if he sings again he shall have it." Then the bird came down, and the twenty millers all set to work with a beam and raised the stone up. And the bird stuck his neck through the hole, and put
-
-the stone on as if it were a collar, and flew on to the tree again, and sang,
+"Yes," said the others, "if he sings again he shall have it." Then the bird came down, and the twenty millers all set to work with a beam and raised the stone up. And the bird stuck his neck through the hole, and put the stone on as if it were a collar, and flew on to the tree again, and sang,
 
 "My mother she killed me,  
 My father he ate me,  
@@ -107,7 +113,7 @@ Kywitt, kywitt, what a beautiful bird am I!"
 
 And when he had done singing, he spread his wings, and in his right claw he had the chain, and in his left the shoes, and round his neck the millstone, and he flew far away to his father's house.
 
-In the room sat the father, the mother, and Marlinchen at dinner, and the father said, "How light-hearted I feel, how happy I am!" "Nay," said the mother, "I feel so uneasy, just as if a heavy storm were coming." Marlinchen, however, sat weeping and weeping, and then came the bird flying, and as it seated itself on the roof the father said, "Ah, I feel so truly happy, and the sun is shining so beautifully outside, I feel just as if I were about to see some old friend again." "Nay," said the woman, "I feel so anxious, my teeth chatter, and 1 seem to have fire in my veins." And she tore her stays open, but Marlinchen sat in a corner crying, and held her plate before her eyes and cried till it was quite wet. Then the bird sat on the juniper-tree, and sang,
+In the room sat the father, the mother, and Marlinchen at dinner, and the father said, "How light-hearted I feel, how happy I am!" "Nay," said the mother, "I feel so uneasy, just as if a heavy storm were coming." Marlinchen, however, sat weeping and weeping, and then came the bird flying, and as it seated itself on the roof the father said, "Ah, I feel so truly happy, and the sun is shining so beautifully outside, I feel just as if I were about to see some old friend again." "Nay," said the woman, "I feel so anxious, my teeth chatter, and I seem to have fire in my veins." And she tore her stays open, but Marlinchen sat in a corner crying, and held her plate before her eyes and cried till it was quite wet. Then the bird sat on the juniper-tree, and sang,
 
 "My mother she killed me,"
 
@@ -117,14 +123,12 @@ Then the mother stopped her ears, and shut her eyes, and would not see or hear, 
 
 "Ah, mother," says the man, "that is a beautiful bird! He sings so splendidly, and the sun shines so warm, and there is a smell just like cinnamon."
 
-"My sister, Marlinchen," Then Marlinchen laid her head on her knees and wept
+"My sister, Marlinchen," Then Marlinchen laid her head on her knees and wept without ceasing, but the man said, "I am going out, I must see the bird quite close." "Oh, don't go," said the woman, "I feel as if the whole house were shaking and on fire." But the man went out and looked at the bird:
 
-without ceasing, but the man said, "I am going out, I must see the bird quite close." "Oh, don't go," said the woman, "I feel as if the whole house were shaking and on fire." But the man went out and looked at the bird:
-
-"Gathered together all my bones, 
- Tied them in a silken handkerchief,  
- Laid them under the juniper-tree,  
- Kywitt, kywitt, what a beautiful bird am I!*'
+"Gathered together all my bones,  
+Tied them in a silken handkerchief,  
+Laid them under the juniper-tree,  
+Kywitt, kywitt, what a beautiful bird am I!'
 
 On this the bird let the golden chain fall, and it fell exactly round the man's neck, and so exactly round it that it fitted beautifully. Then he went in and said, "Just look what a fine bird that is, and what a handsome gold chain he has given me, and how pretty he is!" But the woman was terrified, and fell down on the floor in the room, and her cap fell off her head. Then sang the bird once more,
 
