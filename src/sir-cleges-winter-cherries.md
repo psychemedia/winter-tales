@@ -320,7 +320,7 @@ Sche kyssyd hym wyth glad chere:
 "For Crystis sake J pray you blyne  
 "Of all the sorowe that ye ben jn,  
 "In ono of thys daye.  
-"Nowe euery man schuld be glade, 
+"Nowe euery man schuld be glade,  
 "Therefore J pray you be not sade;  
 "Thynke what J you saye.  
 "Go we to oure mete swyth,  
@@ -328,7 +328,7 @@ Sche kyssyd hym wyth glad chere:
 "As wele as we may.  
 "J held yt for the best trewly  
 "For youre mete is all redy,  
-"I hope to youre paye."
+"J hope to youre paye."
 
 "J asent," seyd he tho,  
 And jn with hyr he gan goo,  
@@ -362,7 +362,7 @@ Becavse of his wiffe:
 "Kepe hem out of stryffe!"  
 The lady prayed for hym ayen,  
 That God schuld kepe hym fro payne  
-In everlastyng lyf. 
+In everlastyng lyf.  
 Whan service was don hom they went,  
 And thanked God with god entent,  
 And put away penci.
@@ -398,7 +398,7 @@ He seyd: "Dere God in Trenytè,
 "As far as J have sowght."  
 He thowght to taste, yf he cowthe,  
 Arid on he put in his mowth,  
-And spare wold he nat. 
+And spare wold he nat.  
 After a chery the reles was  
 The best that euer he ete in place  
 Syn he was man wrowght.  
@@ -416,7 +416,7 @@ And in he yt browght.
 "Allwaye thanke we God therefore;  
 "Yt ys best trewely." 
 
-Than seyd the lady with good chere 
+Than seyd the lady with good chere  
 "Latt vs fyll a panyer  
 "Of this that God hath sent:  
 "Tomorovn whan the day dothe spryng  
