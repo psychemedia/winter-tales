@@ -1025,7 +1025,7 @@ And despite their continuous dancing, it was as if they never got tired. They ne
 
 Whether it was day or night, whatever the weather, frost or snow, hail or rain, warm or cold, they seemed oblivious to it.
 
-Their hair never grew either, nor their nails. *Their* clothes never seemed to change, never seemed to need washing, didn't fade in the sunlight. And when the storm clouds thundered, and the lightning struck around them, it never harmed them, as if God's mercy was somehow *protecting* them.
+Their hair never grew either, nor their nails. Their clothes never seemed to change, never seemed to need washing, didn't fade in the sunlight. And when the storm clouds thundered, and the lightning struck around them, it never harmed them, as if God's mercy was somehow *protecting* them.
 
 And so they sang:
 
@@ -1049,7 +1049,7 @@ Four of them made their separate ways to the court of Rome, dancing all of the w
 
 It was Brunnyng, the Bishop of Saint Toulous, who wrote this marvellous tale. He was even more revered, later, under the name they knew him by in Rome, and in the chronicles, and in many places beyond the sea: as Pope Leon.
 
-As the old saying goes, *"The nearer to the church, the further from God." So pay due regard to the lesson of this tale. Some say, it is but an idle story while others believe it to be the truth, wondering at it, as a marvel, a clear example and a dreadful warning, against cursing. But also as a warning against dancing in church, or in the churchyard, especially when the priest tells you not to: just leave quietly if he asks you to settle down and you don't believe you can.
+As the old saying goes, *"The nearer to the church, the further from God."* So pay due regard to the lesson of this tale. Some say, it is but an idle story while others believe it to be the truth, wondering at it, as a marvel, a clear example and a dreadful warning, against cursing. But also as a warning against dancing in church, or in the churchyard, especially when the priest tells you not to: just leave quietly if he asks you to settle down and you don't believe you can.
 
 ```
 
