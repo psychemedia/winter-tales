@@ -4,7 +4,9 @@ In recent times, I originally heard this via Sue Bailey, during the preparation 
 
 The gist of the tale is this:
 
-> Marushka, down trodden, lives with her step-mother and step-sister, Holena. Even though it is January, and the depth of Winter, her step-mother sends her out to find March violets; she goes up the mountain, sees a fire around which are twelve stones, with a robed and hooded person sitting on each, three dressed in white (snow), three in green (grass), three in gold (wheat) and three in deep purple (blackberries, or grapes, or dark winter cherries). On the largest stone, a man with a white beard and a club: January. They ask what she is doing; January swaps with March, and as the girl departs, she finds violets. The step-mother sends her to find strawberries; she returns to the mountain, January swaps with June, and she finds strawberries; her step-mother sends her out for red apples, January swaps with September, and she finds red apples, but may only pick two. Holena sets off to find more, is disrespectful to January. He waves the stick round his head, the fire dies down. Holena is lost in a Winter storm. Her mother goes out to find her and she is lost too. Marushka lives happier ever after.
+> Marushka, down trodden, lives with her step-mother and step-sister, Holena. Even though it is January, and the depth of Winter, her step-mother sends her out to find March violets; she goes up the mountain, sees a fire around which are twelve stones, with a robed and hooded person sitting on each, three dressed in white (snow), three in green (grass), three in gold (wheat) and three in deep purple (blackberries, or grapes, or dark winter cherries). On the largest stone, a man with a white beard and a club: December. They ask what she is doing; January swaps with March, and as the girl departs, she finds violets. The step-mother sends her to find strawberries; she returns to the mountain, January swaps with June, and she finds strawberries; her step-mother sends her out for red apples, January swaps with September, and she finds red apples, but may only pick two. Holena sets off to find more, is disrespectful to January. He waves the stick round his head, the fire dies down. Holena is lost in a Winter storm. Her mother goes out to find her and she is lost too. Marushka lives happier ever after.
+
+*If telling this in December, then December should be the one making the decisions. He can also then change place with (young) January.*
 
 Originating from a Czech fairy tale by Bozena Nemcova, the earliest appearance I have found for it is in an 1866 collection of tales translated from Edouard Laboulaye:
 
@@ -966,14 +968,17 @@ The poor girl began to cry. Holena ate an apple; it seemed to her wonderfully sw
 "Give me my cloak, I'll go into the forest myself. If that good-for-nothing girl goes she will be sure to eat the apples. I'll shake off every apple whether they permit me to or not, it's all the same to me."
 
 She put on her cloak, tied a shawl over her head and; went out.
+
 The snow was deep, there was no trace of a human foot anywhere. She wandered long, and at last she came to the Twelve Months. Without asking leave Holena walked straight to the fire and began to warm her hands.
 
 "What do you want; why are you here?" asked December, severely.
+
 "Why ask, old man? What business is it of yours; where I am going?" answered Holena, and turned to go into the forest. December frowned and raised his scepter. That moment the fire died down, the heavens grew dark, snow fell in great flakes, as if some one were shaking feathers out of a tick; and a cutting, all-chilling wind whistled through the forest. Holena could not see one step before her; she felt that her limbs were growing stiff. She cursed Marushka, and stumbled on.
 
 The mother, waiting at home, looked through the window, and ran to the gate; but hours passed by, one after another, and no Holena came.
 
 "Most likely she found the apples so good that she can't stop eating them. I'll go myself and look for her," said the mother.
+
 She put on her cloak, threw a shawl over her head and went in search of her daughter.
 
 Time passed. Marushka got supper ready, and fed the cow, but neither Holena nor her mother came.
@@ -984,4 +989,90 @@ Time passed. Marushka got supper ready, and fed the cow, but neither Holena nor 
 
 She looked out. The heavens were gleaming with stars, the earth glittering with snow, but no human being was visible anywhere. She closed the door, made the sign of the cross, repeated "Our Father" for her step-mother and sister, and then lay down to sleep. The next day she looked for them at breakfast, waited for them at dinner; but in vain — they came not again to the house of living man.
 
+```
+
+## The Story of King Frost
+
+In *The Twelve Months*, the persecuted protagonist is sent out on an apparently hopeless errand, but through her politeness and good nature is rewarded. When her argumentative sister ventures forth, she meets an untimely end, as does her mother.
+
+In a complementary Russian tale, published in translation from the Russian, but otherwise unattributed, in Andrew Lang's *The Yellow Fairy Book*, the persecuted child is cast out into the cold to die (echoing *Hansel and Gretel*), encounters "King Frost", and returns with riches; her unlikeable sister then follows her path and meets an untimely end, as does her mother.
+
+While this tale is not as rich as the Twelve Months, it does give us a personification of the frost that complements the characters of the Twelve Months.
+
+```{admonition} The Story of King Frost, 1894
+:class: dropdown
+https://archive.org/details/yellowfairybook00langiala/page/208/mode/2up?q=%22Frost%22
+
+The yellow fairy book
+by Lang, Andrew, 1844-1912
+
+Publication date 1894
+
+THE STORY OF KING FROST `[From the Russian.]`
+
+THERE was once upon a time a peasant-woman who had a daughter and a step-daughter. The daughter had her own way in everything, and whatever she did was right in her mother's eyes; but the poor step-daughter had a hard time. Let her do what she would, she was always blamed, and got small thanks for all the trouble she took; nothing was right, everything wrong; and yet, if the truth were known, the girl was worth her weight in gold — she was so unselfish and good-hearted. But her step-mother did not like her, and the poor girl's days were spent in weeping; for it was impossible to live peacefully with the woman. The wicked shrew was determined to get rid of the girl by fair means or foul, and kept saying to her father: 'Send her away, old man; send her away — anywhere so that my eyes sha'n't be plagued any longer by the sight of her, or my ears tormented by the sound of her voice. Send her out into the fields, and let the cutting frost do for her.'
+
+In vain did the poor old father weep and implore her pity; she was firm, and he dared not gainsay her. So he placed his daughter in a sledge, not even daring to give her a horse-cloth to keep herself warm with, and drove her out on to the bare, open fields, where he kissed her and left her, driving home as fast as he could, that he might not witness her miserable death.
+
+Deserted by her father, the poor girl sat down under a fir-tree at the edge of the forest and began to weep silently. Suddenly she heard a faint sound: it was King Frost springing from tree to tree, and cracking his fingers as he went. At length he reached the fir-tree beneath which she was sitting, and with a crisp crackling sound he alighted beside her, and looked at her lovely face.
+
+'Well, maiden,' he snapped out, 'do you know who I am? I am King Frost, king of the red-noses.'
+
+'All hail to you, great King!' answered the girl, in a gentle, trembling voice. 'Have you come to take me?'
+
+'Are you warm, maiden?' he replied.
+
+'Quite warm, King Frost,' she answered, though she shivered as she spoke.
+
+Then King Frost stooped down, and bent over the girl, and the crackling sound grew louder, and the air seemed to be full of knives and darts; and again he asked:
+
+'Maiden, are you warm? Are you warm, you beautiful girl?'
+
+And though her breath was almost frozen on her lips, she whispered gently, 'Quite warm, King Frost.'
+
+Then King Frost gnashed his teeth, and cracked his fingers, and his eyes sparkled, and the crackling, crisp sound was louder than ever, and for the last time he asked her:
+
+'Maiden, are you still warm? Are you still warm, little love?'
+
+And the poor girl was so stiff and numb that she could just gasp, 'Still warm, O King!'
+
+Now her gentle, courteous words and her uncomplaining ways touched King Frost, and he had pity on her, and he wrapped her up in furs, and covered her with blankets, and he fetched a great box, in which were beautiful jewels and a rich robe embroidered in gold and silver. And she put it on, and looked more lovely than ever, and King Frost stepped with her into his sledge, with six white horses.
+
+In the meantime the wicked step-mother was waiting at home for news of the girl's death, and preparing pancakes for the funeral feast. And she said to her husband: 'Old man, you had better go out into the fields and find your daughter's body and bury her.' Just as the old man was leaving the house the little dog under the table began to bark, saying:
+
+'Your daughter shall live to be your delight;  
+Her daughter shall die this very night.'
+
+'Hold your tongue, you foolish beast!' scolded the woman. 'There's a pancake for you, but you must say:
+
+"Her daughter shall have much silver and gold;  
+His daughter is frozen quite stiff and cold."'
+
+But the doggie ate up the pancake and barked, saying:
+
+'His daughter shall wear a crown on her head;  
+Her daughter shall die unwooed, unwed.'
+
+![](images/king_frost_lang.png)
+
+Then the old woman tried to coax the doggie with more pancakes and to terrify it with blows, but he barked on, always repeating the same words. And suddenly the door creaked and flew open, and a great heavy chest was pushed in, and behind it came the step-daughter, radiant and beautiful, in a dress all glittering with silver and gold. For a moment the step-mother's eyes were dazzled. Then she called to her husband: 'Old man, yoke the horses at once into the sledge, and take my daughter to the same field and leave her on the same spot exactly;' and so the old man took the girl and left her beneath the same tree where he had parted from his daughter. In a few minutes King Frost came past, and, looking at the girl, he said:
+
+'Are you warm, maiden?'
+
+'What a blind old fool you must be to ask such a question!' she answered angrily. 'Can't you see that my hands and feet are nearly frozen?'
+
+Then King Frost sprang to and fro in front of her, questioning her, and getting only rude, rough words in reply, till at last he got very angry, and cracked his fingers, and gnashed his teeth, and froze her to death.
+
+But in the hut her mother was waiting for her return, and as she grew impatient she said to her husband: 'Get out the horses, old man, to go and fetch her home; but see that you are careful not to upset the sledge and lose the chest.'
+
+But the doggie beneath the table began to bark, saying:
+
+'Your daughter is frozen quite stiff and cold,  
+And shall never have a chest full of gold.'
+
+'Don't tell such wicked lies!' scolded the woman. 'There's a cake for you; now say:
+
+"Her daughter shall marry a mighty King."'
+
+At that moment the door flew open, and she rushed out to meet her daughter, and as she took her frozen body in her arms she too was chilled to death.
 ```
