@@ -260,7 +260,7 @@ I heard this in Australia. Mr. Jones gives part of it in *Folk Tales of the Magy
 
 ```
 
-Jacobs' also mentions another version that appeared in *Notes and Queries*. A quick search of back issues of *Notes and Queries* to try to identify the tale, and which series of *N&Q* it appeared in, also reveals that Baring Gould's collected version of the tale appeared in that periodical in July, 1865, a year before it appeared in Henderson's *Notes*.
+Jacobs' also mentions another version that appeared in *Notes and Queries*. A quick search of back issues of *Notes and Queries* to try to identify the tale, and which series of *N&Q* it appeared in, also reveals that Baring Gould's collected version of the tale appeared in that periodical in July, 1865, a year before it appeared in the first edition of Henderson's *Notes on the Folklore of the Northern Counties of England and the Borders* (1866).
 
 ```{admonition} *The Rose Tree*, a Devonshire Household Tale, 1865
 :class: dropdown
