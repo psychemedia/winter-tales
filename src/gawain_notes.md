@@ -50,7 +50,7 @@ And he laughed at the court. "Ha, haaaaa."
 
 In place of a shield, he carried a sprig of holly; instead of a sword, an axe. A great big axe. A *huge* great big axe: the mother of all axes. And not just any mother of all axes. Because this axe was made of glowing green steel; and inlaid in the handle, the most intricate, the most exquisite, green jeweled and green enameled decoration.
 
-Looking around the Court, this great, Green Knight was the first to speak: "So, who's the boss of this horrible lot, then? Who's the leader of this rabble?"
+Looking around the Court, this great, Green Knight was the first to speak: "So, who's the boss of this horrible lot, then? Who's the leader of this wretched rabble?"
 
 And everyone just gawped, dumbstruck; and everyone looked at the axe; and a deep, expectant hush fell on the hall, as they waited for Arthur to respond.
 
@@ -144,7 +144,7 @@ By now, the events of New Year's Eve were just a faded memory for many, but for 
 
 `[Juniper Tree] There was once a time, ...`
 
-With the minstrel's story over, the somber mood that had settled over King Arthur's Court continued. All were reminded of the fateful challenge accepted months before, and they were filled with sorrow. But even so, there was a glimmer of hope, of hope against hope, that there might be some other resolution to Gawain's fate.
+With the minstrel's story over, the sombre mood that had settled over King Arthur's Court continued. All were reminded of the fateful challenge accepted months before, and they were filled with sorrow. But even so, there was a glimmer of hope, of hope against hope, that there might be some other resolution to Gawain's fate.
 
 Early the next morning, Gawain called for his arms. First, an extravagant silk tunic, then a thick warm cloak, lined with white fur. Stout steel shoes, and shiny plate to cover his knees, tied behind with golden thread. Sturdy leg guards, and the finest chain mail, tiny hoops of shimmering steel. Then elbow guards, and metal gloves to complete the attire, with a sword fastened to a belt, by his side.
 
@@ -165,7 +165,6 @@ And so he prays to God. And to Mary. And to Jesus Christ our Lord. And he makes 
 And as he does so, making his way through the frosted wood, he sees the most impressive castle ahead, a red wooden pallisade, and a red wooden drawbridge, a red stone hall, or keep, inside; and sturdy gates, shuttered fast.
 
 `[Reminder of Sir Cleges tale: porter, usher, steward.]` *No churl he, stood before King Uther's Court. Although it mus be said his armour was looking if not a little rusty, at least a little weather beaten.*
-
 
 He halted Gringolet, called out to the porter.
 
@@ -275,7 +274,7 @@ __Back on the hunt, in the forest, the Lord was still leading the chase against 
 
 The whole of the household was summoned, and the venison revealed to the assembled crowd. And in particular, to Sir Gawain, who said he had never seen anything like it before, let alone out of season.
 
-"And it's all yours", said the Lord, "as per our agreement. What I won on the hunt, I give to you."
+"And it's all yours", said the Lord, "as per our agreement. What I won on the hunt, I give to you.
 
 "And you, Sir Gawain do you have anything for me in return?"
 
@@ -387,7 +386,7 @@ And she proffers him a ring, of rich, red gold, and a shiny jewel inlaid.
 
 "I'm sorry, I cannot accept such a gift with nothing to offer in return."
 
-But she insists, "take it" and he resits again, "thank you, but no, it's too precious a...."
+But she insists, "take it" and he resists again, "thank you, but no, it's too precious a...."
 
 "Then take this", and she takes off her belt, a girdle of green silk, its edges trimmed with gold.
 
@@ -417,7 +416,7 @@ And so it is, with tapering torchlight, Gawain makes his way to bed. But who wou
 
 PART IV
 
-*Of what nightmares Gawain may have had that night, the original poem does not tell. But we might imagine that his sleep was fitful, and his dreams, or maybe even nightmares, trouble filled. Or maybe he just lay there, unable to sleep, contemplating his mortality.*
+*Of how well Gawain slept that night, the original poem does not tell. But we might imagine that his sleep was fitful, and his dreams, or maybe even nightmares, trouble filled. Or maybe he just lay there, unable to sleep, contemplating his mortality.*
 
 Outside, a freezing North wind drifts the white snow. Inside, Gawain lies awake with his thoughts, sleeping little. Each crow of the cock brings his destiny nearer. He gets up before dawn, and dresses warmly beneath his armour, now buffed and burnished and raked free of rust.
 
@@ -449,11 +448,11 @@ Gawain calls out: "Is anybody there? Someone to honour our agreement? It's now, 
 
 Then through the crags he comes, the Green Knight. His axe is in his hand, a handle the size of a staff, and he leaps across a stream.
 
-"Welcome to my domain. You've timed it well. And I see you came alone. As have I. Except for *this*." And his brandishes the axe. "Now remove your helmet, and take what's coming to you with no more struggle than I gave you."
+"Welcome to my domain. You've timed it well. And I see you came alone. As have I. Except for *this*." And his brandishes the axe. The father of the mother of all axes. "Now remove your helmet, and take what's coming to you with no more struggle than I gave you."
 
 And Gawain lowers his head, and bares his neck, and braces himself for the blow.
 
-The Green Knight summons his strength, raises the axe high above his head, and: schwwoof. But as he does so, Gawain flinches, and the Green Knight diverts the blow.
+The Green Knight summons his strength, raises the axe high above his head, and: *schwwoof*. But as he does so, Gawain flinches, and the Green Knight diverts the blow.
 
 "What was that? You moved? Are you a wimp, or knight?"
 
@@ -497,7 +496,7 @@ And eventually, he returned to Camelot, to King Arthur's Court, and he told them
 
 Of the long cold journey, of the castle, and the Lord. The two ladies, fair and foul, and the thrice played game. Of his fall, and the reward that it led to in turn. And at that he touched he neck, where the axe had grazed it. And he told them of the belt, the green girdle, edged with gold.
 
-And the King gave him comfort, and the knights all agreed that they too would wear such a sash.
+And the King gave him comfort, and the knights all agreed that they too would wear such a sash. Of humility.
 
 And so it was, and so it is, and so we come to the end our of tale. Of Camelot, and King Arthur, and of Sir Gawain and the Green Knight.
 
