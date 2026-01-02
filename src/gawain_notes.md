@@ -197,7 +197,7 @@ The day became dusk, and the meal came to an end. The bells sounded evensong, an
 
 Accompanying the Lord, his Lady, who to Gawain's eye, seemed fairer even than the fair Queen, Guinevere, and he blushes slightly at the thought. She is drop dead gorgeous.
 
-As they left the Church, the Lady was hand in hand with another, much older woman, withered and well advanced in years, her cheeks waddled and slack compared to the bloom of her younger, and fairer, companion. There was no comparison to be made between them. And Gawain and the fair Lady exchanged pleasantaries, and courtesies. And to the older woman, he was charming and polite.
+As they left the Church, the Lady was hand in hand with another, much older woman, withered and well advanced in years, her cheeks waddled and slack compared to the bloom of her younger, and fairer, companion. There was no comparison to be made between them. And Gawain and the fair Lady exchanged pleasantries, and courtesies. And to the older woman, he was charming and polite.
 
 With the Lord's blessing, Gawain walked with the two maidens, the fair and the foul, and they took him between them, arm in arm, and led him away, chatting pleasantly as they walked.
 
