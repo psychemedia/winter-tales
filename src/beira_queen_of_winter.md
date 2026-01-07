@@ -4,6 +4,10 @@
 Beiar, Angus, Bride
 
 https://archive.org/details/wondertalesfroms00mack/page/22/mode/2up?q=beira
+Wonder tales from Scottish myth & legend
+by Mackenzie, Donald Alexander, 1873-1936; Duncan, John, ill
+
+Publication date 1917
 
 (lots of commentary in intro TO DO )
 
