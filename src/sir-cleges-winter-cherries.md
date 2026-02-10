@@ -1,6 +1,6 @@
 # Sir Cleges and the Winter Cherries
 
-*First heard: David Heathfield (Exeter Storytellers), Yuletide Tales online, Dartmoor Storytellers, December 19th, 2022.*
+I first heard this tale told by David Heathfield (of Exeter Storytellers), in a *Yuletide Tales* online event promoted by the Dartmoor Storytellers, on December 19th, 2022. It quickly became a Winter favourite of mine.
 
 Here's the gist of the tale:
 
@@ -156,7 +156,11 @@ Anon did the king give him all that belonged unto a knight, to enrich his estate
 
 ```
 
-So how does this compare to the *Metrical romances of the thirteenth, fourteenth, and fifteenth centuries* as published by Henry Weber in 1810:
+Im many cases, I  have found that by going back to the original poem we can get a better sense of the rhythms, and perhaps even identify some of the word play and the jokes, that have been lost in the various translations and "modernisations".
+
+So for example, how does Weston;s version compare to the *Metrical romances of the thirteenth, fourteenth, and fifteenth centuries* as published by Henry Weber in 1810?
+
+`Part of the rationale for these storynotes is __not__ to provide a complete "critical" edition, nor event to give many answers; rather, the intention is to provide an affordable hard-copy edition that compares favourably in terms of cost with a home-printed version, and in a more convenient format, and that contains multiple versions of the same tale that an individual storyteller, in which group I include myself, can scrawl all over when coming to their own (my own) version of a tale.`
 
 ```{admonition} In *Metrical romances*, Henry Weber, 1810
 :class: dropdown
@@ -1082,7 +1086,7 @@ Sir Cleges
 
 `Since the difference between the two texts is so great that it is impossible to print the variant readings at the bottom of the pages, it seems desirable to illustrate the difference by printing the first stanza of the E. text in full in the notes:`
 
-> WiLL ye lystyn, and ye schyll here Of Eldyrs that before vs were
+> WILL ye lystyn, and ye schyll here Of Eldyrs that before vs were
 > Bothe hardy and wyȝt.  
 > In the tyme of kynge Vter  
 > That was Fadyr of kynge A[r]thyr,  
@@ -1996,15 +2000,15 @@ Ye shall to Cardiff to the king,
 And give him this present,  
 And such a gift ye may have there  
 That the better we may fare this year,  
-I tell you verament"  
+I tell you verament."  
 Sir Cleges granted soon thereto  
 "To-morrow to Cardiff will I go,  
-After your intent ."
+After your intent."
 
 On the morrow when it was light,  
 The lady had a pannier dight, `[Dight, prepared. First English "dihtan." ]`  
 Her eldest son called she,  
-"Take up this pannier goodly, `[Goodly has the d and l so sounded as to give the effect of a short vowel sound between them. So Shakespeare in "Henry IV., Part II; "(A rotten case abides no handling," and in "Taming of the Shrew", "While she did call me rasca fiddler." ]`  
+"Take up this pannier goodly, `[Goodly has the d and l so sounded as to give the effect of a short vowel sound between them. So Shakespeare in "Henry IV., Part II; "A rotten case abides no handling," and in "Taming of the Shrew", "While she did call me rasca fiddler." ]`  
 And bear it forth eisily  
 With thy father free"  
 Then Sir Cleges a staff took  
@@ -2499,7 +2503,7 @@ When Sir Cleges heard these words he thought to himself: "Little enough am I to 
 
 At last the way was free for Sir Cleges; and with his precious basket, he made his way through the throng of the courtiers to the place where the king was seated on a dais.
 
-"Receive, O King," said he, falling on his knees before King Uther, "this Christmas ofTering from one of thy most humble subjects."
+"Receive, O King," said he, falling on his knees before King Uther, "this Christmas offering from one of thy most humble subjects."
 
 And when King Uther looked into the basket and saw that it was filled with luscious red cherries, he too, like the Lady Clarys, could hardly believe his eyes.
 

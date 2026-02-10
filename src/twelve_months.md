@@ -1,6 +1,6 @@
 # The Twelve Months
 
-In recent times, I originally heard this via Sue Bailey, during the preparation for our *'Tis Tales* set *Winter Tales* in December. 2022. I had a memory of it from way back, though no particular telling or teller — just the sense of the story — but it's one that really resonates for me. Taffy Thomas also has a version of it in his *Midwinter Folk Tales* collection.
+In recent times, I originally heard this via Sue Bailey, founder of the Isle of Wight based *Island Storytellers*, during the preparation for our *'Tis Tales* set *Winter Tales* in December. 2022. I had a memory of it from way back, though no particular telling or teller — just the sense of the story — but it's one that really resonates for me. Taffy Thomas also has a version of it in his *Midwinter Folk Tales* collection.
 
 The gist of the tale is this:
 
@@ -307,7 +307,7 @@ Great January frowned and swung the club over his head. The sky grew dark in a m
 
 Her mother was waiting for Holena; she kept on looking out for her, first at the window, then outside the door, but all in vain.
 
-"Does she like the apples so much that she can't leave them, or what is the matter? I must see for myself where she is," decided the stepmother at last. So she put on her fur coat, she wTapped a shawl round her head, and went out to look for Holena. The snow was lying deep; there wasn't a human footprint to be seen; the snow fell fast, and the icy wind was blowing through the forest.
+"Does she like the apples so much that she can't leave them, or what is the matter? I must see for myself where she is," decided the stepmother at last. So she put on her fur coat, she wrapped a shawl round her head, and went out to look for Holena. The snow was lying deep; there wasn't a human footprint to be seen; the snow fell fast, and the icy wind was blowing through the forest.
 
 Marusa had cooked the dinner, she had seen to the cow, and yet Holena and her mother did not come back. "Where are they staying so long?" thought Marusa, as she sat down to work at the distaff. The spindle was full already and it was quite dark in the room, and yet Holena and the stepmother had not come back.
 

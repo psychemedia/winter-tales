@@ -110,12 +110,7 @@ Folklore - elements from "Beira, Queen of Winter" https://archive.org/details/wo
 ## The Juniper Tree
 
 
-See also Rose Tree eg in 
-
-https://archive.org/details/dli.granth.84777/page/314/mode/1up
-Notes on the Folklore of the Northern Counties of England and the Borders
-by Henderson, William; Baring-Gould, S.
-Publication date 1866
+See also Rose Tree 
 
 ## Sir Cleges and the Winter Cherries
 
