@@ -1,6 +1,6 @@
 title: Winter Tales
 author: Tony Hirst
-copyright: "2022" 
+copyright: "2022-2026" 
 only_build_toc_files: true
 
 execute:
@@ -12,5 +12,8 @@ parse:
 sphinx:
   config:
     html_copy_source: false
+    html_baseurl: https://winter-tales.montystoryteller.org/
+    sitemap_url_scheme: "{link}"
+    sitemap_locales: [null]
   extra_extensions:
     - sphinxcontrib.youtube
