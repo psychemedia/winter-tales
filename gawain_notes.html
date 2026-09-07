@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'gawain_notes';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://winter-tales.montystoryteller.org/gawain_notes.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Cursed Dancers of Colbek" href="dancers_of_colbeck.html" />
     <link rel="prev" title="Sir Cleges and the Winter Cherries" href="sir-cleges-winter-cherries.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,55 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+</div>
+
     </header>
   
 
@@ -124,7 +164,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +195,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -198,9 +235,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -283,7 +325,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -297,24 +339,16 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
+</button>
 
 </div></div>
       
@@ -367,7 +401,7 @@ document.write(`
 <p>But that wasn’t the strangest of it, not at all: for the stranger himself, from his long flowing hair, to his great bushy beard, he was completely green too.</p>
 <p>And he laughed at the court. “Ha, haaaaa.”</p>
 <p>In place of a shield, he carried a sprig of holly; instead of a sword, an axe. A great big axe. A <em>huge</em> great big axe: the mother of all axes. And not just any mother of all axes. Because this axe was made of glowing green steel; and inlaid in the handle, the most intricate, the most exquisite, green jeweled and green enameled decoration.</p>
-<p>Looking around the Court, this great, Green Knight was the first to speak: “So, who’s the boss of this horrible lot, then? Who’s the leader of this rabble?”</p>
+<p>Looking around the Court, this great, Green Knight was the first to speak: “So, who’s the boss of this horrible lot, then? Who’s the leader of this wretched rabble?”</p>
 <p>And everyone just gawped, dumbstruck; and everyone looked at the axe; and a deep, expectant hush fell on the hall, as they waited for Arthur to respond.</p>
 <p>“A warm welcome to you, sir, on this cold winter’s night. I am Arthur, the head of this household. You are welcome to join us.”</p>
 <p>“Thank you, but no,” said the knight. “That is <em>not</em> why I am here.”</p>
@@ -414,7 +448,7 @@ document.write(`
 <p>But even then he tarried, till Hallowe’en, and All Saints’ Day, All Hallows, that time of the year when the days grow short and the nights grow long, and the worlds of the living and the dead are at their closest. And again the Court feasted, as Sir Gawain made ready to take his leave of the King.</p>
 <p>By now, the events of New Year’s Eve were just a faded memory for many, but for Gawain, well, he must honour his agreement, though he had little idea where he could find the Green Knight. And the King called again for the minstrel, the storyteller, to set Gawain on his way. But what should he tell? The minstrel sensed Gawain’s unease, his foreboding, and telling a heroic tale, or a minor fancy, did not seem fitting with circumstance. Because for the mood was dark, and the sense of humour in that place that night was black. And so he made his choice. Something grim, but with a hopeful end.</p>
 <p><code class="docutils literal notranslate"><span class="pre">[Juniper</span> <span class="pre">Tree]</span> <span class="pre">There</span> <span class="pre">was</span> <span class="pre">once</span> <span class="pre">a</span> <span class="pre">time,</span> <span class="pre">...</span></code></p>
-<p>With the minstrel’s story over, the somber mood that had settled over King Arthur’s Court continued. All were reminded of the fateful challenge accepted months before, and they were filled with sorrow. But even so, there was a glimmer of hope, of hope against hope, that there might be some other resolution to Gawain’s fate.</p>
+<p>With the minstrel’s story over, the sombre mood that had settled over King Arthur’s Court continued. All were reminded of the fateful challenge accepted months before, and they were filled with sorrow. But even so, there was a glimmer of hope, of hope against hope, that there might be some other resolution to Gawain’s fate.</p>
 <p>Early the next morning, Gawain called for his arms. First, an extravagant silk tunic, then a thick warm cloak, lined with white fur. Stout steel shoes, and shiny plate to cover his knees, tied behind with golden thread. Sturdy leg guards, and the finest chain mail, tiny hoops of shimmering steel. Then elbow guards, and metal gloves to complete the attire, with a sword fastened to a belt, by his side.</p>
 <p>He took a final Mass, then mounted Gringolet, his faithful, war horse, all dressed in gold.</p>
 <p>He took his helmet, and his scarlet shield, Ferrari red, emblazoned with golden pentangle livery, a symbol of his five flawless senses, his fingers that never fumbled, his faith, founded on the five wounds Christ received on the Cross, the five joys that of the Blessed Virgin Mary at the birth of her son that gave him strength, and the five principles by which he lived: friendship, fraternity, purity, politeness and pity, and he slung it on his back.</p>
@@ -440,7 +474,7 @@ document.write(`
 <p>And everyone there is suitably impressed, for they have never had such a celebrity in their midst before, a knight of legend and lore.</p>
 <p>The day became dusk, and the meal came to an end. The bells sounded evensong, and as everyone made their way to pray, Gawain went with them.</p>
 <p>Accompanying the Lord, his Lady, who to Gawain’s eye, seemed fairer even than the fair Queen, Guinevere, and he blushes slightly at the thought. She is drop dead gorgeous.</p>
-<p>As they left the Church, the Lady was hand in hand with another, much older woman, withered and well advanced in years, her cheeks waddled and slack compared to the bloom of her younger, and fairer, companion. There was no comparison to be made between them. And Gawain and the fair Lady exchanged pleasantaries, and courtesies. And to the older woman, he was charming and polite.</p>
+<p>As they left the Church, the Lady was hand in hand with another, much older woman, withered and well advanced in years, her cheeks waddled and slack compared to the bloom of her younger, and fairer, companion. There was no comparison to be made between them. And Gawain and the fair Lady exchanged pleasantries, and courtesies. And to the older woman, he was charming and polite.</p>
 <p>With the Lord’s blessing, Gawain walked with the two maidens, the fair and the foul, and they took him between them, arm in arm, and led him away, chatting pleasantly as they walked.</p>
 <p>And again, they sat by the fire, and feasted on cake and the finest of wines, until it was time for bed.</p>
 <p>The next day dawned, and all through the day there were banquets and buffets.</p>
@@ -479,7 +513,7 @@ document.write(`
 <p>Gawain jumped out of bed, and pulled on some clothes <strong>— and whether he had a cold shower first I surely don’t know — and headed off to Mass, <em>and then a leisurely breakfast</em></strong>, where he was seated between the Lady, and the old crone, and of their encounter earlier that morning, nothing was said, but all was still good between them.</p>
 <p><strong>Back on the hunt, in the forest, the Lord was still leading the chase against the <em>hinds</em>.</strong> And finally, with the dogs run out and the horses tired from the chase, they surveyed their kill. They pick the finest deer, they <strong><em>butcher it</em> there and then, feeding the scraps and the offal to the dogs as they do so</strong>. And with that, <strong>the kill horn is blown, and the hunt is ended</strong>, and they haul the meat home.</p>
 <p>The whole of the household was summoned, and the venison revealed to the assembled crowd. And in particular, to Sir Gawain, who said he had never seen anything like it before, let alone out of season.</p>
-<p>“And it’s all yours”, said the Lord, “as per our agreement. What I won on the hunt, I give to you.”</p>
+<p>“And it’s all yours”, said the Lord, “as per our agreement. What I won on the hunt, I give to you.</p>
 <p>“And you, Sir Gawain do you have anything for me in return?”</p>
 <p>“Well, I, erm, I… yes, I do… I, erm” and, a little hesitantly, he walked up to the Lord, and cupping his bearded chin in his hands, he…..[head forward once, twice] gave the Lord a peck of a kiss.</p>
 <p>“Ooh, Gawain”, said the Lord. “A fancy thing…. But, how ever did you come by it?”</p>
@@ -535,7 +569,7 @@ document.write(`
 <p>“No matter,” she said, “have mine…”</p>
 <p>And she proffers him a ring, of rich, red gold, and a shiny jewel inlaid.</p>
 <p>“I’m sorry, I cannot accept such a gift with nothing to offer in return.”</p>
-<p>But she insists, “take it” and he resits again, “thank you, but no, it’s too precious a….”</p>
+<p>But she insists, “take it” and he resists again, “thank you, but no, it’s too precious a….”</p>
 <p>“Then take this”, and she takes off her belt, a girdle of green silk, its edges trimmed with gold.</p>
 <p>And still he refuses.</p>
 <p>“So is this <em>not good enough</em> for you? Sheesh! Men! It’s not as simple as it seems, you know. It’s not just <em>any old girdle</em>. Anyone who wears this girdle is protected from any mortal strike, or blow…”</p>
@@ -550,7 +584,7 @@ document.write(`
 <p>And with that, their game is over. The food is brought, but it’s a quieter night than the nights before. In place of the singing, and the dancing, many more tales were told, <em>and if I had the time I would tell some of them to you now, but I’m afraid I don’t, so I won’t. But if you come again, maybe…</em> And eventually, it’s time for bed. Gawain thanks the Lord for his generosity, and checks again that someone will lead him to the Green Chapel in the morning. And with that agreed, Gawain takes his leave; and with a heavy he heart, he thanks the other guests too, for their hospitality, for making him so welcome, and they thank him in return.</p>
 <p>And so it is, with tapering torchlight, Gawain makes his way to bed. But who would expect our knight to sleep soundly, on such a night, given the challenge he must face in the morning?</p>
 <p>PART IV</p>
-<p><em>Of what nightmares Gawain may have had that night, the original poem does not tell. But we might imagine that his sleep was fitful, and his dreams, or maybe even nightmares, trouble filled. Or maybe he just lay there, unable to sleep, contemplating his mortality.</em></p>
+<p><em>Of how well Gawain slept that night, the original poem does not tell. But we might imagine that his sleep was fitful, and his dreams, or maybe even nightmares, trouble filled. Or maybe he just lay there, unable to sleep, contemplating his mortality.</em></p>
 <p>Outside, a freezing North wind drifts the white snow. Inside, Gawain lies awake with his thoughts, sleeping little. Each crow of the cock brings his destiny nearer. He gets up before dawn, and dresses warmly beneath his armour, now buffed and burnished and raked free of rust.</p>
 <p>And he sends for his horse, for Gringolet.</p>
 <p>Under his clothes, the Lady’s girdle, that magic belt that he hopes will afford him protection.</p>
@@ -566,9 +600,9 @@ document.write(`
 <p>Gawain calls out: “Is anybody there? Someone to honour our agreement? It’s now, or never; it’s a year and a day since we made our pact.”</p>
 <p>“Hang on….” came the reply, “you’ll get what’s coming to you soon enough. I just need to finishing sharpening this last little bit… Wouldn’t want any rough edges…”</p>
 <p>Then through the crags he comes, the Green Knight. His axe is in his hand, a handle the size of a staff, and he leaps across a stream.</p>
-<p>“Welcome to my domain. You’ve timed it well. And I see you came alone. As have I. Except for <em>this</em>.” And his brandishes the axe. “Now remove your helmet, and take what’s coming to you with no more struggle than I gave you.”</p>
+<p>“Welcome to my domain. You’ve timed it well. And I see you came alone. As have I. Except for <em>this</em>.” And his brandishes the axe. The father of the mother of all axes. “Now remove your helmet, and take what’s coming to you with no more struggle than I gave you.”</p>
 <p>And Gawain lowers his head, and bares his neck, and braces himself for the blow.</p>
-<p>The Green Knight summons his strength, raises the axe high above his head, and: schwwoof. But as he does so, Gawain flinches, and the Green Knight diverts the blow.</p>
+<p>The Green Knight summons his strength, raises the axe high above his head, and: <em>schwwoof</em>. But as he does so, Gawain flinches, and the Green Knight diverts the blow.</p>
 <p>“What was that? You moved? Are you a wimp, or knight?”</p>
 <p>And Gawain apologises, “I’m sorry, I won’t fail again. Be brisk; get it over with. I’ll not flinch again.”</p>
 <p>And again, for a second time, the Green Knight raises his axe, brings down the blow… and showing great strength, and even greater control, stops just short of Gawain’s neck. So close he felt the wind of the ripped air before it, but not its actual touch.</p>
@@ -590,7 +624,7 @@ document.write(`
 <p>Through the wilds of England, Gawain rode on Gringolet, taking shelter where he could. He wore the green belt as a sash, diagonally, as a sign of his sin.</p>
 <p>And eventually, he returned to Camelot, to King Arthur’s Court, and he told them there the tale I have told you.</p>
 <p>Of the long cold journey, of the castle, and the Lord. The two ladies, fair and foul, and the thrice played game. Of his fall, and the reward that it led to in turn. And at that he touched he neck, where the axe had grazed it. And he told them of the belt, the green girdle, edged with gold.</p>
-<p>And the King gave him comfort, and the knights all agreed that they too would wear such a sash.</p>
+<p>And the King gave him comfort, and the knights all agreed that they too would wear such a sash. Of humility.</p>
 <p>And so it was, and so it is, and so we come to the end our of tale. Of Camelot, and King Arthur, and of Sir Gawain and the Green Knight.</p>
 <p><em>For honest is he who shows penance.</em></p>
 <p>And that is the end of the tale, and of our set for tonight.</p>
@@ -670,7 +704,7 @@ By Tony Hirst
 
   <p class="copyright">
     
-      © Copyright 2022.
+      © Copyright 2022-2026.
       <br/>
     
   </p>
@@ -694,8 +728,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>

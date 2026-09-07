@@ -16,41 +16,44 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-
-  
-  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+  <link href="_static/styles/theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=55c26ed414f5f8a31ebb" rel="stylesheet" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=3c74b3bc" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
+  <!-- So that users can add custom icons -->
+  <script defer src="_static/scripts/fontawesome.js?digest=55c26ed414f5f8a31ebb"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
-<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
-  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb" />
 
     <script src="_static/documentation_options.js?v=a8e58a58"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="_static/clipboard.min.js?v=a7894cd8"></script>
     <script src="_static/copybutton.js?v=f281be69"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=fab101a9"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script src="_static/togglebutton.js?v=b8b12719"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
@@ -58,40 +61,38 @@
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'sir-cleges-winter-cherries';</script>
+    <script>DOCUMENTATION_OPTIONS.search_as_you_type = false;</script>
+    <link rel="canonical" href="https://winter-tales.montystoryteller.org/sir-cleges-winter-cherries.html" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Sir Gawain and the Green Knight" href="gawain_notes.html" />
     <link rel="prev" title="The Juniper Tree" href="juniper_tree.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
+  
+    
+    <script src="_static/searchtools.js"></script>
+    <script src="_static/language_data.js"></script>
+    <script src="searchindex.js"></script>
+  
   </head>
-  
-  
-  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
-
+  <body data-default-mode="">
   
   
   <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+
   
   <div id="pst-scroll-pixel-helper"></div>
   
   <button type="button" class="btn rounded-pill" id="pst-back-to-top">
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
-
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-primary-sidebar-checkbox"/>
-  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          id="pst-secondary-sidebar-checkbox"/>
-  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="search.html"
       method="get">
@@ -99,7 +100,6 @@
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,15 +107,59 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
 
   
-    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    <header id="pst-header" class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class="col-lg-9 navbar-header-items">
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
     </header>
   
 
@@ -124,7 +168,8 @@
       
       
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -154,15 +199,11 @@
 </a></div>
         <div class="sidebar-primary-item">
 
- <script>
- document.write(`
-   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <span class="search-button__default-text">Search</span>
-    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-   </button>
- `);
- </script></div>
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -198,9 +239,14 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
   </div>
-  
-  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -283,7 +329,7 @@
 
 
 <button onclick="toggleFullScreen()"
-  class="btn btn-sm btn-fullscreen-button"
+  class="btn btn-sm btn-fullscreen-button pst-navbar-icon"
   title="Fullscreen mode"
   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
@@ -297,25 +343,17 @@
 
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
-    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
-    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
-  </button>
-`);
-</script>
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
 
 
-<script>
-document.write(`
-  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-  </button>
-`);
-</script>
-<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm pst-navbar-icon" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
 </div></div>
@@ -337,7 +375,7 @@ document.write(`
                 <h2> Contents </h2>
             </div>
             <nav aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+                <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#further-links">Further Links</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#related-tales">Related Tales</a></li>
 </ul>
@@ -353,10 +391,10 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="sir-cleges-and-the-winter-cherries">
 <h1>Sir Cleges and the Winter Cherries<a class="headerlink" href="#sir-cleges-and-the-winter-cherries" title="Link to this heading">#</a></h1>
-<p><em>First heard: David Heathfield (Exeter Storytellers), Yuletide Tales online, Dartmoor Storytellers, December 19th, 2022.</em></p>
+<p>I first heard this tale told by David Heathfield (of Exeter Storytellers), in a <em>Yuletide Tales</em> online event promoted by the Dartmoor Storytellers, on December 19th, 2022. It quickly became a Winter favourite of mine.</p>
 <p>Here’s the gist of the tale:</p>
 <blockquote>
-<div><p>Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent that he and his wife Clarys had nothing left. It was midwinter, bitterly cold, and the sound of the King’s court could be heard; but they had no gifts to take. A cherry tree in the garden bloomed, and gave a heavy crop of red chaerries. Sir Cleges took them to the King, but dressed as he was, looking like a pauper, was insulted as a <em>churl</em>. The porter let him through but demanded a third of what the King would give in return. The usher let him through, for a third. The steward let him through, for a third. The gift was given and Sir Cleges joined the feast. Uther is impressed (as is a certain “lady of Cornwall” whom he’s perhaps trying to woo…). A reward is asked for, and granted: twelve strikes of the stick to be justly given. The steward, the doorman and guard were beaten by Sir Cleges. Sir Cleges returns, to find the harper singing songs of his old exploits. Prompted by the song, the King asks Cleges to come closer, at which point he recognises him as his old loyal knight, and rewards him.</p>
+<div><p>Sir Cleges was an old knight of Uther Pendragon. Generous to a fault, he gave alms to all, to such an extent that he and his wife Clarys had nothing left. It was midwinter, bitterly cold, and the sound of the King’s court could be heard; but they had no gifts to take. A cherry tree in the garden bloomed, and gave a heavy crop of red cherries. Sir Cleges took them to the King, but dressed as he was, looking like a pauper, was insulted as a <em>churl</em>. The porter let him through but demanded a third of what the King would give in return. The usher let him through, for a third. The steward let him through, for a third. The gift was given and Sir Cleges joined the feast. Uther is impressed (as is a certain “lady of Cornwall” whom he’s perhaps trying to woo…). A reward is asked for, and granted: twelve strikes of the stick to be justly given. The steward, the doorman and guard were beaten by Sir Cleges. Sir Cleges returns, to find the harper singing songs of his old exploits. Prompted by the song, the King asks Cleges to come closer, at which point he recognises him as his old loyal knight, and rewards him.</p>
 </div></blockquote>
 <p><em>The “lady of Cornwall” is Iguerne, which it to say, Igraine, which is to say, King Arthur’s mother. How Uther seduced her is, of course, another story… But there is great scope here for telling that tale in the same sitting as this, as the scene is already set…</em></p>
 <p>The original tale can be found in a couple of 15th century manuscripts in Middle English.</p>
@@ -441,7 +479,9 @@ by Weston, Jessie Laidlay, 1850-1928</p>
 <p>“Yea, my lord, that man was I, till that God in heaven visited me with sore poverty,”</p>
 <p>Anon did the king give him all that belonged unto a knight, to enrich his estate — the fair castle of Kardyf, with many more gifts, that hereafter he might live merry and joyful. The knight betook him to Dame Clarys his wife, fairer lady was none alive, and <em>shewed her all that had befallen him in the king’s hall, the ill-will of the three kings men, the guerdon that they had won therefor</em>, and the fair gifts with which the king had dowered him. Thereafter did Sir Cleges and his good wife live together in joy and bliss. May Mary, that fair Virgin, guard their souls, and the souls of all ye who have hearkened unto this my tale.</p>
 </div>
-<p>So how does this compare to the <em>Metrical romances of the thirteenth, fourteenth, and fifteenth centuries</em> as published by Henry Weber in 1810:</p>
+<p>Im many cases, I  have found that by going back to the original poem we can get a better sense of the rhythms, and perhaps even identify some of the word play and the jokes, that have been lost in the various translations and “modernisations”.</p>
+<p>So for example, how does Weston;s version compare to the <em>Metrical romances of the thirteenth, fourteenth, and fifteenth centuries</em> as published by Henry Weber in 1810?</p>
+<p><code class="docutils literal notranslate"><span class="pre">Part</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">rationale</span> <span class="pre">for</span> <span class="pre">these</span> <span class="pre">storynotes</span> <span class="pre">is</span> <span class="pre">__not__</span> <span class="pre">to</span> <span class="pre">provide</span> <span class="pre">a</span> <span class="pre">complete</span> <span class="pre">&quot;critical&quot;</span> <span class="pre">edition,</span> <span class="pre">nor</span> <span class="pre">event</span> <span class="pre">to</span> <span class="pre">give</span> <span class="pre">many</span> <span class="pre">answers;</span> <span class="pre">rather,</span> <span class="pre">the</span> <span class="pre">intention</span> <span class="pre">is</span> <span class="pre">to</span> <span class="pre">provide</span> <span class="pre">an</span> <span class="pre">affordable</span> <span class="pre">hard-copy</span> <span class="pre">edition</span> <span class="pre">that</span> <span class="pre">compares</span> <span class="pre">favourably</span> <span class="pre">in</span> <span class="pre">terms</span> <span class="pre">of</span> <span class="pre">cost</span> <span class="pre">with</span> <span class="pre">a</span> <span class="pre">home-printed</span> <span class="pre">version,</span> <span class="pre">and</span> <span class="pre">in</span> <span class="pre">a</span> <span class="pre">more</span> <span class="pre">convenient</span> <span class="pre">format,</span> <span class="pre">and</span> <span class="pre">that</span> <span class="pre">contains</span> <span class="pre">multiple</span> <span class="pre">versions</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">same</span> <span class="pre">tale</span> <span class="pre">that</span> <span class="pre">an</span> <span class="pre">individual</span> <span class="pre">storyteller,</span> <span class="pre">in</span> <span class="pre">which</span> <span class="pre">group</span> <span class="pre">I</span> <span class="pre">include</span> <span class="pre">myself,</span> <span class="pre">can</span> <span class="pre">scrawl</span> <span class="pre">all</span> <span class="pre">over</span> <span class="pre">when</span> <span class="pre">coming</span> <span class="pre">to</span> <span class="pre">their</span> <span class="pre">own</span> <span class="pre">(my</span> <span class="pre">own)</span> <span class="pre">version</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">tale.</span></code></p>
 <div class="dropdown admonition">
 <p class="admonition-title">In <em>Metrical romances</em>, Henry Weber, 1810</p>
 <p><a class="reference external" href="https://archive.org/details/metricalromances01webeiala/page/328/mode/2up">https://archive.org/details/metricalromances01webeiala/page/328/mode/2up</a>
@@ -587,7 +627,7 @@ Sche kyssyd hym wyth glad chere:<br />
 <p>“For Crystis sake J pray you blyne<br />
 “Of all the sorowe that ye ben jn,<br />
 “In ono of thys daye.<br />
-“Nowe euery man schuld be glade,
+“Nowe euery man schuld be glade,<br />
 “Therefore J pray you be not sade;<br />
 “Thynke what J you saye.<br />
 “Go we to oure mete swyth,<br />
@@ -595,7 +635,7 @@ Sche kyssyd hym wyth glad chere:<br />
 “As wele as we may.<br />
 “J held yt for the best trewly<br />
 “For youre mete is all redy,<br />
-“I hope to youre paye.”</p>
+“J hope to youre paye.”</p>
 <p>“J asent,” seyd he tho,<br />
 And jn with hyr he gan goo,<br />
 And sumwatt mendyd hys chere;<br />
@@ -625,7 +665,7 @@ Becavse of his wiffe:<br />
 <p>“Kepe hem out of stryffe!”<br />
 The lady prayed for hym ayen,<br />
 That God schuld kepe hym fro payne<br />
-In everlastyng lyf.
+In everlastyng lyf.<br />
 Whan service was don hom they went,<br />
 And thanked God with god entent,<br />
 And put away penci.</p>
@@ -658,7 +698,7 @@ He seyd: “Dere God in Trenytè,<br />
 “As far as J have sowght.”<br />
 He thowght to taste, yf he cowthe,<br />
 Arid on he put in his mowth,<br />
-And spare wold he nat.
+And spare wold he nat.<br />
 After a chery the reles was<br />
 The best that euer he ete in place<br />
 Syn he was man wrowght.<br />
@@ -674,7 +714,7 @@ And in he yt browght.</p>
 “But wethyr wee have les or more,<br />
 “Allwaye thanke we God therefore;<br />
 “Yt ys best trewely.”</p>
-<p>Than seyd the lady with good chere
+<p>Than seyd the lady with good chere<br />
 “Latt vs fyll a panyer<br />
 “Of this that God hath sent:<br />
 “Tomorovn whan the day dothe spryng<br />
@@ -1192,7 +1232,7 @@ by McKnight, George Harley, 1871-1951</p>
 <p><em>Ashmole MS. 61</em></p>
 <p><code class="docutils literal notranslate"><span class="pre">Since</span> <span class="pre">the</span> <span class="pre">difference</span> <span class="pre">between</span> <span class="pre">the</span> <span class="pre">two</span> <span class="pre">texts</span> <span class="pre">is</span> <span class="pre">so</span> <span class="pre">great</span> <span class="pre">that</span> <span class="pre">it</span> <span class="pre">is</span> <span class="pre">impossible</span> <span class="pre">to</span> <span class="pre">print</span> <span class="pre">the</span> <span class="pre">variant</span> <span class="pre">readings</span> <span class="pre">at</span> <span class="pre">the</span> <span class="pre">bottom</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">pages,</span> <span class="pre">it</span> <span class="pre">seems</span> <span class="pre">desirable</span> <span class="pre">to</span> <span class="pre">illustrate</span> <span class="pre">the</span> <span class="pre">difference</span> <span class="pre">by</span> <span class="pre">printing</span> <span class="pre">the</span> <span class="pre">first</span> <span class="pre">stanza</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">E.</span> <span class="pre">text</span> <span class="pre">in</span> <span class="pre">full</span> <span class="pre">in</span> <span class="pre">the</span> <span class="pre">notes:</span></code></p>
 <blockquote>
-<div><p>WiLL ye lystyn, and ye schyll here Of Eldyrs that before vs were
+<div><p>WILL ye lystyn, and ye schyll here Of Eldyrs that before vs were
 Bothe hardy and wyȝt.<br />
 In the tyme of kynge Vter<br />
 That was Fadyr of kynge A[r]thyr,<br />
@@ -2025,14 +2065,14 @@ Ye shall to Cardiff to the king,<br />
 And give him this present,<br />
 And such a gift ye may have there<br />
 That the better we may fare this year,<br />
-I tell you verament”<br />
+I tell you verament.”<br />
 Sir Cleges granted soon thereto<br />
 “To-morrow to Cardiff will I go,<br />
-After your intent .”</p>
+After your intent.”</p>
 <p>On the morrow when it was light,<br />
 The lady had a pannier dight, <code class="docutils literal notranslate"><span class="pre">[Dight,</span> <span class="pre">prepared.</span> <span class="pre">First</span> <span class="pre">English</span> <span class="pre">&quot;dihtan.&quot;</span> <span class="pre">]</span></code><br />
 Her eldest son called she,<br />
-“Take up this pannier goodly, <code class="docutils literal notranslate"><span class="pre">[Goodly</span> <span class="pre">has</span> <span class="pre">the</span> <span class="pre">d</span> <span class="pre">and</span> <span class="pre">l</span> <span class="pre">so</span> <span class="pre">sounded</span> <span class="pre">as</span> <span class="pre">to</span> <span class="pre">give</span> <span class="pre">the</span> <span class="pre">effect</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">short</span> <span class="pre">vowel</span> <span class="pre">sound</span> <span class="pre">between</span> <span class="pre">them.</span> <span class="pre">So</span> <span class="pre">Shakespeare</span> <span class="pre">in</span> <span class="pre">&quot;Henry</span> <span class="pre">IV.,</span> <span class="pre">Part</span> <span class="pre">II;</span> <span class="pre">&quot;(A</span> <span class="pre">rotten</span> <span class="pre">case</span> <span class="pre">abides</span> <span class="pre">no</span> <span class="pre">handling,&quot;</span> <span class="pre">and</span> <span class="pre">in</span> <span class="pre">&quot;Taming</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Shrew&quot;,</span> <span class="pre">&quot;While</span> <span class="pre">she</span> <span class="pre">did</span> <span class="pre">call</span> <span class="pre">me</span> <span class="pre">rasca</span> <span class="pre">fiddler.&quot;</span> <span class="pre">]</span></code><br />
+“Take up this pannier goodly, <code class="docutils literal notranslate"><span class="pre">[Goodly</span> <span class="pre">has</span> <span class="pre">the</span> <span class="pre">d</span> <span class="pre">and</span> <span class="pre">l</span> <span class="pre">so</span> <span class="pre">sounded</span> <span class="pre">as</span> <span class="pre">to</span> <span class="pre">give</span> <span class="pre">the</span> <span class="pre">effect</span> <span class="pre">of</span> <span class="pre">a</span> <span class="pre">short</span> <span class="pre">vowel</span> <span class="pre">sound</span> <span class="pre">between</span> <span class="pre">them.</span> <span class="pre">So</span> <span class="pre">Shakespeare</span> <span class="pre">in</span> <span class="pre">&quot;Henry</span> <span class="pre">IV.,</span> <span class="pre">Part</span> <span class="pre">II;</span> <span class="pre">&quot;A</span> <span class="pre">rotten</span> <span class="pre">case</span> <span class="pre">abides</span> <span class="pre">no</span> <span class="pre">handling,&quot;</span> <span class="pre">and</span> <span class="pre">in</span> <span class="pre">&quot;Taming</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">Shrew&quot;,</span> <span class="pre">&quot;While</span> <span class="pre">she</span> <span class="pre">did</span> <span class="pre">call</span> <span class="pre">me</span> <span class="pre">rasca</span> <span class="pre">fiddler.&quot;</span> <span class="pre">]</span></code><br />
 And bear it forth eisily<br />
 With thy father free”<br />
 Then Sir Cleges a staff took<br />
@@ -2420,7 +2460,7 @@ St Nicholas for Boys and Girls, November 1920</p>
 <p>“Cherries at Christmas!” he exclaimed. “Whoever heard of such a thing? But listen, sir,” said he, in a low voice, “thou speakest not with the king unless thou promise me one third of the reward he gives thee.”</p>
 <p>When Sir Cleges heard these words he thought to himself: “Little enough am I to get out of this. If I have a dinner for my pains, it ‘s as much as I may look for.” But he said nothing until the steward prodded him again, and then, seeing that there was no other way of getting by this greedy officer, he promised him a third of his reward, as he already had done to the porter and the usher.</p>
 <p>At last the way was free for Sir Cleges; and with his precious basket, he made his way through the throng of the courtiers to the place where the king was seated on a dais.</p>
-<p>“Receive, O King,” said he, falling on his knees before King Uther, “this Christmas ofTering from one of thy most humble subjects.”</p>
+<p>“Receive, O King,” said he, falling on his knees before King Uther, “this Christmas offering from one of thy most humble subjects.”</p>
 <p>And when King Uther looked into the basket and saw that it was filled with luscious red cherries, he too, like the Lady Clarys, could hardly believe his eyes.</p>
 <p>“Cherries at Christmas!” he cried. “Now certainly this is a marvel, and a right worthy gift thou hast brought to us, good fellow.” Then when he had tasted one of the cherries he declared a better cherry he had never eaten. And then he gave some to each of the knights and the ladies; and they all wondered greatly to see such fruit at that bleak season.</p>
 <p>“The king’s thanks hast thou won,” said Uther to Sir Cleges, “for thou hast made this Christmas</p>
@@ -2761,15 +2801,17 @@ As is both fit and meet.”</p>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
-  <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
+  <div class="sidebar-secondary-item"><div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
     <i class="fa-solid fa-list"></i> Contents
   </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="visible nav section-nav flex-column">
+  <nav id="pst-page-toc-nav" class="page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="pst-show_toc_level nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#further-links">Further Links</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#related-tales">Related Tales</a></li>
 </ul>
@@ -2796,7 +2838,7 @@ By Tony Hirst
 
   <p class="copyright">
     
-      © Copyright 2022.
+      © Copyright 2022-2026.
       <br/>
     
   </p>
@@ -2820,8 +2862,8 @@ By Tony Hirst
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
-<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+  <script defer src="_static/scripts/bootstrap.js?digest=55c26ed414f5f8a31ebb"></script>
+<script defer src="_static/scripts/pydata-sphinx-theme.js?digest=55c26ed414f5f8a31ebb"></script>
 
   <footer class="bd-footer">
   </footer>
