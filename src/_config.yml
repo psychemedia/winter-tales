@@ -17,3 +17,4 @@ sphinx:
     sitemap_locales: [null]
   extra_extensions:
     - sphinxcontrib.youtube
+    - sphinx_sitemap
